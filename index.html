@@ -220,7 +220,7 @@
   <section class="card">
     <div class="kicker">Passo 1 · Input</div>
     <h2>Cole os links</h2>
-    <p class="hint">Um link por linha: notícia, artigo científico, PDF ou vídeo do YouTube.</p>
+    <p class="hint">Cole os links ou um texto que contenha links (notícia, artigo científico, PDF ou YouTube). Cada link identificado vira uma notícia na mensagem; o texto ao redor é usado só como contexto para o resumo.</p>
     <textarea id="links" placeholder="https://www.statnews.com/...&#10;https://www.nature.com/articles/...&#10;https://www.youtube.com/watch?v=..."></textarea>
     <div class="row">
       <div class="field">
@@ -284,7 +284,31 @@ function editionLabel() {
   return d + '.' + m;
 }
 
+// ---------- URL extraction ----------
+function extractUrls(text) {
+  const re = /\bhttps?:\/\/[^\s<>"'\)\]]+|\bwww\.[^\s<>"'\)\]]+/gi;
+  const found = text.match(re) || [];
+  // além do regex, aceita linhas inteiras que parecem um endereço (dominio.com/...), sem espaços
+  const bareLines = text.split('\n').map(s => s.trim())
+    .filter(s => s && !s.includes(' ') && !/^https?:\/\//i.test(s) && /^[a-z0-9][a-z0-9.-]*\.[a-z]{2,}(\/[^\s]*)?$/i.test(s));
+  const clean = found.concat(bareLines)
+    .map(u => u.replace(/[.,;:!?…]+$/, ''))
+    .map(u => /^https?:\/\//i.test(u) ? u : 'https://' + u);
+  return [...new Set(clean)];
+}
+
 // ---------- Content fetching ----------
+function isYouTube(url) { return /(youtube\.com|youtu\.be)\//i.test(url); }
+async function fetchYouTubeMeta(url) {
+  try {
+    const r = await fetchWithTimeout('https://noembed.com/embed?url=' + encodeURIComponent(url), 10000);
+    if (r.ok) {
+      const j = await r.json();
+      if (j && j.title) return 'Título do vídeo: ' + j.title + '\nCanal do YouTube: ' + (j.author_name || 'desconhecido');
+    }
+  } catch (e) { /* segue */ }
+  return null;
+}
 function stripHtml(html) {
   const doc = new DOMParser().parseFromString(html, 'text/html');
   doc.querySelectorAll('script,style,noscript,svg,nav,footer,iframe').forEach(el => el.remove());
@@ -297,12 +321,15 @@ async function fetchWithTimeout(url, ms) {
   finally { clearTimeout(t); }
 }
 async function fetchContent(url) {
+  // 0) YouTube: busca título e canal reais via noembed (evita resumo inventado)
+  let ytMeta = null;
+  if (isYouTube(url)) ytMeta = await fetchYouTubeMeta(url);
   // 1) Jina Reader: lida com notícias, PDFs e YouTube, e devolve markdown com CORS liberado
   try {
     const r = await fetchWithTimeout('https://r.jina.ai/' + url, 25000);
     if (r.ok) {
       const text = await r.text();
-      if (text && text.trim().length > 60) return text;
+      if (text && text.trim().length > 60) return ytMeta ? ytMeta + '\n\n' + text : text;
     }
   } catch (e) { /* tenta fallback */ }
   // 2) Fallback: AllOrigins devolve o HTML bruto
@@ -310,24 +337,29 @@ async function fetchContent(url) {
     const r = await fetchWithTimeout('https://api.allorigins.win/raw?url=' + encodeURIComponent(url), 25000);
     if (r.ok) {
       const text = stripHtml(await r.text());
-      if (text.length > 60) return text;
+      if (text.length > 60) return ytMeta ? ytMeta + '\n\n' + text : text;
     }
   } catch (e) { /* segue sem conteúdo */ }
-  return null;
+  return ytMeta;
 }
 
 // ---------- Claude ----------
-async function summarize(url, content, apiKey) {
+async function summarize(url, content, userContext, apiKey) {
+  const contextBlock = (userContext || '').trim()
+    ? `\n\nTEXTO COLADO PELO USUÁRIO (pode conter título, data e resumo de apoio sobre este link e sobre outros; use apenas o que se referir a ESTE link):\n${userContext.trim().slice(0, 4000)}`
+    : '';
   const prompt = `Você escreve itens da "Turi News", uma curadoria de notícias sobre inteligência artificial na saúde enviada em um grupo de WhatsApp de médicos e profissionais de saúde no Brasil.
 
 Com base no conteúdo abaixo, gere:
 1. "resumo": UMA frase curta em português do Brasil (máximo 22 palavras), direta e informativa, resumindo a notícia, o estudo ou o vídeo. Sem hashtags, sem emojis, sem ponto de exclamação e sem travessão.
 2. "veiculo": o nome do veículo de notícias, da revista científica ou do canal (exemplos: "Nature Medicine", "STAT News", "The Lancet Digital Health", "YouTube · nome do canal"). Se não conseguir identificar, deduza pelo domínio do link.
 
+REGRA IMPORTANTE: nunca invente fatos. Se o conteúdo extraído e o texto do usuário não forem suficientes, escreva um resumo genérico e honesto apenas com o que estiver disponível (título, domínio, contexto).
+
 URL: ${url}
 
-CONTEÚDO:
-${content ? content.slice(0, 14000) : '(não foi possível extrair o conteúdo da página; deduza o assunto pelo URL e pelo que você souber sobre essa fonte, e seja honesto e genérico no resumo)'}
+CONTEÚDO EXTRAÍDO DA PÁGINA:
+${content ? content.slice(0, 14000) : '(não foi possível extrair o conteúdo da página; use o texto colado pelo usuário se houver, ou deduza pelo URL, sem inventar detalhes)'}${contextBlock}
 
 Responda APENAS com JSON válido no formato {"resumo": "...", "veiculo": "..."}`;
 
@@ -401,14 +433,22 @@ $('generate').addEventListener('click', async () => {
   localStorage.setItem(KEY_STORAGE, apiKey);
   loadKey();
 
-  let urls = $('links').value.split('\n').map(s => s.trim()).filter(Boolean);
-  urls = urls.map(u => /^https?:\/\//i.test(u) ? u : 'https://' + u);
-  if (!urls.length) { $('links').focus(); return; }
+  const rawInput = $('links').value;
+  const urls = extractUrls(rawInput);
+  if (!urls.length) {
+    $('status').innerHTML = '';
+    const st = statusItem('');
+    st.error('Nenhum link encontrado no texto colado. Confira se os links começam com http(s):// ou www.');
+    $('links').focus();
+    return;
+  }
 
   const btn = $('generate');
   btn.disabled = true;
   btn.textContent = 'Gerando...';
   $('status').innerHTML = '';
+  const stCount = statusItem('');
+  stCount.done(urls.length + (urls.length === 1 ? ' link identificado' : ' links identificados') + ' no texto. Cada um vira uma notícia.');
 
   const items = [];
   for (const url of urls) {
@@ -416,7 +456,7 @@ $('generate').addEventListener('click', async () => {
     try {
       const content = await fetchContent(url);
       st.update((content ? 'Resumindo ' : 'Conteúdo indisponível, resumindo pelo link ') + url);
-      const { resumo, veiculo } = await summarize(url, content, apiKey);
+      const { resumo, veiculo } = await summarize(url, content, rawInput, apiKey);
       items.push({ url, resumo, veiculo });
       st.done(resumo + ' (' + veiculo + ')');
     } catch (err) {
