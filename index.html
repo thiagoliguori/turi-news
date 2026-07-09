@@ -407,9 +407,11 @@ function statusItem(url) {
 }
 
 // ---------- Message assembly ----------
+const NUM_EMOJI = ['1️⃣','2️⃣','3️⃣','4️⃣','5️⃣','6️⃣','7️⃣','8️⃣','9️⃣','🔟'];
+function numMarker(i) { return i < 10 ? NUM_EMOJI[i] : (i + 1) + '.'; }
 function buildMessage(items) {
-  const blocks = items.map(i => `${i.resumo}\n${i.veiculo}\n→ ${i.url}`);
-  return `*Turi News ${editionLabel()}*\n\n` + blocks.join('\n\n');
+  const blocks = items.map((it, idx) => `${numMarker(idx)} ${it.resumo}\n📍 ${it.veiculo}\n🔗 ${it.url}`);
+  return `🩺 *Turi News · ${editionLabel()}*\nInteligência artificial na saúde\n\n` + blocks.join('\n\n');
 }
 function renderPreview() {
   const raw = $('output').value || 'A prévia da mensagem vai aparecer aqui.';
