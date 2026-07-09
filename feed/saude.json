@@ -1,0 +1,20 @@
+{
+  "fonte": "A saúde em News",
+  "data": "2026-07-09",
+  "geradoEm": "2026-07-09T09:05:00-03:00",
+  "exemplo": true,
+  "itens": [
+    {
+      "titulo": "Ministério da Saúde lança curso de IA na gestão do SUS com 12 mil vagas gratuitas",
+      "resumo": "Curso de aperfeiçoamento em parceria com a UFPB oferece 12 mil vagas gratuitas e 180 horas em EAD para gestores usarem IA de forma ética no SUS.",
+      "veiculo": "Gov.br",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/julho/ministerio-da-saude-lanca-curso"
+    },
+    {
+      "titulo": "Estudo aponta que hospitais brasileiros ampliam uso de IA em radiologia",
+      "resumo": "Levantamento mostra crescimento do uso de algoritmos de apoio ao diagnóstico por imagem em hospitais de referência no país.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/exemplo-radiologia-ia"
+    }
+  ]
+}

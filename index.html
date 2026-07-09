@@ -133,6 +133,36 @@
     height: 38px;
   }
   .btn-add:hover { background: #CEEAE1; }
+  /* Feed */
+  .feed-status { font-size: 14px; color: var(--muted-foreground); display: flex; align-items: center; gap: 8px; margin-bottom: 4px; }
+  .feed-status.error { color: var(--destructive); }
+  #feed-list { display: flex; flex-direction: column; gap: 16px; }
+  .feed-group-head {
+    display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
+    font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em;
+    color: var(--primary-600); margin-bottom: 8px;
+  }
+  .feed-group-head .count { color: var(--muted-foreground); font-weight: 500; text-transform: none; letter-spacing: 0; }
+  .badge {
+    font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em;
+    background: var(--warning-light, #FEF3C7); color: #92660A; border-radius: 999px; padding: 2px 8px;
+  }
+  .feed-item {
+    display: flex; gap: 12px; align-items: flex-start;
+    border: 1px solid var(--border); border-radius: 8px; padding: 12px; cursor: pointer;
+    transition: border-color 0.12s, background 0.12s; background: #fff; margin-bottom: 8px;
+  }
+  .feed-item:hover { border-color: var(--primary-300, #8BCAB6); }
+  .feed-item.checked { border-color: var(--primary); background: var(--primary-50); }
+  .feed-item input[type="checkbox"] { width: 18px; height: 18px; margin-top: 2px; flex-shrink: 0; accent-color: var(--primary-dark); cursor: pointer; }
+  .feed-item-body { flex: 1; min-width: 0; }
+  .feed-item-title { font-size: 15px; font-weight: 600; color: var(--foreground); line-height: 1.35; }
+  .feed-item-resumo { font-size: 14px; color: var(--muted-foreground); line-height: 1.45; margin-top: 4px; }
+  .feed-item-meta { font-size: 12.5px; color: var(--primary-600); margin-top: 6px; word-break: break-all; }
+  .feed-item-meta a { color: var(--primary-600); }
+  .feed-select-bar { display: flex; gap: 12px; align-items: center; font-size: 13px; margin: 2px 0 4px; }
+  .feed-select-bar button { background: none; color: var(--primary-600); font-weight: 600; height: auto; padding: 2px 4px; font-size: 13px; }
+  .feed-select-bar button:hover { text-decoration: underline; }
   .btn-copy { font-size: 15px; }
   .output-actions-top { margin-top: 0; margin-bottom: 12px; }
   #output {
@@ -265,11 +295,21 @@
   </details>
 
   <section class="card">
-    <div class="kicker">Passo 1 · Input</div>
-    <h2>Adicione as notícias</h2>
-    <p class="hint">Uma notícia por caixa: cole o link (notícia, artigo científico, PDF ou YouTube). Se quiser, cole junto o título ou um resumo, que serve de contexto para gerar o texto. Clique em "+ Adicionar notícia" para incluir mais.</p>
-    <div id="inputs"></div>
-    <button class="btn-add" id="add-input" type="button">+ Adicionar notícia</button>
+    <div class="kicker">Passo 1 · Escolha as notícias</div>
+    <h2>Notícias do dia</h2>
+    <p class="hint">Puxadas automaticamente das suas tarefas diárias. Marque as que devem entrar na mensagem do WhatsApp.</p>
+    <div id="feed-status" class="feed-status"><span class="spinner"></span> Carregando o feed do dia...</div>
+    <div id="feed-list"></div>
+
+    <details class="config manual" id="manual">
+      <summary>Adicionar uma notícia manualmente (link avulso)</summary>
+      <div class="config-body">
+        <p class="hint" style="margin:0 0 4px;">Uma notícia por caixa: cole o link (notícia, artigo, PDF ou YouTube) e, se quiser, o título/resumo como contexto. O resumo é gerado pela IA (precisa da chave da API).</p>
+        <div id="inputs"></div>
+        <button class="btn-add" id="add-input" type="button">+ Adicionar notícia</button>
+      </div>
+    </details>
+
     <div class="row">
       <div class="field">
         <label for="edition-date">Data da edição</label>
@@ -361,6 +401,91 @@ $('add-input').addEventListener('click', () => {
   addBox();
   inputsEl.lastElementChild.querySelector('.link-input').focus();
 });
+
+// ---------- Feed diário (das tarefas) ----------
+const FEEDS = [
+  { file: 'feed/saude.json', fallback: 'A saúde em News' },
+  { file: 'feed/tecnologia.json', fallback: 'A tecnologia em saúde' }
+];
+function escapeHtml(s) {
+  return String(s == null ? '' : s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+function domainName(url) {
+  try { return new URL(url).hostname.replace(/^www\./, ''); } catch (e) { return ''; }
+}
+function fmtFeedDate(d) {
+  const m = /^(\d{4})-(\d{2})-(\d{2})/.exec(d || '');
+  return m ? m[3] + '.' + m[2] : (d || '');
+}
+function setFeedItemState(cb) { cb.closest('.feed-item').classList.toggle('checked', cb.checked); }
+function renderFeedGroup(fonte, dataStr, items, isExample) {
+  const group = document.createElement('div');
+  group.className = 'feed-group';
+  const head = document.createElement('div');
+  head.className = 'feed-group-head';
+  head.innerHTML = '<span>' + escapeHtml(fonte) + '</span>' +
+    (dataStr ? '<span class="count">· ' + fmtFeedDate(dataStr) + '</span>' : '') +
+    '<span class="count">· ' + items.length + (items.length === 1 ? ' notícia' : ' notícias') + '</span>' +
+    (isExample ? '<span class="badge">exemplo</span>' : '');
+  group.appendChild(head);
+  items.forEach(it => {
+    const veic = it.veiculo || domainName(it.link) || 'Fonte não identificada';
+    const label = document.createElement('label');
+    label.className = 'feed-item';
+    label.innerHTML =
+      '<input type="checkbox">' +
+      '<div class="feed-item-body">' +
+        '<div class="feed-item-title"></div>' +
+        '<div class="feed-item-resumo"></div>' +
+        '<div class="feed-item-meta">📍 ' + escapeHtml(veic) + ' · 🔗 <a href="' + encodeURI(it.link || '') + '" target="_blank" rel="noopener">' + escapeHtml(it.link || '') + '</a></div>' +
+      '</div>';
+    label.querySelector('.feed-item-title').textContent = it.titulo || it.resumo || '(sem título)';
+    label.querySelector('.feed-item-resumo').textContent = it.resumo || '';
+    const cb = label.querySelector('input');
+    cb._item = { url: it.link, resumo: it.resumo || it.titulo || '', veiculo: veic };
+    cb.addEventListener('change', () => setFeedItemState(cb));
+    group.appendChild(label);
+  });
+  return group;
+}
+async function loadFeeds() {
+  const list = $('feed-list');
+  const statusEl = $('feed-status');
+  let total = 0, loadedAny = false, anyExample = false;
+  const bust = '?t=' + Math.random().toString(36).slice(2);
+  for (const feed of FEEDS) {
+    try {
+      const r = await fetch(feed.file + bust, { cache: 'no-store' });
+      if (!r.ok) continue;
+      const data = await r.json();
+      const items = (data.itens || data.items || []).filter(x => x && x.link);
+      if (!items.length) continue;
+      loadedAny = true; total += items.length;
+      if (data.exemplo) anyExample = true;
+      list.appendChild(renderFeedGroup(data.fonte || feed.fallback, data.data, items, !!data.exemplo));
+    } catch (e) { /* feed indisponível, segue */ }
+  }
+  if (loadedAny) {
+    const bar = document.createElement('div');
+    bar.className = 'feed-select-bar';
+    bar.innerHTML = '<span>' + total + ' notícias no feed.</span>' +
+      '<button type="button" id="sel-all">Marcar todas</button>' +
+      '<button type="button" id="sel-none">Desmarcar</button>';
+    list.parentNode.insertBefore(bar, list);
+    const setAll = (v) => document.querySelectorAll('#feed-list input[type=checkbox]').forEach(cb => { cb.checked = v; setFeedItemState(cb); });
+    $('sel-all').addEventListener('click', () => setAll(true));
+    $('sel-none').addEventListener('click', () => setAll(false));
+    statusEl.classList.remove('error');
+    statusEl.innerHTML = anyExample
+      ? '✓ Feed do dia carregado. Os itens marcados como <span class="badge">exemplo</span> somem quando suas tarefas publicarem o feed real.'
+      : '✓ Feed do dia carregado.';
+  } else {
+    statusEl.classList.remove('error');
+    statusEl.textContent = 'Nenhum feed do dia encontrado ainda. Você pode adicionar notícias manualmente abaixo.';
+    $('manual').open = true;
+  }
+}
+loadFeeds();
 
 // ---------- URL extraction ----------
 function extractUrls(text) {
@@ -504,19 +629,15 @@ $('output').addEventListener('input', renderPreview);
 
 // ---------- Generate ----------
 $('generate').addEventListener('click', async () => {
-  const apiKey = ($('api-key').value || '').trim();
-  if (!apiKey) {
-    $('config').open = true;
-    $('api-key').focus();
-    return;
-  }
-  localStorage.setItem(KEY_STORAGE, apiKey);
-  loadKey();
+  // 1) Notícias marcadas no feed: já têm resumo e veículo, não precisam de API.
+  const feedItems = [...document.querySelectorAll('#feed-list input[type=checkbox]')]
+    .filter(cb => cb.checked)
+    .map(cb => cb._item);
 
-  // Cada caixa vira uma notícia. Extrai o(s) link(s) de cada caixa e usa o texto da caixa como contexto.
+  // 2) Links manuais: extraídos das caixas, resumidos via API. Usa o texto da caixa como contexto.
   const boxTexts = [...document.querySelectorAll('.link-input')].map(t => t.value).filter(s => s.trim());
   const jobs = [];
-  const seen = new Set();
+  const seen = new Set(feedItems.map(i => i.url));
   for (const boxText of boxTexts) {
     for (const url of extractUrls(boxText)) {
       if (seen.has(url)) continue;
@@ -524,21 +645,37 @@ $('generate').addEventListener('click', async () => {
       jobs.push({ url, context: boxText });
     }
   }
-  if (!jobs.length) {
+
+  if (!feedItems.length && !jobs.length) {
     $('status').innerHTML = '';
-    const st = statusItem('');
-    st.error('Nenhum link encontrado nas caixas. Confira se os links começam com http(s):// ou www.');
+    statusItem('').error('Marque ao menos uma notícia do feed acima, ou adicione um link manual.');
     return;
   }
+
+  const apiKey = ($('api-key').value || '').trim();
+  if (jobs.length && !apiKey) {
+    $('config').open = true;
+    $('manual').open = true;
+    $('api-key').focus();
+    $('status').innerHTML = '';
+    statusItem('').error('Para resumir links manuais é preciso a chave da API. As notícias do feed não precisam de chave.');
+    return;
+  }
+  if (apiKey) { localStorage.setItem(KEY_STORAGE, apiKey); loadKey(); }
 
   const btn = $('generate');
   btn.disabled = true;
   btn.textContent = 'Gerando...';
   $('status').innerHTML = '';
-  const stCount = statusItem('');
-  stCount.done(jobs.length + (jobs.length === 1 ? ' link identificado' : ' links identificados') + '. Cada um vira uma notícia.');
 
   const items = [];
+  // Feed primeiro, na ordem exibida.
+  feedItems.forEach(it => items.push({ url: it.url, resumo: it.resumo, veiculo: it.veiculo }));
+  if (feedItems.length) {
+    statusItem('').done(feedItems.length + (feedItems.length === 1 ? ' notícia do feed adicionada.' : ' notícias do feed adicionadas.'));
+  }
+
+  // Links manuais via API.
   for (const job of jobs) {
     const st = statusItem(job.url);
     try {
