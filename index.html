@@ -87,7 +87,54 @@
     outline: none;
   }
   textarea:focus, input:focus { border-color: var(--primary); }
-  #links { min-height: 120px; resize: vertical; line-height: 1.5; }
+  #inputs { display: flex; flex-direction: column; gap: 12px; }
+  .input-box {
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: #fff;
+    padding: 10px 12px 12px;
+  }
+  .input-box-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 6px;
+  }
+  .input-box-label {
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--primary-600);
+  }
+  .input-remove {
+    background: transparent;
+    color: var(--muted-foreground);
+    font-size: 13px;
+    font-weight: 500;
+    height: auto;
+    padding: 2px 6px;
+    border-radius: 4px;
+  }
+  .input-remove:hover { color: var(--destructive); background: #FDF2F2; }
+  .input-box textarea {
+    min-height: 58px;
+    resize: vertical;
+    line-height: 1.5;
+    border: none;
+    padding: 0;
+  }
+  .input-box textarea:focus { border: none; }
+  .input-box:focus-within { border-color: var(--primary); }
+  .btn-add {
+    margin-top: 12px;
+    background: var(--primary-muted);
+    color: var(--primary-dark);
+    height: 38px;
+  }
+  .btn-add:hover { background: #CEEAE1; }
+  .btn-copy { font-size: 15px; }
+  .output-actions-top { margin-top: 0; margin-bottom: 12px; }
   #output {
     min-height: 260px;
     resize: vertical;
@@ -219,9 +266,10 @@
 
   <section class="card">
     <div class="kicker">Passo 1 · Input</div>
-    <h2>Cole os links</h2>
-    <p class="hint">Cole os links ou um texto que contenha links (notícia, artigo científico, PDF ou YouTube). Cada link identificado vira uma notícia na mensagem; o texto ao redor é usado só como contexto para o resumo.</p>
-    <textarea id="links" placeholder="https://www.statnews.com/...&#10;https://www.nature.com/articles/...&#10;https://www.youtube.com/watch?v=..."></textarea>
+    <h2>Adicione as notícias</h2>
+    <p class="hint">Uma notícia por caixa: cole o link (notícia, artigo científico, PDF ou YouTube). Se quiser, cole junto o título ou um resumo, que serve de contexto para gerar o texto. Clique em "+ Adicionar notícia" para incluir mais.</p>
+    <div id="inputs"></div>
+    <button class="btn-add" id="add-input" type="button">+ Adicionar notícia</button>
     <div class="row">
       <div class="field">
         <label for="edition-date">Data da edição</label>
@@ -235,12 +283,12 @@
   <section class="card">
     <div class="kicker">Passo 2 · Output</div>
     <h2>Mensagem pronta</h2>
-    <p class="hint">Revise e edite à vontade antes de copiar. O texto entre asteriscos fica em negrito no WhatsApp.</p>
-    <textarea id="output" placeholder="A mensagem gerada vai aparecer aqui..."></textarea>
-    <div class="output-actions">
-      <button class="btn-primary" id="copy">Copiar mensagem</button>
+    <p class="hint">Revise e edite à vontade. O botão abaixo copia o texto já com a formatação do WhatsApp (o negrito dos asteriscos aparece ao colar no grupo).</p>
+    <div class="output-actions output-actions-top">
+      <button class="btn-primary btn-copy" id="copy">📋 Copiar para o WhatsApp</button>
       <span id="copy-feedback">Copiada! É só colar no grupo.</span>
     </div>
+    <textarea id="output" placeholder="A mensagem gerada vai aparecer aqui..."></textarea>
     <div class="preview-wrap">
       <div class="preview-label">Prévia no WhatsApp</div>
       <div class="wa-bg"><div class="wa-bubble" id="preview">A prévia da mensagem vai aparecer aqui.</div></div>
@@ -283,6 +331,36 @@ function editionLabel() {
   const [, m, d] = v.split('-');
   return d + '.' + m;
 }
+
+// ---------- Input boxes ----------
+const inputsEl = $('inputs');
+function renumber() {
+  const boxes = [...inputsEl.querySelectorAll('.input-box')];
+  const showRemove = boxes.length > 1;
+  boxes.forEach((b, i) => {
+    b.querySelector('.input-box-label').textContent = 'Notícia ' + (i + 1);
+    b.querySelector('.input-remove').style.display = showRemove ? '' : 'none';
+  });
+}
+function makeBox(value) {
+  const box = document.createElement('div');
+  box.className = 'input-box';
+  box.innerHTML =
+    '<div class="input-box-head">' +
+      '<span class="input-box-label"></span>' +
+      '<button type="button" class="input-remove">Remover</button>' +
+    '</div>' +
+    '<textarea class="link-input" placeholder="Cole o link aqui. Opcional: cole também o título ou um resumo como contexto."></textarea>';
+  if (value) box.querySelector('.link-input').value = value;
+  box.querySelector('.input-remove').addEventListener('click', () => { box.remove(); renumber(); });
+  return box;
+}
+function addBox(value) { inputsEl.appendChild(makeBox(value)); renumber(); }
+for (let i = 0; i < 3; i++) addBox();
+$('add-input').addEventListener('click', () => {
+  addBox();
+  inputsEl.lastElementChild.querySelector('.link-input').focus();
+});
 
 // ---------- URL extraction ----------
 function extractUrls(text) {
@@ -435,13 +513,21 @@ $('generate').addEventListener('click', async () => {
   localStorage.setItem(KEY_STORAGE, apiKey);
   loadKey();
 
-  const rawInput = $('links').value;
-  const urls = extractUrls(rawInput);
-  if (!urls.length) {
+  // Cada caixa vira uma notícia. Extrai o(s) link(s) de cada caixa e usa o texto da caixa como contexto.
+  const boxTexts = [...document.querySelectorAll('.link-input')].map(t => t.value).filter(s => s.trim());
+  const jobs = [];
+  const seen = new Set();
+  for (const boxText of boxTexts) {
+    for (const url of extractUrls(boxText)) {
+      if (seen.has(url)) continue;
+      seen.add(url);
+      jobs.push({ url, context: boxText });
+    }
+  }
+  if (!jobs.length) {
     $('status').innerHTML = '';
     const st = statusItem('');
-    st.error('Nenhum link encontrado no texto colado. Confira se os links começam com http(s):// ou www.');
-    $('links').focus();
+    st.error('Nenhum link encontrado nas caixas. Confira se os links começam com http(s):// ou www.');
     return;
   }
 
@@ -450,20 +536,20 @@ $('generate').addEventListener('click', async () => {
   btn.textContent = 'Gerando...';
   $('status').innerHTML = '';
   const stCount = statusItem('');
-  stCount.done(urls.length + (urls.length === 1 ? ' link identificado' : ' links identificados') + ' no texto. Cada um vira uma notícia.');
+  stCount.done(jobs.length + (jobs.length === 1 ? ' link identificado' : ' links identificados') + '. Cada um vira uma notícia.');
 
   const items = [];
-  for (const url of urls) {
-    const st = statusItem(url);
+  for (const job of jobs) {
+    const st = statusItem(job.url);
     try {
-      const content = await fetchContent(url);
-      st.update((content ? 'Resumindo ' : 'Conteúdo indisponível, resumindo pelo link ') + url);
-      const { resumo, veiculo } = await summarize(url, content, rawInput, apiKey);
-      items.push({ url, resumo, veiculo });
+      const content = await fetchContent(job.url);
+      st.update((content ? 'Resumindo ' : 'Conteúdo indisponível, resumindo pelo link ') + job.url);
+      const { resumo, veiculo } = await summarize(job.url, content, job.context, apiKey);
+      items.push({ url: job.url, resumo, veiculo });
       st.done(resumo + ' (' + veiculo + ')');
     } catch (err) {
-      items.push({ url, resumo: '[Edite: resumo da notícia]', veiculo: '[Edite: nome do veículo]' });
-      st.error('Falhou: ' + url + ' · ' + err.message);
+      items.push({ url: job.url, resumo: '[Edite: resumo da notícia]', veiculo: '[Edite: nome do veículo]' });
+      st.error('Falhou: ' + job.url + ' · ' + err.message);
     }
   }
 
