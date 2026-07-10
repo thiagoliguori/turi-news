@@ -1,50 +1,50 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-07-09",
-  "geradoEm": "2026-07-09T09:07:00-03:00",
+  "data": "2026-06-05",
+  "geradoEm": "2026-06-05T09:07:00-03:00",
   "exemplo": true,
   "itens": [
     {
-      "titulo": "Eric Topol alerta para o paradoxo da implementação da IA na medicina",
-      "resumo": "Para Topol, a IA médica com evidência forte segue subutilizada enquanto usos de evidência fraca são adotados rápido, um descompasso perigoso.",
-      "veiculo": "Ground Truths",
-      "link": "https://erictopol.substack.com/p/the-paradox-of-medical-ai-implementation"
+      "titulo": "Mayo Clinic e Microsoft anunciam modelo de IA de fronteira para a saúde",
+      "resumo": "Parceria une dados clínicos e capacidade computacional para construir um modelo de IA de fronteira específico para a medicina.",
+      "veiculo": "Microsoft",
+      "link": "https://news.microsoft.com/source/2026/06/02/mayo-clinic-and-microsoft-collaborate-to-develop-a-frontier-ai-model-for-healthcare/"
     },
     {
-      "titulo": "FDA autoriza primeiro dispositivo de IA generativa para apoio a laudos",
-      "resumo": "Agência aprova ferramenta que redige rascunhos de laudos a partir de exames, com revisão obrigatória por médico.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/exemplo-fda-ia-generativa"
+      "titulo": "Seul e Harvard criam o primeiro hospital virtual para validar IA médica",
+      "resumo": "Publicado na Nature Medicine, o simulador usa pacientes sintéticos e fluxos hospitalares reais para testar modelos antes de tocarem em pacientes.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/asia/snuh-harvard-unveil-worlds-first-virtual-hospital-validating-medical-ai"
     },
     {
-      "titulo": "Google Health apresenta modelo de IA para triagem de retinopatia diabética",
-      "resumo": "Modelo teve desempenho comparável a especialistas em estudo multicêntrico e será testado na atenção primária.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/exemplo-retinopatia"
+      "titulo": "AccurKardia recebe patente para detectar amiloidose cardíaca por ECG com IA",
+      "resumo": "Sistema usa eletrocardiograma comum, sem hardware adicional, para apontar suspeita de amiloidose cardíaca, doença frequentemente subdiagnosticada.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/accurkardia-receives-patent-ai-ecg-cardiac-amyloidosis-detection"
     },
     {
-      "titulo": "Microsoft e hospital de referência anunciam copiloto clínico para prontuário",
-      "resumo": "Assistente resume histórico do paciente e sugere condutas, sempre com confirmação do médico responsável.",
-      "veiculo": "Mobihealthnews",
-      "link": "https://www.mobihealthnews.com/exemplo-copiloto-clinico"
-    },
-    {
-      "titulo": "Healthtech brasileira capta aporte para expandir IA em diagnóstico laboratorial",
-      "resumo": "Startup usará o recurso para ampliar algoritmos que aceleram a análise de exames em laboratórios do país.",
+      "titulo": "75% dos sistemas hospitalares dos EUA já usam ou planejam usar IA em 2026",
+      "resumo": "Pesquisa aponta documentação clínica como uso dominante e retorno de pelo menos duas vezes o investimento em mais da metade das implementações.",
       "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/exemplo-aporte-healthtech"
+      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/75-us-healthcare-systems-use-plan-use-ai-platform-2026"
     },
     {
-      "titulo": "Estudo publicado no NEJM AI avalia IA na detecção precoce de sepse",
-      "resumo": "Modelo antecipou sinais de sepse em pacientes internados e reduziu o tempo até o início do tratamento.",
-      "veiculo": "NEJM AI",
-      "link": "https://ai.nejm.org/exemplo-sepse"
+      "titulo": "Big pharma fecha onda de acordos com startups de IA",
+      "resumo": "Onda inclui parceria de US$ 1 bilhão entre Lilly e NVIDIA e novos acordos de GSK e J&J, sinalizando mudança na descoberta de fármacos.",
+      "veiculo": "GEN",
+      "link": "https://www.genengnews.com/topics/artificial-intelligence/pharma-bets-big-on-ai-platforms-with-flurry-of-new-year-deals/"
     },
     {
-      "titulo": "OMS publica guia sobre governança de IA em sistemas de saúde",
-      "resumo": "Documento traz recomendações de segurança, equidade e transparência para o uso de IA na saúde pública.",
-      "veiculo": "Healthcare IT News",
-      "link": "https://www.healthcareitnews.com/exemplo-oms-governanca-ia"
+      "titulo": "AI scribe ambiental vira padrão silencioso na atenção primária americana",
+      "resumo": "Estudos de 2026 mostram economia média de 16 minutos a cada 8 horas de consulta e adoção em mais de 25% das práticas nos EUA.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/04/01/ai-ambient-scribes-modest-time-savings-clinical-documentation/"
+    },
+    {
+      "titulo": "FDA flexibiliza guidance para ferramentas de decisão clínica com IA generativa",
+      "resumo": "Atualização libera diversas ferramentas de IA generativa do crivo regulatório, transferindo parte da validação para o usuário final.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/01/15/medical-ai-safety-research-fda-cds/"
     }
   ]
 }

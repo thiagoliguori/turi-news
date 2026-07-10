@@ -1,44 +1,38 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-07-09",
-  "geradoEm": "2026-07-09T09:05:00-03:00",
+  "data": "2026-06-05",
+  "geradoEm": "2026-06-05T09:05:00-03:00",
   "exemplo": true,
   "itens": [
     {
-      "titulo": "Ministério da Saúde lança curso de IA na gestão do SUS com 12 mil vagas gratuitas",
-      "resumo": "Curso em parceria com a UFPB oferece 12 mil vagas gratuitas e 180 horas em EAD para gestores usarem IA de forma ética no SUS.",
-      "veiculo": "Gov.br",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/julho/ministerio-da-saude-lanca-curso"
+      "titulo": "Prontuário eletrônico unificado vira espinha dorsal do SUS em 2026",
+      "resumo": "Censo das UBS aponta 87% com prontuário eletrônico; app SUS Digital integra histórico e prioriza casos de câncer e doenças cardiovasculares.",
+      "veiculo": "Agência Gov",
+      "link": "https://agenciagov.ebc.com.br/noticias/202407/sus-digital-estrategia-do-ministerio-da-saude-amplia-acesso-da-populacao-as-informacoes-de-saude-e-inicia-a-implantacao-de-prontuario-unificado"
     },
     {
-      "titulo": "Hospitais brasileiros ampliam uso de IA em radiologia, aponta levantamento",
-      "resumo": "Estudo mostra crescimento do uso de algoritmos de apoio ao diagnóstico por imagem em hospitais de referência no país.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/exemplo-radiologia-ia"
+      "titulo": "CMS lança Medicare GLP-1 Bridge: US$ 50 por mês para anti-obesidade",
+      "resumo": "Demonstração federal cobrirá Wegovy, Zepbound e Foundayo por US$ 50 ao mês para beneficiários do Medicare com IMC e comorbidades, até 2027.",
+      "veiculo": "CMS",
+      "link": "https://www.cms.gov/newsroom/press-releases/coming-soon-cms-provide-50-monthly-access-glp-1-medications-medicare-beneficiaries"
     },
     {
-      "titulo": "ANVISA abre consulta pública sobre regras para software médico com IA",
-      "resumo": "Proposta define critérios de validação e monitoramento de dispositivos de IA usados em diagnóstico e tratamento.",
-      "veiculo": "Estadão Saúde",
-      "link": "https://www.estadao.com.br/saude/exemplo-anvisa-ia"
+      "titulo": "Joint Commission lança primeira certificação para uso responsável de IA em saúde",
+      "resumo": "Certificação voluntária reconhece hospitais que comprovem governança, monitoramento e mitigação de risco no uso clínico de IA.",
+      "veiculo": "The Joint Commission",
+      "link": "https://www.jointcommission.org/en-us/knowledge-library/news/2026-05-responsible-use-of-ai-in-healthcare-certification"
     },
     {
-      "titulo": "Telessaúde com apoio de IA reduz fila de especialidades em município do interior",
-      "resumo": "Projeto piloto usa triagem automatizada para priorizar casos e encurtar o tempo de espera por consultas.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/exemplo-telessaude-ia"
+      "titulo": "IA na mamografia aumenta detecção de câncer em 29%, mostra estudo sueco",
+      "resumo": "Estudo MASAI, com mais de 105 mil mulheres, mostra mais detecção, menos câncer de intervalo e queda de 44% no tempo de leitura com IA.",
+      "veiculo": "Ground Truths",
+      "link": "https://erictopol.substack.com/p/why-all-mammograms-should-incorporate"
     },
     {
-      "titulo": "Estudo brasileiro valida modelo de IA para prever risco cardiovascular na atenção básica",
-      "resumo": "Ferramenta combina dados de prontuário para estimar risco e apoiar decisões de prevenção na rede pública.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/exemplo-risco-cardiovascular-ia"
-    },
-    {
-      "titulo": "Conselho Federal de Medicina discute diretrizes para uso de IA no atendimento",
-      "resumo": "Debate aborda responsabilidade médica, transparência dos algoritmos e limites do uso de IA em consultas.",
-      "veiculo": "Saúde Business",
-      "link": "https://saudebusiness.com/exemplo-cfm-ia"
+      "titulo": "Mayo Clinic detecta câncer de pâncreas até 3 anos antes do diagnóstico com IA",
+      "resumo": "Modelo analisou tomografias feitas para outras indicações e identificou o câncer de pâncreas com cerca de 16 meses de antecedência em 75% dos casos.",
+      "veiculo": "KARE 11",
+      "link": "https://www.kare11.com/article/news/health/mayo-clinic-announces-breakthrough-in-early-cancer-detection/89-3a8102bc-fa05-4a30-8111-29252543fbb0"
     }
   ]
 }
