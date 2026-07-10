@@ -6,15 +6,39 @@
   "itens": [
     {
       "titulo": "Ministério da Saúde lança curso de IA na gestão do SUS com 12 mil vagas gratuitas",
-      "resumo": "Curso de aperfeiçoamento em parceria com a UFPB oferece 12 mil vagas gratuitas e 180 horas em EAD para gestores usarem IA de forma ética no SUS.",
+      "resumo": "Curso em parceria com a UFPB oferece 12 mil vagas gratuitas e 180 horas em EAD para gestores usarem IA de forma ética no SUS.",
       "veiculo": "Gov.br",
       "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/julho/ministerio-da-saude-lanca-curso"
     },
     {
-      "titulo": "Estudo aponta que hospitais brasileiros ampliam uso de IA em radiologia",
-      "resumo": "Levantamento mostra crescimento do uso de algoritmos de apoio ao diagnóstico por imagem em hospitais de referência no país.",
+      "titulo": "Hospitais brasileiros ampliam uso de IA em radiologia, aponta levantamento",
+      "resumo": "Estudo mostra crescimento do uso de algoritmos de apoio ao diagnóstico por imagem em hospitais de referência no país.",
       "veiculo": "Futuro da Saúde",
       "link": "https://futurodasaude.com.br/exemplo-radiologia-ia"
+    },
+    {
+      "titulo": "ANVISA abre consulta pública sobre regras para software médico com IA",
+      "resumo": "Proposta define critérios de validação e monitoramento de dispositivos de IA usados em diagnóstico e tratamento.",
+      "veiculo": "Estadão Saúde",
+      "link": "https://www.estadao.com.br/saude/exemplo-anvisa-ia"
+    },
+    {
+      "titulo": "Telessaúde com apoio de IA reduz fila de especialidades em município do interior",
+      "resumo": "Projeto piloto usa triagem automatizada para priorizar casos e encurtar o tempo de espera por consultas.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/exemplo-telessaude-ia"
+    },
+    {
+      "titulo": "Estudo brasileiro valida modelo de IA para prever risco cardiovascular na atenção básica",
+      "resumo": "Ferramenta combina dados de prontuário para estimar risco e apoiar decisões de prevenção na rede pública.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/exemplo-risco-cardiovascular-ia"
+    },
+    {
+      "titulo": "Conselho Federal de Medicina discute diretrizes para uso de IA no atendimento",
+      "resumo": "Debate aborda responsabilidade médica, transparência dos algoritmos e limites do uso de IA em consultas.",
+      "veiculo": "Saúde Business",
+      "link": "https://saudebusiness.com/exemplo-cfm-ia"
     }
   ]
 }

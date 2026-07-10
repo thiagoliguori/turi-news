@@ -297,7 +297,7 @@
   <section class="card">
     <div class="kicker">Passo 1 · Escolha as notícias</div>
     <h2>Notícias do dia</h2>
-    <p class="hint">Puxadas automaticamente das suas tarefas diárias. Marque as que devem entrar na mensagem do WhatsApp.</p>
+    <p class="hint">Puxadas automaticamente das suas tarefas diárias. Todas aparecem aqui; marque as que devem entrar na mensagem. A mensagem vai se montando sozinha no Passo 2, na ordem em que você marca.</p>
     <div id="feed-status" class="feed-status"><span class="spinner"></span> Carregando o feed do dia...</div>
     <div id="feed-list"></div>
 
@@ -323,9 +323,10 @@
   <section class="card">
     <div class="kicker">Passo 2 · Output</div>
     <h2>Mensagem pronta</h2>
-    <p class="hint">Revise e edite à vontade. O botão abaixo copia o texto já com a formatação do WhatsApp (o negrito dos asteriscos aparece ao colar no grupo).</p>
+    <p class="hint">A mensagem se monta sozinha conforme você marca as notícias acima. Revise e edite à vontade; se editar e quiser voltar à seleção, use "↻ Recompor". O botão copia com a formatação do WhatsApp (o negrito dos asteriscos aparece ao colar no grupo).</p>
     <div class="output-actions output-actions-top">
       <button class="btn-primary btn-copy" id="copy">📋 Copiar para o WhatsApp</button>
+      <button class="btn-secondary" id="resync" type="button" style="display:none;">↻ Recompor da seleção</button>
       <span id="copy-feedback">Copiada! É só colar no grupo.</span>
     </div>
     <textarea id="output" placeholder="A mensagem gerada vai aparecer aqui..."></textarea>
@@ -443,7 +444,7 @@ function renderFeedGroup(fonte, dataStr, items, isExample) {
     label.querySelector('.feed-item-resumo').textContent = it.resumo || '';
     const cb = label.querySelector('input');
     cb._item = { url: it.link, resumo: it.resumo || it.titulo || '', veiculo: veic };
-    cb.addEventListener('change', () => setFeedItemState(cb));
+    cb.addEventListener('change', () => { setFeedItemState(cb); refreshOutput(); });
     group.appendChild(label);
   });
   return group;
@@ -472,7 +473,7 @@ async function loadFeeds() {
       '<button type="button" id="sel-all">Marcar todas</button>' +
       '<button type="button" id="sel-none">Desmarcar</button>';
     list.parentNode.insertBefore(bar, list);
-    const setAll = (v) => document.querySelectorAll('#feed-list input[type=checkbox]').forEach(cb => { cb.checked = v; setFeedItemState(cb); });
+    const setAll = (v) => { document.querySelectorAll('#feed-list input[type=checkbox]').forEach(cb => { cb.checked = v; setFeedItemState(cb); }); refreshOutput(); };
     $('sel-all').addEventListener('click', () => setAll(true));
     $('sel-none').addEventListener('click', () => setAll(false));
     statusEl.classList.remove('error');
@@ -625,19 +626,47 @@ function renderPreview() {
     .replace(/(https?:\/\/[^\s]+)/g, '<a href="$1" target="_blank" rel="noopener">$1</a>');
   $('preview').innerHTML = html;
 }
-$('output').addEventListener('input', renderPreview);
 
-// ---------- Generate ----------
-$('generate').addEventListener('click', async () => {
-  // 1) Notícias marcadas no feed: já têm resumo e veículo, não precisam de API.
-  const feedItems = [...document.querySelectorAll('#feed-list input[type=checkbox]')]
+// Estado da mensagem: notícias manuais (resumidas via API) e controle de edição manual.
+let manualItems = [];
+let outputDirty = false;
+function setOutput(text) {
+  $('output').value = text;
+  outputDirty = false;
+  renderPreview();
+  updateResyncBtn();
+}
+function selectedFeedItems() {
+  return [...document.querySelectorAll('#feed-list input[type=checkbox]')]
     .filter(cb => cb.checked)
-    .map(cb => cb._item);
+    .map(cb => cb._item)
+    .map(it => ({ url: it.url, resumo: it.resumo, veiculo: it.veiculo }));
+}
+// Recompõe a mensagem a partir da seleção atual (feed marcado + itens manuais já gerados).
+function refreshOutput(force) {
+  if (outputDirty && !force) { updateResyncBtn(); return; }
+  const items = [...selectedFeedItems(), ...manualItems];
+  setOutput(items.length ? buildMessage(items) : '');
+}
+function updateResyncBtn() {
+  const btn = $('resync');
+  if (!btn) return;
+  btn.style.display = outputDirty ? '' : 'none';
+}
+$('output').addEventListener('input', () => { outputDirty = true; renderPreview(); updateResyncBtn(); });
+$('resync').addEventListener('click', () => refreshOutput(true));
+$('edition-date').addEventListener('change', () => { if (!outputDirty) refreshOutput(); });
 
-  // 2) Links manuais: extraídos das caixas, resumidos via API. Usa o texto da caixa como contexto.
+// ---------- Generate (resume os links manuais e recompõe a mensagem) ----------
+// As notícias do feed já entram na mensagem ao vivo, ao marcar a caixinha.
+// Este botão serve para acrescentar links manuais (resumidos via API).
+$('generate').addEventListener('click', async () => {
+  const hasFeed = selectedFeedItems().length > 0;
+
+  // Links manuais: extraídos das caixas, resumidos via API. Usa o texto da caixa como contexto.
   const boxTexts = [...document.querySelectorAll('.link-input')].map(t => t.value).filter(s => s.trim());
   const jobs = [];
-  const seen = new Set(feedItems.map(i => i.url));
+  const seen = new Set([...selectedFeedItems().map(i => i.url), ...manualItems.map(i => i.url)]);
   for (const boxText of boxTexts) {
     for (const url of extractUrls(boxText)) {
       if (seen.has(url)) continue;
@@ -646,7 +675,7 @@ $('generate').addEventListener('click', async () => {
     }
   }
 
-  if (!feedItems.length && !jobs.length) {
+  if (!hasFeed && !jobs.length && !manualItems.length) {
     $('status').innerHTML = '';
     statusItem('').error('Marque ao menos uma notícia do feed acima, ou adicione um link manual.');
     return;
@@ -663,35 +692,36 @@ $('generate').addEventListener('click', async () => {
   }
   if (apiKey) { localStorage.setItem(KEY_STORAGE, apiKey); loadKey(); }
 
+  if (!jobs.length) {
+    // Sem links manuais novos: só recompõe a mensagem a partir da seleção do feed.
+    refreshOutput(true);
+    $('output').scrollIntoView({ behavior: 'smooth', block: 'start' });
+    return;
+  }
+
   const btn = $('generate');
   btn.disabled = true;
   btn.textContent = 'Gerando...';
   $('status').innerHTML = '';
 
-  const items = [];
-  // Feed primeiro, na ordem exibida.
-  feedItems.forEach(it => items.push({ url: it.url, resumo: it.resumo, veiculo: it.veiculo }));
-  if (feedItems.length) {
-    statusItem('').done(feedItems.length + (feedItems.length === 1 ? ' notícia do feed adicionada.' : ' notícias do feed adicionadas.'));
-  }
-
-  // Links manuais via API.
+  // Links manuais via API, acrescentados ao final (depois das notícias do feed).
   for (const job of jobs) {
     const st = statusItem(job.url);
     try {
       const content = await fetchContent(job.url);
       st.update((content ? 'Resumindo ' : 'Conteúdo indisponível, resumindo pelo link ') + job.url);
       const { resumo, veiculo } = await summarize(job.url, content, job.context, apiKey);
-      items.push({ url: job.url, resumo, veiculo });
+      manualItems.push({ url: job.url, resumo, veiculo });
       st.done(resumo + ' (' + veiculo + ')');
     } catch (err) {
-      items.push({ url: job.url, resumo: '[Edite: resumo da notícia]', veiculo: '[Edite: nome do veículo]' });
+      manualItems.push({ url: job.url, resumo: '[Edite: resumo da notícia]', veiculo: '[Edite: nome do veículo]' });
       st.error('Falhou: ' + job.url + ' · ' + err.message);
     }
+    // limpa as caixas já processadas para não duplicar em novo clique
   }
+  document.querySelectorAll('.link-input').forEach(t => t.value = '');
 
-  $('output').value = buildMessage(items);
-  renderPreview();
+  refreshOutput(true);
   btn.disabled = false;
   btn.textContent = 'Gerar mensagem';
   $('output').scrollIntoView({ behavior: 'smooth', block: 'start' });

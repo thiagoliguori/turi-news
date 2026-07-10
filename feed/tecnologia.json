@@ -18,9 +18,33 @@
     },
     {
       "titulo": "Google Health apresenta modelo de IA para triagem de retinopatia diabética",
-      "resumo": "Modelo demonstrou desempenho comparável a especialistas em estudo multicêntrico e será testado na atenção primária.",
+      "resumo": "Modelo teve desempenho comparável a especialistas em estudo multicêntrico e será testado na atenção primária.",
       "veiculo": "Nature Medicine",
       "link": "https://www.nature.com/exemplo-retinopatia"
+    },
+    {
+      "titulo": "Microsoft e hospital de referência anunciam copiloto clínico para prontuário",
+      "resumo": "Assistente resume histórico do paciente e sugere condutas, sempre com confirmação do médico responsável.",
+      "veiculo": "Mobihealthnews",
+      "link": "https://www.mobihealthnews.com/exemplo-copiloto-clinico"
+    },
+    {
+      "titulo": "Healthtech brasileira capta aporte para expandir IA em diagnóstico laboratorial",
+      "resumo": "Startup usará o recurso para ampliar algoritmos que aceleram a análise de exames em laboratórios do país.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/exemplo-aporte-healthtech"
+    },
+    {
+      "titulo": "Estudo publicado no NEJM AI avalia IA na detecção precoce de sepse",
+      "resumo": "Modelo antecipou sinais de sepse em pacientes internados e reduziu o tempo até o início do tratamento.",
+      "veiculo": "NEJM AI",
+      "link": "https://ai.nejm.org/exemplo-sepse"
+    },
+    {
+      "titulo": "OMS publica guia sobre governança de IA em sistemas de saúde",
+      "resumo": "Documento traz recomendações de segurança, equidade e transparência para o uso de IA na saúde pública.",
+      "veiculo": "Healthcare IT News",
+      "link": "https://www.healthcareitnews.com/exemplo-oms-governanca-ia"
     }
   ]
 }
