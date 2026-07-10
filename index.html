@@ -134,7 +134,9 @@
   }
   .btn-add:hover { background: #CEEAE1; }
   /* Feed */
-  .feed-status { font-size: 14px; color: var(--muted-foreground); display: flex; align-items: center; gap: 8px; margin-bottom: 4px; }
+  .feed-topbar { display: flex; align-items: center; gap: 12px; justify-content: space-between; margin-bottom: 4px; flex-wrap: wrap; }
+  #feed-refresh { height: 34px; font-size: 13px; flex-shrink: 0; }
+  .feed-status { font-size: 14px; color: var(--muted-foreground); display: flex; align-items: center; gap: 8px; flex: 1; min-width: 200px; }
   .feed-status.error { color: var(--destructive); }
   #feed-list { display: flex; flex-direction: column; gap: 16px; }
   .feed-group-head {
@@ -298,7 +300,10 @@
     <div class="kicker">Passo 1 · Escolha as notícias</div>
     <h2>Notícias do dia</h2>
     <p class="hint">Puxadas automaticamente das suas tarefas diárias. Todas aparecem aqui; marque as que devem entrar na mensagem. A mensagem vai se montando sozinha no Passo 2, na ordem em que você marca.</p>
-    <div id="feed-status" class="feed-status"><span class="spinner"></span> Carregando o feed do dia...</div>
+    <div class="feed-topbar">
+      <div id="feed-status" class="feed-status"><span class="spinner"></span> Carregando o feed do dia...</div>
+      <button class="btn-secondary" id="feed-refresh" type="button" title="Buscar a versão mais recente do feed">↻ Atualizar feed</button>
+    </div>
     <div id="feed-list"></div>
 
     <details class="config manual" id="manual">
@@ -452,8 +457,15 @@ function renderFeedGroup(fonte, dataStr, items, isExample) {
 async function loadFeeds() {
   const list = $('feed-list');
   const statusEl = $('feed-status');
+  // preserva a seleção atual para reaplicar após recarregar
+  const prevChecked = new Set([...document.querySelectorAll('#feed-list input[type=checkbox]')].filter(cb => cb.checked).map(cb => cb._item && cb._item.url));
+  list.innerHTML = '';
+  const oldBar = document.querySelector('.feed-select-bar');
+  if (oldBar) oldBar.remove();
+  statusEl.classList.remove('error');
+  statusEl.innerHTML = '<span class="spinner"></span> Buscando o feed mais recente...';
   let total = 0, loadedAny = false, anyExample = false;
-  const bust = '?t=' + Math.random().toString(36).slice(2);
+  const bust = '?t=' + Date.now() + '-' + Math.random().toString(36).slice(2);
   for (const feed of FEEDS) {
     try {
       const r = await fetch(feed.file + bust, { cache: 'no-store' });
@@ -476,17 +488,25 @@ async function loadFeeds() {
     const setAll = (v) => { document.querySelectorAll('#feed-list input[type=checkbox]').forEach(cb => { cb.checked = v; setFeedItemState(cb); }); refreshOutput(); };
     $('sel-all').addEventListener('click', () => setAll(true));
     $('sel-none').addEventListener('click', () => setAll(false));
+    // reaplica a seleção que existia antes de recarregar (URLs que ainda estão no feed)
+    if (prevChecked.size) {
+      document.querySelectorAll('#feed-list input[type=checkbox]').forEach(cb => {
+        if (cb._item && prevChecked.has(cb._item.url)) { cb.checked = true; setFeedItemState(cb); }
+      });
+      refreshOutput();
+    }
     statusEl.classList.remove('error');
     statusEl.innerHTML = anyExample
-      ? '✓ Feed do dia carregado. Os itens marcados como <span class="badge">exemplo</span> somem quando suas tarefas publicarem o feed real.'
-      : '✓ Feed do dia carregado.';
+      ? '✓ Feed carregado. Os itens marcados como <span class="badge">exemplo</span> somem quando suas tarefas publicarem o feed real.'
+      : '✓ Feed carregado (versão mais recente).';
   } else {
     statusEl.classList.remove('error');
-    statusEl.textContent = 'Nenhum feed do dia encontrado ainda. Você pode adicionar notícias manualmente abaixo.';
+    statusEl.textContent = 'Nenhum feed encontrado ainda. Você pode adicionar notícias manualmente abaixo.';
     $('manual').open = true;
   }
 }
 loadFeeds();
+$('feed-refresh').addEventListener('click', () => loadFeeds());
 
 // ---------- URL extraction ----------
 function extractUrls(text) {
