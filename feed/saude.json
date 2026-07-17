@@ -1,37 +1,37 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-07-11",
-  "geradoEm": "2026-07-11T18:54:42-03:00",
+  "data": "2026-07-16",
+  "geradoEm": "2026-07-16T23:19:20-03:00",
   "itens": [
     {
-      "titulo": "Ministério da Saúde lança curso de IA na gestão do SUS com 12 mil vagas",
-      "resumo": "Ministério da Saúde abre 12 mil vagas gratuitas em curso para gestores das três esferas usarem IA de forma ética e estratégica no SUS.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/julho/ministerio-da-saude-lanca-curso-para-fortalecer-a-gestao-do-sus-com-inteligencia-artificial"
+      "titulo": "Uso de IA cresce na saúde, mas custo e governança limitam expansão no Brasil, aponta Deloitte",
+      "resumo": "Uso de inteligência artificial cresce na saúde brasileira, mas custo, infraestrutura e governança ainda limitam a expansão em escala.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/14/07/2026/uso-de-ia-cresce-na-saude-mas-custo-infraestrutura-e-governanca-limitam-expansao-no-brasil-aponta-deloitte/"
     },
     {
-      "titulo": "Uso de IA na saúde chega a 18% dos estabelecimentos do país",
-      "resumo": "Levantamento aponta que 18% dos estabelecimentos de saúde do Brasil já usam inteligência artificial em alguma função.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/uso-de-ia-na-saude-chega-18-dos-estabelecimentos-do-pais"
+      "titulo": "Governo vai regulamentar dispositivos médicos com IA embarcada",
+      "resumo": "Governo prepara, via Anvisa, regras para dispositivos médicos com inteligência artificial embarcada, buscando garantir a segurança dos pacientes.",
+      "veiculo": "JOTA",
+      "link": "https://www.jota.info/saude/governo-vai-regulamentar-dispositivos-medicos-com-ia-embarcada"
     },
     {
-      "titulo": "IA na mamografia aumenta detecção de câncer em 29%, mostra estudo MASAI",
-      "resumo": "Seguimento do estudo sueco MASAI mostra aumento de 29% na detecção de câncer de mama e queda de 44% na carga de leitura com IA.",
-      "veiculo": "Ground Truths",
-      "link": "https://erictopol.substack.com/p/why-all-mammograms-should-incorporate"
+      "titulo": "CFM normatiza o uso da inteligência artificial na medicina",
+      "resumo": "Resolução do CFM normatiza o uso da inteligência artificial na medicina e mantém a decisão final sempre com o médico.",
+      "veiculo": "Conselho Federal de Medicina",
+      "link": "https://portal.cfm.org.br/noticias/cfm-normatiza-uso-da-ia-na-medicina/"
     },
     {
-      "titulo": "Hospital universitário debate como adaptar algoritmos de IA à realidade do Brasil",
-      "resumo": "Núcleo de avaliação de tecnologias promove webinário sobre adaptar algoritmos de IA às diversas realidades de saúde do país.",
-      "veiculo": "HU Brasil",
-      "link": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-sudeste/hc-uftm/comunicacao/noticias/nats-promove-webinario-sobre-inteligencia-artificial-aplicada-a-saude"
+      "titulo": "Neko Health capta US$ 700 milhões para exame de corpo inteiro com IA",
+      "resumo": "Neko Health capta US$ 700 milhões para levar aos Estados Unidos seu exame de corpo inteiro com inteligência artificial.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/neko-health-raises-700m-ai-full-body-health-scans"
     },
     {
-      "titulo": "Panorama da Saúde Digital 2026 aponta avanço da IA no Brasil",
-      "resumo": "Estudo aponta avanço consistente da inteligência artificial nas instituições de saúde brasileiras ao longo de 2026.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/edicao34/"
+      "titulo": "Como avaliar de forma significativa a IA na medicina clínica",
+      "resumo": "Artigo da Nature Medicine discute como avaliar de forma significativa o desempenho da inteligência artificial na prática clínica.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/articles/s41591-026-04350-5"
     }
   ]
 }
