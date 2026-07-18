@@ -1,37 +1,43 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-07-16",
-  "geradoEm": "2026-07-16T23:19:20-03:00",
+  "data": "2026-07-18",
+  "geradoEm": "2026-07-18T13:13:29-03:00",
   "itens": [
     {
-      "titulo": "Uso de IA cresce na saúde, mas custo e governança limitam expansão no Brasil, aponta Deloitte",
-      "resumo": "Uso de inteligência artificial cresce na saúde brasileira, mas custo, infraestrutura e governança ainda limitam a expansão em escala.",
+      "titulo": "Ministério da Saúde lança curso de IA para gestores do SUS",
+      "resumo": "Ministério da Saúde abre curso gratuito para capacitar gestores no uso ético e estratégico de inteligência artificial no SUS.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/julho/ministerio-da-saude-lanca-curso-para-fortalecer-a-gestao-do-sus-com-inteligencia-artificial"
+    },
+    {
+      "titulo": "Hapvida ultrapassa 600 mil consultas com apoio de IA de voz",
+      "resumo": "Hapvida supera 600 mil consultas transcritas por IA de voz entre janeiro e maio, com médicos revisando os registros.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/hapvida-ia/"
+    },
+    {
+      "titulo": "Olá Doutor lança Clínica Digital para médicos criarem operação online",
+      "resumo": "Olá Doutor lança Clínica Digital para médicos montarem operação própria online e projeta movimentar mais de 37 milhões de reais.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/14/07/2026/uso-de-ia-cresce-na-saude-mas-custo-infraestrutura-e-governanca-limitam-expansao-no-brasil-aponta-deloitte/"
+      "link": "https://saudedigitalnews.com.br/01/07/2026/ola-doutor-lanca-clinica-digital-e-projeta-movimentar-mais-de-r-37-milhoes-em-consultas-em-2026/"
     },
     {
-      "titulo": "Governo vai regulamentar dispositivos médicos com IA embarcada",
-      "resumo": "Governo prepara, via Anvisa, regras para dispositivos médicos com inteligência artificial embarcada, buscando garantir a segurança dos pacientes.",
-      "veiculo": "JOTA",
-      "link": "https://www.jota.info/saude/governo-vai-regulamentar-dispositivos-medicos-com-ia-embarcada"
+      "titulo": "SUS terá primeira rede de UTIs inteligentes com suporte remoto",
+      "resumo": "Primeira rede de UTIs inteligentes do SUS terá coleta de dados clínicos e suporte médico remoto em tempo real.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/29/06/2026/primeira-rede-de-utis-inteligentes-do-sus-tera-coleta-de-dados-clinicos-e-suporte-medico-remoto-em-tempo-real-em-leitos-de-uti-e-veiculos-do-samu/"
     },
     {
-      "titulo": "CFM normatiza o uso da inteligência artificial na medicina",
-      "resumo": "Resolução do CFM normatiza o uso da inteligência artificial na medicina e mantém a decisão final sempre com o médico.",
-      "veiculo": "Conselho Federal de Medicina",
-      "link": "https://portal.cfm.org.br/noticias/cfm-normatiza-uso-da-ia-na-medicina/"
+      "titulo": "CFM lança sistema de IA para ampliar fiscalização do ato médico",
+      "resumo": "CFM lança sistema de inteligência artificial para ampliar a fiscalização do ato médico, cruzando registros de conselhos e cadastros nacionais.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/cfm-lanca-sistema-de-ia-para-ampliar-fiscalizacao-do-ato-medico"
     },
     {
-      "titulo": "Neko Health capta US$ 700 milhões para exame de corpo inteiro com IA",
-      "resumo": "Neko Health capta US$ 700 milhões para levar aos Estados Unidos seu exame de corpo inteiro com inteligência artificial.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/neko-health-raises-700m-ai-full-body-health-scans"
-    },
-    {
-      "titulo": "Como avaliar de forma significativa a IA na medicina clínica",
-      "resumo": "Artigo da Nature Medicine discute como avaliar de forma significativa o desempenho da inteligência artificial na prática clínica.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04350-5"
+      "titulo": "62,5% dos hospitais privados brasileiros já usam inteligência artificial",
+      "resumo": "Levantamento aponta que 62,5% dos hospitais privados brasileiros já utilizam inteligência artificial em suas operações diárias.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/inteligencia-artificial-na-saude/"
     }
   ]
 }
