@@ -1,37 +1,43 @@
 {
   "fonte": "A tecnologia em saúde",
   "data": "2026-07-18",
-  "geradoEm": "2026-07-18T13:04:55-03:00",
+  "geradoEm": "2026-07-18T13:13:35-03:00",
   "itens": [
     {
-      "titulo": "UpDoc recebe primeira liberação da FDA para software com LLM voltado ao paciente",
-      "resumo": "UpDoc recebe a primeira liberação da FDA para software com modelo de linguagem voltado diretamente ao paciente com diabetes.",
+      "titulo": "CMS quer mudar como o Medicare paga por software clínico e IA",
+      "resumo": "CMS quer reformular como o Medicare paga por software clínico e IA, considerando o impacto das tecnologias nos desfechos.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/07/02/fda-clearance-raises-questions-updoc-use-generative-ai-diabetes-treatment/"
+      "link": "https://www.statnews.com/2026/07/16/cms-to-revamp-payments-for-clinical-software-ai/"
     },
     {
-      "titulo": "Assort Health capta US$ 120 milhões para escalar agentes de voz de IA",
-      "resumo": "Assort Health capta US$ 120 milhões em Série C para escalar agentes de voz de IA na jornada do paciente.",
+      "titulo": "Saúde digital capta US$ 7,4 bilhões no semestre com impulso da IA",
+      "resumo": "Financiamento em saúde digital soma 7,4 bilhões de dólares no primeiro semestre de 2026, impulsionado por empresas de IA.",
       "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/assort-health-scores-120m-series-c-scale-voice-ai-agent-platform-healthcare"
+      "link": "https://www.fiercehealthcare.com/digital-health/digital-health-brought-74b-vc-funding-ai-powered-rebound-fuels-market"
     },
     {
-      "titulo": "Corner Health levanta US$ 32,5 milhões para plataforma de IA de enfermeiros",
-      "resumo": "Corner Health levanta US$ 32,5 milhões para plataforma de IA que ajuda enfermeiros a abrir consultórios de atenção primária.",
+      "titulo": "FDA dá status de breakthrough a duas IAs generativas em radiologia",
+      "resumo": "FDA concede designação de breakthrough a dois dispositivos de IA generativa que interpretam raios-X de tórax e redigem laudos.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/06/25/radiology-generative-ai-cognita-aidoc-fda-breakthrough-designation/"
+    },
+    {
+      "titulo": "Pearl Health capta US$ 110 milhões para IA no Medicare",
+      "resumo": "Pearl Health capta 110 milhões de dólares para expandir plataforma de IA voltada a médicos que atendem pacientes do Medicare.",
       "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/corner-health-raises-325m-ai-nurse-practitioner-platform"
+      "link": "https://www.mobihealthnews.com/news/pearl-health-lands-110m-expand-ai-platform-medicare-providers"
     },
     {
-      "titulo": "Orientação da FDA sobre IA se perde na tradução, diz especialista",
-      "resumo": "Especialista afirma que a orientação da FDA sobre IA se perde na tradução e leva empresas a agir com cautela.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/07/02/fda-ai-guidance-pharma-industry-caution-tala-fakhouri-explains/"
+      "titulo": "Microsoft lança orquestrador de agentes de IA para cuidado oncológico",
+      "resumo": "Microsoft lança orquestrador de agentes de IA para coordenar dados e fluxos de cuidado oncológico, incluindo tumor boards.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/microsoft-unveils-ai-agent-orchestrator-cancer-care-coordination"
     },
     {
-      "titulo": "OpenEvidence passa a oferecer IA liberada pela FDA para detectar doença cardíaca",
-      "resumo": "OpenEvidence passa a oferecer ferramenta de IA liberada pela FDA para ajudar a detectar doença cardíaca em pacientes.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/06/23/openevidence-fda-cleared-heart-disease-ai-health-tech/"
+      "titulo": "Modelos de linguagem gerais superam IAs clínicas especializadas, diz estudo",
+      "resumo": "Estudo na Nature Medicine aponta que modelos de linguagem de uso geral superam ferramentas clínicas especializadas em testes médicos.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/articles/s41591-026-04431-5"
     }
   ]
 }
