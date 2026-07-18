@@ -1,37 +1,37 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-07-11",
-  "geradoEm": "2026-07-11T18:54:44-03:00",
+  "data": "2026-07-18",
+  "geradoEm": "2026-07-18T13:04:55-03:00",
   "itens": [
     {
-      "titulo": "FDA aprova EchoNext, primeira IA multicondição em cardiologia a partir de ECG",
-      "resumo": "Ferramenta detecta doença estrutural do coração num ECG de rotina e superou cardiologistas em acurácia; foi validada em mais de 500 mil pacientes.",
-      "veiculo": "NewYork-Presbyterian",
-      "link": "https://www.nyp.org/news/ai-tool-developed-at-newyork-presbyterian-and-columbia-to-detect-hidden-heart-disease-receives-fda-approval"
+      "titulo": "UpDoc recebe primeira liberação da FDA para software com LLM voltado ao paciente",
+      "resumo": "UpDoc recebe a primeira liberação da FDA para software com modelo de linguagem voltado diretamente ao paciente com diabetes.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/07/02/fda-clearance-raises-questions-updoc-use-generative-ai-diabetes-treatment/"
     },
     {
-      "titulo": "FDA sinaliza migrar para monitoramento pós-mercado das ferramentas de IA",
-      "resumo": "Agência indica sair do foco em revisão pré-mercado para acompanhar como as ferramentas de IA se comportam no uso clínico real.",
-      "veiculo": "Chief Healthcare Executive",
-      "link": "https://www.chiefhealthcareexecutive.com/view/himss-2026-takeaways-ai-dr-oz-home-hospitals-the-fda-and-cybersecurity"
+      "titulo": "Assort Health capta US$ 120 milhões para escalar agentes de voz de IA",
+      "resumo": "Assort Health capta US$ 120 milhões em Série C para escalar agentes de voz de IA na jornada do paciente.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/assort-health-scores-120m-series-c-scale-voice-ai-agent-platform-healthcare"
     },
     {
-      "titulo": "CMS cria escritório dedicado a IA e tecnologia em saúde",
-      "resumo": "Novo Office of Health Technology and Products vai supervisionar IA, interoperabilidade e ferramentas digitais nos programas do CMS.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/cms-creates-office-health-technology-products-ai-interoperability/822710/"
+      "titulo": "Corner Health levanta US$ 32,5 milhões para plataforma de IA de enfermeiros",
+      "resumo": "Corner Health levanta US$ 32,5 milhões para plataforma de IA que ajuda enfermeiros a abrir consultórios de atenção primária.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/corner-health-raises-325m-ai-nurse-practitioner-platform"
     },
     {
-      "titulo": "Eric Topol analisa a chegada da IA agêntica à medicina",
-      "resumo": "Topol discute sistemas de IA agêntica como MIRA e AMIE, que superaram médicos em acurácia diagnóstica em estudos recentes.",
-      "veiculo": "Ground Truths",
-      "link": "https://erictopol.substack.com/p/agentic-ai-comes-to-medicine"
+      "titulo": "Orientação da FDA sobre IA se perde na tradução, diz especialista",
+      "resumo": "Especialista afirma que a orientação da FDA sobre IA se perde na tradução e leva empresas a agir com cautela.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/07/02/fda-ai-guidance-pharma-industry-caution-tala-fakhouri-explains/"
     },
     {
-      "titulo": "Quatro tendências tecnológicas que estão redefinindo a saúde suplementar",
-      "resumo": "Artigo aponta tendências, incluindo IA, que redefinem eficiência e sustentabilidade das operadoras de saúde no Brasil.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/03/07/2026/4-tendencias-tecnologicas-que-estao-redefinindo-a-saude-suplementar/"
+      "titulo": "OpenEvidence passa a oferecer IA liberada pela FDA para detectar doença cardíaca",
+      "resumo": "OpenEvidence passa a oferecer ferramenta de IA liberada pela FDA para ajudar a detectar doença cardíaca em pacientes.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/06/23/openevidence-fda-cleared-heart-disease-ai-health-tech/"
     }
   ]
 }
