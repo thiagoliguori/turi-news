@@ -1,43 +1,43 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-07-18",
-  "geradoEm": "2026-07-18T13:13:35-03:00",
+  "data": "2026-07-19",
+  "geradoEm": "2026-07-19T09:57:08-03:00",
   "itens": [
     {
-      "titulo": "CMS quer mudar como o Medicare paga por software clínico e IA",
-      "resumo": "CMS quer reformular como o Medicare paga por software clínico e IA, considerando o impacto das tecnologias nos desfechos.",
+      "titulo": "UpDoc recebe primeira autorização da FDA para software com LLM voltado ao paciente",
+      "resumo": "App de diabetes da UpDoc torna-se o primeiro software médico com modelo de linguagem voltado ao paciente autorizado pela FDA.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/07/16/cms-to-revamp-payments-for-clinical-software-ai/"
+      "link": "https://www.statnews.com/2026/07/02/fda-clearance-raises-questions-updoc-use-generative-ai-diabetes-treatment/"
     },
     {
-      "titulo": "Saúde digital capta US$ 7,4 bilhões no semestre com impulso da IA",
-      "resumo": "Financiamento em saúde digital soma 7,4 bilhões de dólares no primeiro semestre de 2026, impulsionado por empresas de IA.",
+      "titulo": "Assort Health capta US$ 120 milhões, vira unicórnio e amplia agentes de IA",
+      "resumo": "Assort Health levanta 120 milhões de dólares em série C a 1,2 bilhão de valuation para escalar agentes de IA no cuidado.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/assort-health-lands-120m-scale-patient-journey-ai-agents"
+    },
+    {
+      "titulo": "Neko Health capta US$ 700 milhões para scans corporais com IA e entrada nos EUA",
+      "resumo": "Neko Health, cofundada pelo criador do Spotify, capta 700 milhões de dólares para expandir seus exames corporais com IA aos EUA.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/neko-health-raises-700m-ai-full-body-health-scans"
+    },
+    {
+      "titulo": "Trase capta US$ 107 milhões para escalar agentes de IA na saúde",
+      "resumo": "Startup Trase levanta 107 milhões de dólares para expandir sistema operacional de agentes de IA em saúde e setores críticos.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/trase-lands-107m-scale-ai-agents-healthcare-and-high-stakes-industries"
+    },
+    {
+      "titulo": "Topol analisa MIRA e AMIE, IAs agênticas que gerenciam o cuidado ponta a ponta",
+      "resumo": "Eric Topol comenta dois estudos na Nature sobre IAs agênticas que vão além do diagnóstico e gerenciam planos completos de cuidado.",
+      "veiculo": "Ground Truths",
+      "link": "https://erictopol.substack.com/p/agentic-ai-comes-to-medicine"
+    },
+    {
+      "titulo": "Governo dos EUA financia agentes clínicos de IA com prazo de três anos na FDA",
+      "resumo": "Programa da ARPA-H busca criar o primeiro agente de IA autorizado pela FDA para cuidado cardiovascular de alto risco.",
       "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/digital-health/digital-health-brought-74b-vc-funding-ai-powered-rebound-fuels-market"
-    },
-    {
-      "titulo": "FDA dá status de breakthrough a duas IAs generativas em radiologia",
-      "resumo": "FDA concede designação de breakthrough a dois dispositivos de IA generativa que interpretam raios-X de tórax e redigem laudos.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/06/25/radiology-generative-ai-cognita-aidoc-fda-breakthrough-designation/"
-    },
-    {
-      "titulo": "Pearl Health capta US$ 110 milhões para IA no Medicare",
-      "resumo": "Pearl Health capta 110 milhões de dólares para expandir plataforma de IA voltada a médicos que atendem pacientes do Medicare.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/pearl-health-lands-110m-expand-ai-platform-medicare-providers"
-    },
-    {
-      "titulo": "Microsoft lança orquestrador de agentes de IA para cuidado oncológico",
-      "resumo": "Microsoft lança orquestrador de agentes de IA para coordenar dados e fluxos de cuidado oncológico, incluindo tumor boards.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/microsoft-unveils-ai-agent-orchestrator-cancer-care-coordination"
-    },
-    {
-      "titulo": "Modelos de linguagem gerais superam IAs clínicas especializadas, diz estudo",
-      "resumo": "Estudo na Nature Medicine aponta que modelos de linguagem de uso geral superam ferramentas clínicas especializadas em testes médicos.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04431-5"
+      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/trump-administration-creating-clinical-ai-agents-3-year-fda-approval"
     }
   ]
 }
