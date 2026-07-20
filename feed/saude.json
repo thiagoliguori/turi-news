@@ -1,37 +1,43 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-07-19",
-  "geradoEm": "2026-07-19T09:57:02-03:00",
+  "data": "2026-07-20",
+  "geradoEm": "2026-07-20T08:30:48-03:00",
   "itens": [
     {
-      "titulo": "Custo, infraestrutura e governança freiam avanço da IA na saúde brasileira, diz Deloitte",
-      "resumo": "Levantamento da Deloitte mostra que custo, infraestrutura e governança ainda limitam a expansão da inteligência artificial na saúde brasileira.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/14/07/2026/uso-de-ia-cresce-na-saude-mas-custo-infraestrutura-e-governanca-limitam-expansao-no-brasil-aponta-deloitte/"
+      "titulo": "Ministério da Saúde lança curso de inteligência artificial para gestores do SUS",
+      "resumo": "Curso gratuito com 12 mil vagas prepara gestores das três esferas para uso ético e estratégico de IA no SUS.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/julho/ministerio-da-saude-lanca-curso-para-fortalecer-a-gestao-do-sus-com-inteligencia-artificial"
     },
     {
-      "titulo": "Automação e inteligência digital aceleram nova transformação do varejo farmacêutico",
-      "resumo": "Automação e inteligência digital redefinem o varejo farmacêutico, da gestão de estoque à experiência de atendimento ao cliente nas farmácias.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/08/07/2026/automacao-e-inteligencia-digital-impulsionam-nova-transformacao-do-varejo-farmaceutico/"
-    },
-    {
-      "titulo": "Quatro tendências tecnológicas redesenham a saúde suplementar no Brasil",
-      "resumo": "IA, dados e novos modelos digitais estão entre as quatro tendências que redefinem a operação e o cuidado na saúde suplementar.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/03/07/2026/4-tendencias-tecnologicas-que-estao-redefinindo-a-saude-suplementar/"
-    },
-    {
-      "titulo": "Dr. Online conquista acreditação ONA na saúde digital",
-      "resumo": "Plataforma de telessaúde Dr. Online conquista acreditação ONA e reforça padrões de qualidade e segurança no atendimento digital.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/02/07/2026/dr-online-conquista-acreditacao-ona-e-reforca-novo-patamar-de-qualidade-e-seguranca-na-saude-digital/"
-    },
-    {
-      "titulo": "Hospital universitário no Rio inaugura primeira UTI inteligente do SUS",
-      "resumo": "Hospital Clementino Fraga Filho inaugura a primeira UTI inteligente do SUS, com monitoramento por IA e suporte remoto em tempo real.",
+      "titulo": "Médicos têm até 26 de agosto para se adaptar às novas regras de IA do CFM",
+      "resumo": "Resolução 2.454/2026 entra em vigor em agosto e mantém a decisão clínica final sob responsabilidade do médico.",
       "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/hospital-universitario-no-rio-inaugura-era-de-utis-inteligentes-no-sus"
+      "link": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-05/medicos-tem-ate-26-de-agosto-para-se-adaptar-sobre-uso-de-ia"
+    },
+    {
+      "titulo": "Governo abre chamamento para gerir a Rede de Hospitais Inteligentes do SUS",
+      "resumo": "Ministério da Saúde seleciona organização social para operar a rede nacional de hospitais e serviços inteligentes.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/junho/ministerio-da-saude-inicia-chamamento-para-selecao-de-entidade-a-ser-qualificada-como-organizacao-social-para-a-rede-de-hospitais-inteligentes"
+    },
+    {
+      "titulo": "Primeiro hospital inteligente do Brasil será construído em São Paulo",
+      "resumo": "Unidade de 800 leitos ligada à USP terá IA, IoT, 5G e interoperabilidade, com investimento acima de 1 bilhão de reais.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/hospital-inteligente-usp/"
+    },
+    {
+      "titulo": "Saúde digital no Brasil avança em conexão, mas segue frágil em governança",
+      "resumo": "Análise aponta contraste entre a alta conectividade dos serviços brasileiros e a baixa maturidade em governança de dados.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/saude-digital-conexao-governanca-artigo/"
+    },
+    {
+      "titulo": "Ensaio randomizado testa apoio de IA generativa na atenção primária do Quênia",
+      "resumo": "Estudo com 9.691 pacientes não encontrou redução significativa de falha terapêutica em 14 dias com apoio do GPT-4o.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/articles/s41591-026-04503-6"
     }
   ]
 }
