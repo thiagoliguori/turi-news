@@ -1,43 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-07-19",
-  "geradoEm": "2026-07-19T09:57:08-03:00",
+  "data": "2026-07-20",
+  "geradoEm": "2026-07-20T08:31:01-03:00",
   "itens": [
     {
-      "titulo": "UpDoc recebe primeira autorização da FDA para software com LLM voltado ao paciente",
-      "resumo": "App de diabetes da UpDoc torna-se o primeiro software médico com modelo de linguagem voltado ao paciente autorizado pela FDA.",
+      "titulo": "CMS sinaliza revisão de como paga por software clínico e inteligência artificial",
+      "resumo": "Agência federal quer estrutura de pagamento mais consistente, considerando o impacto dessas tecnologias nos desfechos dos pacientes.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/07/02/fda-clearance-raises-questions-updoc-use-generative-ai-diabetes-treatment/"
+      "link": "https://www.statnews.com/2026/07/16/cms-to-revamp-payments-for-clinical-software-ai/"
     },
     {
-      "titulo": "Assort Health capta US$ 120 milhões, vira unicórnio e amplia agentes de IA",
-      "resumo": "Assort Health levanta 120 milhões de dólares em série C a 1,2 bilhão de valuation para escalar agentes de IA no cuidado.",
+      "titulo": "Modelos de linguagem gerais superam ferramentas clínicas especializadas em benchmarks",
+      "resumo": "Avaliação comparou OpenEvidence e UpToDate Expert AI com GPT-5.2, Gemini 3.1 Pro e Claude Opus 4.6, com vantagem dos modelos gerais.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/articles/s41591-026-04431-5"
+    },
+    {
+      "titulo": "Corner Health capta US$ 32,5 milhões para plataforma de IA de enfermeiros de prática avançada",
+      "resumo": "Rodada liderada pela Oak HC/FT financia sistema operacional de IA que automatiza operações de consultórios de atenção primária.",
       "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/assort-health-lands-120m-scale-patient-journey-ai-agents"
+      "link": "https://www.mobihealthnews.com/news/corner-health-raises-325m-ai-nurse-practitioner-platform"
     },
     {
-      "titulo": "Neko Health capta US$ 700 milhões para scans corporais com IA e entrada nos EUA",
-      "resumo": "Neko Health, cofundada pelo criador do Spotify, capta 700 milhões de dólares para expandir seus exames corporais com IA aos EUA.",
+      "titulo": "Qualified Health capta US$ 125 milhões para escalar IA generativa em sistemas de saúde",
+      "resumo": "Plataforma oferece governança e monitoramento pós-implantação para hospitais que criam e operam agentes de IA.",
       "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/neko-health-raises-700m-ai-full-body-health-scans"
+      "link": "https://www.mobihealthnews.com/news/qualified-health-raises-125m-scale-generative-ai-health-systems"
     },
     {
-      "titulo": "Trase capta US$ 107 milhões para escalar agentes de IA na saúde",
-      "resumo": "Startup Trase levanta 107 milhões de dólares para expandir sistema operacional de agentes de IA em saúde e setores críticos.",
+      "titulo": "Neurable capta US$ 35 milhões para escalar interface cérebro-computador com IA",
+      "resumo": "Startup usa o aporte para ampliar sua tecnologia de interface cérebro-computador aplicada a monitoramento neurológico.",
       "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/trase-lands-107m-scale-ai-agents-healthcare-and-high-stakes-industries"
+      "link": "https://www.mobihealthnews.com/news/neurable-raises-35m-scale-brain-computer-interface-ai"
     },
     {
-      "titulo": "Topol analisa MIRA e AMIE, IAs agênticas que gerenciam o cuidado ponta a ponta",
-      "resumo": "Eric Topol comenta dois estudos na Nature sobre IAs agênticas que vão além do diagnóstico e gerenciam planos completos de cuidado.",
-      "veiculo": "Ground Truths",
-      "link": "https://erictopol.substack.com/p/agentic-ai-comes-to-medicine"
+      "titulo": "HHS divulga conclusões de consulta pública ampla sobre inteligência artificial",
+      "resumo": "Departamento de Saúde dos EUA detalha o que ouviu do setor sobre regulação, adoção e barreiras ao uso de IA.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://www.healthcaredive.com/news/hhs-update-artificial-intelligence-ai-request-information/823884/"
     },
     {
-      "titulo": "Governo dos EUA financia agentes clínicos de IA com prazo de três anos na FDA",
-      "resumo": "Programa da ARPA-H busca criar o primeiro agente de IA autorizado pela FDA para cuidado cardiovascular de alto risco.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/trump-administration-creating-clinical-ai-agents-3-year-fda-approval"
+      "titulo": "Documentação clínica ambiente começa a mostrar retorno mensurável em hospitais",
+      "resumo": "Executivos relatam ganhos de tempo e retenção de profissionais com escuta ambiente integrada aos prontuários eletrônicos.",
+      "veiculo": "Chief Healthcare Executive",
+      "link": "https://www.chiefhealthcareexecutive.com/view/seeing-promising-returns-in-ambient-documentation-vive-2026"
     }
   ]
 }
