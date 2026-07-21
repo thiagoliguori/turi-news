@@ -1,43 +1,79 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-07-20",
-  "geradoEm": "2026-07-20T08:30:48-03:00",
+  "data": "2026-07-21",
+  "geradoEm": "2026-07-21T09:35:24-03:00",
   "itens": [
     {
-      "titulo": "Ministério da Saúde lança curso de inteligência artificial para gestores do SUS",
-      "resumo": "Curso gratuito com 12 mil vagas prepara gestores das três esferas para uso ético e estratégico de IA no SUS.",
+      "titulo": "Lula sanciona lei que institui a Estratégia Nacional do Complexo Econômico-Industrial da Saúde",
+      "resumo": "Lei torna permanente a política de produção nacional de medicamentos, vacinas e dispositivos para o SUS.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/lei-institui-estrategia-nacional-de-saude-do-complexo-economico-industrial-da-saude"
+    },
+    {
+      "titulo": "Anvisa aprova Columvi (glofitamabe) para linfoma difuso de grandes células B",
+      "resumo": "Anticorpo biespecífico da Roche é liberado para linfoma recidivado ou refratário sem opção de transplante.",
+      "veiculo": "Anvisa",
+      "link": "https://sincofarmasp.com.br/2026/07/20/anvisa-aprova-novo-medicamento-para-linfoma-nao-hodgkin/"
+    },
+    {
+      "titulo": "ANS aprova agenda regulatória 2026-2028 com foco em reajustes coletivos e pacto intergeracional",
+      "resumo": "Agência definiu 14 temas para o triênio, entre eles reajuste coletivo, portabilidade, reembolso e descontos.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/agenda-regulatoria-da-ans-2026-2028-aprovada/"
+    },
+    {
+      "titulo": "Hospitais e operadoras entram na mira de hackers com o avanço da saúde digital",
+      "resumo": "Saúde vira alvo prioritário de ataques, com custo médio de vazamento no Brasil de US$ 1,36 milhão.",
+      "veiculo": "Notícias de Tecnologia",
+      "link": "https://noticiastecnologia.wordpress.com/2026/07/17/hospitais-e-operadoras-entram-na-mira-de-hackers-com-avanco-da-saude-digital/"
+    },
+    {
+      "titulo": "Debatedores defendem manutenção do prazo de 20 anos para patentes de medicamentos",
+      "resumo": "Especialistas apontam impacto de R$ 7,1 bi a R$ 16,2 bi ao SUS caso a extensão judicial de patentes avance.",
+      "veiculo": "Câmara dos Deputados",
+      "link": "https://www.camara.leg.br/noticias/1291205-debatedores-defendem-manutencao-do-prazo-de-20-anos-para-patentes-de-remedios"
+    },
+    {
+      "titulo": "Setor industrial planeja mecanismo próprio para custear terapias de alto custo",
+      "resumo": "Indústria discute fundo próprio para financiar terapias avançadas e aliviar a pressão de custo na suplementar.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/propostas-da-industria-mes-para-saude-suplementar/"
+    },
+    {
+      "titulo": "Novos investimentos chineses miram parcerias e aquisições no setor de saúde brasileiro",
+      "resumo": "Empresas chinesas ampliam presença no Brasil em equipamentos, insumos e biotecnologia.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/novos-investimentos-chineses-brasil/"
+    },
+    {
+      "titulo": "Farmacêuticas apostam no modelo D2C para ganhar market share e chegar mais perto do paciente",
+      "resumo": "Indústrias criam canais diretos via farmácias, movimento puxado por GLP-1 e prescrição digital.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/farmaceuticas-mercado-d2c/"
+    },
+    {
+      "titulo": "Ministério da Saúde lança curso de inteligência artificial para a gestão do SUS",
+      "resumo": "Curso capacita gestores das três esferas no uso ético e estratégico de IA na gestão pública de saúde.",
       "veiculo": "Ministério da Saúde",
       "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/julho/ministerio-da-saude-lanca-curso-para-fortalecer-a-gestao-do-sus-com-inteligencia-artificial"
     },
     {
-      "titulo": "Médicos têm até 26 de agosto para se adaptar às novas regras de IA do CFM",
-      "resumo": "Resolução 2.454/2026 entra em vigor em agosto e mantém a decisão clínica final sob responsabilidade do médico.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-05/medicos-tem-ate-26-de-agosto-para-se-adaptar-sobre-uso-de-ia"
+      "titulo": "Judicialização na saúde suplementar ultrapassa R$ 5 bilhões e pressiona custos do setor",
+      "resumo": "Gastos com ações judiciais crescem cerca de 11% em 12 meses, com mais de 318 mil novos processos.",
+      "veiculo": "Plurall Consultoria",
+      "link": "https://plurall.com.br/plurall/judicializacao-na-saude-suplementar-supera-r-5-bilhoes/"
     },
     {
-      "titulo": "Governo abre chamamento para gerir a Rede de Hospitais Inteligentes do SUS",
-      "resumo": "Ministério da Saúde seleciona organização social para operar a rede nacional de hospitais e serviços inteligentes.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/junho/ministerio-da-saude-inicia-chamamento-para-selecao-de-entidade-a-ser-qualificada-como-organizacao-social-para-a-rede-de-hospitais-inteligentes"
-    },
-    {
-      "titulo": "Primeiro hospital inteligente do Brasil será construído em São Paulo",
-      "resumo": "Unidade de 800 leitos ligada à USP terá IA, IoT, 5G e interoperabilidade, com investimento acima de 1 bilhão de reais.",
+      "titulo": "Oncologia privada entra em nova fase com aposta em centros integrados de câncer",
+      "resumo": "Einstein, Mater Dei, Rede Américas e BP migram das clínicas de infusão para centros integrados de câncer.",
       "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/hospital-inteligente-usp/"
+      "link": "https://futurodasaude.com.br/oncologia-privada-mercado-nova-fase/"
     },
     {
-      "titulo": "Saúde digital no Brasil avança em conexão, mas segue frágil em governança",
-      "resumo": "Análise aponta contraste entre a alta conectividade dos serviços brasileiros e a baixa maturidade em governança de dados.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/saude-digital-conexao-governanca-artigo/"
-    },
-    {
-      "titulo": "Ensaio randomizado testa apoio de IA generativa na atenção primária do Quênia",
-      "resumo": "Estudo com 9.691 pacientes não encontrou redução significativa de falha terapêutica em 14 dias com apoio do GPT-4o.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04503-6"
+      "titulo": "ANS autoriza cinco novas operadoras de planos de saúde a funcionar no país",
+      "resumo": "Agência liberou cinco novas operadoras em julho, sinal de que ainda há apetite de entrada no setor.",
+      "veiculo": "CQCS",
+      "link": "https://cqcs.com.br/noticia/cinco-operadoras-de-saude-recebem-autorizacao-da-ans-para-atuar/"
     }
   ]
 }
