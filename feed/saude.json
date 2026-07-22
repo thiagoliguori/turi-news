@@ -1,79 +1,43 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-07-21",
-  "geradoEm": "2026-07-21T09:36:06-03:00",
+  "data": "2026-07-22",
+  "geradoEm": "2026-07-22T17:58:53-03:00",
   "itens": [
     {
-      "titulo": "Lula sanciona lei que institui a Estratégia Nacional do Complexo Econômico-Industrial da Saúde",
-      "resumo": "Lei torna permanente a política de produção nacional de medicamentos, vacinas e dispositivos para o SUS.",
+      "titulo": "Governo federal anuncia cerca de R$ 4 bilhões em investimentos para o SUS",
+      "resumo": "Governo federal anuncia cerca de R$ 4 bilhões em investimentos para ampliar o acesso da população aos serviços do SUS.",
       "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/lei-institui-estrategia-nacional-de-saude-do-complexo-economico-industrial-da-saude"
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/julho/governo-do-brasil-realiza-entrega-historica-de-cerca-de-r-4-bilhoes-para-o-sus-em-todo-o-pais"
     },
     {
-      "titulo": "Anvisa aprova Columvi (glofitamabe) para linfoma difuso de grandes células B",
-      "resumo": "Anticorpo biespecífico da Roche é liberado para linfoma recidivado ou refratário sem opção de transplante.",
-      "veiculo": "Anvisa",
-      "link": "https://sincofarmasp.com.br/2026/07/20/anvisa-aprova-novo-medicamento-para-linfoma-nao-hodgkin/"
+      "titulo": "Hospital universitário no Rio inaugura era de UTIs inteligentes no SUS",
+      "resumo": "Hospital universitário no Rio inaugura UTIs inteligentes no SUS, usando IA e monitoramento em tempo real dos pacientes.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/hospital-universitario-no-rio-inaugura-era-de-utis-inteligentes-no-sus"
     },
     {
-      "titulo": "ANS aprova agenda regulatória 2026-2028 com foco em reajustes coletivos e pacto intergeracional",
-      "resumo": "Agência definiu 14 temas para o triênio, entre eles reajuste coletivo, portabilidade, reembolso e descontos.",
+      "titulo": "Uso de IA na saúde chega a 18% dos estabelecimentos do país",
+      "resumo": "Uso de inteligência artificial já chega a 18% dos estabelecimentos de saúde do país, sendo 25% nos privados.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/uso-de-ia-na-saude-chega-18-dos-estabelecimentos-do-pais"
+    },
+    {
+      "titulo": "Planos de saúde apontam redução de custos e mais eficiência com o uso de IA",
+      "resumo": "Operadoras de planos de saúde relatam redução de custos e mais eficiência com uso de IA em liberações e processos.",
       "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/agenda-regulatoria-da-ans-2026-2028-aprovada/"
+      "link": "https://futurodasaude.com.br/planos-de-saude-uso-ia/"
     },
     {
-      "titulo": "Hospitais e operadoras entram na mira de hackers com o avanço da saúde digital",
-      "resumo": "Saúde vira alvo prioritário de ataques, com custo médio de vazamento no Brasil de US$ 1,36 milhão.",
-      "veiculo": "Notícias de Tecnologia",
-      "link": "https://noticiastecnologia.wordpress.com/2026/07/17/hospitais-e-operadoras-entram-na-mira-de-hackers-com-avanco-da-saude-digital/"
+      "titulo": "Anvisa aprova medicamento não hormonal contra sintomas da menopausa",
+      "resumo": "Anvisa aprova medicamento não hormonal para tratar ondas de calor e outros sintomas da menopausa em mulheres.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/anvisa-aprova-medicamento-nao-hormonal-contra-sintomas-da-menopausa"
     },
     {
-      "titulo": "Debatedores defendem manutenção do prazo de 20 anos para patentes de medicamentos",
-      "resumo": "Especialistas apontam impacto de R$ 7,1 bi a R$ 16,2 bi ao SUS caso a extensão judicial de patentes avance.",
-      "veiculo": "Câmara dos Deputados",
-      "link": "https://www.camara.leg.br/noticias/1291205-debatedores-defendem-manutencao-do-prazo-de-20-anos-para-patentes-de-remedios"
-    },
-    {
-      "titulo": "Setor industrial planeja mecanismo próprio para custear terapias de alto custo",
-      "resumo": "Indústria discute fundo próprio para financiar terapias avançadas e aliviar a pressão de custo na suplementar.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/propostas-da-industria-mes-para-saude-suplementar/"
-    },
-    {
-      "titulo": "Novos investimentos chineses miram parcerias e aquisições no setor de saúde brasileiro",
-      "resumo": "Empresas chinesas ampliam presença no Brasil em equipamentos, insumos e biotecnologia.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/novos-investimentos-chineses-brasil/"
-    },
-    {
-      "titulo": "Farmacêuticas apostam no modelo D2C para ganhar market share e chegar mais perto do paciente",
-      "resumo": "Indústrias criam canais diretos via farmácias, movimento puxado por GLP-1 e prescrição digital.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/farmaceuticas-mercado-d2c/"
-    },
-    {
-      "titulo": "Ministério da Saúde lança curso de inteligência artificial para a gestão do SUS",
-      "resumo": "Curso capacita gestores das três esferas no uso ético e estratégico de IA na gestão pública de saúde.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/julho/ministerio-da-saude-lanca-curso-para-fortalecer-a-gestao-do-sus-com-inteligencia-artificial"
-    },
-    {
-      "titulo": "Judicialização na saúde suplementar ultrapassa R$ 5 bilhões e pressiona custos do setor",
-      "resumo": "Gastos com ações judiciais crescem cerca de 11% em 12 meses, com mais de 318 mil novos processos.",
-      "veiculo": "Plurall Consultoria",
-      "link": "https://plurall.com.br/plurall/judicializacao-na-saude-suplementar-supera-r-5-bilhoes/"
-    },
-    {
-      "titulo": "Oncologia privada entra em nova fase com aposta em centros integrados de câncer",
-      "resumo": "Einstein, Mater Dei, Rede Américas e BP migram das clínicas de infusão para centros integrados de câncer.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/oncologia-privada-mercado-nova-fase/"
-    },
-    {
-      "titulo": "ANS autoriza cinco novas operadoras de planos de saúde a funcionar no país",
-      "resumo": "Agência liberou cinco novas operadoras em julho, sinal de que ainda há apetite de entrada no setor.",
-      "veiculo": "CQCS",
-      "link": "https://cqcs.com.br/noticia/cinco-operadoras-de-saude-recebem-autorizacao-da-ans-para-atuar/"
+      "titulo": "Anvisa suspende lote de medicamentos para hipertensão e câncer de mama",
+      "resumo": "Anvisa suspende lotes de medicamentos para hipertensão e câncer de mama por problemas identificados no controle de qualidade.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/anvisa-suspende-lote-de-medicamentos-para-hipertensao-e-cancer-de-mama"
     }
   ]
 }
