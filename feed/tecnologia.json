@@ -1,49 +1,43 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-07-20",
-  "geradoEm": "2026-07-20T08:31:01-03:00",
+  "data": "2026-07-22",
+  "geradoEm": "2026-07-22T17:59:00-03:00",
   "itens": [
     {
-      "titulo": "CMS sinaliza revisão de como paga por software clínico e inteligência artificial",
-      "resumo": "Agência federal quer estrutura de pagamento mais consistente, considerando o impacto dessas tecnologias nos desfechos dos pacientes.",
+      "titulo": "FDA autoriza UpDoc, primeiro software médico com modelo de linguagem voltado ao paciente",
+      "resumo": "FDA autoriza o UpDoc, primeiro software médico com modelo de linguagem voltado ao próprio paciente, para manejo do diabetes.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/07/16/cms-to-revamp-payments-for-clinical-software-ai/"
+      "link": "https://www.statnews.com/2026/07/02/fda-clearance-raises-questions-updoc-use-generative-ai-diabetes-treatment/"
     },
     {
-      "titulo": "Modelos de linguagem gerais superam ferramentas clínicas especializadas em benchmarks",
-      "resumo": "Avaliação comparou OpenEvidence e UpToDate Expert AI com GPT-5.2, Gemini 3.1 Pro e Claude Opus 4.6, com vantagem dos modelos gerais.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04431-5"
+      "titulo": "FDA libera 11 novas indicações para a solução de triagem por imagem da Aidoc",
+      "resumo": "FDA libera 11 novas indicações para a triagem por imagem da Aidoc, ampliando a priorização de pacientes em tomografia.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/fda-clears-11-new-indications-aidocs-triage-solution"
     },
     {
-      "titulo": "Corner Health capta US$ 32,5 milhões para plataforma de IA de enfermeiros de prática avançada",
-      "resumo": "Rodada liderada pela Oak HC/FT financia sistema operacional de IA que automatiza operações de consultórios de atenção primária.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/corner-health-raises-325m-ai-nurse-practitioner-platform"
+      "titulo": "Oracle Health lança prontuário eletrônico com IA agêntica e navegação por voz",
+      "resumo": "Oracle Health lança prontuário eletrônico com IA agêntica e navegação por voz para automatizar registros clínicos.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/health-tech/oracle-health-debuts-ai-powered-ehr-designed-voice-first-solution-embedded-agentic-ai"
     },
     {
-      "titulo": "Qualified Health capta US$ 125 milhões para escalar IA generativa em sistemas de saúde",
-      "resumo": "Plataforma oferece governança e monitoramento pós-implantação para hospitais que criam e operam agentes de IA.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/qualified-health-raises-125m-scale-generative-ai-health-systems"
+      "titulo": "Investimento em saúde digital soma US$ 7,4 bilhões no primeiro semestre de 2026",
+      "resumo": "Investimento em saúde digital soma US$ 7,4 bilhões no primeiro semestre de 2026, puxado pela retomada com foco em IA.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/digital-health/digital-health-brought-74b-vc-funding-ai-powered-rebound-fuels-market"
     },
     {
-      "titulo": "Neurable capta US$ 35 milhões para escalar interface cérebro-computador com IA",
-      "resumo": "Startup usa o aporte para ampliar sua tecnologia de interface cérebro-computador aplicada a monitoramento neurológico.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/neurable-raises-35m-scale-brain-computer-interface-ai"
+      "titulo": "Eric Topol analisa a chegada da IA agêntica à medicina",
+      "resumo": "Eric Topol analisa a chegada da IA agêntica à medicina, com os sistemas MIRA e AMIE que gerenciam casos completos.",
+      "veiculo": "Ground Truths",
+      "link": "https://erictopol.substack.com/p/agentic-ai-comes-to-medicine"
     },
     {
-      "titulo": "HHS divulga conclusões de consulta pública ampla sobre inteligência artificial",
-      "resumo": "Departamento de Saúde dos EUA detalha o que ouviu do setor sobre regulação, adoção e barreiras ao uso de IA.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/hhs-update-artificial-intelligence-ai-request-information/823884/"
-    },
-    {
-      "titulo": "Documentação clínica ambiente começa a mostrar retorno mensurável em hospitais",
-      "resumo": "Executivos relatam ganhos de tempo e retenção de profissionais com escuta ambiente integrada aos prontuários eletrônicos.",
-      "veiculo": "Chief Healthcare Executive",
-      "link": "https://www.chiefhealthcareexecutive.com/view/seeing-promising-returns-in-ambient-documentation-vive-2026"
+      "titulo": "OpenEvidence vai incorporar IA aprovada pela FDA para detectar doença cardíaca",
+      "resumo": "OpenEvidence vai incorporar IA aprovada pela FDA para detectar doença cardíaca, ampliando seu buscador clínico usado por médicos.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/06/23/openevidence-fda-cleared-heart-disease-ai-health-tech/"
     }
   ]
 }
