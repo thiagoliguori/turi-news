@@ -1,43 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-07-22",
-  "geradoEm": "2026-07-22T17:59:00-03:00",
+  "data": "2026-07-23",
+  "geradoEm": "2026-07-23T09:03:09-03:00",
   "itens": [
     {
-      "titulo": "FDA autoriza UpDoc, primeiro software médico com modelo de linguagem voltado ao paciente",
-      "resumo": "FDA autoriza o UpDoc, primeiro software médico com modelo de linguagem voltado ao próprio paciente, para manejo do diabetes.",
+      "titulo": "Mayo Clinic testa como a inteligência artificial pode transformar o atendimento em saúde",
+      "resumo": "Mayo Clinic já opera mais de 150 modelos de IA, incluindo ferramenta que resume prontuários e economiza minutos por consulta.",
+      "veiculo": "CNN",
+      "link": "https://www.cnn.com/2026/07/16/tech/mayo-clinic-ai-healthcare"
+    },
+    {
+      "titulo": "CMS sinaliza mudança na forma de pagar por software clínico e IA nos Estados Unidos",
+      "resumo": "Agência americana propõe estrutura de pagamento mais consistente para software clínico e IA, considerando o impacto nos desfechos dos pacientes.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/07/02/fda-clearance-raises-questions-updoc-use-generative-ai-diabetes-treatment/"
+      "link": "https://www.statnews.com/2026/07/16/cms-to-revamp-payments-for-clinical-software-ai/"
     },
     {
-      "titulo": "FDA libera 11 novas indicações para a solução de triagem por imagem da Aidoc",
-      "resumo": "FDA libera 11 novas indicações para a triagem por imagem da Aidoc, ampliando a priorização de pacientes em tomografia.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/fda-clears-11-new-indications-aidocs-triage-solution"
+      "titulo": "FDA autoriza sistema robótico de estimulação magnética transcraniana da Zeta Surgical",
+      "resumo": "FDA libera sistema robótico da Zeta que posiciona bobinas de estimulação magnética com precisão submilimétrica para depressão resistente ao tratamento.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/zeta-surgicals-robotic-tms-system-receives-fda-clearance"
     },
     {
-      "titulo": "Oracle Health lança prontuário eletrônico com IA agêntica e navegação por voz",
-      "resumo": "Oracle Health lança prontuário eletrônico com IA agêntica e navegação por voz para automatizar registros clínicos.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/health-tech/oracle-health-debuts-ai-powered-ehr-designed-voice-first-solution-embedded-agentic-ai"
+      "titulo": "FDA aprova software de IA para rastreamento automatizado de retinopatia diabética",
+      "resumo": "FDA libera o iPredict-DR, da iHealthScreen, que detecta retinopatia diabética em imagens de retina sem depender de oftalmologista.",
+      "veiculo": "Healio",
+      "link": "https://www.healio.com/news/ophthalmology/20260709/fda-clears-aipowered-screening-software-for-diabetic-retinopathy"
     },
     {
-      "titulo": "Investimento em saúde digital soma US$ 7,4 bilhões no primeiro semestre de 2026",
-      "resumo": "Investimento em saúde digital soma US$ 7,4 bilhões no primeiro semestre de 2026, puxado pela retomada com foco em IA.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/digital-health/digital-health-brought-74b-vc-funding-ai-powered-rebound-fuels-market"
+      "titulo": "OpenEvidence e Boston Children's estudam o impacto do uso de IA no cuidado clínico",
+      "resumo": "Parceria integra a plataforma de evidências da OpenEvidence ao prontuário para avaliar como o uso de IA muda a prática clínica.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/openevidence-boston-childrens-partner-study-ais-impact-clinical-care"
     },
     {
-      "titulo": "Eric Topol analisa a chegada da IA agêntica à medicina",
-      "resumo": "Eric Topol analisa a chegada da IA agêntica à medicina, com os sistemas MIRA e AMIE que gerenciam casos completos.",
-      "veiculo": "Ground Truths",
-      "link": "https://erictopol.substack.com/p/agentic-ai-comes-to-medicine"
+      "titulo": "Aidoc recebe status de breakthrough da FDA para IA que redige laudos de radiologia",
+      "resumo": "FDA concede status de breakthrough à IA da Aidoc que redige rascunhos de laudos radiológicos para revisão do médico.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/aidoc-lands-fda-breakthrough-status-ai-drafts-radiology-reports"
     },
     {
-      "titulo": "OpenEvidence vai incorporar IA aprovada pela FDA para detectar doença cardíaca",
-      "resumo": "OpenEvidence vai incorporar IA aprovada pela FDA para detectar doença cardíaca, ampliando seu buscador clínico usado por médicos.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/06/23/openevidence-fda-cleared-heart-disease-ai-health-tech/"
+      "titulo": "Estudo de Stanford mostra que IA pode aliviar a carga dos resumos de alta hospitalar",
+      "resumo": "Pesquisadores de Stanford apontam que modelos de linguagem podem gerar resumos de alta hospitalar e reduzir a sobrecarga dos médicos.",
+      "veiculo": "Stanford Medicine",
+      "link": "https://med.stanford.edu/news/all-news/2026/06/ai-discharge-summary.html"
     }
   ]
 }
