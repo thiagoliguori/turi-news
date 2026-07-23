@@ -1,43 +1,43 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-07-22",
-  "geradoEm": "2026-07-22T17:58:53-03:00",
+  "data": "2026-07-23",
+  "geradoEm": "2026-07-23T09:03:03-03:00",
   "itens": [
     {
-      "titulo": "Governo federal anuncia cerca de R$ 4 bilhões em investimentos para o SUS",
-      "resumo": "Governo federal anuncia cerca de R$ 4 bilhões em investimentos para ampliar o acesso da população aos serviços do SUS.",
+      "titulo": "Lula sanciona lei que cria Estratégia Nacional do Complexo Econômico-Industrial da Saúde",
+      "resumo": "Nova lei institui a Ensceis para reduzir a dependência externa do SUS em medicamentos, vacinas e dispositivos, com preferência a empresas nacionais.",
       "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/julho/governo-do-brasil-realiza-entrega-historica-de-cerca-de-r-4-bilhoes-para-o-sus-em-todo-o-pais"
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/lei-institui-estrategia-nacional-de-saude-do-complexo-economico-industrial-da-saude"
     },
     {
-      "titulo": "Hospital universitário no Rio inaugura era de UTIs inteligentes no SUS",
-      "resumo": "Hospital universitário no Rio inaugura UTIs inteligentes no SUS, usando IA e monitoramento em tempo real dos pacientes.",
+      "titulo": "Ministério da Saúde lança curso para fortalecer a gestão do SUS com inteligência artificial",
+      "resumo": "Ministério da Saúde abre curso de aperfeiçoamento para gestores usarem IA de forma ética e estratégica na gestão pública do SUS.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/julho/ministerio-da-saude-lanca-curso-para-fortalecer-a-gestao-do-sus-com-inteligencia-artificial"
+    },
+    {
+      "titulo": "Médicos têm até 26 de agosto para se adaptar às novas regras de IA do CFM",
+      "resumo": "Resolução do CFM entra em vigor em agosto e mantém no médico a decisão final sobre diagnóstico e tratamento apoiados por IA.",
       "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/hospital-universitario-no-rio-inaugura-era-de-utis-inteligentes-no-sus"
+      "link": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-05/medicos-tem-ate-26-de-agosto-para-se-adaptar-sobre-uso-de-ia"
     },
     {
-      "titulo": "Uso de IA na saúde chega a 18% dos estabelecimentos do país",
-      "resumo": "Uso de inteligência artificial já chega a 18% dos estabelecimentos de saúde do país, sendo 25% nos privados.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/uso-de-ia-na-saude-chega-18-dos-estabelecimentos-do-pais"
+      "titulo": "Governo prepara contratação de soluções de inteligência artificial para o SUS ainda em 2026",
+      "resumo": "Ministério da Saúde deve contratar soluções de IA e saúde digital para o SUS e habilitou 273 propostas de tecnologia.",
+      "veiculo": "DPL News",
+      "link": "https://dplnews.com/brasil-prepara-contratacao-solucoes-ia-para-sus-2026/"
     },
     {
-      "titulo": "Planos de saúde apontam redução de custos e mais eficiência com o uso de IA",
-      "resumo": "Operadoras de planos de saúde relatam redução de custos e mais eficiência com uso de IA em liberações e processos.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/planos-de-saude-uso-ia/"
+      "titulo": "Anvisa rejeita pedidos de autorização de seis empresas do setor de saúde",
+      "resumo": "Anvisa negou autorização de funcionamento a seis empresas de saúde, parte delas por não cumprir prazos e exigências da agência.",
+      "veiculo": "O Tempo",
+      "link": "https://www.otempo.com.br/politica/2026/7/21/anvisa-rejeita-autorizacao-de-seis-empresas-do-setor-de-saude"
     },
     {
-      "titulo": "Anvisa aprova medicamento não hormonal contra sintomas da menopausa",
-      "resumo": "Anvisa aprova medicamento não hormonal para tratar ondas de calor e outros sintomas da menopausa em mulheres.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/anvisa-aprova-medicamento-nao-hormonal-contra-sintomas-da-menopausa"
-    },
-    {
-      "titulo": "Anvisa suspende lote de medicamentos para hipertensão e câncer de mama",
-      "resumo": "Anvisa suspende lotes de medicamentos para hipertensão e câncer de mama por problemas identificados no controle de qualidade.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/anvisa-suspende-lote-de-medicamentos-para-hipertensao-e-cancer-de-mama"
+      "titulo": "Panorama da Saúde Digital 2026 aponta avanço da inteligência artificial no Brasil",
+      "resumo": "Levantamento mostra IA já integrada a hospitais brasileiros em diagnóstico por imagem, passagem de plantão e resumo de alta.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/edicao34/"
     }
   ]
 }
