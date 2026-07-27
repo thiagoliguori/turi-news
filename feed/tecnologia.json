@@ -1,49 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-07-23",
-  "geradoEm": "2026-07-23T09:03:09-03:00",
+  "data": "2026-07-26",
+  "geradoEm": "2026-07-26T21:55:42-03:00",
   "itens": [
     {
-      "titulo": "Mayo Clinic testa como a inteligência artificial pode transformar o atendimento em saúde",
-      "resumo": "Mayo Clinic já opera mais de 150 modelos de IA, incluindo ferramenta que resume prontuários e economiza minutos por consulta.",
-      "veiculo": "CNN",
-      "link": "https://www.cnn.com/2026/07/16/tech/mayo-clinic-ai-healthcare"
+      "titulo": "NHS acelera adoção de inteligência artificial para reduzir filas e melhorar o atendimento",
+      "resumo": "Serviço britânico vai levar triagem por IA ao aplicativo e ampliar transcrição automática de consultas para reduzir burocracia.",
+      "veiculo": "NHS England",
+      "link": "https://www.england.nhs.uk/2026/07/nhs-accelerates-artificial-intelligence-rollout-to-cut-waiting-times-and-improve-care-for-millions/"
     },
     {
-      "titulo": "CMS sinaliza mudança na forma de pagar por software clínico e IA nos Estados Unidos",
-      "resumo": "Agência americana propõe estrutura de pagamento mais consistente para software clínico e IA, considerando o impacto nos desfechos dos pacientes.",
+      "titulo": "FDA libera primeiro software médico com modelo de linguagem que conversa com o paciente",
+      "resumo": "Autorização da UpDoc cobre ajuste de insulina no diabetes tipo 2 e abre discussão sobre supervisão de IA generativa.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/07/16/cms-to-revamp-payments-for-clinical-software-ai/"
+      "link": "https://www.statnews.com/2026/07/02/fda-clearance-raises-questions-updoc-use-generative-ai-diabetes-treatment/"
     },
     {
-      "titulo": "FDA autoriza sistema robótico de estimulação magnética transcraniana da Zeta Surgical",
-      "resumo": "FDA libera sistema robótico da Zeta que posiciona bobinas de estimulação magnética com precisão submilimétrica para depressão resistente ao tratamento.",
+      "titulo": "Modelos de linguagem de uso geral superam ferramentas clínicas especializadas em testes médicos",
+      "resumo": "Estudo comparou modelos de fronteira com plataformas clínicas dedicadas e viu vantagem dos modelos gerais nas três avaliações.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/articles/s41591-026-04431-5"
+    },
+    {
+      "titulo": "Ensaio randomizado testa apoio à decisão com IA generativa na atenção primária do Quênia",
+      "resumo": "Com 9.691 pacientes, o estudo não encontrou redução significativa de falha terapêutica em 14 dias frente ao cuidado usual.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/articles/s41591-026-04503-6"
+    },
+    {
+      "titulo": "Eric Topol: a medicina está saindo do calendário e indo para os relógios biológicos",
+      "resumo": "Proteínas do sangue analisadas por IA permitem medir o envelhecimento de cada órgão, deslocando o foco da idade cronológica.",
+      "veiculo": "Ground Truths",
+      "link": "https://erictopol.substack.com/p/medicine-is-moving-from-calendars"
+    },
+    {
+      "titulo": "Estudo global aponta enfermeiros ficando de fora da adoção de IA clínica",
+      "resumo": "Pesquisa com profissionais de 118 países mostra 41% dos enfermeiros usando IA com frequência, contra 57% dos médicos.",
+      "veiculo": "Elsevier",
+      "link": "https://www.elsevier.com/about/press-releases/global-study-of-clinicians-by-elsevier-finds-nurses-being-left-out-of-clinical-ai-adoption"
+    },
+    {
+      "titulo": "Candid Health capta 120 milhões de dólares para plataforma de ciclo de receita com IA",
+      "resumo": "Rodada série D liderada pela Sixth Street Growth triplicou o valuation da empresa em relação ao aporte anterior.",
       "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/zeta-surgicals-robotic-tms-system-receives-fda-clearance"
-    },
-    {
-      "titulo": "FDA aprova software de IA para rastreamento automatizado de retinopatia diabética",
-      "resumo": "FDA libera o iPredict-DR, da iHealthScreen, que detecta retinopatia diabética em imagens de retina sem depender de oftalmologista.",
-      "veiculo": "Healio",
-      "link": "https://www.healio.com/news/ophthalmology/20260709/fda-clears-aipowered-screening-software-for-diabetic-retinopathy"
-    },
-    {
-      "titulo": "OpenEvidence e Boston Children's estudam o impacto do uso de IA no cuidado clínico",
-      "resumo": "Parceria integra a plataforma de evidências da OpenEvidence ao prontuário para avaliar como o uso de IA muda a prática clínica.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/openevidence-boston-childrens-partner-study-ais-impact-clinical-care"
-    },
-    {
-      "titulo": "Aidoc recebe status de breakthrough da FDA para IA que redige laudos de radiologia",
-      "resumo": "FDA concede status de breakthrough à IA da Aidoc que redige rascunhos de laudos radiológicos para revisão do médico.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/aidoc-lands-fda-breakthrough-status-ai-drafts-radiology-reports"
-    },
-    {
-      "titulo": "Estudo de Stanford mostra que IA pode aliviar a carga dos resumos de alta hospitalar",
-      "resumo": "Pesquisadores de Stanford apontam que modelos de linguagem podem gerar resumos de alta hospitalar e reduzir a sobrecarga dos médicos.",
-      "veiculo": "Stanford Medicine",
-      "link": "https://med.stanford.edu/news/all-news/2026/06/ai-discharge-summary.html"
+      "link": "https://www.mobihealthnews.com/news/candid-health-raises-120m-ai-revenue-cycle-management-platform"
     }
   ]
 }
