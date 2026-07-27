@@ -1,49 +1,49 @@
 {
   "fonte": "A saúde em News",
   "data": "2026-07-26",
-  "geradoEm": "2026-07-26T21:55:33-03:00",
+  "geradoEm": "2026-07-26T22:29:59-03:00",
   "itens": [
     {
-      "titulo": "Prontuário eletrônico e-SUS APS ganha recursos para pré-natal, puerpério, vacinação e prescrições",
-      "resumo": "Atualização do prontuário da atenção primária traz cadastro individual, pré-natal, puerpério, vacinação e prescrições para equipes do SUS.",
+      "titulo": "Ministério da Saúde lança curso de inteligência artificial para gestores do SUS",
+      "resumo": "São 12 mil vagas gratuitas em curso sobre uso ético e estratégico de IA na gestão pública de saúde.",
       "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/prontuario-eletronico-e-sus-aps-disponibiliza-recursos-para-pre-natal-puerperio-vacinacao-e-prescricoes"
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/julho/ministerio-da-saude-lanca-curso-para-fortalecer-a-gestao-do-sus-com-inteligencia-artificial"
     },
     {
-      "titulo": "Hackathon SUS reúne startups do Centro-Oeste e do Norte em etapa regional",
-      "resumo": "Seis startups apresentaram soluções tecnológicas contra o câncer e três seguem para a etapa nacional, prevista para dezembro.",
+      "titulo": "Rede Nacional de Dados em Saúde entra na etapa de municipalização",
+      "resumo": "Estratégia de federalização da RNDS avança para os municípios e amplia o acesso dos gestores locais às informações.",
       "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/hackathon-sus-reune-startups-das-regioes-centro-oeste-e-norte-em-etapa-regional"
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/ministerio-da-saude-apresenta-estrategia-sobre-rede-nacional-de-dados-em-saude"
     },
     {
-      "titulo": "Ministério da Saúde estabelece lista de medicamentos oncológicos de altíssimo custo",
-      "resumo": "Nova lista organiza critérios de compra e financiamento dos oncológicos mais caros ofertados pelo SUS aos pacientes.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/ministerio-da-saude-estabelece-lista-de-medicamentos-oncologicos-de-altissimo-custo"
+      "titulo": "Lei cria política para fortalecer o complexo industrial da saúde no Brasil",
+      "resumo": "Nova política busca reduzir a dependência tecnológica do país na produção de medicamentos, vacinas e equipamentos para o SUS.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/lei-cria-politica-para-fortalecer-industria-da-saude"
     },
     {
-      "titulo": "Ministério da Saúde institui comitê para negociação de preços nas compras do SUS",
-      "resumo": "Comitê vai negociar preços de medicamentos e insumos estratégicos para reduzir custos nas aquisições públicas do SUS.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/ministerio-da-saude-institui-comite-para-negociacao-de-precos-nas-compras-do-sus"
+      "titulo": "IBGE inicia coleta da Pesquisa Nacional de Saúde 2026",
+      "resumo": "Levantamento visita 140 mil domicílios para mapear condições de saúde, hábitos de vida e acesso a serviços.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/ibge-inicia-coleta-da-pesquisa-nacional-de-saude-2026"
     },
     {
-      "titulo": "Fórum Saúde Digital debate IA, interoperabilidade e cibersegurança no setor",
-      "resumo": "Evento reuniu líderes do setor para discutir inteligência artificial, interoperabilidade e os rumos da transformação digital na saúde.",
-      "veiculo": "TI Inside",
-      "link": "https://tiinside.com.br/22/07/2026/forum-saude-digital-reune-os-principais-lideres-do-setor-para-discutir-ia-interoperabilidade-ciberseguranca-e-o-futuro-da-transformacao-digital-na-saude/"
+      "titulo": "Nova resolução do CFM põe fim à IA informal e exige governança corporativa",
+      "resumo": "Resolução CFM 2.454 entra em vigor em agosto e obriga instituições a governar e auditar o uso clínico de IA.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/eval-ia-corporativa/"
     },
     {
-      "titulo": "IA na saúde avança, mas infraestrutura ainda é o maior desafio dos hospitais",
-      "resumo": "Levantamento aponta que a falta de infraestrutura de dados ainda trava a adoção de inteligência artificial em hospitais brasileiros.",
-      "veiculo": "Tecflow",
-      "link": "https://tecflow.com.br/2026/07/21/ia-na-saude-infraestrutura-hospitais-desafios-nutanix/"
+      "titulo": "Enquanto o Brasil discute inovação, outros países já reinventaram o hospital",
+      "resumo": "Artigo compara o debate brasileiro de inovação com sistemas de saúde que já redesenharam o modelo hospitalar.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/15/07/2026/enquanto-discutimos-inovacao-na-saude-outros-paises-ja-reinventaram-o-hospital/"
     },
     {
-      "titulo": "Clínicos adotam IA no trabalho, mas hospitais ficam para trás em treinamento e governança",
-      "resumo": "Pesquisa global mostra metade dos clínicos usando IA no trabalho, com pouca governança e treinamento oferecidos pelos empregadores.",
-      "veiculo": "Business Standard",
-      "link": "https://www.business-standard.com/technology/tech-news/ai-mainstream-healthcare-clinicians-trust-training-governance-126072100522_1.html"
+      "titulo": "Governança de IA em hospitais precisa subir para o nível da diretoria",
+      "resumo": "Texto defende que a responsabilidade pela segurança dos sistemas de IA seja do topo da gestão hospitalar.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/07/22/hospital-ai-systems-ceo-leadership-accountability-governance/"
     }
   ]
 }
