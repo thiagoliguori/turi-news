@@ -1,43 +1,49 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-07-23",
-  "geradoEm": "2026-07-23T09:03:03-03:00",
+  "data": "2026-07-26",
+  "geradoEm": "2026-07-26T21:55:33-03:00",
   "itens": [
     {
-      "titulo": "Lula sanciona lei que cria Estratégia Nacional do Complexo Econômico-Industrial da Saúde",
-      "resumo": "Nova lei institui a Ensceis para reduzir a dependência externa do SUS em medicamentos, vacinas e dispositivos, com preferência a empresas nacionais.",
+      "titulo": "Prontuário eletrônico e-SUS APS ganha recursos para pré-natal, puerpério, vacinação e prescrições",
+      "resumo": "Atualização do prontuário da atenção primária traz cadastro individual, pré-natal, puerpério, vacinação e prescrições para equipes do SUS.",
       "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/lei-institui-estrategia-nacional-de-saude-do-complexo-economico-industrial-da-saude"
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/prontuario-eletronico-e-sus-aps-disponibiliza-recursos-para-pre-natal-puerperio-vacinacao-e-prescricoes"
     },
     {
-      "titulo": "Ministério da Saúde lança curso para fortalecer a gestão do SUS com inteligência artificial",
-      "resumo": "Ministério da Saúde abre curso de aperfeiçoamento para gestores usarem IA de forma ética e estratégica na gestão pública do SUS.",
+      "titulo": "Hackathon SUS reúne startups do Centro-Oeste e do Norte em etapa regional",
+      "resumo": "Seis startups apresentaram soluções tecnológicas contra o câncer e três seguem para a etapa nacional, prevista para dezembro.",
       "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/julho/ministerio-da-saude-lanca-curso-para-fortalecer-a-gestao-do-sus-com-inteligencia-artificial"
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/hackathon-sus-reune-startups-das-regioes-centro-oeste-e-norte-em-etapa-regional"
     },
     {
-      "titulo": "Médicos têm até 26 de agosto para se adaptar às novas regras de IA do CFM",
-      "resumo": "Resolução do CFM entra em vigor em agosto e mantém no médico a decisão final sobre diagnóstico e tratamento apoiados por IA.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-05/medicos-tem-ate-26-de-agosto-para-se-adaptar-sobre-uso-de-ia"
+      "titulo": "Ministério da Saúde estabelece lista de medicamentos oncológicos de altíssimo custo",
+      "resumo": "Nova lista organiza critérios de compra e financiamento dos oncológicos mais caros ofertados pelo SUS aos pacientes.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/ministerio-da-saude-estabelece-lista-de-medicamentos-oncologicos-de-altissimo-custo"
     },
     {
-      "titulo": "Governo prepara contratação de soluções de inteligência artificial para o SUS ainda em 2026",
-      "resumo": "Ministério da Saúde deve contratar soluções de IA e saúde digital para o SUS e habilitou 273 propostas de tecnologia.",
-      "veiculo": "DPL News",
-      "link": "https://dplnews.com/brasil-prepara-contratacao-solucoes-ia-para-sus-2026/"
+      "titulo": "Ministério da Saúde institui comitê para negociação de preços nas compras do SUS",
+      "resumo": "Comitê vai negociar preços de medicamentos e insumos estratégicos para reduzir custos nas aquisições públicas do SUS.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/ministerio-da-saude-institui-comite-para-negociacao-de-precos-nas-compras-do-sus"
     },
     {
-      "titulo": "Anvisa rejeita pedidos de autorização de seis empresas do setor de saúde",
-      "resumo": "Anvisa negou autorização de funcionamento a seis empresas de saúde, parte delas por não cumprir prazos e exigências da agência.",
-      "veiculo": "O Tempo",
-      "link": "https://www.otempo.com.br/politica/2026/7/21/anvisa-rejeita-autorizacao-de-seis-empresas-do-setor-de-saude"
+      "titulo": "Fórum Saúde Digital debate IA, interoperabilidade e cibersegurança no setor",
+      "resumo": "Evento reuniu líderes do setor para discutir inteligência artificial, interoperabilidade e os rumos da transformação digital na saúde.",
+      "veiculo": "TI Inside",
+      "link": "https://tiinside.com.br/22/07/2026/forum-saude-digital-reune-os-principais-lideres-do-setor-para-discutir-ia-interoperabilidade-ciberseguranca-e-o-futuro-da-transformacao-digital-na-saude/"
     },
     {
-      "titulo": "Panorama da Saúde Digital 2026 aponta avanço da inteligência artificial no Brasil",
-      "resumo": "Levantamento mostra IA já integrada a hospitais brasileiros em diagnóstico por imagem, passagem de plantão e resumo de alta.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/edicao34/"
+      "titulo": "IA na saúde avança, mas infraestrutura ainda é o maior desafio dos hospitais",
+      "resumo": "Levantamento aponta que a falta de infraestrutura de dados ainda trava a adoção de inteligência artificial em hospitais brasileiros.",
+      "veiculo": "Tecflow",
+      "link": "https://tecflow.com.br/2026/07/21/ia-na-saude-infraestrutura-hospitais-desafios-nutanix/"
+    },
+    {
+      "titulo": "Clínicos adotam IA no trabalho, mas hospitais ficam para trás em treinamento e governança",
+      "resumo": "Pesquisa global mostra metade dos clínicos usando IA no trabalho, com pouca governança e treinamento oferecidos pelos empregadores.",
+      "veiculo": "Business Standard",
+      "link": "https://www.business-standard.com/technology/tech-news/ai-mainstream-healthcare-clinicians-trust-training-governance-126072100522_1.html"
     }
   ]
 }
