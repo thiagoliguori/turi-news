@@ -1,49 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
   "data": "2026-07-26",
-  "geradoEm": "2026-07-26T21:55:42-03:00",
+  "geradoEm": "2026-07-26T22:30:05-03:00",
   "itens": [
     {
-      "titulo": "NHS acelera adoção de inteligência artificial para reduzir filas e melhorar o atendimento",
-      "resumo": "Serviço britânico vai levar triagem por IA ao aplicativo e ampliar transcrição automática de consultas para reduzir burocracia.",
-      "veiculo": "NHS England",
-      "link": "https://www.england.nhs.uk/2026/07/nhs-accelerates-artificial-intelligence-rollout-to-cut-waiting-times-and-improve-care-for-millions/"
-    },
-    {
-      "titulo": "FDA libera primeiro software médico com modelo de linguagem que conversa com o paciente",
-      "resumo": "Autorização da UpDoc cobre ajuste de insulina no diabetes tipo 2 e abre discussão sobre supervisão de IA generativa.",
+      "titulo": "Casa Branca e HHS convocam especialistas para definir padrões de IA clínica",
+      "resumo": "Objetivo é chegar a um conjunto consensual de princípios para avaliação e comparação de modelos clínicos.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/07/02/fda-clearance-raises-questions-updoc-use-generative-ai-diabetes-treatment/"
+      "link": "https://www.statnews.com/2026/07/23/hhs-convenes-experts-on-clinical-ai-health-tech/"
     },
     {
-      "titulo": "Modelos de linguagem de uso geral superam ferramentas clínicas especializadas em testes médicos",
-      "resumo": "Estudo comparou modelos de fronteira com plataformas clínicas dedicadas e viu vantagem dos modelos gerais nas três avaliações.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04431-5"
+      "titulo": "CMS sinaliza mudança na forma de pagar por software clínico e inteligência artificial",
+      "resumo": "Agência quer estrutura padronizada de pagamento que considere o impacto das ferramentas nos desfechos dos pacientes.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/07/16/cms-to-revamp-payments-for-clinical-software-ai/"
     },
     {
-      "titulo": "Ensaio randomizado testa apoio à decisão com IA generativa na atenção primária do Quênia",
-      "resumo": "Com 9.691 pacientes, o estudo não encontrou redução significativa de falha terapêutica em 14 dias frente ao cuidado usual.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04503-6"
+      "titulo": "Denúncia expõe conflitos internos na adoção de IA pela Mayo Clinic",
+      "resumo": "Ex-funcionária afirma em processo que foi afastada após questionar práticas na implantação de tecnologia e IA.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/07/15/mayo-whistleblower-sutter-abridge-lawsuit-news-ai-prognosis/"
     },
     {
-      "titulo": "Eric Topol: a medicina está saindo do calendário e indo para os relógios biológicos",
-      "resumo": "Proteínas do sangue analisadas por IA permitem medir o envelhecimento de cada órgão, deslocando o foco da idade cronológica.",
+      "titulo": "Eric Topol: a IA agêntica chega à medicina",
+      "resumo": "Análise de dois trabalhos publicados na Nature que passam do apoio diagnóstico para planos de cuidado completos.",
       "veiculo": "Ground Truths",
-      "link": "https://erictopol.substack.com/p/medicine-is-moving-from-calendars"
+      "link": "https://erictopol.substack.com/p/agentic-ai-comes-to-medicine"
     },
     {
-      "titulo": "Estudo global aponta enfermeiros ficando de fora da adoção de IA clínica",
-      "resumo": "Pesquisa com profissionais de 118 países mostra 41% dos enfermeiros usando IA com frequência, contra 57% dos médicos.",
-      "veiculo": "Elsevier",
-      "link": "https://www.elsevier.com/about/press-releases/global-study-of-clinicians-by-elsevier-finds-nurses-being-left-out-of-clinical-ai-adoption"
-    },
-    {
-      "titulo": "Candid Health capta 120 milhões de dólares para plataforma de ciclo de receita com IA",
-      "resumo": "Rodada série D liderada pela Sixth Street Growth triplicou o valuation da empresa em relação ao aporte anterior.",
+      "titulo": "Hemispheric capta 52 milhões de dólares para modelo de fundação do cérebro",
+      "resumo": "O modelo Descartes foi treinado com mais de 250 mil horas de dados de atividade cerebral e comportamento.",
       "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/candid-health-raises-120m-ai-revenue-cycle-management-platform"
+      "link": "https://www.mobihealthnews.com/news/hemispheric-raises-52m-ai-brain-foundation-model"
+    },
+    {
+      "titulo": "Qualified Health levanta 125 milhões de dólares para IA corporativa em sistemas de saúde",
+      "resumo": "Rodada financia a expansão da plataforma que governa e escala aplicações de IA dentro de hospitais.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/qualified-health-locks-125m-fresh-funding-scale-ai-health-systems"
+    },
+    {
+      "titulo": "Coalizão de IA em saúde lança iniciativa para agências de saúde pública",
+      "resumo": "Programa apoia órgãos públicos americanos a avaliar, implementar e escalar soluções de IA generativa.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/coalition-health-ai-launches-implementation-initiative-public-health"
     }
   ]
 }
