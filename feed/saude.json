@@ -1,49 +1,49 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-07-26",
-  "geradoEm": "2026-07-26T22:29:59-03:00",
+  "data": "2026-07-28",
+  "geradoEm": "2026-07-28T09:12:23-03:00",
   "itens": [
     {
-      "titulo": "Ministério da Saúde lança curso de inteligência artificial para gestores do SUS",
-      "resumo": "São 12 mil vagas gratuitas em curso sobre uso ético e estratégico de IA na gestão pública de saúde.",
+      "titulo": "ANS vai ampliar uso de IA e alerta para uso indevido pelas operadoras",
+      "resumo": "Agência quer usar IA na própria gestão e vigiar operadoras para que a tecnologia não vire barreira de acesso.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/ans-ampliar-inteligencia-artificial/"
+    },
+    {
+      "titulo": "Prontuário eletrônico do e-SUS APS ganha recursos para pré-natal, vacinação e prescrições",
+      "resumo": "Nova versão traz módulo de cadastro reformulado e melhorias no registro de pré-natal, puerpério e imunizações.",
       "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/julho/ministerio-da-saude-lanca-curso-para-fortalecer-a-gestao-do-sus-com-inteligencia-artificial"
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/prontuario-eletronico-e-sus-aps-disponibiliza-recursos-para-pre-natal-puerperio-vacinacao-e-prescricoes"
     },
     {
-      "titulo": "Rede Nacional de Dados em Saúde entra na etapa de municipalização",
-      "resumo": "Estratégia de federalização da RNDS avança para os municípios e amplia o acesso dos gestores locais às informações.",
+      "titulo": "Hackathon SUS reúne startups das regiões Centro-Oeste e Norte em etapa regional",
+      "resumo": "Competição busca soluções digitais de startups para desafios reais do sistema público de saúde.",
       "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/ministerio-da-saude-apresenta-estrategia-sobre-rede-nacional-de-dados-em-saude"
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/hackathon-sus-reune-startups-das-regioes-centro-oeste-e-norte-em-etapa-regional"
     },
     {
-      "titulo": "Lei cria política para fortalecer o complexo industrial da saúde no Brasil",
-      "resumo": "Nova política busca reduzir a dependência tecnológica do país na produção de medicamentos, vacinas e equipamentos para o SUS.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/lei-cria-politica-para-fortalecer-industria-da-saude"
+      "titulo": "Ministério da Saúde estabelece lista de medicamentos oncológicos de altíssimo custo",
+      "resumo": "Definição da lista organiza a compra centralizada e o acesso a terapias oncológicas caras no SUS.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/ministerio-da-saude-estabelece-lista-de-medicamentos-oncologicos-de-altissimo-custo"
     },
     {
-      "titulo": "IBGE inicia coleta da Pesquisa Nacional de Saúde 2026",
-      "resumo": "Levantamento visita 140 mil domicílios para mapear condições de saúde, hábitos de vida e acesso a serviços.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/ibge-inicia-coleta-da-pesquisa-nacional-de-saude-2026"
+      "titulo": "Estudo aponta eficácia da radiofrequência na redução da dor crônica",
+      "resumo": "Pesquisa mostra melhora do quadro de dor crônica em pacientes tratados com radiofrequência.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/estudo-aponta-eficacia-de-tratamento-por-radiofrequencia-na-reducao-de-dor-cronica"
     },
     {
-      "titulo": "Nova resolução do CFM põe fim à IA informal e exige governança corporativa",
-      "resumo": "Resolução CFM 2.454 entra em vigor em agosto e obriga instituições a governar e auditar o uso clínico de IA.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/eval-ia-corporativa/"
-    },
-    {
-      "titulo": "Enquanto o Brasil discute inovação, outros países já reinventaram o hospital",
-      "resumo": "Artigo compara o debate brasileiro de inovação com sistemas de saúde que já redesenharam o modelo hospitalar.",
+      "titulo": "Einstein lança programa executivo sobre IA e saúde digital para líderes do setor",
+      "resumo": "Formação para alta liderança discute estratégia de adoção de IA, com aulas em São Paulo entre agosto e dezembro.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/15/07/2026/enquanto-discutimos-inovacao-na-saude-outros-paises-ja-reinventaram-o-hospital/"
+      "link": "https://saudedigitalnews.com.br/21/07/2026/einstein-lanca-programa-executivo-sobre-ia-e-saude-digital-para-lideres-da-transformacao-no-setor/"
     },
     {
-      "titulo": "Governança de IA em hospitais precisa subir para o nível da diretoria",
-      "resumo": "Texto defende que a responsabilidade pela segurança dos sistemas de IA seja do topo da gestão hospitalar.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/07/22/hospital-ai-systems-ceo-leadership-accountability-governance/"
+      "titulo": "O papel da inteligência artificial e o impacto da tecnologia no SUS",
+      "resumo": "Artigo analisa como IA e tecnologia podem mudar a gestão e o atendimento no sistema público brasileiro.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/24/07/2026/o-papel-da-inteligencia-artificial-e-o-impacto-da-tecnologia-no-sus/"
     }
   ]
 }
