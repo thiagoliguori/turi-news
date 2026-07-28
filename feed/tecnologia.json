@@ -1,49 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-07-26",
-  "geradoEm": "2026-07-26T22:30:05-03:00",
+  "data": "2026-07-28",
+  "geradoEm": "2026-07-28T09:12:41-03:00",
   "itens": [
     {
-      "titulo": "Casa Branca e HHS convocam especialistas para definir padrões de IA clínica",
-      "resumo": "Objetivo é chegar a um conjunto consensual de princípios para avaliação e comparação de modelos clínicos.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/07/23/hhs-convenes-experts-on-clinical-ai-health-tech/"
+      "titulo": "NHS acelera adoção de IA para reduzir filas de espera",
+      "resumo": "Serviço britânico prioriza triagem por IA no aplicativo e ferramentas de anotação clínica dentro de plano bilionário.",
+      "veiculo": "NHS England",
+      "link": "https://www.england.nhs.uk/2026/07/nhs-accelerates-artificial-intelligence-rollout-to-cut-waiting-times-and-improve-care-for-millions/"
     },
     {
-      "titulo": "CMS sinaliza mudança na forma de pagar por software clínico e inteligência artificial",
-      "resumo": "Agência quer estrutura padronizada de pagamento que considere o impacto das ferramentas nos desfechos dos pacientes.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/07/16/cms-to-revamp-payments-for-clinical-software-ai/"
+      "titulo": "Modelos de linguagem gerais superam ferramentas clínicas especializadas em testes médicos",
+      "resumo": "Estudo comparou modelos de fronteira com ferramentas clínicas em provas médicas e perguntas reais de médicos.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/articles/s41591-026-04431-5"
     },
     {
-      "titulo": "Denúncia expõe conflitos internos na adoção de IA pela Mayo Clinic",
-      "resumo": "Ex-funcionária afirma em processo que foi afastada após questionar práticas na implantação de tecnologia e IA.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/07/15/mayo-whistleblower-sutter-abridge-lawsuit-news-ai-prognosis/"
+      "titulo": "Samsung lança versão beta de assistente de saúde com inteligência artificial",
+      "resumo": "Assistente entra em teste nos Estados Unidos integrado ao aplicativo Samsung Health.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/samsung-launches-beta-version-ai-powered-health-assistant-across-us"
     },
     {
-      "titulo": "Eric Topol: a IA agêntica chega à medicina",
-      "resumo": "Análise de dois trabalhos publicados na Nature que passam do apoio diagnóstico para planos de cuidado completos.",
-      "veiculo": "Ground Truths",
-      "link": "https://erictopol.substack.com/p/agentic-ai-comes-to-medicine"
-    },
-    {
-      "titulo": "Hemispheric capta 52 milhões de dólares para modelo de fundação do cérebro",
-      "resumo": "O modelo Descartes foi treinado com mais de 250 mil horas de dados de atividade cerebral e comportamento.",
+      "titulo": "Candid Health capta 120 milhões de dólares para IA no ciclo de receita",
+      "resumo": "Rodada série D triplica o valuation da plataforma que automatiza o processo de cobrança junto aos convênios.",
       "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/hemispheric-raises-52m-ai-brain-foundation-model"
+      "link": "https://www.mobihealthnews.com/news/candid-health-raises-120m-ai-revenue-cycle-management-platform"
     },
     {
-      "titulo": "Qualified Health levanta 125 milhões de dólares para IA corporativa em sistemas de saúde",
-      "resumo": "Rodada financia a expansão da plataforma que governa e escala aplicações de IA dentro de hospitais.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/qualified-health-locks-125m-fresh-funding-scale-ai-health-systems"
+      "titulo": "Neko Health levanta 700 milhões de dólares para escaneamento corporal com IA",
+      "resumo": "Empresa sueca cofundada por Daniel Ek usará o aporte para entrar no mercado dos Estados Unidos.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/neko-health-raises-700m-ai-full-body-health-scans"
     },
     {
-      "titulo": "Coalizão de IA em saúde lança iniciativa para agências de saúde pública",
-      "resumo": "Programa apoia órgãos públicos americanos a avaliar, implementar e escalar soluções de IA generativa.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/coalition-health-ai-launches-implementation-initiative-public-health"
+      "titulo": "Casa Branca propõe nova era científica com mais recursos para inteligência artificial",
+      "resumo": "Relatório sugere deslocar bilhões em pesquisa das universidades para a indústria e dividiu a comunidade científica.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/07/24/science-new-golden-age-report-draws-mixed-reaction/"
+    },
+    {
+      "titulo": "Eric Topol: a medicina está saindo do calendário para o relógio biológico",
+      "resumo": "Texto explora como proteínas indicam a velocidade de envelhecimento de órgãos e o que isso muda na prevenção.",
+      "veiculo": "Ground Truths",
+      "link": "https://erictopol.substack.com/p/medicine-is-moving-from-calendars"
     }
   ]
 }
