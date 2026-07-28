@@ -1,49 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
   "data": "2026-07-28",
-  "geradoEm": "2026-07-28T09:12:41-03:00",
+  "geradoEm": "2026-07-28T09:23:47-03:00",
   "itens": [
     {
-      "titulo": "NHS acelera adoção de IA para reduzir filas de espera",
-      "resumo": "Serviço britânico prioriza triagem por IA no aplicativo e ferramentas de anotação clínica dentro de plano bilionário.",
-      "veiculo": "NHS England",
-      "link": "https://www.england.nhs.uk/2026/07/nhs-accelerates-artificial-intelligence-rollout-to-cut-waiting-times-and-improve-care-for-millions/"
-    },
-    {
-      "titulo": "Modelos de linguagem gerais superam ferramentas clínicas especializadas em testes médicos",
-      "resumo": "Estudo comparou modelos de fronteira com ferramentas clínicas em provas médicas e perguntas reais de médicos.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04431-5"
-    },
-    {
-      "titulo": "Samsung lança versão beta de assistente de saúde com inteligência artificial",
-      "resumo": "Assistente entra em teste nos Estados Unidos integrado ao aplicativo Samsung Health.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/samsung-launches-beta-version-ai-powered-health-assistant-across-us"
-    },
-    {
-      "titulo": "Candid Health capta 120 milhões de dólares para IA no ciclo de receita",
-      "resumo": "Rodada série D triplica o valuation da plataforma que automatiza o processo de cobrança junto aos convênios.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/candid-health-raises-120m-ai-revenue-cycle-management-platform"
-    },
-    {
-      "titulo": "Neko Health levanta 700 milhões de dólares para escaneamento corporal com IA",
-      "resumo": "Empresa sueca cofundada por Daniel Ek usará o aporte para entrar no mercado dos Estados Unidos.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/neko-health-raises-700m-ai-full-body-health-scans"
-    },
-    {
-      "titulo": "Casa Branca propõe nova era científica com mais recursos para inteligência artificial",
-      "resumo": "Relatório sugere deslocar bilhões em pesquisa das universidades para a indústria e dividiu a comunidade científica.",
+      "titulo": "HHS convoca especialistas para definir padrões de avaliação de IA clínica",
+      "resumo": "Departamento de saúde dos Estados Unidos quer orientar a política pública sobre validação de ferramentas clínicas de IA.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/07/24/science-new-golden-age-report-draws-mixed-reaction/"
+      "link": "https://www.statnews.com/2026/07/23/hhs-convenes-experts-on-clinical-ai-health-tech/"
     },
     {
-      "titulo": "Eric Topol: a medicina está saindo do calendário para o relógio biológico",
-      "resumo": "Texto explora como proteínas indicam a velocidade de envelhecimento de órgãos e o que isso muda na prevenção.",
+      "titulo": "CMS sinaliza mudança na forma de pagar por software clínico e inteligência artificial",
+      "resumo": "Agência estuda estrutura padronizada de reembolso que leve em conta o impacto da tecnologia nos desfechos.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/07/16/cms-to-revamp-payments-for-clinical-software-ai/"
+    },
+    {
+      "titulo": "CMS avalia avanço do ecossistema de tecnologia e anuncia oito categorias de compromisso",
+      "resumo": "Iniciativa busca interoperabilidade de dados por adesão voluntária das empresas, sem criar novas regras federais.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/07/28/medicare-medicaid-evaluates-health-tech-progress-unveils-eight-pledge-categories/"
+    },
+    {
+      "titulo": "Coalizão CHAI publica guias de governança de IA para sistemas de saúde",
+      "resumo": "Material feito com mais de 150 clínicos orienta políticas internas, gestão de fornecedores e avaliação de riscos.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://www.healthcaredive.com/news/chai-coalition-health-ai-governance-guidance-health-systems/821291/"
+    },
+    {
+      "titulo": "OpenAI libera recurso de saúde do ChatGPT para o público geral nos Estados Unidos",
+      "resumo": "Usuários podem conectar prontuários do Epic e do Oracle Health e dados de aplicativos como Apple Health.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/openai-makes-health-chatgpt-widely-available-moving-deeper-consumer-health"
+    },
+    {
+      "titulo": "TidalSense capta 19 milhões de dólares para diagnóstico respiratório com IA",
+      "resumo": "Startup britânica quer expandir na Europa e preparar entrada no mercado americano com exame para DPOC.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/tidalsense-raises-19m-improve-copd-diagnostics"
+    },
+    {
+      "titulo": "Eric Topol: a IA agêntica começa a chegar à prática médica",
+      "resumo": "Análise dos sistemas MIRA e AMIE, que saem do apoio diagnóstico para planos de cuidado de ponta a ponta.",
       "veiculo": "Ground Truths",
-      "link": "https://erictopol.substack.com/p/medicine-is-moving-from-calendars"
+      "link": "https://erictopol.substack.com/p/agentic-ai-comes-to-medicine"
     }
   ]
 }
