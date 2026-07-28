@@ -1,49 +1,49 @@
 {
   "fonte": "A saúde em News",
   "data": "2026-07-28",
-  "geradoEm": "2026-07-28T09:12:23-03:00",
+  "geradoEm": "2026-07-28T09:23:41-03:00",
   "itens": [
     {
-      "titulo": "ANS vai ampliar uso de IA e alerta para uso indevido pelas operadoras",
-      "resumo": "Agência quer usar IA na própria gestão e vigiar operadoras para que a tecnologia não vire barreira de acesso.",
+      "titulo": "Brasil participa em Lisboa de conferência da OMS sobre inteligência artificial na saúde",
+      "resumo": "Encontro reuniu autoridades de 37 países para discutir governança e uso ético da IA nos sistemas de saúde.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/em-lisboa-brasil-participa-de-conferencia-da-oms-sobre-inteligencia-artificial-aplicada-a-saude"
+    },
+    {
+      "titulo": "Ministério da Saúde lança curso de inteligência artificial para gestores do SUS",
+      "resumo": "Formação gratuita oferece 12 mil vagas e 180 horas sobre saúde digital, ética e implementação de IA.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/julho/ministerio-da-saude-lanca-curso-para-fortalecer-a-gestao-do-sus-com-inteligencia-artificial"
+    },
+    {
+      "titulo": "Ministério da Saúde cria comitê para negociação de preços nas compras do SUS",
+      "resumo": "Colegiado vai testar modelos de aquisição de medicamentos, vacinas e equipamentos para o sistema público.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/ministerio-da-saude-institui-comite-para-negociacao-de-precos-nas-compras-do-sus"
+    },
+    {
+      "titulo": "Hapvida passa de 600 mil consultas transcritas com apoio de inteligência artificial",
+      "resumo": "Sistema próprio gera anamnese por voz e sugere CID, com 94% de concordância nos códigos propostos.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/hapvida-ia/"
+    },
+    {
+      "titulo": "Panorama da Saúde Digital 2026 aponta avanço da inteligência artificial no Brasil",
+      "resumo": "Sexta edição do levantamento mapeia tecnologias, lideranças e empresas que puxam a transformação digital do setor.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/edicao34/"
+    },
+    {
+      "titulo": "Pesquisa TIC Saúde mostra 18% dos estabelecimentos usando IA e trava na interoperabilidade",
+      "resumo": "Adoção sobe a 31% em unidades com mais de 50 leitos, mas troca de dados entre sistemas segue como gargalo.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/reportagem-capa-edicao34/"
+    },
+    {
+      "titulo": "Hospitais e operadoras testam rede de dados integrada em projeto do InovaHC",
+      "resumo": "Piloto de 90 dias reúne Sírio-Libanês, Oswaldo Cruz e Santas Casas para trocar informações clínicas com segurança.",
       "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/ans-ampliar-inteligencia-artificial/"
-    },
-    {
-      "titulo": "Prontuário eletrônico do e-SUS APS ganha recursos para pré-natal, vacinação e prescrições",
-      "resumo": "Nova versão traz módulo de cadastro reformulado e melhorias no registro de pré-natal, puerpério e imunizações.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/prontuario-eletronico-e-sus-aps-disponibiliza-recursos-para-pre-natal-puerperio-vacinacao-e-prescricoes"
-    },
-    {
-      "titulo": "Hackathon SUS reúne startups das regiões Centro-Oeste e Norte em etapa regional",
-      "resumo": "Competição busca soluções digitais de startups para desafios reais do sistema público de saúde.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/hackathon-sus-reune-startups-das-regioes-centro-oeste-e-norte-em-etapa-regional"
-    },
-    {
-      "titulo": "Ministério da Saúde estabelece lista de medicamentos oncológicos de altíssimo custo",
-      "resumo": "Definição da lista organiza a compra centralizada e o acesso a terapias oncológicas caras no SUS.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/ministerio-da-saude-estabelece-lista-de-medicamentos-oncologicos-de-altissimo-custo"
-    },
-    {
-      "titulo": "Estudo aponta eficácia da radiofrequência na redução da dor crônica",
-      "resumo": "Pesquisa mostra melhora do quadro de dor crônica em pacientes tratados com radiofrequência.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/estudo-aponta-eficacia-de-tratamento-por-radiofrequencia-na-reducao-de-dor-cronica"
-    },
-    {
-      "titulo": "Einstein lança programa executivo sobre IA e saúde digital para líderes do setor",
-      "resumo": "Formação para alta liderança discute estratégia de adoção de IA, com aulas em São Paulo entre agosto e dezembro.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/21/07/2026/einstein-lanca-programa-executivo-sobre-ia-e-saude-digital-para-lideres-da-transformacao-no-setor/"
-    },
-    {
-      "titulo": "O papel da inteligência artificial e o impacto da tecnologia no SUS",
-      "resumo": "Artigo analisa como IA e tecnologia podem mudar a gestão e o atendimento no sistema público brasileiro.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/24/07/2026/o-papel-da-inteligencia-artificial-e-o-impacto-da-tecnologia-no-sus/"
+      "link": "https://futurodasaude.com.br/interoperabilidade-inova-hc/"
     }
   ]
 }
