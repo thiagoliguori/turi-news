@@ -1,49 +1,79 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-07-28",
-  "geradoEm": "2026-07-28T09:23:47-03:00",
+  "data": "2026-07-29",
+  "geradoEm": "2026-07-29T09:10:40-03:00",
   "itens": [
     {
-      "titulo": "HHS convoca especialistas para definir padrões de avaliação de IA clínica",
-      "resumo": "Departamento de saúde dos Estados Unidos quer orientar a política pública sobre validação de ferramentas clínicas de IA.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/07/23/hhs-convenes-experts-on-clinical-ai-health-tech/"
-    },
-    {
-      "titulo": "CMS sinaliza mudança na forma de pagar por software clínico e inteligência artificial",
-      "resumo": "Agência estuda estrutura padronizada de reembolso que leve em conta o impacto da tecnologia nos desfechos.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/07/16/cms-to-revamp-payments-for-clinical-software-ai/"
-    },
-    {
-      "titulo": "CMS avalia avanço do ecossistema de tecnologia e anuncia oito categorias de compromisso",
-      "resumo": "Iniciativa busca interoperabilidade de dados por adesão voluntária das empresas, sem criar novas regras federais.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/07/28/medicare-medicaid-evaluates-health-tech-progress-unveils-eight-pledge-categories/"
-    },
-    {
-      "titulo": "Coalizão CHAI publica guias de governança de IA para sistemas de saúde",
-      "resumo": "Material feito com mais de 150 clínicos orienta políticas internas, gestão de fornecedores e avaliação de riscos.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/chai-coalition-health-ai-governance-guidance-health-systems/821291/"
-    },
-    {
-      "titulo": "OpenAI libera recurso de saúde do ChatGPT para o público geral nos Estados Unidos",
-      "resumo": "Usuários podem conectar prontuários do Epic e do Oracle Health e dados de aplicativos como Apple Health.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/openai-makes-health-chatgpt-widely-available-moving-deeper-consumer-health"
-    },
-    {
-      "titulo": "TidalSense capta 19 milhões de dólares para diagnóstico respiratório com IA",
-      "resumo": "Startup britânica quer expandir na Europa e preparar entrada no mercado americano com exame para DPOC.",
+      "titulo": "Neko Health capta US$ 700 mi para escaneamento corporal com IA",
+      "resumo": "Startup de Daniel Ek capta US$ 700 mi para escaneamento corporal preventivo com IA e mira expansão nos EUA.",
       "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/tidalsense-raises-19m-improve-copd-diagnostics"
+      "link": "https://www.mobihealthnews.com/news/neko-health-raises-700m-ai-full-body-health-scans"
     },
     {
-      "titulo": "Eric Topol: a IA agêntica começa a chegar à prática médica",
-      "resumo": "Análise dos sistemas MIRA e AMIE, que saem do apoio diagnóstico para planos de cuidado de ponta a ponta.",
+      "titulo": "Candid Health levanta US$ 120 mi para ciclo de receita com IA",
+      "resumo": "Candid Health capta US$ 120 mi para automatizar faturamento e cobrança com IA em mais de 200 organizações de saúde.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/candid-health-raises-120m-ai-revenue-cycle-management-platform"
+    },
+    {
+      "titulo": "Assort Health capta US$ 120 mi para agentes de IA na jornada do paciente",
+      "resumo": "Assort Health capta US$ 120 mi para escalar agentes de IA de voz e texto na jornada do paciente.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/assort-health-lands-120m-scale-patient-journey-ai-agents"
+    },
+    {
+      "titulo": "Jimini Health capta US$ 17 mi para saúde comportamental com IA",
+      "resumo": "Jimini Health capta US$ 17 mi para unir terapeuta humano e IA de apoio entre as sessões.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/jimini-health-raises-17m-expand-ai-behavioral-health-platform"
+    },
+    {
+      "titulo": "LLMs gerais superam ferramentas clínicas de IA especializadas",
+      "resumo": "Estudo na Nature Medicine mostra LLMs gerais superando ferramentas clínicas de IA dedicadas e preferidos por médicos.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/articles/s41591-026-04431-5"
+    },
+    {
+      "titulo": "Meta-análise mostra ganho de médico mais IA na clínica",
+      "resumo": "Revisão indica que a dupla médico mais IA melhora diagnóstico e conduta em quase 5 pontos percentuais.",
+      "veiculo": "npj Digital Medicine",
+      "link": "https://www.nature.com/articles/s41746-026-02382-2"
+    },
+    {
+      "titulo": "Ensaio no Quênia testa IA generativa na atenção primária",
+      "resumo": "Ensaio randomizado no Quênia mostra IA generativa sem reduzir a falha de tratamento na atenção primária.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/articles/s41591-026-04503-6"
+    },
+    {
+      "titulo": "Nature Medicine cria simulador clínico para avaliar IA",
+      "resumo": "Novo simulador clínico avalia IA em cenários dinâmicos, além das provas estáticas de múltipla escolha.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/articles/s41591-026-04252-6"
+    },
+    {
+      "titulo": "Eric Topol e o paradoxo da implementação da IA médica",
+      "resumo": "Topol alerta: a IA com evidência forte é ignorada, enquanto a de evidência fraca é adotada em massa.",
       "veiculo": "Ground Truths",
-      "link": "https://erictopol.substack.com/p/agentic-ai-comes-to-medicine"
+      "link": "https://erictopol.substack.com/p/the-paradox-of-medical-ai-implementation"
+    },
+    {
+      "titulo": "FDA afrouxa supervisão de wearables e dispositivos com IA",
+      "resumo": "FDA afrouxa a supervisão de wearables e software clínico com IA e divide a comunidade médica.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/01/06/fda-pulls-back-oversight-ai-enabled-devices-wearables/"
+    },
+    {
+      "titulo": "Governo Lula anuncia rede de hospitais inteligentes no SUS",
+      "resumo": "Governo anuncia rede de hospitais inteligentes no SUS, com IA e telemedicina, financiada pelo Brics.",
+      "veiculo": "JOTA",
+      "link": "https://www.jota.info/saude/governo-lula-anuncia-rede-de-hospitais-inteligentes-no-sus"
+    },
+    {
+      "titulo": "Medica AI 2026 debate cuidados guiados por IA para 2050",
+      "resumo": "Na Fundação Champalimaud, a Medica AI 2026 debate governança e cuidados de saúde guiados por IA para 2050.",
+      "veiculo": "HealthNews",
+      "link": "https://healthnews.pt/2026/07/09/conferencia-medica-ai-2026-construir-o-futuro-da-saude-com-inteligencia-artificial/"
     }
   ]
 }
