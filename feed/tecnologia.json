@@ -1,49 +1,79 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-07-29",
-  "geradoEm": "2026-07-29T22:06:41-03:00",
+  "data": "2026-07-30",
+  "geradoEm": "2026-07-30T09:31:25-03:00",
   "itens": [
     {
-      "titulo": "Estudo compara IA clínica com chatbots gerais e reacende debate sobre benchmarks",
-      "resumo": "Pesquisadores mediram segurança e precisão de ferramentas clínicas de IA contra modelos de uso geral, e o setor contesta os resultados.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/07/29/clinical-ai-vs-generalist-llm-benchmark-study-trust-accuracy-safety/"
+      "titulo": "OpenAI libera o Health in ChatGPT para todos os usuários dos EUA",
+      "resumo": "OpenAI abre o Health in ChatGPT a todos os adultos dos EUA, conectando prontuários e Apple Health à IA.",
+      "veiculo": "TechCrunch",
+      "link": "https://openai.com/index/health-in-chatgpt/"
     },
     {
-      "titulo": "Modelos de linguagem gerais superam ferramentas clínicas especializadas em testes médicos",
-      "resumo": "Avaliação com MedQA, HealthBench e consultas reais de médicos mostrou vantagem dos modelos de fronteira sobre OpenEvidence e UpToDate.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04431-5"
+      "titulo": "Candid Health capta US$ 120 milhões para faturamento hospitalar com IA",
+      "resumo": "Candid Health levanta US$ 120 milhões em Série D para automatizar o ciclo de receita hospitalar com IA.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/health-tech/candid-health-secures-120m-series-d-funding-ai-powered-rcm-ramps"
     },
     {
-      "titulo": "Neko Health capta 700 milhões de dólares para escaneamento corporal com IA",
-      "resumo": "Rodada liderada por Lightspeed e O.G. Venture Partners financia a expansão do exame preventivo de corpo inteiro.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/neko-health-raises-700m-ai-full-body-health-scans"
+      "titulo": "Hemispheric sai do stealth com US$ 52 milhões e lança o Descartes",
+      "resumo": "Hemispheric capta US$ 52 milhões e lança o Descartes, primeiro modelo NeuroAI para decodificar o cérebro humano.",
+      "veiculo": "HIT Consultant",
+      "link": "https://hitconsultant.net/2026/07/15/hemispheric-neuroai-launches-descartes-brain-model/"
     },
     {
-      "titulo": "Candid Health levanta 120 milhões de dólares para ciclo de receita com IA",
-      "resumo": "Série D triplica o valuation da empresa, que automatiza faturamento e cobrança de prestadores nos Estados Unidos.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/candid-health-raises-120m-ai-revenue-cycle-management-platform"
+      "titulo": "FDA já soma 211 dispositivos médicos com IA, e radiologia domina",
+      "resumo": "Atualização de julho do FDA lista 211 dispositivos com IA autorizados, com radiologia em cerca de 81%.",
+      "veiculo": "AuntMinnie",
+      "link": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15750598/radiology-drives-july-fda-aienabled-medical-device-update"
     },
     {
-      "titulo": "Hemispheric sai do modo furtivo com 52 milhões de dólares e modelo de IA do cérebro",
-      "resumo": "Descartes tem 6 bilhões de parâmetros e foi treinado com 250 mil horas de registros de atividade cerebral.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/hemispheric-raises-52m-ai-brain-foundation-model"
+      "titulo": "UnitedHealth investe US$ 1,5 bilhão em IA e mira US$ 1 bilhão de economia",
+      "resumo": "UnitedHealth investe cerca de US$ 1,5 bilhão em IA em 2026, mirando quase US$ 1 bilhão de economia operacional.",
+      "veiculo": "Becker's Payer",
+      "link": "https://www.beckerspayer.com/virtual-care/unitedhealth-is-spending-1-5b-on-ai-this-year-heres-where-the-money-is-going/"
     },
     {
-      "titulo": "Eric Topol e Patrick Hsu discutem como a IA acelera as ciências da vida",
-      "resumo": "Conversa aborda modelos de linguagem para biologia, sistemas multiagentes na descoberta de fármacos e células virtuais.",
+      "titulo": "Adoção de IA em sistemas de saúde dos EUA sobe para 75%",
+      "resumo": "Adoção de IA em sistemas de saúde dos EUA sobe de 59% para 75% em um ano, aponta pesquisa da Fierce.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/75-us-healthcare-systems-use-plan-use-ai-platform-2026"
+    },
+    {
+      "titulo": "Eric Topol: ainda falta evidência de que LLMs melhoram desfechos",
+      "resumo": "Eric Topol alerta que ainda há pouca evidência de que LLMs melhoram desfechos além de tarefas administrativas.",
       "veiculo": "Ground Truths",
-      "link": "https://erictopol.substack.com/p/how-is-ai-catalyzing-life-science"
+      "link": "https://erictopol.substack.com/p/agentic-ai-comes-to-medicine"
     },
     {
-      "titulo": "Eric Topol: a medicina está saindo dos calendários para os relógios biológicos",
-      "resumo": "Relógios de órgãos e células baseados em proteínas mostram que cada tecido envelhece em ritmo próprio dentro da pessoa.",
-      "veiculo": "Ground Truths",
-      "link": "https://erictopol.substack.com/p/medicine-is-moving-from-calendars"
+      "titulo": "Mais de 200 fármacos descobertos por IA já estão em ensaios clínicos",
+      "resumo": "Mais de 200 fármacos descobertos por IA estão em ensaios, e as leituras de Fase III de 2026 serão decisivas.",
+      "veiculo": "Drug Target Review",
+      "link": "https://www.drugtargetreview.com/ai-in-drug-discovery-predictions-for-2026/1865962.article"
+    },
+    {
+      "titulo": "Cetic.br: só 18% dos estabelecimentos de saúde no Brasil usam IA",
+      "resumo": "Pesquisa do Cetic.br mostra que 18% dos estabelecimentos de saúde no Brasil usam IA, com desigualdade público-privado.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/uso-de-ia-na-saude-chega-18-dos-estabelecimentos-do-pais"
+    },
+    {
+      "titulo": "Doctronic compra a Summer Health e entra na pediatria com IA",
+      "resumo": "Doctronic adquire a Summer Health, entra na pediatria e soma 100 mil atendimentos de texto ao seu modelo de IA.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/doctronic-acquires-summer-health-expands-pediatric-care"
+    },
+    {
+      "titulo": "TidalSense capta US$ 19 milhões para diagnóstico de DPOC com IA",
+      "resumo": "TidalSense capta US$ 19 milhões para escalar seu diagnóstico de DPOC apoiado por IA na Europa e nos EUA.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/tidalsense-raises-19m-improve-copd-diagnostics"
+    },
+    {
+      "titulo": "Sharecare lança o AskMD, navegação de saúde com IA na AWS",
+      "resumo": "Sharecare lança o AskMD, navegação de saúde com IA na AWS para orientar sintomas e acesso ao cuidado.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/sharecare-taps-aws-power-ai-health-navigation-tool-askmd"
     }
   ]
 }
