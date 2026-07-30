@@ -1,49 +1,49 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-07-29",
-  "geradoEm": "2026-07-29T22:06:30-03:00",
+  "data": "2026-07-30",
+  "geradoEm": "2026-07-30T14:00:39-03:00",
   "itens": [
     {
-      "titulo": "Uso de IA cresce na saúde, mas custo e infraestrutura limitam expansão no país",
-      "resumo": "Estudo da Deloitte aponta 85% das organizações ampliando investimento em IA, com governança e custo ainda como barreiras.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/ia-cresce-saude/"
+      "titulo": "Ministério da Saúde lança curso de inteligência artificial para gestores do SUS",
+      "resumo": "Formação a distância de 180 horas oferece 12 mil vagas gratuitas para gestores municipais, estaduais e federais.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/julho/ministerio-da-saude-lanca-curso-para-fortalecer-a-gestao-do-sus-com-inteligencia-artificial"
     },
     {
-      "titulo": "O papel da inteligência artificial e o impacto da tecnologia no SUS",
-      "resumo": "Artigo analisa o alcance da inteligência artificial e os limites da adoção de tecnologia no sistema público.",
+      "titulo": "Brasil participa em Lisboa de conferência da OMS sobre inteligência artificial na saúde",
+      "resumo": "Encontro reuniu 37 países para discutir governança de dados e uso responsável da IA nos sistemas de saúde.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/em-lisboa-brasil-participa-de-conferencia-da-oms-sobre-inteligencia-artificial-aplicada-a-saude"
+    },
+    {
+      "titulo": "Anvisa registra cinco novas canetas de semaglutida para tratamento de diabetes",
+      "resumo": "Aprovações ampliam a oferta do medicamento no mercado brasileiro e tendem a pressionar os preços.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/anvisa-registra-5-novas-canetas-de-semaglutida-para-tratar-diabetes"
+    },
+    {
+      "titulo": "SUS passa a oferecer teleatendimento a pescadores durante viagens em alto mar",
+      "resumo": "Projeto em Itarema, no Ceará, atende por telessaúde trabalhadores isolados da rede assistencial durante a pesca.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/sus-oferta-teleatendimento-a-pescadores-de-itarema-ce-durante-viagens-em-alto-mar"
+    },
+    {
+      "titulo": "Governo cria comitê para acompanhar desenvolvimento de teste portátil de tuberculose",
+      "resumo": "Encomenda tecnológica busca diagnóstico rápido em campo para ampliar a detecção precoce da doença no país.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/ministerio-da-saude-cria-comite-para-acompanhar-encomenda-tecnologica-que-desenvolvera-teste-portatil-de-tuberculose"
+    },
+    {
+      "titulo": "Interoperabilidade avança na saúde e cria novos desafios de segurança digital",
+      "resumo": "Troca de dados entre hospitais, operadoras e laboratórios amplia a superfície de ataque e exige nova governança.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/24/07/2026/o-papel-da-inteligencia-artificial-e-o-impacto-da-tecnologia-no-sus/"
+      "link": "https://saudedigitalnews.com.br/27/07/2026/a-interoperabilidade-no-setor-da-saude-avanca-e-cria-novos-desafios-para-a-seguranca-digital/"
     },
     {
-      "titulo": "Prontuário eletrônico e-SUS APS ganha recursos para pré-natal, vacinação e prescrições",
-      "resumo": "Atualização amplia o registro digital na atenção primária e busca melhorar o acompanhamento de gestantes e puérperas.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/prontuario-eletronico-e-sus-aps-disponibiliza-recursos-para-pre-natal-puerperio-vacinacao-e-prescricoes"
-    },
-    {
-      "titulo": "Hackathon SUS reúne startups do Centro-Oeste e do Norte em etapa regional",
-      "resumo": "Competição busca soluções tecnológicas de startups para desafios reais do sistema público de saúde brasileiro.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/hackathon-sus-reune-startups-das-regioes-centro-oeste-e-norte-em-etapa-regional"
-    },
-    {
-      "titulo": "Brasil vai ampliar prevenção do HIV com PrEP injetável de longa duração no SUS",
-      "resumo": "Nova apresentação dispensa o comprimido diário e deve alcançar grupos com maior dificuldade de adesão ao tratamento.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/brasil-vai-ampliar-prevencao-do-hiv-com-oferta-de-prep-injetavel-de-longa-duracao-no-sus"
-    },
-    {
-      "titulo": "Brasil atinge metas para eliminar transmissão da hepatite B de mãe para filho",
-      "resumo": "País pede certificação à Opas e à OMS após alcançar indicadores de vacinação e diagnóstico no pré-natal.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/brasil-atinge-metas-para-eliminar-transmissao-da-hepatite-b-de-mae-para-filho-e-solicita-certificacao-a-opas-oms"
-    },
-    {
-      "titulo": "Ministério da Saúde atualiza valores de tomografias e ressonâncias ofertadas pelo SUS",
-      "resumo": "Reajuste vale para exames feitos na rede privada contratada e busca ampliar o acesso ao diagnóstico por imagem.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/ministerio-da-saude-atualiza-valores-para-oferta-de-tomografias-e-ressonancias-na-rede-privada-pelo-sus"
+      "titulo": "IA na América Latina começa a ser usada para devolver tempo ao atendimento",
+      "resumo": "Automação de tarefas administrativas aparece como caminho para reduzir a sobrecarga das equipes clínicas na região.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/27/07/2026/ia-transforma-a-saude-na-america-latina-humanizando-o-atendimento/"
     }
   ]
 }
