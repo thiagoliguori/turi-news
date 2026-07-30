@@ -1,79 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
   "data": "2026-07-30",
-  "geradoEm": "2026-07-30T09:31:25-03:00",
+  "geradoEm": "2026-07-30T14:00:44-03:00",
   "itens": [
     {
-      "titulo": "OpenAI libera o Health in ChatGPT para todos os usuários dos EUA",
-      "resumo": "OpenAI abre o Health in ChatGPT a todos os adultos dos EUA, conectando prontuários e Apple Health à IA.",
-      "veiculo": "TechCrunch",
-      "link": "https://openai.com/index/health-in-chatgpt/"
-    },
-    {
-      "titulo": "Candid Health capta US$ 120 milhões para faturamento hospitalar com IA",
-      "resumo": "Candid Health levanta US$ 120 milhões em Série D para automatizar o ciclo de receita hospitalar com IA.",
+      "titulo": "OpenAI libera o ChatGPT Health para todos os usuários adultos dos Estados Unidos",
+      "resumo": "Recurso conecta prontuários do Epic e do Oracle Health e dados do Apple Health ao chatbot, com 300 milhões de perguntas semanais.",
       "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/health-tech/candid-health-secures-120m-series-d-funding-ai-powered-rcm-ramps"
+      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/openai-makes-health-chatgpt-widely-available-moving-deeper-consumer-health"
     },
     {
-      "titulo": "Hemispheric sai do stealth com US$ 52 milhões e lança o Descartes",
-      "resumo": "Hemispheric capta US$ 52 milhões e lança o Descartes, primeiro modelo NeuroAI para decodificar o cérebro humano.",
-      "veiculo": "HIT Consultant",
-      "link": "https://hitconsultant.net/2026/07/15/hemispheric-neuroai-launches-descartes-brain-model/"
+      "titulo": "Medicare quer reformular como paga por software clínico e inteligência artificial",
+      "resumo": "CMS estuda estrutura padronizada de reembolso que leve em conta o impacto das tecnologias nos desfechos dos pacientes.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/07/16/cms-to-revamp-payments-for-clinical-software-ai/"
     },
     {
-      "titulo": "FDA já soma 211 dispositivos médicos com IA, e radiologia domina",
-      "resumo": "Atualização de julho do FDA lista 211 dispositivos com IA autorizados, com radiologia em cerca de 81%.",
-      "veiculo": "AuntMinnie",
-      "link": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15750598/radiology-drives-july-fda-aienabled-medical-device-update"
+      "titulo": "Casa Branca e HHS reúnem especialistas para definir padrões de avaliação de IA clínica",
+      "resumo": "Governo americano busca um conjunto consensual de princípios para benchmarks e validação de modelos usados na assistência.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/07/23/hhs-convenes-experts-on-clinical-ai-health-tech/"
     },
     {
-      "titulo": "UnitedHealth investe US$ 1,5 bilhão em IA e mira US$ 1 bilhão de economia",
-      "resumo": "UnitedHealth investe cerca de US$ 1,5 bilhão em IA em 2026, mirando quase US$ 1 bilhão de economia operacional.",
-      "veiculo": "Becker's Payer",
-      "link": "https://www.beckerspayer.com/virtual-care/unitedhealth-is-spending-1-5b-on-ai-this-year-heres-where-the-money-is-going/"
+      "titulo": "FDA escolhe a Dexcom como primeira participante do piloto TEMPO",
+      "resumo": "Programa testa uma via regulatória mais ágil para dispositivos digitais que recebem atualizações frequentes de software.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://www.healthcaredive.com/news/fda-names-dexcom-as-first-participant-in-digital-health-pilot/826215/"
     },
     {
-      "titulo": "Adoção de IA em sistemas de saúde dos EUA sobe para 75%",
-      "resumo": "Adoção de IA em sistemas de saúde dos EUA sobe de 59% para 75% em um ano, aponta pesquisa da Fierce.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/75-us-healthcare-systems-use-plan-use-ai-platform-2026"
+      "titulo": "Nature Medicine propõe teste para medir superinteligência médica em modelos de IA",
+      "resumo": "Artigo aponta que modelos acertam 92% em provas de licenciamento e caem para 44,8% em tarefas clínicas reais.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/articles/s41591-026-04539-8"
     },
     {
-      "titulo": "Eric Topol: ainda falta evidência de que LLMs melhoram desfechos",
-      "resumo": "Eric Topol alerta que ainda há pouca evidência de que LLMs melhoram desfechos além de tarefas administrativas.",
-      "veiculo": "Ground Truths",
-      "link": "https://erictopol.substack.com/p/agentic-ai-comes-to-medicine"
-    },
-    {
-      "titulo": "Mais de 200 fármacos descobertos por IA já estão em ensaios clínicos",
-      "resumo": "Mais de 200 fármacos descobertos por IA estão em ensaios, e as leituras de Fase III de 2026 serão decisivas.",
-      "veiculo": "Drug Target Review",
-      "link": "https://www.drugtargetreview.com/ai-in-drug-discovery-predictions-for-2026/1865962.article"
-    },
-    {
-      "titulo": "Cetic.br: só 18% dos estabelecimentos de saúde no Brasil usam IA",
-      "resumo": "Pesquisa do Cetic.br mostra que 18% dos estabelecimentos de saúde no Brasil usam IA, com desigualdade público-privado.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/uso-de-ia-na-saude-chega-18-dos-estabelecimentos-do-pais"
-    },
-    {
-      "titulo": "Doctronic compra a Summer Health e entra na pediatria com IA",
-      "resumo": "Doctronic adquire a Summer Health, entra na pediatria e soma 100 mil atendimentos de texto ao seu modelo de IA.",
+      "titulo": "Pearl Health capta 110 milhões de dólares para plataforma de IA no Medicare",
+      "resumo": "Rodada liderada pela Andreessen Horowitz financia expansão para o Medicare Advantage e novas ofertas de risco.",
       "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/doctronic-acquires-summer-health-expands-pediatric-care"
+      "link": "https://www.mobihealthnews.com/news/pearl-health-lands-110m-expand-ai-platform-medicare-providers"
     },
     {
-      "titulo": "TidalSense capta US$ 19 milhões para diagnóstico de DPOC com IA",
-      "resumo": "TidalSense capta US$ 19 milhões para escalar seu diagnóstico de DPOC apoiado por IA na Europa e nos EUA.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/tidalsense-raises-19m-improve-copd-diagnostics"
-    },
-    {
-      "titulo": "Sharecare lança o AskMD, navegação de saúde com IA na AWS",
-      "resumo": "Sharecare lança o AskMD, navegação de saúde com IA na AWS para orientar sintomas e acesso ao cuidado.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/sharecare-taps-aws-power-ai-health-navigation-tool-askmd"
+      "titulo": "CMS avalia avanço do ecossistema de tecnologia em saúde e anuncia oito compromissos",
+      "resumo": "Iniciativa aposta em adesão voluntária das empresas para destravar interoperabilidade de dados sem nova regulação federal.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/07/28/medicare-medicaid-evaluates-health-tech-progress-unveils-eight-pledge-categories/"
     }
   ]
 }
