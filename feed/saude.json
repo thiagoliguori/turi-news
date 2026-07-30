@@ -1,49 +1,49 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-07-28",
-  "geradoEm": "2026-07-28T09:23:41-03:00",
+  "data": "2026-07-29",
+  "geradoEm": "2026-07-29T22:06:30-03:00",
   "itens": [
     {
-      "titulo": "Brasil participa em Lisboa de conferência da OMS sobre inteligência artificial na saúde",
-      "resumo": "Encontro reuniu autoridades de 37 países para discutir governança e uso ético da IA nos sistemas de saúde.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/em-lisboa-brasil-participa-de-conferencia-da-oms-sobre-inteligencia-artificial-aplicada-a-saude"
-    },
-    {
-      "titulo": "Ministério da Saúde lança curso de inteligência artificial para gestores do SUS",
-      "resumo": "Formação gratuita oferece 12 mil vagas e 180 horas sobre saúde digital, ética e implementação de IA.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/julho/ministerio-da-saude-lanca-curso-para-fortalecer-a-gestao-do-sus-com-inteligencia-artificial"
-    },
-    {
-      "titulo": "Ministério da Saúde cria comitê para negociação de preços nas compras do SUS",
-      "resumo": "Colegiado vai testar modelos de aquisição de medicamentos, vacinas e equipamentos para o sistema público.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/ministerio-da-saude-institui-comite-para-negociacao-de-precos-nas-compras-do-sus"
-    },
-    {
-      "titulo": "Hapvida passa de 600 mil consultas transcritas com apoio de inteligência artificial",
-      "resumo": "Sistema próprio gera anamnese por voz e sugere CID, com 94% de concordância nos códigos propostos.",
+      "titulo": "Uso de IA cresce na saúde, mas custo e infraestrutura limitam expansão no país",
+      "resumo": "Estudo da Deloitte aponta 85% das organizações ampliando investimento em IA, com governança e custo ainda como barreiras.",
       "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/hapvida-ia/"
+      "link": "https://medicinasa.com.br/ia-cresce-saude/"
     },
     {
-      "titulo": "Panorama da Saúde Digital 2026 aponta avanço da inteligência artificial no Brasil",
-      "resumo": "Sexta edição do levantamento mapeia tecnologias, lideranças e empresas que puxam a transformação digital do setor.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/edicao34/"
+      "titulo": "O papel da inteligência artificial e o impacto da tecnologia no SUS",
+      "resumo": "Artigo analisa o alcance da inteligência artificial e os limites da adoção de tecnologia no sistema público.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/24/07/2026/o-papel-da-inteligencia-artificial-e-o-impacto-da-tecnologia-no-sus/"
     },
     {
-      "titulo": "Pesquisa TIC Saúde mostra 18% dos estabelecimentos usando IA e trava na interoperabilidade",
-      "resumo": "Adoção sobe a 31% em unidades com mais de 50 leitos, mas troca de dados entre sistemas segue como gargalo.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/reportagem-capa-edicao34/"
+      "titulo": "Prontuário eletrônico e-SUS APS ganha recursos para pré-natal, vacinação e prescrições",
+      "resumo": "Atualização amplia o registro digital na atenção primária e busca melhorar o acompanhamento de gestantes e puérperas.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/prontuario-eletronico-e-sus-aps-disponibiliza-recursos-para-pre-natal-puerperio-vacinacao-e-prescricoes"
     },
     {
-      "titulo": "Hospitais e operadoras testam rede de dados integrada em projeto do InovaHC",
-      "resumo": "Piloto de 90 dias reúne Sírio-Libanês, Oswaldo Cruz e Santas Casas para trocar informações clínicas com segurança.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/interoperabilidade-inova-hc/"
+      "titulo": "Hackathon SUS reúne startups do Centro-Oeste e do Norte em etapa regional",
+      "resumo": "Competição busca soluções tecnológicas de startups para desafios reais do sistema público de saúde brasileiro.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/hackathon-sus-reune-startups-das-regioes-centro-oeste-e-norte-em-etapa-regional"
+    },
+    {
+      "titulo": "Brasil vai ampliar prevenção do HIV com PrEP injetável de longa duração no SUS",
+      "resumo": "Nova apresentação dispensa o comprimido diário e deve alcançar grupos com maior dificuldade de adesão ao tratamento.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/brasil-vai-ampliar-prevencao-do-hiv-com-oferta-de-prep-injetavel-de-longa-duracao-no-sus"
+    },
+    {
+      "titulo": "Brasil atinge metas para eliminar transmissão da hepatite B de mãe para filho",
+      "resumo": "País pede certificação à Opas e à OMS após alcançar indicadores de vacinação e diagnóstico no pré-natal.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/brasil-atinge-metas-para-eliminar-transmissao-da-hepatite-b-de-mae-para-filho-e-solicita-certificacao-a-opas-oms"
+    },
+    {
+      "titulo": "Ministério da Saúde atualiza valores de tomografias e ressonâncias ofertadas pelo SUS",
+      "resumo": "Reajuste vale para exames feitos na rede privada contratada e busca ampliar o acesso ao diagnóstico por imagem.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/ministerio-da-saude-atualiza-valores-para-oferta-de-tomografias-e-ressonancias-na-rede-privada-pelo-sus"
     }
   ]
 }
