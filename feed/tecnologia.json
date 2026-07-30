@@ -1,79 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
   "data": "2026-07-29",
-  "geradoEm": "2026-07-29T09:10:40-03:00",
+  "geradoEm": "2026-07-29T22:06:41-03:00",
   "itens": [
     {
-      "titulo": "Neko Health capta US$ 700 mi para escaneamento corporal com IA",
-      "resumo": "Startup de Daniel Ek capta US$ 700 mi para escaneamento corporal preventivo com IA e mira expansão nos EUA.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/neko-health-raises-700m-ai-full-body-health-scans"
+      "titulo": "Estudo compara IA clínica com chatbots gerais e reacende debate sobre benchmarks",
+      "resumo": "Pesquisadores mediram segurança e precisão de ferramentas clínicas de IA contra modelos de uso geral, e o setor contesta os resultados.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/07/29/clinical-ai-vs-generalist-llm-benchmark-study-trust-accuracy-safety/"
     },
     {
-      "titulo": "Candid Health levanta US$ 120 mi para ciclo de receita com IA",
-      "resumo": "Candid Health capta US$ 120 mi para automatizar faturamento e cobrança com IA em mais de 200 organizações de saúde.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/candid-health-raises-120m-ai-revenue-cycle-management-platform"
-    },
-    {
-      "titulo": "Assort Health capta US$ 120 mi para agentes de IA na jornada do paciente",
-      "resumo": "Assort Health capta US$ 120 mi para escalar agentes de IA de voz e texto na jornada do paciente.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/assort-health-lands-120m-scale-patient-journey-ai-agents"
-    },
-    {
-      "titulo": "Jimini Health capta US$ 17 mi para saúde comportamental com IA",
-      "resumo": "Jimini Health capta US$ 17 mi para unir terapeuta humano e IA de apoio entre as sessões.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/jimini-health-raises-17m-expand-ai-behavioral-health-platform"
-    },
-    {
-      "titulo": "LLMs gerais superam ferramentas clínicas de IA especializadas",
-      "resumo": "Estudo na Nature Medicine mostra LLMs gerais superando ferramentas clínicas de IA dedicadas e preferidos por médicos.",
+      "titulo": "Modelos de linguagem gerais superam ferramentas clínicas especializadas em testes médicos",
+      "resumo": "Avaliação com MedQA, HealthBench e consultas reais de médicos mostrou vantagem dos modelos de fronteira sobre OpenEvidence e UpToDate.",
       "veiculo": "Nature Medicine",
       "link": "https://www.nature.com/articles/s41591-026-04431-5"
     },
     {
-      "titulo": "Meta-análise mostra ganho de médico mais IA na clínica",
-      "resumo": "Revisão indica que a dupla médico mais IA melhora diagnóstico e conduta em quase 5 pontos percentuais.",
-      "veiculo": "npj Digital Medicine",
-      "link": "https://www.nature.com/articles/s41746-026-02382-2"
+      "titulo": "Neko Health capta 700 milhões de dólares para escaneamento corporal com IA",
+      "resumo": "Rodada liderada por Lightspeed e O.G. Venture Partners financia a expansão do exame preventivo de corpo inteiro.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/neko-health-raises-700m-ai-full-body-health-scans"
     },
     {
-      "titulo": "Ensaio no Quênia testa IA generativa na atenção primária",
-      "resumo": "Ensaio randomizado no Quênia mostra IA generativa sem reduzir a falha de tratamento na atenção primária.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04503-6"
+      "titulo": "Candid Health levanta 120 milhões de dólares para ciclo de receita com IA",
+      "resumo": "Série D triplica o valuation da empresa, que automatiza faturamento e cobrança de prestadores nos Estados Unidos.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/candid-health-raises-120m-ai-revenue-cycle-management-platform"
     },
     {
-      "titulo": "Nature Medicine cria simulador clínico para avaliar IA",
-      "resumo": "Novo simulador clínico avalia IA em cenários dinâmicos, além das provas estáticas de múltipla escolha.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04252-6"
+      "titulo": "Hemispheric sai do modo furtivo com 52 milhões de dólares e modelo de IA do cérebro",
+      "resumo": "Descartes tem 6 bilhões de parâmetros e foi treinado com 250 mil horas de registros de atividade cerebral.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/hemispheric-raises-52m-ai-brain-foundation-model"
     },
     {
-      "titulo": "Eric Topol e o paradoxo da implementação da IA médica",
-      "resumo": "Topol alerta: a IA com evidência forte é ignorada, enquanto a de evidência fraca é adotada em massa.",
+      "titulo": "Eric Topol e Patrick Hsu discutem como a IA acelera as ciências da vida",
+      "resumo": "Conversa aborda modelos de linguagem para biologia, sistemas multiagentes na descoberta de fármacos e células virtuais.",
       "veiculo": "Ground Truths",
-      "link": "https://erictopol.substack.com/p/the-paradox-of-medical-ai-implementation"
+      "link": "https://erictopol.substack.com/p/how-is-ai-catalyzing-life-science"
     },
     {
-      "titulo": "FDA afrouxa supervisão de wearables e dispositivos com IA",
-      "resumo": "FDA afrouxa a supervisão de wearables e software clínico com IA e divide a comunidade médica.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/01/06/fda-pulls-back-oversight-ai-enabled-devices-wearables/"
-    },
-    {
-      "titulo": "Governo Lula anuncia rede de hospitais inteligentes no SUS",
-      "resumo": "Governo anuncia rede de hospitais inteligentes no SUS, com IA e telemedicina, financiada pelo Brics.",
-      "veiculo": "JOTA",
-      "link": "https://www.jota.info/saude/governo-lula-anuncia-rede-de-hospitais-inteligentes-no-sus"
-    },
-    {
-      "titulo": "Medica AI 2026 debate cuidados guiados por IA para 2050",
-      "resumo": "Na Fundação Champalimaud, a Medica AI 2026 debate governança e cuidados de saúde guiados por IA para 2050.",
-      "veiculo": "HealthNews",
-      "link": "https://healthnews.pt/2026/07/09/conferencia-medica-ai-2026-construir-o-futuro-da-saude-com-inteligencia-artificial/"
+      "titulo": "Eric Topol: a medicina está saindo dos calendários para os relógios biológicos",
+      "resumo": "Relógios de órgãos e células baseados em proteínas mostram que cada tecido envelhece em ritmo próprio dentro da pessoa.",
+      "veiculo": "Ground Truths",
+      "link": "https://erictopol.substack.com/p/medicine-is-moving-from-calendars"
     }
   ]
 }
