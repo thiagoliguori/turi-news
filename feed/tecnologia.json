@@ -1,49 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-07-30",
-  "geradoEm": "2026-07-30T14:00:44-03:00",
+  "data": "2026-07-31",
+  "geradoEm": "2026-07-31T10:00:44-03:00",
   "itens": [
     {
-      "titulo": "OpenAI libera o ChatGPT Health para todos os usuários adultos dos Estados Unidos",
-      "resumo": "Recurso conecta prontuários do Epic e do Oracle Health e dados do Apple Health ao chatbot, com 300 milhões de perguntas semanais.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/openai-makes-health-chatgpt-widely-available-moving-deeper-consumer-health"
-    },
-    {
-      "titulo": "Medicare quer reformular como paga por software clínico e inteligência artificial",
-      "resumo": "CMS estuda estrutura padronizada de reembolso que leve em conta o impacto das tecnologias nos desfechos dos pacientes.",
+      "titulo": "Estudo questiona se médicos podem confiar nos modelos de IA clínica",
+      "resumo": "Pesquisa da NYU Langone mostra modelos generalistas superando ferramentas clínicas especializadas em três conjuntos de perguntas.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/07/16/cms-to-revamp-payments-for-clinical-software-ai/"
+      "link": "https://www.statnews.com/2026/07/29/clinical-ai-vs-generalist-llm-benchmark-study-trust-accuracy-safety/"
     },
     {
-      "titulo": "Casa Branca e HHS reúnem especialistas para definir padrões de avaliação de IA clínica",
-      "resumo": "Governo americano busca um conjunto consensual de princípios para benchmarks e validação de modelos usados na assistência.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/07/23/hhs-convenes-experts-on-clinical-ai-health-tech/"
+      "titulo": "Saída de líderes coloca em dúvida o ritmo da FDA na adoção de inteligência artificial",
+      "resumo": "Agência perdeu comissário, chefe de IA e CIO interino, apesar de alta de 148% nos casos de uso.",
+      "veiculo": "MedTech Dive",
+      "link": "https://www.medtechdive.com/news/AI-guidance-in-question-FDA/826420/"
     },
     {
-      "titulo": "FDA escolhe a Dexcom como primeira participante do piloto TEMPO",
-      "resumo": "Programa testa uma via regulatória mais ágil para dispositivos digitais que recebem atualizações frequentes de software.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/fda-names-dexcom-as-first-participant-in-digital-health-pilot/826215/"
-    },
-    {
-      "titulo": "Nature Medicine propõe teste para medir superinteligência médica em modelos de IA",
-      "resumo": "Artigo aponta que modelos acertam 92% em provas de licenciamento e caem para 44,8% em tarefas clínicas reais.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04539-8"
-    },
-    {
-      "titulo": "Pearl Health capta 110 milhões de dólares para plataforma de IA no Medicare",
-      "resumo": "Rodada liderada pela Andreessen Horowitz financia expansão para o Medicare Advantage e novas ofertas de risco.",
+      "titulo": "Neko Health capta 700 milhões de dólares para escaneamento corporal com inteligência artificial",
+      "resumo": "Empresa sueca fundada por Daniel Ek prepara entrada nos Estados Unidos com exame de corpo inteiro.",
       "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/pearl-health-lands-110m-expand-ai-platform-medicare-providers"
+      "link": "https://www.mobihealthnews.com/news/neko-health-raises-700m-ai-full-body-health-scans"
     },
     {
-      "titulo": "CMS avalia avanço do ecossistema de tecnologia em saúde e anuncia oito compromissos",
-      "resumo": "Iniciativa aposta em adesão voluntária das empresas para destravar interoperabilidade de dados sem nova regulação federal.",
+      "titulo": "Trase levanta 107 milhões de dólares para escalar agentes de IA na saúde",
+      "resumo": "Aporte financia agentes autônomos em setores de alto risco, com a saúde entre os mercados prioritários.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/trase-lands-107m-scale-ai-agents-healthcare-and-high-stakes-industries"
+    },
+    {
+      "titulo": "Denúncia na Mayo Clinic e processo sobre escriba de IA agitam o setor",
+      "resumo": "Boletim reúne o caso do denunciante da Mayo e a resposta da Sutter Health a ação sobre o Abridge.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/07/28/medicare-medicaid-evaluates-health-tech-progress-unveils-eight-pledge-categories/"
+      "link": "https://www.statnews.com/2026/07/15/mayo-whistleblower-sutter-abridge-lawsuit-news-ai-prognosis/"
+    },
+    {
+      "titulo": "xAI lança Grok for Government com foco em uso na saúde e na ciência",
+      "resumo": "Anúncio acompanha contratos de 200 milhões de dólares do Departamento de Defesa com xAI, Anthropic, Google e OpenAI.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/elon-musks-xai-launches-grok-government-healthcare-and-science-use"
+    },
+    {
+      "titulo": "Candid Health capta 120 milhões de dólares para automatizar o ciclo de receita com IA",
+      "resumo": "Rodada Série D triplica o valor da empresa, que automatiza a cobrança de planos de saúde nos Estados Unidos.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/candid-health-raises-120m-ai-revenue-cycle-management-platform"
     }
   ]
 }
