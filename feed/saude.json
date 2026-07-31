@@ -1,49 +1,49 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-07-30",
-  "geradoEm": "2026-07-30T14:00:39-03:00",
+  "data": "2026-07-31",
+  "geradoEm": "2026-07-31T10:00:38-03:00",
   "itens": [
     {
-      "titulo": "Ministério da Saúde lança curso de inteligência artificial para gestores do SUS",
-      "resumo": "Formação a distância de 180 horas oferece 12 mil vagas gratuitas para gestores municipais, estaduais e federais.",
+      "titulo": "Ministério da Saúde apresenta estratégia de federalização da Rede Nacional de Dados em Saúde",
+      "resumo": "Plano avança em três ciclos até os municípios e amplia o acesso de gestores locais às informações do SUS.",
       "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/julho/ministerio-da-saude-lanca-curso-para-fortalecer-a-gestao-do-sus-com-inteligencia-artificial"
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/ministerio-da-saude-apresenta-estrategia-sobre-rede-nacional-de-dados-em-saude"
     },
     {
-      "titulo": "Brasil participa em Lisboa de conferência da OMS sobre inteligência artificial na saúde",
-      "resumo": "Encontro reuniu 37 países para discutir governança de dados e uso responsável da IA nos sistemas de saúde.",
+      "titulo": "Ministério da Saúde abre consulta pública para o novo Plano de Dados Abertos",
+      "resumo": "Sociedade pode sugerir quais bases do SUS serão abertas entre 2026 e 2028, com prazo até 31 de julho.",
       "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/em-lisboa-brasil-participa-de-conferencia-da-oms-sobre-inteligencia-artificial-aplicada-a-saude"
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/ministerio-da-saude-abre-consulta-publica-para-o-novo-plano-de-dados-abertos"
     },
     {
-      "titulo": "Anvisa registra cinco novas canetas de semaglutida para tratamento de diabetes",
-      "resumo": "Aprovações ampliam a oferta do medicamento no mercado brasileiro e tendem a pressionar os preços.",
+      "titulo": "Artigo avalia o papel da inteligência artificial e o impacto da tecnologia no SUS",
+      "resumo": "Texto discute onde a IA já entrega ganho real na rede pública e onde ainda esbarra em governança.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/24/07/2026/o-papel-da-inteligencia-artificial-e-o-impacto-da-tecnologia-no-sus/"
+    },
+    {
+      "titulo": "Lei cria estratégia nacional para fortalecer a indústria da saúde",
+      "resumo": "Norma cria as Empresas Estratégicas de Saúde e busca autonomia do país em medicamentos, vacinas e insumos.",
       "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/anvisa-registra-5-novas-canetas-de-semaglutida-para-tratar-diabetes"
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/lei-cria-politica-para-fortalecer-industria-da-saude"
     },
     {
-      "titulo": "SUS passa a oferecer teleatendimento a pescadores durante viagens em alto mar",
-      "resumo": "Projeto em Itarema, no Ceará, atende por telessaúde trabalhadores isolados da rede assistencial durante a pesca.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/sus-oferta-teleatendimento-a-pescadores-de-itarema-ce-durante-viagens-em-alto-mar"
+      "titulo": "Anvisa aprova novo medicamento para câncer de pulmão",
+      "resumo": "Registro do datopotamabe deruxtecana saiu no Diário Oficial e amplia opções de tratamento para pacientes adultos.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/anvisa-aprova-novo-medicamento-para-cancer-de-pulmao"
     },
     {
-      "titulo": "Governo cria comitê para acompanhar desenvolvimento de teste portátil de tuberculose",
-      "resumo": "Encomenda tecnológica busca diagnóstico rápido em campo para ampliar a detecção precoce da doença no país.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/ministerio-da-saude-cria-comite-para-acompanhar-encomenda-tecnologica-que-desenvolvera-teste-portatil-de-tuberculose"
+      "titulo": "Anvisa determina apreensão de lote falsificado de Mounjaro",
+      "resumo": "Agência reforça a compra apenas em farmácias regularizadas, com embalagem completa e nota fiscal.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/anvisa-determina-apreensao-de-lote-falsificado-de-mounjaro"
     },
     {
-      "titulo": "Interoperabilidade avança na saúde e cria novos desafios de segurança digital",
-      "resumo": "Troca de dados entre hospitais, operadoras e laboratórios amplia a superfície de ataque e exige nova governança.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/27/07/2026/a-interoperabilidade-no-setor-da-saude-avanca-e-cria-novos-desafios-para-a-seguranca-digital/"
-    },
-    {
-      "titulo": "IA na América Latina começa a ser usada para devolver tempo ao atendimento",
-      "resumo": "Automação de tarefas administrativas aparece como caminho para reduzir a sobrecarga das equipes clínicas na região.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/27/07/2026/ia-transforma-a-saude-na-america-latina-humanizando-o-atendimento/"
+      "titulo": "Vacinas contra a covid-19 serão atualizadas para novas variantes",
+      "resumo": "Anvisa determinou mudança nas fórmulas para melhorar a resposta às variantes em circulação no país.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/vacinas-contra-covid-19-serao-atualizadas-contra-novas-variantes"
     }
   ]
 }
