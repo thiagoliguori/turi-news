@@ -1,49 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-07-31",
-  "geradoEm": "2026-07-31T10:00:44-03:00",
+  "data": "2026-08-01",
+  "geradoEm": "2026-08-01T12:28:05-03:00",
   "itens": [
     {
-      "titulo": "Estudo questiona se médicos podem confiar nos modelos de IA clínica",
-      "resumo": "Pesquisa da NYU Langone mostra modelos generalistas superando ferramentas clínicas especializadas em três conjuntos de perguntas.",
+      "titulo": "Nature Medicine propõe teste para medir superinteligência médica em modelos de IA",
+      "resumo": "Framework MAST aponta que notas altas em provas médicas não se traduzem em desempenho clínico real.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/articles/s41591-026-04539-8"
+    },
+    {
+      "titulo": "CMS quer reformular como o Medicare paga por software clínico e inteligência artificial",
+      "resumo": "Proposta cria a categoria de software como serviço médico e muda o reembolso de algoritmos diagnósticos.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/07/29/clinical-ai-vs-generalist-llm-benchmark-study-trust-accuracy-safety/"
+      "link": "https://www.statnews.com/2026/07/16/cms-to-revamp-payments-for-clinical-software-ai/"
     },
     {
-      "titulo": "Saída de líderes coloca em dúvida o ritmo da FDA na adoção de inteligência artificial",
-      "resumo": "Agência perdeu comissário, chefe de IA e CIO interino, apesar de alta de 148% nos casos de uso.",
-      "veiculo": "MedTech Dive",
-      "link": "https://www.medtechdive.com/news/AI-guidance-in-question-FDA/826420/"
-    },
-    {
-      "titulo": "Neko Health capta 700 milhões de dólares para escaneamento corporal com inteligência artificial",
-      "resumo": "Empresa sueca fundada por Daniel Ek prepara entrada nos Estados Unidos com exame de corpo inteiro.",
+      "titulo": "Tempus AI compra a Personalis por 1,5 bilhão de dólares",
+      "resumo": "Acordo em ações amplia a atuação da empresa no monitoramento de doença residual mínima em oncologia.",
       "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/neko-health-raises-700m-ai-full-body-health-scans"
+      "link": "https://www.mobihealthnews.com/news/tempus-ai-acquire-personalis-15b"
     },
     {
-      "titulo": "Trase levanta 107 milhões de dólares para escalar agentes de IA na saúde",
-      "resumo": "Aporte financia agentes autônomos em setores de alto risco, com a saúde entre os mercados prioritários.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/trase-lands-107m-scale-ai-agents-healthcare-and-high-stakes-industries"
+      "titulo": "NHS contrata escriba de IA por voz para 70 mil profissionais na região de Midlands",
+      "resumo": "Maior implantação regional do serviço cobre 1.239 unidades de atenção primária e 15 trusts hospitalares.",
+      "veiculo": "Digital Health",
+      "link": "https://www.digitalhealth.net/2026/07/midlands-procures-ambient-voice-technology-for-70000-clinicians/"
     },
     {
-      "titulo": "Denúncia na Mayo Clinic e processo sobre escriba de IA agitam o setor",
-      "resumo": "Boletim reúne o caso do denunciante da Mayo e a resposta da Sutter Health a ação sobre o Abridge.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/07/15/mayo-whistleblower-sutter-abridge-lawsuit-news-ai-prognosis/"
+      "titulo": "Investimento em saúde digital chega a 7,4 bilhões de dólares no primeiro semestre",
+      "resumo": "Retomada do capital de risco é puxada por empresas de inteligência artificial aplicada à saúde.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/digital-health/digital-health-brought-74b-vc-funding-ai-powered-rebound-fuels-market"
     },
     {
-      "titulo": "xAI lança Grok for Government com foco em uso na saúde e na ciência",
-      "resumo": "Anúncio acompanha contratos de 200 milhões de dólares do Departamento de Defesa com xAI, Anthropic, Google e OpenAI.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/elon-musks-xai-launches-grok-government-healthcare-and-science-use"
+      "titulo": "Eric Topol conversa com Patrick Hsu sobre como a IA acelera as ciências da vida",
+      "resumo": "Episódio discute modelos de linguagem biológica, célula virtual e descoberta de fármacos com agentes de IA.",
+      "veiculo": "Ground Truths",
+      "link": "https://erictopol.substack.com/p/how-is-ai-catalyzing-life-science"
     },
     {
-      "titulo": "Candid Health capta 120 milhões de dólares para automatizar o ciclo de receita com IA",
-      "resumo": "Rodada Série D triplica o valor da empresa, que automatiza a cobrança de planos de saúde nos Estados Unidos.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/candid-health-raises-120m-ai-revenue-cycle-management-platform"
+      "titulo": "Radiologia domina a atualização de julho da lista de dispositivos com IA da FDA",
+      "resumo": "Novas autorizações seguem concentradas em imagem, reforçando a liderança da radiologia entre os produtos habilitados por IA.",
+      "veiculo": "AuntMinnie",
+      "link": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15750598/radiology-drives-july-fda-aienabled-medical-device-update"
     }
   ]
 }
