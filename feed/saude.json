@@ -1,49 +1,49 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-07-31",
-  "geradoEm": "2026-07-31T10:00:38-03:00",
+  "data": "2026-08-01",
+  "geradoEm": "2026-08-01T12:28:00-03:00",
   "itens": [
     {
-      "titulo": "Ministério da Saúde apresenta estratégia de federalização da Rede Nacional de Dados em Saúde",
-      "resumo": "Plano avança em três ciclos até os municípios e amplia o acesso de gestores locais às informações do SUS.",
+      "titulo": "Ministério da Saúde defende inovação tecnológica como pilar do fortalecimento do SUS",
+      "resumo": "Na reunião da SBPC, a pasta apresentou apostas em pesquisa, produção local e tecnologia para ampliar o acesso.",
       "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/ministerio-da-saude-apresenta-estrategia-sobre-rede-nacional-de-dados-em-saude"
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/na-sbpc-ministerio-da-saude-destaca-a-inovacao-tecnologica-como-essencial-para-o-fortalecimento-do-sus"
     },
     {
-      "titulo": "Ministério da Saúde abre consulta pública para o novo Plano de Dados Abertos",
-      "resumo": "Sociedade pode sugerir quais bases do SUS serão abertas entre 2026 e 2028, com prazo até 31 de julho.",
+      "titulo": "Projeto Pode Falar chega ao Meu SUS Digital e amplia cuidado em saúde mental para jovens",
+      "resumo": "Plataforma de escuta psicológica passa a funcionar dentro do aplicativo do SUS para adolescentes e jovens adultos.",
       "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/ministerio-da-saude-abre-consulta-publica-para-o-novo-plano-de-dados-abertos"
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/projeto-pode-falar-chega-ao-meu-sus-digital-e-amplia-acesso-de-jovens-ao-cuidado-em-saude-mental"
     },
     {
-      "titulo": "Artigo avalia o papel da inteligência artificial e o impacto da tecnologia no SUS",
-      "resumo": "Texto discute onde a IA já entrega ganho real na rede pública e onde ainda esbarra em governança.",
+      "titulo": "Uso de IA cresce na saúde, mas custo e governança limitam a expansão no Brasil",
+      "resumo": "Levantamento da Deloitte aponta avanço da adoção com barreiras em infraestrutura, integração de sistemas e governança de dados.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/24/07/2026/o-papel-da-inteligencia-artificial-e-o-impacto-da-tecnologia-no-sus/"
+      "link": "https://saudedigitalnews.com.br/14/07/2026/uso-de-ia-cresce-na-saude-mas-custo-infraestrutura-e-governanca-limitam-expansao-no-brasil-aponta-deloitte/"
     },
     {
-      "titulo": "Lei cria estratégia nacional para fortalecer a indústria da saúde",
-      "resumo": "Norma cria as Empresas Estratégicas de Saúde e busca autonomia do país em medicamentos, vacinas e insumos.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/lei-cria-politica-para-fortalecer-industria-da-saude"
+      "titulo": "Anvisa aprova primeiro medicamento para hipertensão pulmonar associada a doença pulmonar intersticial",
+      "resumo": "Registro do Tyvaso, com treprostinila inalada, cobre grupo de pacientes que não tinha tratamento específico no país.",
+      "veiculo": "Anvisa",
+      "link": "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2026/anvisa-aprova-medicamento-para-hipertensao-pulmonar"
     },
     {
-      "titulo": "Anvisa aprova novo medicamento para câncer de pulmão",
-      "resumo": "Registro do datopotamabe deruxtecana saiu no Diário Oficial e amplia opções de tratamento para pacientes adultos.",
+      "titulo": "Alta de casos de sarampo em São Paulo preocupa os serviços de saúde",
+      "resumo": "Aumento das notificações no estado reacende o alerta sobre cobertura vacinal e busca ativa de não vacinados.",
       "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/anvisa-aprova-novo-medicamento-para-cancer-de-pulmao"
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/sp-alta-de-casos-de-sarampo-aumenta-preocupacao-dos-servicos-de-saude"
     },
     {
-      "titulo": "Anvisa determina apreensão de lote falsificado de Mounjaro",
-      "resumo": "Agência reforça a compra apenas em farmácias regularizadas, com embalagem completa e nota fiscal.",
+      "titulo": "Anvisa suspende a venda de produtos médicos irregulares",
+      "resumo": "Agência determinou a retirada do mercado de itens médicos sem regularização válida no Brasil.",
       "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/anvisa-determina-apreensao-de-lote-falsificado-de-mounjaro"
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/anvisa-suspende-venda-de-produtos-medicos-irregulares"
     },
     {
-      "titulo": "Vacinas contra a covid-19 serão atualizadas para novas variantes",
-      "resumo": "Anvisa determinou mudança nas fórmulas para melhorar a resposta às variantes em circulação no país.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/vacinas-contra-covid-19-serao-atualizadas-contra-novas-variantes"
+      "titulo": "Conitec abre consulta pública sobre ampliação de transplantes de medula óssea",
+      "resumo": "Proposta discute incluir câncer ocular infantojuvenil e linfoma entre as indicações cobertas pelo SUS.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/conitec-abre-consulta-publica-para-debater-ampliacao-de-transplantes-de-medula-ossea-para-tratar-cancer-ocular-infantojuvenil-e-linfoma"
     }
   ]
 }
