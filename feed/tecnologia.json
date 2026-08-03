@@ -1,49 +1,79 @@
 {
-  "fonte": "A tecnologia em saúde",
-  "data": "2026-08-01",
-  "geradoEm": "2026-08-01T12:28:05-03:00",
+  "fonte": "A tecnologia em saude",
+  "data": "2026-08-03",
+  "geradoEm": "2026-08-03T09:07:21-03:00",
   "itens": [
     {
-      "titulo": "Nature Medicine propõe teste para medir superinteligência médica em modelos de IA",
-      "resumo": "Framework MAST aponta que notas altas em provas médicas não se traduzem em desempenho clínico real.",
+      "titulo": "Nature Medicine propoe um teste para a superinteligencia medica da IA",
+      "resumo": "Nature Medicine propoe criterios formais para avaliar quando uma IA medica supera o desempenho humano.",
       "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04539-8"
+      "link": "https://www.nature.com/nm/articles?type=&year=2026"
     },
     {
-      "titulo": "CMS quer reformular como o Medicare paga por software clínico e inteligência artificial",
-      "resumo": "Proposta cria a categoria de software como serviço médico e muda o reembolso de algoritmos diagnósticos.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/07/16/cms-to-revamp-payments-for-clinical-software-ai/"
+      "titulo": "NeuroVFM: modelo de fundacao aprende a ler tomografias e ressonancias de rotina",
+      "resumo": "Modelo treinado com exames de rotina melhora diagnostico, laudos e triagem em neuroimagem.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/articles/s41591-026-04567-4"
     },
     {
-      "titulo": "Tempus AI compra a Personalis por 1,5 bilhão de dólares",
-      "resumo": "Acordo em ações amplia a atuação da empresa no monitoramento de doença residual mínima em oncologia.",
+      "titulo": "OpenAI libera o ChatGPT Health para todos os usuarios nos EUA",
+      "resumo": "OpenAI libera o ChatGPT Health para todos os usuarios dos EUA, conectando prontuarios e apps de saude.",
+      "veiculo": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/"
+    },
+    {
+      "titulo": "Abridge e NVIDIA criam modelo de IA clinica alem da documentacao",
+      "resumo": "Abridge e NVIDIA criam modelo de IA clinica que vai alem da documentacao ambiente.",
       "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/tempus-ai-acquire-personalis-15b"
+      "link": "https://www.mobihealthnews.com/news/abridge-partners-nvidia-expands-beyond-clinical-documentation"
     },
     {
-      "titulo": "NHS contrata escriba de IA por voz para 70 mil profissionais na região de Midlands",
-      "resumo": "Maior implantação regional do serviço cobre 1.239 unidades de atenção primária e 15 trusts hospitalares.",
-      "veiculo": "Digital Health",
-      "link": "https://www.digitalhealth.net/2026/07/midlands-procures-ambient-voice-technology-for-70000-clinicians/"
+      "titulo": "Anthropic entra na descoberta de farmacos e lanca o Claude Science",
+      "resumo": "Anthropic entra na descoberta de farmacos e lanca o Claude Science, mirando doencas negligenciadas.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/06/30/anthropic-ai-drug-development/"
     },
     {
-      "titulo": "Investimento em saúde digital chega a 7,4 bilhões de dólares no primeiro semestre",
-      "resumo": "Retomada do capital de risco é puxada por empresas de inteligência artificial aplicada à saúde.",
+      "titulo": "Estudo mostra LLMs genericos superando IA clinica aprovada pela FDA",
+      "resumo": "Benchmark mostra LLMs de uso geral superando ferramentas de IA clinica aprovadas pela FDA.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/nm/articles?type=&year=2026"
+    },
+    {
+      "titulo": "Retina4IRD: IA acerta 88,5% no diagnostico de doencas retinianas hereditarias",
+      "resumo": "IA alcanca 88,5% de acuracia no diagnostico de doencas retinianas hereditarias em ensaio randomizado.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/nm/articles?type=&year=2026"
+    },
+    {
+      "titulo": "Bunkerhill Health capta US$ 25 milhoes em Serie B para IA agentica",
+      "resumo": "Bunkerhill capta US$ 25 milhoes em Serie B para IA agentica em sistemas de saude.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26"
+    },
+    {
+      "titulo": "Financiamento em saude digital chega a US$ 7,4 bilhoes em 2026",
+      "resumo": "Investimento em saude digital chega a US$ 7,4 bilhoes em 2026, impulsionado por IA.",
       "veiculo": "Fierce Healthcare",
       "link": "https://www.fiercehealthcare.com/digital-health/digital-health-brought-74b-vc-funding-ai-powered-rebound-fuels-market"
     },
     {
-      "titulo": "Eric Topol conversa com Patrick Hsu sobre como a IA acelera as ciências da vida",
-      "resumo": "Episódio discute modelos de linguagem biológica, célula virtual e descoberta de fármacos com agentes de IA.",
-      "veiculo": "Ground Truths",
-      "link": "https://erictopol.substack.com/p/how-is-ai-catalyzing-life-science"
+      "titulo": "UnitedHealth projeta economizar quase US$ 1 bilhao com IA em 2026",
+      "resumo": "UnitedHealth projeta economizar quase US$ 1 bilhao com IA no ciclo de receita em 2026.",
+      "veiculo": "Chief Healthcare Executive",
+      "link": "https://www.chiefhealthcareexecutive.com/view/ai-in-health-care-26-leaders-offer-predictions-for-2026"
     },
     {
-      "titulo": "Radiologia domina a atualização de julho da lista de dispositivos com IA da FDA",
-      "resumo": "Novas autorizações seguem concentradas em imagem, reforçando a liderança da radiologia entre os produtos habilitados por IA.",
-      "veiculo": "AuntMinnie",
-      "link": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15750598/radiology-drives-july-fda-aienabled-medical-device-update"
+      "titulo": "Ministerio da Saude lanca curso de IA para fortalecer a gestao do SUS",
+      "resumo": "Ministerio da Saude lanca curso de IA com 12 mil vagas para gestores do SUS.",
+      "veiculo": "Ministerio da Saude",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/julho/ministerio-da-saude-lanca-curso-para-fortalecer-a-gestao-do-sus-com-inteligencia-artificial"
+    },
+    {
+      "titulo": "62,5% dos hospitais brasileiros ja usam inteligencia artificial",
+      "resumo": "Levantamento aponta que 62,5% dos hospitais brasileiros ja usam inteligencia artificial.",
+      "veiculo": "Blog da Engenharia",
+      "link": "https://blogdaengenharia.com/625-dos-hospitais-brasileiros-ja-utilizam-inteligencia-artificial-2/"
     }
   ]
 }
