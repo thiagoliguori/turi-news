@@ -1,49 +1,79 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-08-01",
-  "geradoEm": "2026-08-01T12:28:00-03:00",
+  "data": "2026-08-03",
+  "geradoEm": "2026-08-03T09:09:16-03:00",
   "itens": [
     {
-      "titulo": "Ministério da Saúde defende inovação tecnológica como pilar do fortalecimento do SUS",
-      "resumo": "Na reunião da SBPC, a pasta apresentou apostas em pesquisa, produção local e tecnologia para ampliar o acesso.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/na-sbpc-ministerio-da-saude-destaca-a-inovacao-tecnologica-como-essencial-para-o-fortalecimento-do-sus"
+      "titulo": "Hapvida ressuscita a marca NotreDame para disputar o segmento premium em SP e RJ",
+      "resumo": "Hapvida relança a NotreDame como unidade premium em SP e RJ, com rede que inclui Sírio-Libanês, Einstein e HCor.",
+      "veiculo": "Exame",
+      "link": "https://exame.com/invest/mercados/hapvida-ressuscita-marca-notredame-para-competir-por-segmento-premium-em-sp-e-rj/"
     },
     {
-      "titulo": "Projeto Pode Falar chega ao Meu SUS Digital e amplia cuidado em saúde mental para jovens",
-      "resumo": "Plataforma de escuta psicológica passa a funcionar dentro do aplicativo do SUS para adolescentes e jovens adultos.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/projeto-pode-falar-chega-ao-meu-sus-digital-e-amplia-acesso-de-jovens-ao-cuidado-em-saude-mental"
+      "titulo": "Rede D'Or classifica como infrutífera a negociação para comprar o Fleury",
+      "resumo": "Rede D'Or chama de infrutíferas as tratativas pelos laboratórios do Fleury (R$ 6,9 bi), mas nega decisão de suspender.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/rede-dor-fleury-compra/"
     },
     {
-      "titulo": "Uso de IA cresce na saúde, mas custo e governança limitam a expansão no Brasil",
-      "resumo": "Levantamento da Deloitte aponta avanço da adoção com barreiras em infraestrutura, integração de sistemas e governança de dados.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/14/07/2026/uso-de-ia-cresce-na-saude-mas-custo-infraestrutura-e-governanca-limitam-expansao-no-brasil-aponta-deloitte/"
+      "titulo": "ANS confirma reajuste de até 5,11% para planos individuais em 2026",
+      "resumo": "ANS fixa teto de reajuste de 5,11% para planos individuais em 2026, o menor índice desde o ano 2000.",
+      "veiculo": "CQCS",
+      "link": "https://cqcs.com.br/noticia/reajuste-de-plano-de-saude-2026-e-aprovado-pela-ans-veja-as-novas-regras/"
     },
     {
-      "titulo": "Anvisa aprova primeiro medicamento para hipertensão pulmonar associada a doença pulmonar intersticial",
-      "resumo": "Registro do Tyvaso, com treprostinila inalada, cobre grupo de pacientes que não tinha tratamento específico no país.",
-      "veiculo": "Anvisa",
-      "link": "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2026/anvisa-aprova-medicamento-para-hipertensao-pulmonar"
+      "titulo": "CFM publica resolução inédita que regulamenta o uso de IA na medicina",
+      "resumo": "CFM regulamenta IA na medicina: apoio permitido, mas decisão final sobre diagnóstico e tratamento segue com o médico.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/ia-diagnostico-medico-cfm/"
     },
     {
-      "titulo": "Alta de casos de sarampo em São Paulo preocupa os serviços de saúde",
-      "resumo": "Aumento das notificações no estado reacende o alerta sobre cobertura vacinal e busca ativa de não vacinados.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/sp-alta-de-casos-de-sarampo-aumenta-preocupacao-dos-servicos-de-saude"
+      "titulo": "Anvisa aprova mudanças em 141 registros de dispositivos médicos",
+      "resumo": "Anvisa aprova mudanças em 141 registros de dispositivos médicos pela Resolução-RE nº 2.801, no Diário Oficial.",
+      "veiculo": "O Tempo",
+      "link": "https://www.otempo.com.br/politica/2026/7/20/anvisa-aprova-mudancas-em-141-registros-de-dispositivos-medicos"
     },
     {
-      "titulo": "Anvisa suspende a venda de produtos médicos irregulares",
-      "resumo": "Agência determinou a retirada do mercado de itens médicos sem regularização válida no Brasil.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/anvisa-suspende-venda-de-produtos-medicos-irregulares"
+      "titulo": "MV lança agentes de IA na saúde (SOUL Agents) na Feira Hospitalar 2026",
+      "resumo": "MV lança os SOUL Agents, camada de IA que executa tarefas na farmácia hospitalar, na Feira Hospitalar 2026.",
+      "veiculo": "Jornal do Brás",
+      "link": "https://jornaldobras.com.br/noticia/121894/mv-maior-healthtech-da-america-latina-lanca-agentes-de-ia-na-saude-na-feira-hospitalar-2026/amp"
     },
     {
-      "titulo": "Conitec abre consulta pública sobre ampliação de transplantes de medula óssea",
-      "resumo": "Proposta discute incluir câncer ocular infantojuvenil e linfoma entre as indicações cobertas pelo SUS.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/conitec-abre-consulta-publica-para-debater-ampliacao-de-transplantes-de-medula-ossea-para-tratar-cancer-ocular-infantojuvenil-e-linfoma"
+      "titulo": "Ministério da Saúde estabelece novas regras para o planejamento do SUS",
+      "resumo": "Ministério da Saúde publica portaria com quatro instrumentos obrigatórios de planejamento do SUS.",
+      "veiculo": "O Tempo",
+      "link": "https://www.otempo.com.br/politica/2026/7/24/ministerio-da-saude-estabelece-novas-regras-para-o-planejamento-do-sus"
+    },
+    {
+      "titulo": "Governo anuncia R$ 464,8 milhões para ampliar o SUS com novos hospitais e inovação",
+      "resumo": "Governo anuncia R$ 464,8 milhões para ampliar o SUS com novos hospitais, inovação e atendimento especializado.",
+      "veiculo": "Radar Digital Brasília",
+      "link": "https://radardigitalbrasilia.com.br/saude/governo-do-brasil-anuncia-r-4648-milhoes-para-ampliar-o-sus-com-novos-hospitais-inovacao-e-atendimento-especializado/"
+    },
+    {
+      "titulo": "Mercado prevê maior apetite de investimento em healthtechs brasileiras em 2026",
+      "resumo": "Com juros em queda, mercado prevê mais investimento em healthtechs em 2026, com foco em plataformas integradas.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/investimentos-healthtechs-2026/"
+    },
+    {
+      "titulo": "Movimentações da saúde em julho de 2026: nova gestão na ABIIS e trocas de executivos",
+      "resumo": "Julho traz nova presidência na ABIIS e na ABRAIDI, além de trocas em AstraZeneca, Sandoz e Baxter.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/movimentacoes-de-saude-julho-de-2026/"
+    },
+    {
+      "titulo": "Saúde Digital Brasil elege novo Conselho de Administração para 2026-2028",
+      "resumo": "Saúde Digital Brasil elege conselho 2026-2028, com Caio Soares na presidência e Teresa Sacchetta na vice.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/saude-digital-2026/"
+    },
+    {
+      "titulo": "Nova geração de medicamentos antiobesidade avança e Amgen mira aprovação do MariTide",
+      "resumo": "Nova geração de remédios antiobesidade avança e Amgen mira aprovação do MariTide entre o fim de 2026 e 2027.",
+      "veiculo": "Medscape",
+      "link": "https://portugues.medscape.com/viewarticle/nova-geracao-dos-medicamentos-antiobesidade-2025a1000vc0"
     }
   ]
 }
