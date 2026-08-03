@@ -1,79 +1,49 @@
 {
   "fonte": "A saúde em News",
   "data": "2026-08-03",
-  "geradoEm": "2026-08-03T09:09:16-03:00",
+  "geradoEm": "2026-08-03T16:21:47-03:00",
   "itens": [
     {
-      "titulo": "Hapvida ressuscita a marca NotreDame para disputar o segmento premium em SP e RJ",
-      "resumo": "Hapvida relança a NotreDame como unidade premium em SP e RJ, com rede que inclui Sírio-Libanês, Einstein e HCor.",
-      "veiculo": "Exame",
-      "link": "https://exame.com/invest/mercados/hapvida-ressuscita-marca-notredame-para-competir-por-segmento-premium-em-sp-e-rj/"
+      "titulo": "Ministério da Saúde apresenta estratégia de federalização da Rede Nacional de Dados em Saúde",
+      "resumo": "Etapa com os estados é concluída e a RNDS avança para os municípios, ampliando o acesso local aos dados do SUS.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/ministerio-da-saude-apresenta-estrategia-sobre-rede-nacional-de-dados-em-saude"
     },
     {
-      "titulo": "Rede D'Or classifica como infrutífera a negociação para comprar o Fleury",
-      "resumo": "Rede D'Or chama de infrutíferas as tratativas pelos laboratórios do Fleury (R$ 6,9 bi), mas nega decisão de suspender.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/rede-dor-fleury-compra/"
+      "titulo": "SUS oferta teleatendimento a pescadores de Itarema durante viagens em alto mar",
+      "resumo": "Projeto no Ceará leva consulta remota a embarcações e testa telessaúde em área sem cobertura assistencial.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/sus-oferta-teleatendimento-a-pescadores-de-itarema-ce-durante-viagens-em-alto-mar"
     },
     {
-      "titulo": "ANS confirma reajuste de até 5,11% para planos individuais em 2026",
-      "resumo": "ANS fixa teto de reajuste de 5,11% para planos individuais em 2026, o menor índice desde o ano 2000.",
-      "veiculo": "CQCS",
-      "link": "https://cqcs.com.br/noticia/reajuste-de-plano-de-saude-2026-e-aprovado-pela-ans-veja-as-novas-regras/"
+      "titulo": "Ministério da Saúde cria comitê para teste portátil de tuberculose desenvolvido no Brasil",
+      "resumo": "Encomenda tecnológica busca diagnóstico molecular portátil para ampliar a detecção precoce na atenção primária.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/ministerio-da-saude-cria-comite-para-acompanhar-encomenda-tecnologica-que-desenvolvera-teste-portatil-de-tuberculose"
     },
     {
-      "titulo": "CFM publica resolução inédita que regulamenta o uso de IA na medicina",
-      "resumo": "CFM regulamenta IA na medicina: apoio permitido, mas decisão final sobre diagnóstico e tratamento segue com o médico.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/ia-diagnostico-medico-cfm/"
+      "titulo": "Anvisa registra cinco novos medicamentos à base de semaglutida",
+      "resumo": "Aprovações abrem caminho para versões concorrentes no país e tendem a pressionar o preço do tratamento.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/anvisa-registra-cinco-novos-medicamentos-a-base-de-semaglutida"
     },
     {
-      "titulo": "Anvisa aprova mudanças em 141 registros de dispositivos médicos",
-      "resumo": "Anvisa aprova mudanças em 141 registros de dispositivos médicos pela Resolução-RE nº 2.801, no Diário Oficial.",
-      "veiculo": "O Tempo",
-      "link": "https://www.otempo.com.br/politica/2026/7/20/anvisa-aprova-mudancas-em-141-registros-de-dispositivos-medicos"
+      "titulo": "O papel da inteligência artificial e o impacto da tecnologia no SUS",
+      "resumo": "Análise mostra a RNDS saltando de 2,8 bilhões para 4,6 bilhões de registros e a IA entrando na rotina assistencial.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/24/07/2026/o-papel-da-inteligencia-artificial-e-o-impacto-da-tecnologia-no-sus/"
     },
     {
-      "titulo": "MV lança agentes de IA na saúde (SOUL Agents) na Feira Hospitalar 2026",
-      "resumo": "MV lança os SOUL Agents, camada de IA que executa tarefas na farmácia hospitalar, na Feira Hospitalar 2026.",
-      "veiculo": "Jornal do Brás",
-      "link": "https://jornaldobras.com.br/noticia/121894/mv-maior-healthtech-da-america-latina-lanca-agentes-de-ia-na-saude-na-feira-hospitalar-2026/amp"
+      "titulo": "Startup brasileira usa IA para acelerar laudos de eletroencefalograma no SUS",
+      "resumo": "Neurogram processou mais de 10 mil exames neurológicos em 2026 e pediu autorização ao FDA para operar nos EUA.",
+      "veiculo": "Times Brasil",
+      "link": "https://timesbrasil.com.br/empresas-e-negocios/ciencias-e-saude/neurogram-inteligencia-artificial-diagnostico-cerebral-sus/"
     },
     {
-      "titulo": "Ministério da Saúde estabelece novas regras para o planejamento do SUS",
-      "resumo": "Ministério da Saúde publica portaria com quatro instrumentos obrigatórios de planejamento do SUS.",
-      "veiculo": "O Tempo",
-      "link": "https://www.otempo.com.br/politica/2026/7/24/ministerio-da-saude-estabelece-novas-regras-para-o-planejamento-do-sus"
-    },
-    {
-      "titulo": "Governo anuncia R$ 464,8 milhões para ampliar o SUS com novos hospitais e inovação",
-      "resumo": "Governo anuncia R$ 464,8 milhões para ampliar o SUS com novos hospitais, inovação e atendimento especializado.",
-      "veiculo": "Radar Digital Brasília",
-      "link": "https://radardigitalbrasilia.com.br/saude/governo-do-brasil-anuncia-r-4648-milhoes-para-ampliar-o-sus-com-novos-hospitais-inovacao-e-atendimento-especializado/"
-    },
-    {
-      "titulo": "Mercado prevê maior apetite de investimento em healthtechs brasileiras em 2026",
-      "resumo": "Com juros em queda, mercado prevê mais investimento em healthtechs em 2026, com foco em plataformas integradas.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/investimentos-healthtechs-2026/"
-    },
-    {
-      "titulo": "Movimentações da saúde em julho de 2026: nova gestão na ABIIS e trocas de executivos",
-      "resumo": "Julho traz nova presidência na ABIIS e na ABRAIDI, além de trocas em AstraZeneca, Sandoz e Baxter.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/movimentacoes-de-saude-julho-de-2026/"
-    },
-    {
-      "titulo": "Saúde Digital Brasil elege novo Conselho de Administração para 2026-2028",
-      "resumo": "Saúde Digital Brasil elege conselho 2026-2028, com Caio Soares na presidência e Teresa Sacchetta na vice.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/saude-digital-2026/"
-    },
-    {
-      "titulo": "Nova geração de medicamentos antiobesidade avança e Amgen mira aprovação do MariTide",
-      "resumo": "Nova geração de remédios antiobesidade avança e Amgen mira aprovação do MariTide entre o fim de 2026 e 2027.",
-      "veiculo": "Medscape",
-      "link": "https://portugues.medscape.com/viewarticle/nova-geracao-dos-medicamentos-antiobesidade-2025a1000vc0"
+      "titulo": "IBGE inicia a coleta da Pesquisa Nacional de Saúde 2026",
+      "resumo": "Cerca de 140 mil domicílios serão visitados até novembro para atualizar o retrato de saúde da população.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/ibge-inicia-coleta-da-pesquisa-nacional-de-saude-2026"
     }
   ]
 }
