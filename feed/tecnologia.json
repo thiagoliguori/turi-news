@@ -1,79 +1,49 @@
 {
-  "fonte": "A tecnologia em saude",
+  "fonte": "A tecnologia em saúde",
   "data": "2026-08-03",
-  "geradoEm": "2026-08-03T09:07:21-03:00",
+  "geradoEm": "2026-08-03T16:21:53-03:00",
   "itens": [
     {
-      "titulo": "Nature Medicine propoe um teste para a superinteligencia medica da IA",
-      "resumo": "Nature Medicine propoe criterios formais para avaliar quando uma IA medica supera o desempenho humano.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/nm/articles?type=&year=2026"
-    },
-    {
-      "titulo": "NeuroVFM: modelo de fundacao aprende a ler tomografias e ressonancias de rotina",
-      "resumo": "Modelo treinado com exames de rotina melhora diagnostico, laudos e triagem em neuroimagem.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04567-4"
-    },
-    {
-      "titulo": "OpenAI libera o ChatGPT Health para todos os usuarios nos EUA",
-      "resumo": "OpenAI libera o ChatGPT Health para todos os usuarios dos EUA, conectando prontuarios e apps de saude.",
+      "titulo": "OpenAI libera o ChatGPT Health para todos os usuários adultos dos Estados Unidos",
+      "resumo": "Recurso conecta prontuários hospitalares e dados do Apple Health às conversas, ampliando o uso clínico do chatbot.",
       "veiculo": "TechCrunch",
       "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/"
     },
     {
-      "titulo": "Abridge e NVIDIA criam modelo de IA clinica alem da documentacao",
-      "resumo": "Abridge e NVIDIA criam modelo de IA clinica que vai alem da documentacao ambiente.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/abridge-partners-nvidia-expands-beyond-clinical-documentation"
-    },
-    {
-      "titulo": "Anthropic entra na descoberta de farmacos e lanca o Claude Science",
-      "resumo": "Anthropic entra na descoberta de farmacos e lanca o Claude Science, mirando doencas negligenciadas.",
+      "titulo": "Médicos podem confiar na IA clínica? O problema dos benchmarks de modelos de linguagem",
+      "resumo": "Estudo compara ferramentas clínicas com chatbots genéricos e reacende a disputa sobre como medir segurança e acurácia.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/06/30/anthropic-ai-drug-development/"
+      "link": "https://www.statnews.com/2026/07/29/clinical-ai-vs-generalist-llm-benchmark-study-trust-accuracy-safety/"
     },
     {
-      "titulo": "Estudo mostra LLMs genericos superando IA clinica aprovada pela FDA",
-      "resumo": "Benchmark mostra LLMs de uso geral superando ferramentas de IA clinica aprovadas pela FDA.",
+      "titulo": "Governança de IA deve ser responsabilidade direta dos executivos hospitalares",
+      "resumo": "Artigo defende levar a prestação de contas sobre algoritmos clínicos para a diretoria, e não deixá-la restrita à TI.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/07/22/hospital-ai-systems-ceo-leadership-accountability-governance/"
+    },
+    {
+      "titulo": "Nature Medicine discute como testar sistemas de IA que se atualizam continuamente",
+      "resumo": "Autores propõem desenhos de ensaio clínico compatíveis com modelos monitorados e revisados durante o próprio uso.",
       "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/nm/articles?type=&year=2026"
+      "link": "https://www.nature.com/articles/s41591-026-04368-9"
     },
     {
-      "titulo": "Retina4IRD: IA acerta 88,5% no diagnostico de doencas retinianas hereditarias",
-      "resumo": "IA alcanca 88,5% de acuracia no diagnostico de doencas retinianas hereditarias em ensaio randomizado.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/nm/articles?type=&year=2026"
+      "titulo": "Candid Health capta 120 milhões de dólares para automatizar o ciclo de receita com IA",
+      "resumo": "Rodada série D triplica o valuation da empresa e reforça o faturamento médico como aposta comercial da IA.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/candid-health-raises-120m-ai-revenue-cycle-management-platform"
     },
     {
-      "titulo": "Bunkerhill Health capta US$ 25 milhoes em Serie B para IA agentica",
-      "resumo": "Bunkerhill capta US$ 25 milhoes em Serie B para IA agentica em sistemas de saude.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26"
+      "titulo": "Hemispheric sai do modo furtivo com 52 milhões de dólares e um modelo de base do cérebro",
+      "resumo": "Modelo Descartes traduz sinais de eletroencefalograma em métricas clínicas para depressão, TEPT e lesão cerebral.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/hemispheric-raises-52m-ai-brain-foundation-model"
     },
     {
-      "titulo": "Financiamento em saude digital chega a US$ 7,4 bilhoes em 2026",
-      "resumo": "Investimento em saude digital chega a US$ 7,4 bilhoes em 2026, impulsionado por IA.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/digital-health/digital-health-brought-74b-vc-funding-ai-powered-rebound-fuels-market"
-    },
-    {
-      "titulo": "UnitedHealth projeta economizar quase US$ 1 bilhao com IA em 2026",
-      "resumo": "UnitedHealth projeta economizar quase US$ 1 bilhao com IA no ciclo de receita em 2026.",
-      "veiculo": "Chief Healthcare Executive",
-      "link": "https://www.chiefhealthcareexecutive.com/view/ai-in-health-care-26-leaders-offer-predictions-for-2026"
-    },
-    {
-      "titulo": "Ministerio da Saude lanca curso de IA para fortalecer a gestao do SUS",
-      "resumo": "Ministerio da Saude lanca curso de IA com 12 mil vagas para gestores do SUS.",
-      "veiculo": "Ministerio da Saude",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/julho/ministerio-da-saude-lanca-curso-para-fortalecer-a-gestao-do-sus-com-inteligencia-artificial"
-    },
-    {
-      "titulo": "62,5% dos hospitais brasileiros ja usam inteligencia artificial",
-      "resumo": "Levantamento aponta que 62,5% dos hospitais brasileiros ja usam inteligencia artificial.",
-      "veiculo": "Blog da Engenharia",
-      "link": "https://blogdaengenharia.com/625-dos-hospitais-brasileiros-ja-utilizam-inteligencia-artificial-2/"
+      "titulo": "Eric Topol diz que a medicina está trocando o calendário pelo relógio biológico",
+      "resumo": "Proteínas no sangue indicam a velocidade de envelhecimento de cada órgão e abrem caminho para prevenção personalizada.",
+      "veiculo": "Ground Truths",
+      "link": "https://erictopol.substack.com/p/medicine-is-moving-from-calendars"
     }
   ]
 }
