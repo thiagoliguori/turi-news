@@ -1,49 +1,49 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-08-03",
-  "geradoEm": "2026-08-03T16:21:47-03:00",
+  "data": "2026-08-05",
+  "geradoEm": "2026-08-05T13:13:10-03:00",
   "itens": [
     {
-      "titulo": "Ministério da Saúde apresenta estratégia de federalização da Rede Nacional de Dados em Saúde",
-      "resumo": "Etapa com os estados é concluída e a RNDS avança para os municípios, ampliando o acesso local aos dados do SUS.",
+      "titulo": "IA e diagnóstico: o que muda com as novas regras do CFM e da Anvisa",
+      "resumo": "Resolução 2.454/2026 entra em vigor em agosto e exige registro do uso de inteligência artificial no prontuário.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/ia-diagnostico-medico-cfm/"
+    },
+    {
+      "titulo": "Ministério da Saúde lança curso para fortalecer a gestão do SUS com inteligência artificial",
+      "resumo": "Formação a distância de 180 horas oferece 12 mil vagas para gestores das três esferas de governo.",
       "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/ministerio-da-saude-apresenta-estrategia-sobre-rede-nacional-de-dados-em-saude"
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/julho/ministerio-da-saude-lanca-curso-para-fortalecer-a-gestao-do-sus-com-inteligencia-artificial"
     },
     {
-      "titulo": "SUS oferta teleatendimento a pescadores de Itarema durante viagens em alto mar",
-      "resumo": "Projeto no Ceará leva consulta remota a embarcações e testa telessaúde em área sem cobertura assistencial.",
+      "titulo": "Em Lisboa, Brasil participa de conferência da OMS sobre inteligência artificial aplicada à saúde",
+      "resumo": "Delegação brasileira leva a experiência do SUS ao debate global sobre uso de IA em sistemas públicos.",
       "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/sus-oferta-teleatendimento-a-pescadores-de-itarema-ce-durante-viagens-em-alto-mar"
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/em-lisboa-brasil-participa-de-conferencia-da-oms-sobre-inteligencia-artificial-aplicada-a-saude"
     },
     {
-      "titulo": "Ministério da Saúde cria comitê para teste portátil de tuberculose desenvolvido no Brasil",
-      "resumo": "Encomenda tecnológica busca diagnóstico molecular portátil para ampliar a detecção precoce na atenção primária.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/ministerio-da-saude-cria-comite-para-acompanhar-encomenda-tecnologica-que-desenvolvera-teste-portatil-de-tuberculose"
-    },
-    {
-      "titulo": "Anvisa registra cinco novos medicamentos à base de semaglutida",
-      "resumo": "Aprovações abrem caminho para versões concorrentes no país e tendem a pressionar o preço do tratamento.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/julho/anvisa-registra-cinco-novos-medicamentos-a-base-de-semaglutida"
-    },
-    {
-      "titulo": "O papel da inteligência artificial e o impacto da tecnologia no SUS",
-      "resumo": "Análise mostra a RNDS saltando de 2,8 bilhões para 4,6 bilhões de registros e a IA entrando na rotina assistencial.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/24/07/2026/o-papel-da-inteligencia-artificial-e-o-impacto-da-tecnologia-no-sus/"
-    },
-    {
-      "titulo": "Startup brasileira usa IA para acelerar laudos de eletroencefalograma no SUS",
-      "resumo": "Neurogram processou mais de 10 mil exames neurológicos em 2026 e pediu autorização ao FDA para operar nos EUA.",
-      "veiculo": "Times Brasil",
-      "link": "https://timesbrasil.com.br/empresas-e-negocios/ciencias-e-saude/neurogram-inteligencia-artificial-diagnostico-cerebral-sus/"
-    },
-    {
-      "titulo": "IBGE inicia a coleta da Pesquisa Nacional de Saúde 2026",
-      "resumo": "Cerca de 140 mil domicílios serão visitados até novembro para atualizar o retrato de saúde da população.",
+      "titulo": "Plataforma oferece escuta em saúde mental para jovens no SUS Digital",
+      "resumo": "Aplicativo Meu SUS Digital passa a oferecer acolhimento psicológico a pessoas de 13 a 24 anos.",
       "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/ibge-inicia-coleta-da-pesquisa-nacional-de-saude-2026"
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/plataforma-oferece-escuta-em-saude-mental-para-jovens-no-sus-digital"
+    },
+    {
+      "titulo": "Aberta chamada pública para pesquisas sobre endometriose",
+      "resumo": "CNPq destina 60 milhões de reais a estudos sobre endometriose, dor pélvica e saúde menstrual no SUS.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/aberta-chamada-publica-para-pesquisas-sobre-endometriose"
+    },
+    {
+      "titulo": "Fórum Saúde Digital reúne líderes do setor para discutir IA, interoperabilidade e cibersegurança",
+      "resumo": "Encontro em São Paulo debate gestão orientada por dados e a jornada digital do paciente.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/22/07/2026/forum-saude-digital-reune-os-principais-lideres-do-setor-para-discutir-ia-interoperabilidade-ciberseguranca-e-o-futuro-da-transformacao-digital-na-saude/"
+    },
+    {
+      "titulo": "IA transforma a saúde na América Latina humanizando o atendimento",
+      "resumo": "Artigo analisa como a inteligência artificial avança nos serviços de saúde da região sem substituir o contato humano.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/27/07/2026/ia-transforma-a-saude-na-america-latina-humanizando-o-atendimento/"
     }
   ]
 }
