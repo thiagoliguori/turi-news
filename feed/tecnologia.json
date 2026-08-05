@@ -1,49 +1,79 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-08-03",
-  "geradoEm": "2026-08-03T16:21:53-03:00",
+  "data": "2026-08-05",
+  "geradoEm": "2026-08-05T09:17:57-03:00",
   "itens": [
     {
-      "titulo": "OpenAI libera o ChatGPT Health para todos os usuários adultos dos Estados Unidos",
-      "resumo": "Recurso conecta prontuários hospitalares e dados do Apple Health às conversas, ampliando o uso clínico do chatbot.",
-      "veiculo": "TechCrunch",
-      "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/"
+      "titulo": "OpenAI libera o ChatGPT Health para o público geral",
+      "resumo": "OpenAI abre o ChatGPT Health para todos os planos, conectando prontuários e wearables, mas fora da proteção da HIPAA.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/openai-makes-health-chatgpt-widely-available-moving-deeper-consumer-health"
     },
     {
-      "titulo": "Médicos podem confiar na IA clínica? O problema dos benchmarks de modelos de linguagem",
-      "resumo": "Estudo compara ferramentas clínicas com chatbots genéricos e reacende a disputa sobre como medir segurança e acurácia.",
+      "titulo": "FDA concede designação breakthrough a IA generativa em radiologia",
+      "resumo": "FDA dá designação breakthrough à IA generativa da Cognita e da Aidoc, que lê raio-X de tórax e escreve o laudo.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/07/29/clinical-ai-vs-generalist-llm-benchmark-study-trust-accuracy-safety/"
+      "link": "https://www.statnews.com/2026/06/25/radiology-generative-ai-cognita-aidoc-fda-breakthrough-designation/"
     },
     {
-      "titulo": "Governança de IA deve ser responsabilidade direta dos executivos hospitalares",
-      "resumo": "Artigo defende levar a prestação de contas sobre algoritmos clínicos para a diretoria, e não deixá-la restrita à TI.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/07/22/hospital-ai-systems-ceo-leadership-accountability-governance/"
+      "titulo": "Google DeepMind apresenta o conceito de AI co-clinician",
+      "resumo": "Google DeepMind propõe cuidado triádico entre paciente, IA e médico supervisor, com a IA assumindo as interações de rotina.",
+      "veiculo": "Google DeepMind",
+      "link": "https://deepmind.google/blog/ai-co-clinician/"
     },
     {
-      "titulo": "Nature Medicine discute como testar sistemas de IA que se atualizam continuamente",
-      "resumo": "Autores propõem desenhos de ensaio clínico compatíveis com modelos monitorados e revisados durante o próprio uso.",
+      "titulo": "Google DeepMind lança programa de bioresiliência",
+      "resumo": "Google DeepMind e Isomorphic Labs lançam programa de bioresiliência para vigiar patógenos e acelerar vacinas contra ameaças biológicas.",
+      "veiculo": "Axios",
+      "link": "https://www.axios.com/2026/07/16/google-deepmind-biosecurity-safety"
+    },
+    {
+      "titulo": "Nature Medicine: IA de apoio ao diagnóstico de doenças hereditárias da retina",
+      "resumo": "Ensaio randomizado na Nature Medicine mostra IA (Retina4IRD) com 88,5% de acurácia no diagnóstico de doenças hereditárias da retina.",
       "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04368-9"
+      "link": "https://www.nature.com/articles/s41591-026-04545-w"
     },
     {
-      "titulo": "Candid Health capta 120 milhões de dólares para automatizar o ciclo de receita com IA",
-      "resumo": "Rodada série D triplica o valuation da empresa e reforça o faturamento médico como aposta comercial da IA.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/candid-health-raises-120m-ai-revenue-cycle-management-platform"
+      "titulo": "Nature Medicine: copiloto de IA não reduziu falha de tratamento na atenção primária",
+      "resumo": "Ensaio randomizado na Nature Medicine: copiloto de IA não reduziu falha de tratamento na atenção primária frente ao cuidado usual.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/articles/s41591-026-04503-6"
     },
     {
-      "titulo": "Hemispheric sai do modo furtivo com 52 milhões de dólares e um modelo de base do cérebro",
-      "resumo": "Modelo Descartes traduz sinais de eletroencefalograma em métricas clínicas para depressão, TEPT e lesão cerebral.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/hemispheric-raises-52m-ai-brain-foundation-model"
+      "titulo": "Grande estudo do JAMA mede o impacto dos escribas de IA ambiente",
+      "resumo": "Estudo do JAMA com 8.581 clínicos mostra que escribas de IA cortam de 13 a 16 minutos diários no prontuário.",
+      "veiculo": "JAMA",
+      "link": "https://hitconsultant.net/2026/04/01/jama-ai-scribe-study-ehr-time-savings-burnout-reality-check/"
     },
     {
-      "titulo": "Eric Topol diz que a medicina está trocando o calendário pelo relógio biológico",
-      "resumo": "Proteínas no sangue indicam a velocidade de envelhecimento de cada órgão e abrem caminho para prevenção personalizada.",
-      "veiculo": "Ground Truths",
-      "link": "https://erictopol.substack.com/p/medicine-is-moving-from-calendars"
+      "titulo": "Function Health capta US$ 450 milhões para exames preventivos",
+      "resumo": "Function Health capta US$ 450 milhões da General Catalyst e passa de US$ 800 milhões levantados para exames preventivos.",
+      "veiculo": "MedCity News",
+      "link": "https://medcitynews.com/2026/07/general-catalyst-function-health-funding/"
+    },
+    {
+      "titulo": "Pearl Health capta US$ 110 milhões para cuidado baseado em valor",
+      "resumo": "Pearl Health capta US$ 110 milhões, com a a16z, para escalar IA de cuidado baseado em valor no Medicare.",
+      "veiculo": "MedCity News",
+      "link": "https://medcitynews.com/2026/07/pearl-health-funding/"
+    },
+    {
+      "titulo": "Apple Watch mira a hipertensão e busca aval da FDA",
+      "resumo": "Apple submete detecção de hipertensão do Apple Watch à FDA; estudo do JAMA mostra que o alerta eleva a suspeita.",
+      "veiculo": "Tech Times",
+      "link": "https://www.techtimes.com/articles/316821/20260519/apple-watch-blood-pressure-upgrade-could-take-health-tracking-next-level.htm"
+    },
+    {
+      "titulo": "Assured Health capta US$ 19 milhões para IA agêntica em credenciamento",
+      "resumo": "Assured Health capta US$ 19 milhões para agentes de IA que credenciam médicos em convênios, reduzindo meses para dias.",
+      "veiculo": "MedCity News",
+      "link": "https://medcitynews.com/2026/07/assured-health-healthcare-credentialing/"
+    },
+    {
+      "titulo": "Brasil: 62,5% dos hospitais privados já usam inteligência artificial",
+      "resumo": "Mapeamento da Anahp e da ABSS mostra que 62,5% dos hospitais privados no Brasil já usam IA, sobretudo em chatbots.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/inteligencia-artificial-na-saude/"
     }
   ]
 }
