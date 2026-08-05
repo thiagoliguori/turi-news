@@ -1,79 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
   "data": "2026-08-05",
-  "geradoEm": "2026-08-05T09:17:57-03:00",
+  "geradoEm": "2026-08-05T13:13:17-03:00",
   "itens": [
     {
-      "titulo": "OpenAI libera o ChatGPT Health para o público geral",
-      "resumo": "OpenAI abre o ChatGPT Health para todos os planos, conectando prontuários e wearables, mas fora da proteção da HIPAA.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/openai-makes-health-chatgpt-widely-available-moving-deeper-consumer-health"
-    },
-    {
-      "titulo": "FDA concede designação breakthrough a IA generativa em radiologia",
-      "resumo": "FDA dá designação breakthrough à IA generativa da Cognita e da Aidoc, que lê raio-X de tórax e escreve o laudo.",
+      "titulo": "Escribas de IA ajudam ou atrapalham a formação médica?",
+      "resumo": "Educadores temem que estudantes deixem de treinar o raciocínio diagnóstico ao delegar as notas clínicas à máquina.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/06/25/radiology-generative-ai-cognita-aidoc-fda-breakthrough-designation/"
+      "link": "https://www.statnews.com/2026/08/03/ai-scribes-medical-education-learning-tool-cognitive-crutch/"
     },
     {
-      "titulo": "Google DeepMind apresenta o conceito de AI co-clinician",
-      "resumo": "Google DeepMind propõe cuidado triádico entre paciente, IA e médico supervisor, com a IA assumindo as interações de rotina.",
-      "veiculo": "Google DeepMind",
-      "link": "https://deepmind.google/blog/ai-co-clinician/"
+      "titulo": "Como os conselhos médicos estaduais devem tratar os médicos de inteligência artificial",
+      "resumo": "Especialistas argumentam que a IA generativa ainda não está pronta para receber licença própria para exercer medicina.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/08/03/ai-doctors-licensing-state-medical-boards/"
     },
     {
-      "titulo": "Google DeepMind lança programa de bioresiliência",
-      "resumo": "Google DeepMind e Isomorphic Labs lançam programa de bioresiliência para vigiar patógenos e acelerar vacinas contra ameaças biológicas.",
-      "veiculo": "Axios",
-      "link": "https://www.axios.com/2026/07/16/google-deepmind-biosecurity-safety"
+      "titulo": "Regulador britânico avalia se escribas de IA são dispositivos médicos",
+      "resumo": "Boletim traz também o fim de vias de pagamento do CMS para dispositivos classificados como inovadores.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/08/04/ai-scribes-medical-devices-uk-regulator-view-health-tech/"
     },
     {
-      "titulo": "Nature Medicine: IA de apoio ao diagnóstico de doenças hereditárias da retina",
-      "resumo": "Ensaio randomizado na Nature Medicine mostra IA (Retina4IRD) com 88,5% de acurácia no diagnóstico de doenças hereditárias da retina.",
+      "titulo": "O cientista assistente de inteligência artificial já chegou",
+      "resumo": "Modelos passam da conversa à hipótese, com ideias testadas em organoides, animais e ensaios clínicos iniciais.",
       "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04545-w"
+      "link": "https://www.nature.com/articles/s41591-026-04275-z"
     },
     {
-      "titulo": "Nature Medicine: copiloto de IA não reduziu falha de tratamento na atenção primária",
-      "resumo": "Ensaio randomizado na Nature Medicine: copiloto de IA não reduziu falha de tratamento na atenção primária frente ao cuidado usual.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04503-6"
+      "titulo": "Throne Science capta 10 milhões de dólares para sensor de vaso sanitário com IA",
+      "resumo": "Dispositivo usa visão computacional para acompanhar saúde digestiva e mira a detecção precoce de câncer de cólon.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/throne-science-raises-10m-ai-toilet-sensor"
     },
     {
-      "titulo": "Grande estudo do JAMA mede o impacto dos escribas de IA ambiente",
-      "resumo": "Estudo do JAMA com 8.581 clínicos mostra que escribas de IA cortam de 13 a 16 minutos diários no prontuário.",
-      "veiculo": "JAMA",
-      "link": "https://hitconsultant.net/2026/04/01/jama-ai-scribe-study-ehr-time-savings-burnout-reality-check/"
+      "titulo": "Inocras capta 31 milhões de dólares para sequenciamento de genoma completo",
+      "resumo": "Rodada acelera a expansão nos Estados Unidos da plataforma de bioinformática voltada à oncologia de precisão.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/whole-genome-sequencing-company-inocras-raises-31m"
     },
     {
-      "titulo": "Function Health capta US$ 450 milhões para exames preventivos",
-      "resumo": "Function Health capta US$ 450 milhões da General Catalyst e passa de US$ 800 milhões levantados para exames preventivos.",
-      "veiculo": "MedCity News",
-      "link": "https://medcitynews.com/2026/07/general-catalyst-function-health-funding/"
-    },
-    {
-      "titulo": "Pearl Health capta US$ 110 milhões para cuidado baseado em valor",
-      "resumo": "Pearl Health capta US$ 110 milhões, com a a16z, para escalar IA de cuidado baseado em valor no Medicare.",
-      "veiculo": "MedCity News",
-      "link": "https://medcitynews.com/2026/07/pearl-health-funding/"
-    },
-    {
-      "titulo": "Apple Watch mira a hipertensão e busca aval da FDA",
-      "resumo": "Apple submete detecção de hipertensão do Apple Watch à FDA; estudo do JAMA mostra que o alerta eleva a suspeita.",
-      "veiculo": "Tech Times",
-      "link": "https://www.techtimes.com/articles/316821/20260519/apple-watch-blood-pressure-upgrade-could-take-health-tracking-next-level.htm"
-    },
-    {
-      "titulo": "Assured Health capta US$ 19 milhões para IA agêntica em credenciamento",
-      "resumo": "Assured Health capta US$ 19 milhões para agentes de IA que credenciam médicos em convênios, reduzindo meses para dias.",
-      "veiculo": "MedCity News",
-      "link": "https://medcitynews.com/2026/07/assured-health-healthcare-credentialing/"
-    },
-    {
-      "titulo": "Brasil: 62,5% dos hospitais privados já usam inteligência artificial",
-      "resumo": "Mapeamento da Anahp e da ABSS mostra que 62,5% dos hospitais privados no Brasil já usam IA, sobretudo em chatbots.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/inteligencia-artificial-na-saude/"
+      "titulo": "Sarah Urbut e a previsão do arco de saúde de cada pessoa",
+      "resumo": "Eric Topol conversa com a autora de artigo na Nature que projeta a trajetória de risco ao longo da vida.",
+      "veiculo": "Ground Truths",
+      "link": "https://erictopol.substack.com/p/predicting-your-health-arc"
     }
   ]
 }
