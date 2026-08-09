@@ -1,49 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-08-05",
-  "geradoEm": "2026-08-05T13:13:17-03:00",
+  "data": "2026-08-09",
+  "geradoEm": "2026-08-09T15:39:29-03:00",
   "itens": [
     {
-      "titulo": "Escribas de IA ajudam ou atrapalham a formação médica?",
-      "resumo": "Educadores temem que estudantes deixem de treinar o raciocínio diagnóstico ao delegar as notas clínicas à máquina.",
+      "titulo": "Reguladores federais dos EUA convocam indústria para reuniões fechadas sobre IA clínica",
+      "resumo": "Encontro na FDA reuniu Anthropic, Microsoft AI, Amazon One Medical e outras para acelerar adoção de IA clínica.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/08/03/ai-scribes-medical-education-learning-tool-cognitive-crutch/"
+      "link": "https://www.statnews.com/2026/08/05/federal-regulators-invite-industry-closed-door-meetings-clinical-ai/"
     },
     {
-      "titulo": "Como os conselhos médicos estaduais devem tratar os médicos de inteligência artificial",
-      "resumo": "Especialistas argumentam que a IA generativa ainda não está pronta para receber licença própria para exercer medicina.",
+      "titulo": "IA médica vai tirar do médico a pouca autonomia que ainda resta",
+      "resumo": "Autor aponta que a FDA reduziu a fiscalização do suporte à decisão e transferiu a responsabilidade ao clínico.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/08/03/ai-doctors-licensing-state-medical-boards/"
+      "link": "https://www.statnews.com/2026/08/07/medical-ai-doctors-autonomy/"
     },
     {
-      "titulo": "Regulador britânico avalia se escribas de IA são dispositivos médicos",
-      "resumo": "Boletim traz também o fim de vias de pagamento do CMS para dispositivos classificados como inovadores.",
+      "titulo": "Nem toda inteligência artificial em medicina é a mesma coisa",
+      "resumo": "Análise separa avanços reais de promessas ao comparar escribas, alertas de sepse e modelos de linguagem.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/08/04/ai-scribes-medical-devices-uk-regulator-view-health-tech/"
+      "link": "https://www.statnews.com/2026/08/06/ai-health-care-skepticism-advances-nature-medicine-scribe-sepsis/"
     },
     {
-      "titulo": "O cientista assistente de inteligência artificial já chegou",
-      "resumo": "Modelos passam da conversa à hipótese, com ideias testadas em organoides, animais e ensaios clínicos iniciais.",
+      "titulo": "Rumo a um teste de superinteligência médica",
+      "resumo": "Pesquisadores propõem estrutura para medir raciocínio clínico além dos exames de licenciamento, hoje pouco informativos.",
       "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04275-z"
+      "link": "https://www.nature.com/articles/s41591-026-04539-8"
     },
     {
-      "titulo": "Throne Science capta 10 milhões de dólares para sensor de vaso sanitário com IA",
-      "resumo": "Dispositivo usa visão computacional para acompanhar saúde digestiva e mira a detecção precoce de câncer de cólon.",
+      "titulo": "Modelos treinados com dados de rotina hospitalar geram IA generalista em neuroimagem",
+      "resumo": "NeuroVFM aprendeu com 5,24 milhões de exames de tomografia e ressonância e melhorou diagnóstico, laudo e triagem.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/articles/s41591-026-04497-1"
+    },
+    {
+      "titulo": "Modelos de linguagem gerais superam ferramentas clínicas especializadas em benchmarks médicos",
+      "resumo": "Estudo do NYU Langone comparou OpenEvidence e UpToDate a modelos de fronteira e viu desempenho pior nos clínicos.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/articles/s41591-026-04431-5"
+    },
+    {
+      "titulo": "QuantHealth capta 45 milhões de dólares para simulação de ensaios clínicos com IA",
+      "resumo": "Empresa israelense diz já ter simulado mais de 600 estudos em 30 indicações antes de sua execução real.",
       "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/throne-science-raises-10m-ai-toilet-sensor"
-    },
-    {
-      "titulo": "Inocras capta 31 milhões de dólares para sequenciamento de genoma completo",
-      "resumo": "Rodada acelera a expansão nos Estados Unidos da plataforma de bioinformática voltada à oncologia de precisão.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/whole-genome-sequencing-company-inocras-raises-31m"
-    },
-    {
-      "titulo": "Sarah Urbut e a previsão do arco de saúde de cada pessoa",
-      "resumo": "Eric Topol conversa com a autora de artigo na Nature que projeta a trajetória de risco ao longo da vida.",
-      "veiculo": "Ground Truths",
-      "link": "https://erictopol.substack.com/p/predicting-your-health-arc"
+      "link": "https://www.mobihealthnews.com/news/quanthealth-lands-45m-ai-clinical-trial-simulations"
     }
   ]
 }
