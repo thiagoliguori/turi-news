@@ -1,79 +1,49 @@
 {
   "fonte": "A saúde em News",
   "data": "2026-08-10",
-  "geradoEm": "2026-08-10T09:14:12-03:00",
+  "geradoEm": "2026-08-10T20:05:27-03:00",
   "itens": [
     {
-      "titulo": "Ministério da Saúde entrega 3 mil kits de telessaúde e lança edital com hospitais privados",
-      "resumo": "Governo distribui 3 mil kits de telemedicina a UBS e abre edital para hospitais privados atenderem o SUS a distância.",
-      "veiculo": "Agência Gov",
-      "link": "https://agenciagov.ebc.com.br/noticias/202508/ministerio-da-saude-entrega-3-mil-kits-de-telessaude-e-lanca-edital-inedito-para-expandir-atendimento-a-distancia-com-hospitais-privados"
+      "titulo": "Meu SUS Digital passa a oferecer até 100 mil teleatendimentos mensais para vício em jogos e apostas",
+      "resumo": "Serviço que começou em março com 600 consultas mensais foi ampliado por causa da alta demanda.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/meu-sus-digital-oferecera-ate-100-mil-teleatendimentos-mensais-para-pessoas-com-necessidades-relacionadas-a-jogos-e-apostas"
     },
     {
-      "titulo": "SUS incorpora teste imunoquímico fecal (FIT) para rastreamento de câncer colorretal",
-      "resumo": "Portaria inclui o exame FIT no SUS para rastrear câncer colorretal dos 50 aos 75 anos, alcançando mais de 40 milhões.",
-      "veiculo": "O Tempo",
-      "link": "https://www.otempo.com.br/politica/2026/8/10/ministerio-da-saude-inclui-novo-exame-para-rastreamento-de-cancer-colorretal-no-sus"
+      "titulo": "Haddad apresenta plano com IA no SUS e central única de leitos para a saúde paulista",
+      "resumo": "Proposta prevê triagem algorítmica de urgências e integração dos sistemas municipais, estaduais e da rede conveniada.",
+      "veiculo": "Brasil 247",
+      "link": "https://www.brasil247.com/sudeste/ia-no-sus-e-central-unica-de-leitos-haddad-apresenta-plano-de-mudanca-tecnologica-na-saude-paulista/"
     },
     {
-      "titulo": "Governo federal libera R$ 212,4 milhões para reforçar a atenção especializada",
-      "resumo": "Repasse de R$ 212,4 milhões custeia serviços de atenção especializada em estados, municípios e Distrito Federal.",
-      "veiculo": "O Tempo",
-      "link": "https://www.otempo.com.br/politica/2026/8/7/saude-governo-federal-libera-r-2124-milhoes-para-estados-e-cidades"
+      "titulo": "Nova regulação de IA coloca a governança institucional como eixo central",
+      "resumo": "Artigo analisa a resolução do CFM sobre IA e o papel da governança nos serviços de saúde.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/nova-regulacao-de-ia-artigo-rubens-granja/"
     },
     {
-      "titulo": "Anvisa aprova alterações em registros de 11 farmacêuticas (RE 3.074)",
-      "resumo": "Anvisa publica no DOU a RE 3.074 com mudanças em registros de 11 farmacêuticas, incluindo remédios para colesterol e dor.",
-      "veiculo": "O Tempo",
-      "link": "https://www.otempo.com.br/politica/2026/8/10/anvisa-aprova-alteracoes-em-genericos-e-similares"
-    },
-    {
-      "titulo": "Fórum Saúde Digital reúne líderes do setor em São Paulo",
-      "resumo": "Evento em São Paulo reuniu lideranças para debater IA, interoperabilidade, cibersegurança e transformação digital na saúde.",
+      "titulo": "IA deve aumentar a qualidade da consulta, e não reduzir o tempo com o paciente",
+      "resumo": "Executivo da Afya defende ampliar a capacidade de decisão do médico em vez de só acelerar atendimentos.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/22/07/2026/forum-saude-digital-reune-os-principais-lideres-do-setor-para-discutir-ia-interoperabilidade-ciberseguranca-e-o-futuro-da-transformacao-digital-na-saude/"
+      "link": "https://saudedigitalnews.com.br/05/08/2026/ia-deve-aumentar-a-qualidade-da-consulta-e-nao-reduzir-o-tempo-com-o-paciente-afirma-executivo-da-afya/"
     },
     {
-      "titulo": "Doctoralia: retorno da IA na saúde depende de gerar valor para todo o ecossistema",
-      "resumo": "Executivo da Doctoralia defende que o ROI da IA só se sustenta quando beneficia toda a cadeia, do grande hospital à clínica.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/05/08/2026/ia-na-saude-precisa-gerar-valor-para-todo-o-ecossistema-defende-executivo-da-doctoralia/"
+      "titulo": "Doctoralia lança Noa Evidence, IA de suporte à decisão clínica",
+      "resumo": "Ferramenta busca diretrizes e literatura revisada por pares e entrega resumos com link para a fonte original.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/doctoralia-noa-evidence/"
     },
     {
-      "titulo": "Hapvida ressuscita marca NotreDame para disputar o segmento premium em SP e RJ",
-      "resumo": "Hapvida lança a NotreDame Saúde premium, com acesso a Einstein, Sírio-Libanês e HCor, reembolso e concierge.",
-      "veiculo": "Exame",
-      "link": "https://exame.com/invest/mercados/hapvida-ressuscita-marca-notredame-para-competir-por-segmento-premium-em-sp-e-rj/"
+      "titulo": "Pesquisa TIC Saúde mostra avanço da IA nos estabelecimentos de saúde brasileiros",
+      "resumo": "Adoção chega a 31 por cento nos serviços com mais de 50 leitos, concentrada em tarefas operacionais.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/reportagem-capa-edicao34/"
     },
     {
-      "titulo": "JPMorgan e Morgan Stanley elegem BradSaúde, Hypera e RD Saúde no 2T26",
-      "resumo": "Bancos apontam BradSaúde, Hypera e RD Saúde como destaques do 2T26, com recuperação estrutural de margens.",
-      "veiculo": "Executivos da Saúde",
-      "link": "https://executivosdasaude.com.br/2026/08/04/jpmorgan-e-morgan-stanley-revelam-apostas-para-o-setor-de-saude-no-2t26-bradsaude-hypera-e-rd-saude-em-destaque/"
-    },
-    {
-      "titulo": "AstraZeneca negocia a compra da Bristol-Myers Squibb",
-      "resumo": "AstraZeneca negocia adquirir a rival Bristol-Myers Squibb em um dos maiores movimentos da farma global, com ressalvas do mercado.",
-      "veiculo": "Brazil Journal",
-      "link": "https://braziljournal.com/astrazeneca-negocia-a-compra-da-bristol-myers-mercado-ve-contraindicacoes/"
-    },
-    {
-      "titulo": "Linda capta R$ 10 milhões para IA de detecção precoce de câncer de mama",
-      "resumo": "Healthtech Linda levanta R$ 10 milhões em rodada seed liderada pela SkyRiver Ventures para acelerar sua IA de rastreio mamário.",
-      "veiculo": "Startups",
-      "link": "https://startups.com.br/negocios/rodada-de-investimento/healthtech-capta-r-10m-para-detectar-cancer-de-mama-com-ia/"
-    },
-    {
-      "titulo": "Eden aposta US$ 11 milhões no Brasil com IA para diagnóstico de câncer",
-      "resumo": "Healthtech mexicana Eden escolhe o Brasil como principal mercado da região e investe US$ 11 milhões em IA para radiologia.",
-      "veiculo": "Bloomberg Línea",
-      "link": "https://www.bloomberglinea.com.br/startups/startup-de-ia-para-diagnostico-de-cancer-aposta-no-brasil-e-vai-investir-us-11-mi/"
-    },
-    {
-      "titulo": "ANS amplia cobertura obrigatória de medicamentos injetáveis no Rol (RN 676)",
-      "resumo": "RN 676 passa a exigir dos planos a cobertura de testosterona injetável para hipogonadismo, com vigência em agosto.",
-      "veiculo": "Atlas Público",
-      "link": "https://atlaspublico.com.br/noticias/ans-torna-obrigatoria-a-cobertura-de-testosterona-injetavel-73667"
+      "titulo": "Atraso na ampliação do teste do pezinho dificulta diagnóstico precoce da AME",
+      "resumo": "Organizações cobram agilidade do SUS porque o diagnóstico tardio reduz o efeito das terapias disponíveis.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/organizacoes-pedem-mais-agilidade-no-diagnostico-da-ame-no-pais"
     }
   ]
 }
