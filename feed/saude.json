@@ -1,49 +1,79 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-08-09",
-  "geradoEm": "2026-08-09T15:37:44-03:00",
+  "data": "2026-08-10",
+  "geradoEm": "2026-08-10T09:14:12-03:00",
   "itens": [
     {
-      "titulo": "Ministro da Saúde participa de simpósio sobre hospitais inteligentes e uso da IA no cuidado",
-      "resumo": "Governo detalha rede de hospitais inteligentes do SUS, com UTIs conectadas já ativas em seis capitais brasileiras.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/ministro-da-saude-participa-de-simposio-sobre-hospitais-inteligentes-e-uso-da-inteligencia-artificial-no-cuidado"
+      "titulo": "Ministério da Saúde entrega 3 mil kits de telessaúde e lança edital com hospitais privados",
+      "resumo": "Governo distribui 3 mil kits de telemedicina a UBS e abre edital para hospitais privados atenderem o SUS a distância.",
+      "veiculo": "Agência Gov",
+      "link": "https://agenciagov.ebc.com.br/noticias/202508/ministerio-da-saude-entrega-3-mil-kits-de-telessaude-e-lanca-edital-inedito-para-expandir-atendimento-a-distancia-com-hospitais-privados"
     },
     {
-      "titulo": "A IA já entrou na medicina e o próximo desafio é saber quem governa essa inteligência",
-      "resumo": "Artigo defende que o diferencial dos hospitais será provar governança auditável da IA, não volume de uso.",
+      "titulo": "SUS incorpora teste imunoquímico fecal (FIT) para rastreamento de câncer colorretal",
+      "resumo": "Portaria inclui o exame FIT no SUS para rastrear câncer colorretal dos 50 aos 75 anos, alcançando mais de 40 milhões.",
+      "veiculo": "O Tempo",
+      "link": "https://www.otempo.com.br/politica/2026/8/10/ministerio-da-saude-inclui-novo-exame-para-rastreamento-de-cancer-colorretal-no-sus"
+    },
+    {
+      "titulo": "Governo federal libera R$ 212,4 milhões para reforçar a atenção especializada",
+      "resumo": "Repasse de R$ 212,4 milhões custeia serviços de atenção especializada em estados, municípios e Distrito Federal.",
+      "veiculo": "O Tempo",
+      "link": "https://www.otempo.com.br/politica/2026/8/7/saude-governo-federal-libera-r-2124-milhoes-para-estados-e-cidades"
+    },
+    {
+      "titulo": "Anvisa aprova alterações em registros de 11 farmacêuticas (RE 3.074)",
+      "resumo": "Anvisa publica no DOU a RE 3.074 com mudanças em registros de 11 farmacêuticas, incluindo remédios para colesterol e dor.",
+      "veiculo": "O Tempo",
+      "link": "https://www.otempo.com.br/politica/2026/8/10/anvisa-aprova-alteracoes-em-genericos-e-similares"
+    },
+    {
+      "titulo": "Fórum Saúde Digital reúne líderes do setor em São Paulo",
+      "resumo": "Evento em São Paulo reuniu lideranças para debater IA, interoperabilidade, cibersegurança e transformação digital na saúde.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/03/08/2026/a-inteligencia-artificial-ja-entrou-na-medicina-o-proximo-desafio-e-saber-quem-governa-essa-inteligencia/"
+      "link": "https://saudedigitalnews.com.br/22/07/2026/forum-saude-digital-reune-os-principais-lideres-do-setor-para-discutir-ia-interoperabilidade-ciberseguranca-e-o-futuro-da-transformacao-digital-na-saude/"
     },
     {
-      "titulo": "Startup LiverScan avança no diagnóstico de doenças hepáticas com tecnologia InterSystems",
-      "resumo": "Vencedora de desafio de IA generativa desenvolve dispositivo que mede gordura no fígado para detecção precoce.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/04/08/2026/impulsionada-por-tecnologia-intersystems-startup-liverscan-avanca-no-diagnostico-de-doencas-hepaticas/"
-    },
-    {
-      "titulo": "IA na saúde precisa gerar valor para todo o ecossistema, diz executivo da Doctoralia",
-      "resumo": "Para a empresa, ganho isolado de produtividade não sustenta adoção sem benefício para médico, clínica e paciente.",
+      "titulo": "Doctoralia: retorno da IA na saúde depende de gerar valor para todo o ecossistema",
+      "resumo": "Executivo da Doctoralia defende que o ROI da IA só se sustenta quando beneficia toda a cadeia, do grande hospital à clínica.",
       "veiculo": "Saúde Digital News",
       "link": "https://saudedigitalnews.com.br/05/08/2026/ia-na-saude-precisa-gerar-valor-para-todo-o-ecossistema-defende-executivo-da-doctoralia/"
     },
     {
-      "titulo": "Mayo Clinic Platform e Einstein ampliam colaboração em IA para a saúde",
-      "resumo": "Parceria aumenta a representação sul-americana em bases globais de dados clínicos usadas para treinar modelos.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/30/07/2026/mayo-clinic-platform-e-einstein-hospital-israelita-impulsionam-a-inovacao-global-em-ia-para-a-saude-por-meio-de-colaboracao-segura-de-dados/"
+      "titulo": "Hapvida ressuscita marca NotreDame para disputar o segmento premium em SP e RJ",
+      "resumo": "Hapvida lança a NotreDame Saúde premium, com acesso a Einstein, Sírio-Libanês e HCor, reembolso e concierge.",
+      "veiculo": "Exame",
+      "link": "https://exame.com/invest/mercados/hapvida-ressuscita-marca-notredame-para-competir-por-segmento-premium-em-sp-e-rj/"
     },
     {
-      "titulo": "Campanha contra sarampo vacinou 280 mil pessoas em São Paulo em uma semana",
-      "resumo": "Estado registra 23 casos no ano e cobertura da tríplice viral segue abaixo da meta de 95 por cento.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/campanha-contra-sarampo-vacinou-280-mil-pessoas-em-sp-em-uma-semana"
+      "titulo": "JPMorgan e Morgan Stanley elegem BradSaúde, Hypera e RD Saúde no 2T26",
+      "resumo": "Bancos apontam BradSaúde, Hypera e RD Saúde como destaques do 2T26, com recuperação estrutural de margens.",
+      "veiculo": "Executivos da Saúde",
+      "link": "https://executivosdasaude.com.br/2026/08/04/jpmorgan-e-morgan-stanley-revelam-apostas-para-o-setor-de-saude-no-2t26-bradsaude-hypera-e-rd-saude-em-destaque/"
     },
     {
-      "titulo": "Lei prorroga uso do FGTS em hospitais filantrópicos ligados ao SUS",
-      "resumo": "Texto sancionado estende até 2030 o prazo para operações de crédito de santas casas e hospitais filantrópicos.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/lei-prorroga-uso-do-fgts-em-hospitais-filantropicos-ligados-ao-sus"
+      "titulo": "AstraZeneca negocia a compra da Bristol-Myers Squibb",
+      "resumo": "AstraZeneca negocia adquirir a rival Bristol-Myers Squibb em um dos maiores movimentos da farma global, com ressalvas do mercado.",
+      "veiculo": "Brazil Journal",
+      "link": "https://braziljournal.com/astrazeneca-negocia-a-compra-da-bristol-myers-mercado-ve-contraindicacoes/"
+    },
+    {
+      "titulo": "Linda capta R$ 10 milhões para IA de detecção precoce de câncer de mama",
+      "resumo": "Healthtech Linda levanta R$ 10 milhões em rodada seed liderada pela SkyRiver Ventures para acelerar sua IA de rastreio mamário.",
+      "veiculo": "Startups",
+      "link": "https://startups.com.br/negocios/rodada-de-investimento/healthtech-capta-r-10m-para-detectar-cancer-de-mama-com-ia/"
+    },
+    {
+      "titulo": "Eden aposta US$ 11 milhões no Brasil com IA para diagnóstico de câncer",
+      "resumo": "Healthtech mexicana Eden escolhe o Brasil como principal mercado da região e investe US$ 11 milhões em IA para radiologia.",
+      "veiculo": "Bloomberg Línea",
+      "link": "https://www.bloomberglinea.com.br/startups/startup-de-ia-para-diagnostico-de-cancer-aposta-no-brasil-e-vai-investir-us-11-mi/"
+    },
+    {
+      "titulo": "ANS amplia cobertura obrigatória de medicamentos injetáveis no Rol (RN 676)",
+      "resumo": "RN 676 passa a exigir dos planos a cobertura de testosterona injetável para hipogonadismo, com vigência em agosto.",
+      "veiculo": "Atlas Público",
+      "link": "https://atlaspublico.com.br/noticias/ans-torna-obrigatoria-a-cobertura-de-testosterona-injetavel-73667"
     }
   ]
 }
