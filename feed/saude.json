@@ -1,85 +1,49 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-08-10",
-  "geradoEm": "2026-08-10T21:27:54-03:00",
+  "data": "2026-08-13",
+  "geradoEm": "2026-08-13T07:36:42-03:00",
   "itens": [
     {
-      "titulo": "Anvisa libera a entrega de medicamentos por aplicativos e plataformas digitais",
-      "resumo": "Anvisa revoga regras que proibiam venda e entrega de medicamentos por apps como iFood e Rappi; aplicação depende de nova regulamentação.",
+      "titulo": "Ministério da Saúde inicia jornada para a Nuvem Soberana do SUS",
+      "resumo": "Pasta começa a estruturar infraestrutura própria de nuvem para hospedar dados e sistemas de saúde do SUS em território nacional.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/ministerio-da-saude-inicia-jornada-para-a-nuvem-soberana-do-sus"
+    },
+    {
+      "titulo": "Meu SUS Digital vai oferecer até 100 mil teleatendimentos mensais para jogos e apostas",
+      "resumo": "App do SUS passa a atender a distância pessoas com problemas relacionados a jogos e apostas, com foco em saúde mental.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/meu-sus-digital-oferecera-ate-100-mil-teleatendimentos-mensais-para-pessoas-com-necessidades-relacionadas-a-jogos-e-apostas"
+    },
+    {
+      "titulo": "Ministro da Saúde participa de simpósio sobre hospitais inteligentes e IA no cuidado",
+      "resumo": "Padilha abriu em São Paulo o primeiro simpósio internacional sobre hospitais inteligentes e a rede de medicina de alta precisão no SUS.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/ministro-da-saude-participa-de-simposio-sobre-hospitais-inteligentes-e-uso-da-inteligencia-artificial-no-cuidado"
+    },
+    {
+      "titulo": "Novo aplicativo do Meu SUS Digital permite medir o consumo de álcool",
+      "resumo": "Ferramenta digital avalia o padrão de consumo de álcool do usuário e indica riscos para a saúde e caminhos de cuidado.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/em-novo-aplicativo-do-meu-sus-digital-populacao-podera-medir-o-seu-consumo-de-alcool-e-verificar-riscos-para-a-saude"
+    },
+    {
+      "titulo": "Resolução do CFM sobre IA na medicina entra em vigor e redefine a responsabilidade civil",
+      "resumo": "Norma 2.454/2026 vale a partir de 26 de agosto e mantém no médico a decisão final e o registro do uso de IA.",
+      "veiculo": "Consultor Jurídico",
+      "link": "https://www.conjur.com.br/2026-ago-01/inteligencia-artificial-na-medicina-a-resolucao-cfm-2-454-2026-e-os-novos-contornos-da-responsabilidade-civil/"
+    },
+    {
+      "titulo": "Rede de vigilância é essencial para evitar propagação do sarampo em São Paulo",
+      "resumo": "Especialistas apontam vacinação e vigilância como pilares para conter o surto de sarampo em curso na capital paulista.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/rede-de-vigilancia-e-essencial-para-evitar-propagacao-de-sarampo-em-sp"
+    },
+    {
+      "titulo": "Instituto recém-criado lidera disputa de R$ 1,9 bilhão para gerir o Hospital Inteligente",
+      "resumo": "Resultado preliminar do chamamento público coloca o ITMI em primeiro lugar na gestão do primeiro hospital inteligente do SUS.",
       "veiculo": "Metrópoles",
-      "link": "https://www.metropoles.com/brasil/anvisa-libera-entrega-de-medicamentos-por-apps-veja-como-funciona"
-    },
-    {
-      "titulo": "Ministério da Saúde entrega 3 mil kits de telessaúde e lança edital com hospitais privados",
-      "resumo": "Governo distribui 3 mil kits de telemedicina a UBS e abre edital para hospitais privados atenderem o SUS a distância.",
-      "veiculo": "Agência Gov",
-      "link": "https://agenciagov.ebc.com.br/noticias/202508/ministerio-da-saude-entrega-3-mil-kits-de-telessaude-e-lanca-edital-inedito-para-expandir-atendimento-a-distancia-com-hospitais-privados"
-    },
-    {
-      "titulo": "SUS incorpora teste imunoquímico fecal (FIT) para rastreamento de câncer colorretal",
-      "resumo": "Portaria inclui o exame FIT no SUS para rastrear câncer colorretal dos 50 aos 75 anos, alcançando mais de 40 milhões.",
-      "veiculo": "O Tempo",
-      "link": "https://www.otempo.com.br/politica/2026/8/10/ministerio-da-saude-inclui-novo-exame-para-rastreamento-de-cancer-colorretal-no-sus"
-    },
-    {
-      "titulo": "Governo federal libera R$ 212,4 milhões para reforçar a atenção especializada",
-      "resumo": "Repasse de R$ 212,4 milhões custeia serviços de atenção especializada em estados, municípios e Distrito Federal.",
-      "veiculo": "O Tempo",
-      "link": "https://www.otempo.com.br/politica/2026/8/7/saude-governo-federal-libera-r-2124-milhoes-para-estados-e-cidades"
-    },
-    {
-      "titulo": "Anvisa aprova alterações em registros de 11 farmacêuticas (RE 3.074)",
-      "resumo": "Anvisa publica no DOU a RE 3.074 com mudanças em registros de 11 farmacêuticas, incluindo remédios para colesterol e dor.",
-      "veiculo": "O Tempo",
-      "link": "https://www.otempo.com.br/politica/2026/8/10/anvisa-aprova-alteracoes-em-genericos-e-similares"
-    },
-    {
-      "titulo": "Fórum Saúde Digital reúne líderes do setor em São Paulo",
-      "resumo": "Evento em São Paulo reuniu lideranças para debater IA, interoperabilidade, cibersegurança e transformação digital na saúde.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/22/07/2026/forum-saude-digital-reune-os-principais-lideres-do-setor-para-discutir-ia-interoperabilidade-ciberseguranca-e-o-futuro-da-transformacao-digital-na-saude/"
-    },
-    {
-      "titulo": "Doctoralia: retorno da IA na saúde depende de gerar valor para todo o ecossistema",
-      "resumo": "Executivo da Doctoralia defende que o ROI da IA só se sustenta quando beneficia toda a cadeia, do grande hospital à clínica.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/05/08/2026/ia-na-saude-precisa-gerar-valor-para-todo-o-ecossistema-defende-executivo-da-doctoralia/"
-    },
-    {
-      "titulo": "Hapvida ressuscita marca NotreDame para disputar o segmento premium em SP e RJ",
-      "resumo": "Hapvida lança a NotreDame Saúde premium, com acesso a Einstein, Sírio-Libanês e HCor, reembolso e concierge.",
-      "veiculo": "Exame",
-      "link": "https://exame.com/invest/mercados/hapvida-ressuscita-marca-notredame-para-competir-por-segmento-premium-em-sp-e-rj/"
-    },
-    {
-      "titulo": "JPMorgan e Morgan Stanley elegem BradSaúde, Hypera e RD Saúde no 2T26",
-      "resumo": "Bancos apontam BradSaúde, Hypera e RD Saúde como destaques do 2T26, com recuperação estrutural de margens.",
-      "veiculo": "Executivos da Saúde",
-      "link": "https://executivosdasaude.com.br/2026/08/04/jpmorgan-e-morgan-stanley-revelam-apostas-para-o-setor-de-saude-no-2t26-bradsaude-hypera-e-rd-saude-em-destaque/"
-    },
-    {
-      "titulo": "AstraZeneca negocia a compra da Bristol-Myers Squibb",
-      "resumo": "AstraZeneca negocia adquirir a rival Bristol-Myers Squibb em um dos maiores movimentos da farma global, com ressalvas do mercado.",
-      "veiculo": "Brazil Journal",
-      "link": "https://braziljournal.com/astrazeneca-negocia-a-compra-da-bristol-myers-mercado-ve-contraindicacoes/"
-    },
-    {
-      "titulo": "Linda capta R$ 10 milhões para IA de detecção precoce de câncer de mama",
-      "resumo": "Healthtech Linda levanta R$ 10 milhões em rodada seed liderada pela SkyRiver Ventures para acelerar sua IA de rastreio mamário.",
-      "veiculo": "Startups",
-      "link": "https://startups.com.br/negocios/rodada-de-investimento/healthtech-capta-r-10m-para-detectar-cancer-de-mama-com-ia/"
-    },
-    {
-      "titulo": "Eden aposta US$ 11 milhões no Brasil com IA para diagnóstico de câncer",
-      "resumo": "Healthtech mexicana Eden escolhe o Brasil como principal mercado da região e investe US$ 11 milhões em IA para radiologia.",
-      "veiculo": "Bloomberg Línea",
-      "link": "https://www.bloomberglinea.com.br/startups/startup-de-ia-para-diagnostico-de-cancer-aposta-no-brasil-e-vai-investir-us-11-mi/"
-    },
-    {
-      "titulo": "ANS amplia cobertura obrigatória de medicamentos injetáveis no Rol (RN 676)",
-      "resumo": "RN 676 passa a exigir dos planos a cobertura de testosterona injetável para hipogonadismo, com vigência em agosto.",
-      "veiculo": "Atlas Público",
-      "link": "https://atlaspublico.com.br/noticias/ans-torna-obrigatoria-a-cobertura-de-testosterona-injetavel-73667"
+      "link": "https://www.metropoles.com/colunas/vinicius-passarelli/instituto-recem-criado-fica-em-1o-na-briga-por-r-19-bilhao-para-gerir-hospital-inteligente"
     }
   ]
 }
