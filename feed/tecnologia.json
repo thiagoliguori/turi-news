@@ -1,49 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-08-10",
-  "geradoEm": "2026-08-10T20:05:33-03:00",
+  "data": "2026-08-13",
+  "geradoEm": "2026-08-13T07:36:47-03:00",
   "itens": [
     {
-      "titulo": "Federação de conselhos médicos dos EUA diz que IA não está pronta para ter licença própria",
-      "resumo": "Dirigentes argumentam que licenciar IA como se fosse médico não resolve responsabilidade nem substitui supervisão humana.",
+      "titulo": "Enfermeiros dos EUA cobram assento na mesa das decisões sobre IA clínica",
+      "resumo": "Sindicatos e profissionais denunciam demissões e vigilância algorítmica e exigem participação na escolha das ferramentas de IA hospitalar.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/08/03/ai-doctors-licensing-state-medical-boards/"
+      "link": "https://www.statnews.com/2026/08/11/nurses-seek-involvement-clinical-ai-decisions/"
     },
     {
-      "titulo": "Escribas de IA são dispositivos médicos? Regulador britânico se posiciona",
-      "resumo": "Agência do Reino Unido avalia quando ferramentas de documentação ambiente passam a ser reguladas como dispositivo.",
+      "titulo": "CMS e FDA detalham a via RAPID para cobertura de dispositivos inovadores",
+      "resumo": "Proposta cria caminho mais rápido de cobertura no Medicare para dispositivos de breakthrough, incluindo tecnologias com inteligência artificial.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/08/04/ai-scribes-medical-devices-uk-regulator-view-health-tech/"
+      "link": "https://www.statnews.com/2026/08/11/cms-rapid-breakthrough-device-coverage-health-tech/"
     },
     {
-      "titulo": "Escribas de IA ajudam ou atrapalham a formação do futuro médico",
-      "resumo": "Educadores temem que delegar a redação da nota clínica ao software prejudique o raciocínio do estudante.",
+      "titulo": "Reguladores federais dos EUA convidam indústria para reuniões fechadas sobre IA clínica",
+      "resumo": "FDA reuniu empresas como Anthropic, Microsoft AI e Hippocratic Health em encontros sem transparência para acelerar adoção de IA.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/08/03/ai-scribes-medical-education-learning-tool-cognitive-crutch/"
+      "link": "https://www.statnews.com/2026/08/05/federal-regulators-invite-industry-closed-door-meetings-clinical-ai/"
     },
     {
-      "titulo": "Como os pacientes vão acessar o programa ACCESS do Medicare",
-      "resumo": "Boletim detalha o piloto do CMS que promete dar aos beneficiários controle digital sobre seus dados.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/08/06/cms-medicare-pilot-access-patient-info-health-tech/"
+      "titulo": "Modelos de linguagem gerais superam ferramentas clínicas especializadas em testes médicos",
+      "resumo": "Avaliação independente mostra que modelos de fronteira tiveram desempenho melhor que OpenEvidence e UpToDate Expert AI.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/articles/s41591-026-04431-5"
     },
     {
-      "titulo": "Hackensack Meridian é o primeiro sistema a receber certificação de uso responsável de IA",
-      "resumo": "Selo da Joint Commission avalia governança, privacidade, mitigação de viés, monitoramento e transparência com pacientes.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/hackensack-meridian-health-first-earn-joint-commissions-responsible-ai/826955/"
+      "titulo": "QuantHealth capta 45 milhões de dólares para simular ensaios clínicos com IA",
+      "resumo": "Série B liderada pela Qumra financia plataforma que já simulou mais de 600 estudos clínicos em 30 indicações.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/finance/quanthealth-raises-45m-series-b-accelerate-ai-driven-clinical-trial-simulations"
     },
     {
-      "titulo": "DeepHealth recebe aval da FDA para IA que lê ultrassom e gera laudo",
-      "resumo": "Ferramenta detecta e caracteriza lesões em ultrassom de mama e produz relatório para o radiologista.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/deephealth-gets-fda-nod-for-ai-tool-that-reads-ultrasounds-creates-reports/827093/"
+      "titulo": "Vexev levanta 6 milhões de dólares para ultrassom vascular robótico com IA",
+      "resumo": "Australiana busca aval do FDA para plataforma que automatiza exames vasculares e teve 94 por cento de sucesso em estudo multicêntrico.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/australian-vexev-raises-6m-bring-ai-robotic-vascular-ultrasound-us"
     },
     {
-      "titulo": "Claryx capta 3,5 milhões de dólares para vigilância genômica de surtos hospitalares",
-      "resumo": "Plataforma sequencia patógenos para ligar casos aparentemente isolados e confirmar se a intervenção conteve o surto.",
-      "veiculo": "GenomeWeb",
-      "link": "https://www.genomeweb.com/sequencing/claryx-raises-35m-pre-seed-funding-commercialize-hospital-outbreak-genomic-surveillance"
+      "titulo": "Como a Aetna está adotando IA agêntica na operação de plano de saúde",
+      "resumo": "Executivo da CVS Health Aetna detalha agentes no aplicativo do beneficiário e afirma que IA não decide negativas de cobertura.",
+      "veiculo": "MedCity News",
+      "link": "https://medcitynews.com/2026/08/medcity-pivot-podcast-how-aetna-is-adopting-agentic-ai/"
     }
   ]
 }
