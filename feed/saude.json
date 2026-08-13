@@ -1,49 +1,49 @@
 {
   "fonte": "A saúde em News",
   "data": "2026-08-13",
-  "geradoEm": "2026-08-13T07:36:42-03:00",
+  "geradoEm": "2026-08-13T08:23:25-03:00",
   "itens": [
     {
-      "titulo": "Ministério da Saúde inicia jornada para a Nuvem Soberana do SUS",
-      "resumo": "Pasta começa a estruturar infraestrutura própria de nuvem para hospedar dados e sistemas de saúde do SUS em território nacional.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/ministerio-da-saude-inicia-jornada-para-a-nuvem-soberana-do-sus"
+      "titulo": "Fleury libera 85% dos exames sem intervenção humana e avalia onde a IA gera valor",
+      "resumo": "Grupo diagnóstico automatiza a liberação da maioria dos exames e discute critérios para medir ganho real com inteligência artificial.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/12/08/2026/fleury-libera-85-dos-exames-sem-intervencao-humana-e-avalia-onde-ia-realmente-gera-valor/"
     },
     {
-      "titulo": "Meu SUS Digital vai oferecer até 100 mil teleatendimentos mensais para jogos e apostas",
-      "resumo": "App do SUS passa a atender a distância pessoas com problemas relacionados a jogos e apostas, com foco em saúde mental.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/meu-sus-digital-oferecera-ate-100-mil-teleatendimentos-mensais-para-pessoas-com-necessidades-relacionadas-a-jogos-e-apostas"
-    },
-    {
-      "titulo": "Ministro da Saúde participa de simpósio sobre hospitais inteligentes e IA no cuidado",
-      "resumo": "Padilha abriu em São Paulo o primeiro simpósio internacional sobre hospitais inteligentes e a rede de medicina de alta precisão no SUS.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/ministro-da-saude-participa-de-simposio-sobre-hospitais-inteligentes-e-uso-da-inteligencia-artificial-no-cuidado"
-    },
-    {
-      "titulo": "Novo aplicativo do Meu SUS Digital permite medir o consumo de álcool",
-      "resumo": "Ferramenta digital avalia o padrão de consumo de álcool do usuário e indica riscos para a saúde e caminhos de cuidado.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/em-novo-aplicativo-do-meu-sus-digital-populacao-podera-medir-o-seu-consumo-de-alcool-e-verificar-riscos-para-a-saude"
-    },
-    {
-      "titulo": "Resolução do CFM sobre IA na medicina entra em vigor e redefine a responsabilidade civil",
-      "resumo": "Norma 2.454/2026 vale a partir de 26 de agosto e mantém no médico a decisão final e o registro do uso de IA.",
-      "veiculo": "Consultor Jurídico",
-      "link": "https://www.conjur.com.br/2026-ago-01/inteligencia-artificial-na-medicina-a-resolucao-cfm-2-454-2026-e-os-novos-contornos-da-responsabilidade-civil/"
-    },
-    {
-      "titulo": "Rede de vigilância é essencial para evitar propagação do sarampo em São Paulo",
-      "resumo": "Especialistas apontam vacinação e vigilância como pilares para conter o surto de sarampo em curso na capital paulista.",
+      "titulo": "Anvisa libera venda de medicamentos por plataformas como iFood e Rappi",
+      "resumo": "Agência revoga normas que proibiam a comercialização e a propaganda de remédios por canais digitais de entrega.",
       "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/rede-de-vigilancia-e-essencial-para-evitar-propagacao-de-sarampo-em-sp"
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/anvisa-libera-venda-de-medicamentos-por-plataformas-como-ifood-e-rapp"
     },
     {
-      "titulo": "Instituto recém-criado lidera disputa de R$ 1,9 bilhão para gerir o Hospital Inteligente",
-      "resumo": "Resultado preliminar do chamamento público coloca o ITMI em primeiro lugar na gestão do primeiro hospital inteligente do SUS.",
-      "veiculo": "Metrópoles",
-      "link": "https://www.metropoles.com/colunas/vinicius-passarelli/instituto-recem-criado-fica-em-1o-na-briga-por-r-19-bilhao-para-gerir-hospital-inteligente"
+      "titulo": "Estudo alerta para subdiagnóstico da doença renal crônica no Brasil",
+      "resumo": "Levantamento com mais de 14 mil pessoas mostra que exames simples de creatinina e proteinúria são pouco solicitados.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/estudo-alerta-para-subdiagnostico-da-doenca-renal-cronica-no-brasil"
+    },
+    {
+      "titulo": "Ministério da Saúde abre 12 mil vagas em curso de IA na gestão do SUS",
+      "resumo": "Formação gratuita para gestores das três esferas trata de saúde digital, ética e implementação estratégica; inscrições até 31 de agosto.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/julho/ministerio-da-saude-lanca-curso-para-fortalecer-a-gestao-do-sus-com-inteligencia-artificial"
+    },
+    {
+      "titulo": "Executiva da Roche diz que o retorno da IA na saúde começa pelo benefício clínico",
+      "resumo": "Para a Roche Diagnóstica, projetos de IA só se pagam quando melhoram desfecho do paciente antes de cortar custo.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/05/08/2026/roi-da-inteligencia-artificial-na-saude-comeca-pelo-beneficio-clinico-afirma-executiva-da-roche-diagnostica/"
+    },
+    {
+      "titulo": "Einstein e Mayo Clinic Platform ampliam colaboração em IA com dados clínicos descaracterizados",
+      "resumo": "Base do hospital brasileiro passa a integrar o ecossistema global da Mayo para desenvolver e validar modelos de IA.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/30/07/2026/mayo-clinic-platform-e-einstein-hospital-israelita-impulsionam-a-inovacao-global-em-ia-para-a-saude-por-meio-de-colaboracao-segura-de-dados/"
+    },
+    {
+      "titulo": "Sav.ia usa inteligência artificial para acelerar vendas de farmácias pelo WhatsApp",
+      "resumo": "Healthtech brasileira automatiza atendimento no WhatsApp e mira 3 mil farmácias nos primeiros ciclos de expansão.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/07/08/2026/sav-ia-usa-ia-para-acelerar-vendas-pelo-whatsapp-nas-farmacias/"
     }
   ]
 }
