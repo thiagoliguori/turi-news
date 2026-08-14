@@ -1,49 +1,79 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-08-13",
-  "geradoEm": "2026-08-13T08:23:25-03:00",
+  "data": "2026-08-14",
+  "geradoEm": "2026-08-14T09:25:47-03:00",
   "itens": [
     {
-      "titulo": "Fleury libera 85% dos exames sem intervenção humana e avalia onde a IA gera valor",
-      "resumo": "Grupo diagnóstico automatiza a liberação da maioria dos exames e discute critérios para medir ganho real com inteligência artificial.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/12/08/2026/fleury-libera-85-dos-exames-sem-intervencao-humana-e-avalia-onde-ia-realmente-gera-valor/"
+      "titulo": "Hapvida (HAPV3) desaba 33% após lucro do 2T26 cair 95,8%",
+      "resumo": "Ações da Hapvida caem 33% e vão ao menor nível desde o IPO após lucro do 2T26 despencar 95,8%.",
+      "veiculo": "O Tempo",
+      "link": "https://www.otempo.com.br/economia/2026/8/13/acoes-da-hapvida-desabam-33-apos-lucro-cair-95-8-e-fecham-no-menor-nivel-desde-ipo"
     },
     {
-      "titulo": "Anvisa libera venda de medicamentos por plataformas como iFood e Rappi",
-      "resumo": "Agência revoga normas que proibiam a comercialização e a propaganda de remédios por canais digitais de entrega.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/anvisa-libera-venda-de-medicamentos-por-plataformas-como-ifood-e-rapp"
+      "titulo": "Rede D'Or reporta lucro recorde de R$ 1,16 bilhão no 2T26",
+      "resumo": "Rede D'Or tem lucro recorde de R$ 1,16 bilhão no 2T26 e ações sobem quase 6%, puxadas por hospitais e SulAmérica.",
+      "veiculo": "InfoMoney",
+      "link": "https://www.infomoney.com.br/mercados/rede-dor-e-qualicorp-destoam-da-hapvida-e-disparam-na-bolsa-apos-resultados-do-2t/"
     },
     {
-      "titulo": "Estudo alerta para subdiagnóstico da doença renal crônica no Brasil",
-      "resumo": "Levantamento com mais de 14 mil pessoas mostra que exames simples de creatinina e proteinúria são pouco solicitados.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/estudo-alerta-para-subdiagnostico-da-doenca-renal-cronica-no-brasil"
+      "titulo": "Dasa (DASA3) reduz prejuízo para R$ 35 milhões no 2T26",
+      "resumo": "Dasa reduz prejuízo para R$ 35 milhões no 2T26, com Ebitda 53% maior e forte geração de caixa.",
+      "veiculo": "InfoMoney",
+      "link": "https://www.infomoney.com.br/mercados/dasa-dasa3-resultados-segundo-trimestre-2026/"
     },
     {
-      "titulo": "Ministério da Saúde abre 12 mil vagas em curso de IA na gestão do SUS",
-      "resumo": "Formação gratuita para gestores das três esferas trata de saúde digital, ética e implementação estratégica; inscrições até 31 de agosto.",
+      "titulo": "Qualicorp (QUAL3) tem lucro ajustado de R$ 16,1 milhões no 2T26",
+      "resumo": "Qualicorp lucra R$ 16,1 milhões no 2T26 com margem Ebitda de 38%, apesar de receita menor.",
+      "veiculo": "ADVFN",
+      "link": "https://br.advfn.com/jornal/2026/08/qualicorp-tem-lucro-de-r-16-1-milhoes-no-2t26-mas-receita-e-ebitda-recuam"
+    },
+    {
+      "titulo": "Hypera Pharma lucra R$ 490 milhões no 2T26 e reduz alavancagem",
+      "resumo": "Hypera Pharma lucra R$ 490 milhões no 2T26, com receita de R$ 2,34 bilhões e menor alavancagem.",
+      "veiculo": "ADVFN",
+      "link": "https://br.advfn.com/jornal/2026/08/hypera-pharma-registra-lucro-de-r-490-2-milhoes-no-2t26-e-reduz-divida-liquida-com-avanco-da-receita"
+    },
+    {
+      "titulo": "Ministério da Saúde moderniza Farmácia Popular e estuda incluir exames",
+      "resumo": "Ministério da Saúde moderniza o Farmácia Popular e estuda incluir exames, testes rápidos e telemedicina.",
       "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/julho/ministerio-da-saude-lanca-curso-para-fortalecer-a-gestao-do-sus-com-inteligencia-artificial"
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/ministerio-da-saude-moderniza-sistemas-do-farmacia-popular-e-estuda-inclusao-de-exames"
     },
     {
-      "titulo": "Executiva da Roche diz que o retorno da IA na saúde começa pelo benefício clínico",
-      "resumo": "Para a Roche Diagnóstica, projetos de IA só se pagam quando melhoram desfecho do paciente antes de cortar custo.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/05/08/2026/roi-da-inteligencia-artificial-na-saude-comeca-pelo-beneficio-clinico-afirma-executiva-da-roche-diagnostica/"
+      "titulo": "Operadoras de saúde lucram R$ 8,5 bilhões no 1º semestre, aponta ANS",
+      "resumo": "Operadoras de saúde lucram R$ 8,5 bilhões no 1º semestre, acima de 2024 mas abaixo de 2025, aponta ANS.",
+      "veiculo": "Brasil em Folhas",
+      "link": "https://www.brasilemfolhas.com.br/2026/08/operadoras-de-saude-lucram-r-85-bilhoes-no-primeiro-semestre/"
     },
     {
-      "titulo": "Einstein e Mayo Clinic Platform ampliam colaboração em IA com dados clínicos descaracterizados",
-      "resumo": "Base do hospital brasileiro passa a integrar o ecossistema global da Mayo para desenvolver e validar modelos de IA.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/30/07/2026/mayo-clinic-platform-e-einstein-hospital-israelita-impulsionam-a-inovacao-global-em-ia-para-a-saude-por-meio-de-colaboracao-segura-de-dados/"
+      "titulo": "Evento do Futuro da Saúde debate IA na saúde com cases do setor",
+      "resumo": "Evento do Futuro da Saúde reúne o setor para debater usos e limites da inteligência artificial na saúde.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/inteligencia-artificial-evento-futuro-da-saude/"
     },
     {
-      "titulo": "Sav.ia usa inteligência artificial para acelerar vendas de farmácias pelo WhatsApp",
-      "resumo": "Healthtech brasileira automatiza atendimento no WhatsApp e mira 3 mil farmácias nos primeiros ciclos de expansão.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/07/08/2026/sav-ia-usa-ia-para-acelerar-vendas-pelo-whatsapp-nas-farmacias/"
+      "titulo": "Resolução do CFM sobre IA na medicina entra em vigor em 26 de agosto",
+      "resumo": "Resolução do CFM sobre IA na medicina entra em vigor em 26 de agosto e mantém a responsabilidade clínica no médico.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/ia-regulamentacao-brasil/"
+    },
+    {
+      "titulo": "Anvisa libera novas canetas emagrecedoras e aperta a venda de GLP-1",
+      "resumo": "Anvisa aprova cinco novas canetas emagrecedoras e passa a exigir receita em duas vias para GLP-1.",
+      "veiculo": "Seu Dinheiro",
+      "link": "https://www.seudinheiro.com/2026/economia/anvisa-aprova-5-novas-canetas-para-tratamento-da-obesidade-veja-quais-isca/"
+    },
+    {
+      "titulo": "Anvisa atualiza vacina da Covid-19 e amplia lista de medicamentos de baixo risco",
+      "resumo": "Anvisa atualiza vacinas da Covid-19, amplia lista de medicamentos de baixo risco e muda regras de rotulagem.",
+      "veiculo": "Anvisa",
+      "link": "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2026/anvisa-atualiza-vacina-da-covid-e-lista-de-medicamentos-de-baixo-risco"
+    },
+    {
+      "titulo": "Reajuste de planos individuais com teto de 5,11% começa a valer em 2026",
+      "resumo": "Reajuste de planos individuais tem teto de 5,11% em 2026, o menor em anos, afetando 7,7 milhões de beneficiários.",
+      "veiculo": "CQCS",
+      "link": "https://cqcs.com.br/noticia/reajuste-de-plano-de-saude-2026-e-aprovado-pela-ans-veja-as-novas-regras/"
     }
   ]
 }
