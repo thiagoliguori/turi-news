@@ -1,49 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-08-13",
-  "geradoEm": "2026-08-13T08:23:30-03:00",
+  "data": "2026-08-15",
+  "geradoEm": "2026-08-15T19:11:55-03:00",
   "itens": [
     {
-      "titulo": "Oracle Health lança portal do paciente com IA que traduz o prontuário para linguagem simples",
-      "resumo": "Portal já disponível nos EUA explica registros médicos, agenda consultas e roda sobre modelos da OpenAI integrados ao prontuário.",
+      "titulo": "Coalizão CHAI cria grupo para enfrentar riscos de cibersegurança de modelos de fronteira",
+      "resumo": "Iniciativa vai produzir manuais para hospitais se defenderem de ataques potencializados por modelos de IA avançados.",
       "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/Oracle-launches-AI-driven-patient-portal/827656/"
+      "link": "https://www.healthcaredive.com/news/chai-creates-work-group-to-counter-frontier-ai-model-cybersecurity-risks/827769/"
     },
     {
-      "titulo": "Por dentro da corrida da Commure para automatizar o back office da saúde",
-      "resumo": "Reportagem mostra a startup de 7 bilhões de dólares pagando indicações e vendendo automação para 130 grandes sistemas de saúde.",
+      "titulo": "FDA autoriza IA da DeepHealth que lê ultrassom de mama e gera laudo",
+      "resumo": "Ferramenta automatiza detecção, caracterização de lesões e a redação do relatório a partir do exame de ultrassom.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://www.healthcaredive.com/news/deephealth-gets-fda-nod-for-ai-tool-that-reads-ultrasounds-creates-reports/827093/"
+    },
+    {
+      "titulo": "Hackensack Meridian é o primeiro sistema com selo de IA responsável da Joint Commission",
+      "resumo": "Certificação privada avança enquanto a regulação federal americana para uso clínico de IA segue fragmentada.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://www.healthcaredive.com/news/hackensack-meridian-health-first-earn-joint-commissions-responsible-ai/826955/"
+    },
+    {
+      "titulo": "CHAI lança PULSE para levar IA generativa à saúde pública dos EUA",
+      "resumo": "OpenAI e Anthropic doaram licenças para até 2 mil profissionais em dez jurisdições, com pilotos no outono.",
+      "veiculo": "Healthcare IT News",
+      "link": "https://www.healthcareitnews.com/news/chai-seeks-support-public-health-agency-uptake-genai"
+    },
+    {
+      "titulo": "Commure encerra pagamentos de seus programas de indicação de clientes",
+      "resumo": "Decisão vem após investigação sobre incentivos financeiros oferecidos a executivos de sistemas de saúde nos EUA.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/08/12/inside-commure-athelas-mad-dash-automate-health-care/"
+      "link": "https://www.statnews.com/2026/08/13/commure-terminates-payments-under-customer-referral-programs/"
     },
     {
-      "titulo": "Regulador britânico avalia se escribas de IA são dispositivos médicos",
-      "resumo": "Posição do Reino Unido pode obrigar ferramentas de documentação clínica automática a cumprir exigências regulatórias de dispositivo.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/08/04/ai-scribes-medical-devices-uk-regulator-view-health-tech/"
+      "titulo": "Negócios com IA já respondem por 75% do funding de health tech",
+      "resumo": "Relatório do J.P. Morgan mostra concentração do capital de saúde digital em startups com tese de inteligência artificial.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/ai-focused-deals-now-make-75-health-tech-funding-jp-morgan-report-finds"
     },
     {
-      "titulo": "Startup lança IA ambiental que grava a visita à beira do leito para o paciente",
-      "resumo": "Suvi Health transforma conversas do quarto em lista de tarefas para paciente e família, com piloto na Mayo Clinic.",
-      "veiculo": "MedCity News",
-      "link": "https://medcitynews.com/2026/08/suvi-health-patient-handoff/"
-    },
-    {
-      "titulo": "UnityPoint Health detalha seis frentes de IA para tirar carga administrativa do médico",
-      "resumo": "Sistema usa escriba ambiental, resumo de prontuário e monitoramento de leitos em tempo real para devolver tempo ao cuidado.",
-      "veiculo": "MedCity News",
-      "link": "https://medcitynews.com/2026/08/unitypoint-health-artificial-intelligence/"
-    },
-    {
-      "titulo": "Revisão sistemática encontra só 19 ensaios randomizados prospectivos com LLM na clínica",
-      "resumo": "De 4.609 estudos publicados desde 2022, apenas 1.048 usaram dados reais de pacientes, expondo a fragilidade das evidências.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04229-5"
-    },
-    {
-      "titulo": "Ensaio randomizado testa IA como primeira e como segunda opinião no diagnóstico",
-      "resumo": "Os dois fluxos de colaboração entre clínico e modelo melhoraram a acurácia diagnóstica frente aos recursos convencionais.",
-      "veiculo": "npj Digital Medicine",
-      "link": "https://www.nature.com/articles/s41746-026-02545-1"
+      "titulo": "QuantHealth capta US$ 45 milhões para simular ensaios clínicos com IA",
+      "resumo": "Startup israelense vai ampliar modelos, bases de dados e validação científica da simulação de estudos clínicos.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/quanthealth-lands-45m-ai-clinical-trial-simulations"
     }
   ]
 }
