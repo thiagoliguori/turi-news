@@ -1,79 +1,49 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-08-14",
-  "geradoEm": "2026-08-14T09:25:47-03:00",
+  "data": "2026-08-15",
+  "geradoEm": "2026-08-15T19:11:50-03:00",
   "itens": [
     {
-      "titulo": "Hapvida (HAPV3) desaba 33% após lucro do 2T26 cair 95,8%",
-      "resumo": "Ações da Hapvida caem 33% e vão ao menor nível desde o IPO após lucro do 2T26 despencar 95,8%.",
-      "veiculo": "O Tempo",
-      "link": "https://www.otempo.com.br/economia/2026/8/13/acoes-da-hapvida-desabam-33-apos-lucro-cair-95-8-e-fecham-no-menor-nivel-desde-ipo"
-    },
-    {
-      "titulo": "Rede D'Or reporta lucro recorde de R$ 1,16 bilhão no 2T26",
-      "resumo": "Rede D'Or tem lucro recorde de R$ 1,16 bilhão no 2T26 e ações sobem quase 6%, puxadas por hospitais e SulAmérica.",
-      "veiculo": "InfoMoney",
-      "link": "https://www.infomoney.com.br/mercados/rede-dor-e-qualicorp-destoam-da-hapvida-e-disparam-na-bolsa-apos-resultados-do-2t/"
-    },
-    {
-      "titulo": "Dasa (DASA3) reduz prejuízo para R$ 35 milhões no 2T26",
-      "resumo": "Dasa reduz prejuízo para R$ 35 milhões no 2T26, com Ebitda 53% maior e forte geração de caixa.",
-      "veiculo": "InfoMoney",
-      "link": "https://www.infomoney.com.br/mercados/dasa-dasa3-resultados-segundo-trimestre-2026/"
-    },
-    {
-      "titulo": "Qualicorp (QUAL3) tem lucro ajustado de R$ 16,1 milhões no 2T26",
-      "resumo": "Qualicorp lucra R$ 16,1 milhões no 2T26 com margem Ebitda de 38%, apesar de receita menor.",
-      "veiculo": "ADVFN",
-      "link": "https://br.advfn.com/jornal/2026/08/qualicorp-tem-lucro-de-r-16-1-milhoes-no-2t26-mas-receita-e-ebitda-recuam"
-    },
-    {
-      "titulo": "Hypera Pharma lucra R$ 490 milhões no 2T26 e reduz alavancagem",
-      "resumo": "Hypera Pharma lucra R$ 490 milhões no 2T26, com receita de R$ 2,34 bilhões e menor alavancagem.",
-      "veiculo": "ADVFN",
-      "link": "https://br.advfn.com/jornal/2026/08/hypera-pharma-registra-lucro-de-r-490-2-milhoes-no-2t26-e-reduz-divida-liquida-com-avanco-da-receita"
-    },
-    {
-      "titulo": "Ministério da Saúde moderniza Farmácia Popular e estuda incluir exames",
-      "resumo": "Ministério da Saúde moderniza o Farmácia Popular e estuda incluir exames, testes rápidos e telemedicina.",
+      "titulo": "Ministro da Saúde detalha rede de hospitais inteligentes com IA no SUS",
+      "resumo": "Padilha abriu simpósio em São Paulo e apresentou rede nacional de hospitais e UTIs inteligentes já ativa em seis unidades.",
       "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/ministerio-da-saude-moderniza-sistemas-do-farmacia-popular-e-estuda-inclusao-de-exames"
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/ministro-da-saude-participa-de-simposio-sobre-hospitais-inteligentes-e-uso-da-inteligencia-artificial-no-cuidado"
     },
     {
-      "titulo": "Operadoras de saúde lucram R$ 8,5 bilhões no 1º semestre, aponta ANS",
-      "resumo": "Operadoras de saúde lucram R$ 8,5 bilhões no 1º semestre, acima de 2024 mas abaixo de 2025, aponta ANS.",
-      "veiculo": "Brasil em Folhas",
-      "link": "https://www.brasilemfolhas.com.br/2026/08/operadoras-de-saude-lucram-r-85-bilhoes-no-primeiro-semestre/"
-    },
-    {
-      "titulo": "Evento do Futuro da Saúde debate IA na saúde com cases do setor",
-      "resumo": "Evento do Futuro da Saúde reúne o setor para debater usos e limites da inteligência artificial na saúde.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/inteligencia-artificial-evento-futuro-da-saude/"
-    },
-    {
-      "titulo": "Resolução do CFM sobre IA na medicina entra em vigor em 26 de agosto",
-      "resumo": "Resolução do CFM sobre IA na medicina entra em vigor em 26 de agosto e mantém a responsabilidade clínica no médico.",
+      "titulo": "Novas regras de CFM e Anvisa para IA no diagnóstico entram em vigor",
+      "resumo": "Resolução CFM 2.454/2026 passa a valer em 26 de agosto e exige governança, treinamento e decisão final humana.",
       "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/ia-regulamentacao-brasil/"
+      "link": "https://medicinasa.com.br/ia-diagnostico-medico-cfm/"
     },
     {
-      "titulo": "Anvisa libera novas canetas emagrecedoras e aperta a venda de GLP-1",
-      "resumo": "Anvisa aprova cinco novas canetas emagrecedoras e passa a exigir receita em duas vias para GLP-1.",
-      "veiculo": "Seu Dinheiro",
-      "link": "https://www.seudinheiro.com/2026/economia/anvisa-aprova-5-novas-canetas-para-tratamento-da-obesidade-veja-quais-isca/"
+      "titulo": "dr.consulta usa dados e agentes de IA para ampliar cuidado preventivo",
+      "resumo": "Rede aplica agentes de inteligência artificial para reagir no mesmo dia a sinais clínicos e ampliar prevenção.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/12/08/2026/dr-consulta-usa-dados-e-agentes-de-ia-para-reagir-no-dia-e-ampliar-cuidado-preventivo/"
     },
     {
-      "titulo": "Anvisa atualiza vacina da Covid-19 e amplia lista de medicamentos de baixo risco",
-      "resumo": "Anvisa atualiza vacinas da Covid-19, amplia lista de medicamentos de baixo risco e muda regras de rotulagem.",
-      "veiculo": "Anvisa",
-      "link": "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2026/anvisa-atualiza-vacina-da-covid-e-lista-de-medicamentos-de-baixo-risco"
+      "titulo": "Doctoralia lança Noa Evidence, IA de apoio à decisão clínica",
+      "resumo": "Ferramenta busca literatura revisada por pares e diretrizes, entrega resumos com referências e roda dentro da consulta.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/doctoralia-noa-evidence/"
     },
     {
-      "titulo": "Reajuste de planos individuais com teto de 5,11% começa a valer em 2026",
-      "resumo": "Reajuste de planos individuais tem teto de 5,11% em 2026, o menor em anos, afetando 7,7 milhões de beneficiários.",
-      "veiculo": "CQCS",
-      "link": "https://cqcs.com.br/noticia/reajuste-de-plano-de-saude-2026-e-aprovado-pela-ans-veja-as-novas-regras/"
+      "titulo": "Fusões recentes revelam busca por escala e integração na saúde brasileira",
+      "resumo": "Análise mostra consolidação do setor em torno de eficiência operacional, integração de dados e ganho de escala.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/10/08/2026/crescimento-eficiencia-e-integracao-o-que-as-fusoes-recentes-revelam-sobre-o-setor-de-saude-brasileiro/"
+    },
+    {
+      "titulo": "Medicare passa a pagar hospitais dos EUA pelo uso de dispositivos de IA",
+      "resumo": "Pesquisadores alertam que o incentivo pode estimular uso excessivo de tecnologias recém-autorizadas sem ganho clínico comprovado.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/08/13/how-medicare-cms-pays-ntap-for-new-ai-medical-devices/"
+    },
+    {
+      "titulo": "Reportagem mapeia como a IA transforma a medicina brasileira sem substituir o médico",
+      "resumo": "Texto reúne casos de diagnóstico, triagem e gestão e discute limites éticos do uso clínico no país.",
+      "veiculo": "O Tempo",
+      "link": "https://www.otempo.com.br/saude-e-bem-estar/2026/8/6/a-revolucao-assistida-como-a-ia-transforma-a-medicina-brasileira-sem-substituir-o-olhar-humano"
     }
   ]
 }
