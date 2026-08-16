@@ -1,49 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-08-15",
-  "geradoEm": "2026-08-15T19:11:55-03:00",
+  "data": "2026-08-16",
+  "geradoEm": "2026-08-16T17:37:16-03:00",
   "itens": [
     {
-      "titulo": "Coalizão CHAI cria grupo para enfrentar riscos de cibersegurança de modelos de fronteira",
-      "resumo": "Iniciativa vai produzir manuais para hospitais se defenderem de ataques potencializados por modelos de IA avançados.",
+      "titulo": "Oracle libera portal do paciente com IA nos Estados Unidos",
+      "resumo": "Portal usa modelos da OpenAI para explicar exames e diagnósticos em linguagem simples, sem dar recomendação clínica.",
       "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/chai-creates-work-group-to-counter-frontier-ai-model-cybersecurity-risks/827769/"
+      "link": "https://www.healthcaredive.com/news/Oracle-launches-AI-driven-patient-portal/827656/"
     },
     {
-      "titulo": "FDA autoriza IA da DeepHealth que lê ultrassom de mama e gera laudo",
-      "resumo": "Ferramenta automatiza detecção, caracterização de lesões e a redação do relatório a partir do exame de ultrassom.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/deephealth-gets-fda-nod-for-ai-tool-that-reads-ultrasounds-creates-reports/827093/"
-    },
-    {
-      "titulo": "Hackensack Meridian é o primeiro sistema com selo de IA responsável da Joint Commission",
-      "resumo": "Certificação privada avança enquanto a regulação federal americana para uso clínico de IA segue fragmentada.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/hackensack-meridian-health-first-earn-joint-commissions-responsible-ai/826955/"
-    },
-    {
-      "titulo": "CHAI lança PULSE para levar IA generativa à saúde pública dos EUA",
-      "resumo": "OpenAI e Anthropic doaram licenças para até 2 mil profissionais em dez jurisdições, com pilotos no outono.",
-      "veiculo": "Healthcare IT News",
-      "link": "https://www.healthcareitnews.com/news/chai-seeks-support-public-health-agency-uptake-genai"
-    },
-    {
-      "titulo": "Commure encerra pagamentos de seus programas de indicação de clientes",
-      "resumo": "Decisão vem após investigação sobre incentivos financeiros oferecidos a executivos de sistemas de saúde nos EUA.",
+      "titulo": "Epic é investigada por reguladores americanos sobre práticas anticompetitivas",
+      "resumo": "Órgãos federais e estaduais apuram o uso de acordos de confidencialidade pela maior empresa de prontuário eletrônico.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/08/13/commure-terminates-payments-under-customer-referral-programs/"
+      "link": "https://www.statnews.com/2026/08/14/epic-systems-ftc-review-nda-use-possible-anticompetitive-practices/"
     },
     {
-      "titulo": "Negócios com IA já respondem por 75% do funding de health tech",
-      "resumo": "Relatório do J.P. Morgan mostra concentração do capital de saúde digital em startups com tese de inteligência artificial.",
+      "titulo": "Novo Nordisk e AWS criam hub de IA para descoberta de fármacos em Londres",
+      "resumo": "Farmacêutica adota a AWS como parceira estratégica de IA e abre centro de pesquisa no King's Cross.",
       "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/ai-focused-deals-now-make-75-health-tech-funding-jp-morgan-report-finds"
+      "link": "https://www.mobihealthnews.com/news/novo-nordisk-aws-launch-ai-drug-discovery-hub"
     },
     {
-      "titulo": "QuantHealth capta US$ 45 milhões para simular ensaios clínicos com IA",
-      "resumo": "Startup israelense vai ampliar modelos, bases de dados e validação científica da simulação de estudos clínicos.",
+      "titulo": "Exer AI amplia parceria com a Mayo Clinic e vai da pesquisa ao uso clínico",
+      "resumo": "Visão computacional mede movimento de mão e punho pela câmera e envia o resultado direto ao prontuário.",
       "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/quanthealth-lands-45m-ai-clinical-trial-simulations"
+      "link": "https://www.mobihealthnews.com/news/exclusive-exer-ai-expands-partnership-mayo-clinic-clinical-deployment"
+    },
+    {
+      "titulo": "Vazamento na DentaQuest expõe dados de 15 milhões de pessoas",
+      "resumo": "Incidente na administradora de planos odontológicos é o maior vazamento de saúde registrado neste ano nos EUA.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://www.healthcaredive.com/news/Dental-benefits-administrator-discloses-breach/827533/"
+    },
+    {
+      "titulo": "Especialistas dizem que a saúde vive uma crise de cibersegurança",
+      "resumo": "Pesquisadores expõem falhas em equipamentos hospitalares e tratam o tema como questão de segurança do paciente.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://www.healthcaredive.com/news/healthcare-cybersecurity-crisis-def-con/827428/"
+    },
+    {
+      "titulo": "Eric Topol revisita por que a memória começa a falhar depois dos 50",
+      "resumo": "Estudos independentes contestam a explicação clássica e apontam outros mecanismos para o envelhecimento cerebral.",
+      "veiculo": "Ground Truths",
+      "link": "https://erictopol.substack.com/p/why-our-memory-slips-after-age-50"
     }
   ]
 }
