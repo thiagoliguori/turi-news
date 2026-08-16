@@ -1,49 +1,49 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-08-15",
-  "geradoEm": "2026-08-15T19:11:50-03:00",
+  "data": "2026-08-16",
+  "geradoEm": "2026-08-16T17:36:34-03:00",
   "itens": [
     {
-      "titulo": "Ministro da Saúde detalha rede de hospitais inteligentes com IA no SUS",
-      "resumo": "Padilha abriu simpósio em São Paulo e apresentou rede nacional de hospitais e UTIs inteligentes já ativa em seis unidades.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/ministro-da-saude-participa-de-simposio-sobre-hospitais-inteligentes-e-uso-da-inteligencia-artificial-no-cuidado"
-    },
-    {
-      "titulo": "Novas regras de CFM e Anvisa para IA no diagnóstico entram em vigor",
-      "resumo": "Resolução CFM 2.454/2026 passa a valer em 26 de agosto e exige governança, treinamento e decisão final humana.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/ia-diagnostico-medico-cfm/"
-    },
-    {
-      "titulo": "dr.consulta usa dados e agentes de IA para ampliar cuidado preventivo",
-      "resumo": "Rede aplica agentes de inteligência artificial para reagir no mesmo dia a sinais clínicos e ampliar prevenção.",
+      "titulo": "OpenAI Foundation anuncia US$ 100 milhões para aplicar IA a desafios de saúde",
+      "resumo": "Fundação vai financiar uso de IA para levar avanços médicos já existentes a quem ainda não tem acesso.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/12/08/2026/dr-consulta-usa-dados-e-agentes-de-ia-para-reagir-no-dia-e-ampliar-cuidado-preventivo/"
+      "link": "https://saudedigitalnews.com.br/14/08/2026/openai-foundation-lanca-programa-para-aplicar-ia-em-desafios-sociais-e-anuncia-us-100-milhoes-para-saude/"
     },
     {
-      "titulo": "Doctoralia lança Noa Evidence, IA de apoio à decisão clínica",
-      "resumo": "Ferramenta busca literatura revisada por pares e diretrizes, entrega resumos com referências e roda dentro da consulta.",
+      "titulo": "Pesquisa brasileira é premiada por algoritmo que valida exames laboratoriais",
+      "resumo": "Trabalho da Afip sobre autoverificação de exames de hematologia e coagulação recebeu prêmio da ADLM nos Estados Unidos.",
       "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/doctoralia-noa-evidence/"
+      "link": "https://medicinasa.com.br/pesquisa-brasileira-premiada/"
     },
     {
-      "titulo": "Fusões recentes revelam busca por escala e integração na saúde brasileira",
-      "resumo": "Análise mostra consolidação do setor em torno de eficiência operacional, integração de dados e ganho de escala.",
+      "titulo": "Farmácia Popular pode passar a oferecer exames e testes rápidos",
+      "resumo": "Proposta em discussão amplia o programa para incluir exames e testes rápidos nas farmácias credenciadas.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/farmacia-popular-pode-passar-oferecer-exames-e-testes-rapidos"
+    },
+    {
+      "titulo": "Pesquisa de polipílula para prevenção do AVC busca 8,5 mil voluntários",
+      "resumo": "Estudo nacional recruta voluntários para testar combinação de medicamentos em comprimido único contra AVC.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/pesquisa-de-polipilula-para-prevencao-do-avc-busca-85-mil-voluntarios"
+    },
+    {
+      "titulo": "Espera para doar sangue após tatuagem e piercing será menor",
+      "resumo": "Nova regra reduz o tempo de impedimento para doação de sangue depois de tatuagem ou colocação de piercing.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/doacao-de-sangue-espera-para-quem-fez-tatuagem-e-piercing-sera-menor"
+    },
+    {
+      "titulo": "Projeto torna vacina contra HPV obrigatória e prioriza testes moleculares",
+      "resumo": "Texto obriga a vacinação contra HPV e prioriza testes moleculares no rastreio do câncer de colo do útero.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/vacina-hpv-obrigatoria/"
+    },
+    {
+      "titulo": "IA já entrou na medicina e o próximo desafio é definir quem a governa",
+      "resumo": "Artigo argumenta que o problema agora não é adotar a tecnologia, e sim definir quem responde por ela.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/10/08/2026/crescimento-eficiencia-e-integracao-o-que-as-fusoes-recentes-revelam-sobre-o-setor-de-saude-brasileiro/"
-    },
-    {
-      "titulo": "Medicare passa a pagar hospitais dos EUA pelo uso de dispositivos de IA",
-      "resumo": "Pesquisadores alertam que o incentivo pode estimular uso excessivo de tecnologias recém-autorizadas sem ganho clínico comprovado.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/08/13/how-medicare-cms-pays-ntap-for-new-ai-medical-devices/"
-    },
-    {
-      "titulo": "Reportagem mapeia como a IA transforma a medicina brasileira sem substituir o médico",
-      "resumo": "Texto reúne casos de diagnóstico, triagem e gestão e discute limites éticos do uso clínico no país.",
-      "veiculo": "O Tempo",
-      "link": "https://www.otempo.com.br/saude-e-bem-estar/2026/8/6/a-revolucao-assistida-como-a-ia-transforma-a-medicina-brasileira-sem-substituir-o-olhar-humano"
+      "link": "https://saudedigitalnews.com.br/03/08/2026/a-inteligencia-artificial-ja-entrou-na-medicina-o-proximo-desafio-e-saber-quem-governa-essa-inteligencia/"
     }
   ]
 }
