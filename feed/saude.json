@@ -1,49 +1,73 @@
 {
-  "fonte": "A saúde em News",
-  "data": "2026-08-16",
-  "geradoEm": "2026-08-16T17:36:34-03:00",
+  "fonte": "A Saúde em News",
+  "data": "2026-08-17",
+  "geradoEm": "2026-08-17T09:16:25-03:00",
   "itens": [
     {
-      "titulo": "OpenAI Foundation anuncia US$ 100 milhões para aplicar IA a desafios de saúde",
-      "resumo": "Fundação vai financiar uso de IA para levar avanços médicos já existentes a quem ainda não tem acesso.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/14/08/2026/openai-foundation-lanca-programa-para-aplicar-ia-em-desafios-sociais-e-anuncia-us-100-milhoes-para-saude/"
+      "titulo": "Hapvida despenca 20% após balanço do 2º trimestre e acende alerta no mercado",
+      "resumo": "Ação da Hapvida cai 20% após o 2º tri, com sinistralidade em 75,2% e judicialização pressionando o resultado.",
+      "veiculo": "Exame",
+      "link": "https://exame.com/invest/mercados/hapvida-cai-20-apos-balanco-veja-os-pontos-que-deixaram-o-mercado-em-alerta/"
     },
     {
-      "titulo": "Pesquisa brasileira é premiada por algoritmo que valida exames laboratoriais",
-      "resumo": "Trabalho da Afip sobre autoverificação de exames de hematologia e coagulação recebeu prêmio da ADLM nos Estados Unidos.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/pesquisa-brasileira-premiada/"
+      "titulo": "Judicialização na saúde suplementar ultrapassa a do SUS pela primeira vez",
+      "resumo": "Setor privado tem mais ações judiciais que o SUS pela 1ª vez: 181 mil no semestre, aponta o CNJ.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/saude-suplementar-judicializacao-utrapassa-sus/"
     },
     {
-      "titulo": "Farmácia Popular pode passar a oferecer exames e testes rápidos",
-      "resumo": "Proposta em discussão amplia o programa para incluir exames e testes rápidos nas farmácias credenciadas.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/farmacia-popular-pode-passar-oferecer-exames-e-testes-rapidos"
+      "titulo": "Interfarma: incorporação de novos remédios nos planos cai de 18,5 para 7 por ano",
+      "resumo": "Incorporação de novos remédios nos planos cai de 18,5 para 7 por ano; remédios são só 7% das despesas.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/saude-suplementar-incorporacoes-medicamentos-interfarma/"
     },
     {
-      "titulo": "Pesquisa de polipílula para prevenção do AVC busca 8,5 mil voluntários",
-      "resumo": "Estudo nacional recruta voluntários para testar combinação de medicamentos em comprimido único contra AVC.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/pesquisa-de-polipilula-para-prevencao-do-avc-busca-85-mil-voluntarios"
+      "titulo": "Venda de remédios em marketplaces avança e depende de regulamentação da Anvisa",
+      "resumo": "Anvisa libera marketplaces como iFood e Rappi e prepara regras para vender remédios sem dispensar o farmacêutico.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/venda-remedios-marketplaces-regulamentacao/"
     },
     {
-      "titulo": "Espera para doar sangue após tatuagem e piercing será menor",
-      "resumo": "Nova regra reduz o tempo de impedimento para doação de sangue depois de tatuagem ou colocação de piercing.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/doacao-de-sangue-espera-para-quem-fez-tatuagem-e-piercing-sera-menor"
+      "titulo": "Farmácia Popular ganha novas regras, com teleatendimento e oferta de exames",
+      "resumo": "Nova portaria moderniza o Farmácia Popular com teleatendimento, exames de acompanhamento e monitoramento antifraude.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/farmacia-popular-novas-regras/"
     },
     {
-      "titulo": "Projeto torna vacina contra HPV obrigatória e prioriza testes moleculares",
-      "resumo": "Texto obriga a vacinação contra HPV e prioriza testes moleculares no rastreio do câncer de colo do útero.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/vacina-hpv-obrigatoria/"
+      "titulo": "TCU aponta falhas da Anvisa na fiscalização de medicamentos após o registro",
+      "resumo": "TCU aponta falhas da Anvisa na vigilância pós-registro; testes de qualidade caíram de 1.583 para 329 por ano.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/tcu-falhas-fiscalizacao-medicamentos-anvisa/"
     },
     {
-      "titulo": "IA já entrou na medicina e o próximo desafio é definir quem a governa",
-      "resumo": "Artigo argumenta que o problema agora não é adotar a tecnologia, e sim definir quem responde por ela.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/03/08/2026/a-inteligencia-artificial-ja-entrou-na-medicina-o-proximo-desafio-e-saber-quem-governa-essa-inteligencia/"
+      "titulo": "Conselho Nacional de Saúde aprova a Política Nacional de Informação e Saúde Digital",
+      "resumo": "CNS aprova política de saúde digital com foco em interoperabilidade, telessaúde e proteção de dados no SUS.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/politica-nacional-de-informacao-e-saude-digital-e-aprovada-pelo-cns/"
+    },
+    {
+      "titulo": "Ministério da Saúde inicia migração dos dados do SUS para a Nuvem Soberana",
+      "resumo": "Ministério da Saúde inicia migração dos dados do SUS para nuvem soberana nacional, sob a LGPD, com o Serpro.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/ministerio-da-saude-migracao-nuvem-soberana-do-sus/"
+    },
+    {
+      "titulo": "Anvisa aprova o Duvyzat, novo tratamento oral para a distrofia muscular de Duchenne",
+      "resumo": "Anvisa aprova o Duvyzat, tratamento oral para distrofia muscular de Duchenne em crianças a partir de 6 anos.",
+      "veiculo": "CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br/saude/anvisa-aprova-novo-medicamento-para-distrofia-muscular-de-duchenne/"
+    },
+    {
+      "titulo": "PoliHealth lança IA que cruza exames laboratoriais e genéticos para apoiar o médico",
+      "resumo": "Startup PoliHealth lança IA que cruza exames laboratoriais e genética para apoiar decisões clínicas, sob a LGPD.",
+      "veiculo": "Exame",
+      "link": "https://exame.com/negocios/startup-cria-ia-que-cruza-exames-laboratoriais-e-geneticos-e-mira-faturamento-de-r-8-milhoes/"
+    },
+    {
+      "titulo": "O Brasil piscou e o sarampo voltou: São Paulo lança vacinação em massa",
+      "resumo": "Com queda vacinal e 23 casos, São Paulo lança vacinação em massa contra o sarampo para 10 milhões de pessoas.",
+      "veiculo": "Brazil Journal",
+      "link": "https://braziljournal.com/o-brasil-piscou-o-sarampo-voltou/"
     }
   ]
 }
