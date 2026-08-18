@@ -1,73 +1,49 @@
 {
-  "fonte": "A Saúde em News",
+  "fonte": "A saúde em News",
   "data": "2026-08-17",
-  "geradoEm": "2026-08-17T09:16:25-03:00",
+  "geradoEm": "2026-08-17T23:50:32-03:00",
   "itens": [
     {
-      "titulo": "Hapvida despenca 20% após balanço do 2º trimestre e acende alerta no mercado",
-      "resumo": "Ação da Hapvida cai 20% após o 2º tri, com sinistralidade em 75,2% e judicialização pressionando o resultado.",
-      "veiculo": "Exame",
-      "link": "https://exame.com/invest/mercados/hapvida-cai-20-apos-balanco-veja-os-pontos-que-deixaram-o-mercado-em-alerta/"
+      "titulo": "SUS começa a migrar dados para nuvem nacional",
+      "resumo": "Ministério da Saúde e Serpro passam a armazenar dados do SUS em território brasileiro, sob a LGPD.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/saude-inicia-migracao-de-dados-do-sus-para-nuvem-nacional"
     },
     {
-      "titulo": "Judicialização na saúde suplementar ultrapassa a do SUS pela primeira vez",
-      "resumo": "Setor privado tem mais ações judiciais que o SUS pela 1ª vez: 181 mil no semestre, aponta o CNJ.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/saude-suplementar-judicializacao-utrapassa-sus/"
+      "titulo": "Novas regras do CFM e da Anvisa definem o que a IA pode fazer no diagnóstico",
+      "resumo": "Resolução 2.454 entra em vigor em agosto e mantém no médico a decisão final sobre diagnóstico.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/ia-diagnostico-medico-cfm/"
     },
     {
-      "titulo": "Interfarma: incorporação de novos remédios nos planos cai de 18,5 para 7 por ano",
-      "resumo": "Incorporação de novos remédios nos planos cai de 18,5 para 7 por ano; remédios são só 7% das despesas.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/saude-suplementar-incorporacoes-medicamentos-interfarma/"
+      "titulo": "Vigilância é essencial para conter o avanço do sarampo em São Paulo",
+      "resumo": "Concentração de casos no estado expõe risco de novos surtos enquanto a cobertura vacinal segue abaixo de 95%.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/rede-de-vigilancia-e-essencial-para-evitar-propagacao-de-sarampo-em-sp"
     },
     {
-      "titulo": "Venda de remédios em marketplaces avança e depende de regulamentação da Anvisa",
-      "resumo": "Anvisa libera marketplaces como iFood e Rappi e prepara regras para vender remédios sem dispensar o farmacêutico.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/venda-remedios-marketplaces-regulamentacao/"
+      "titulo": "Einstein investe R$ 700 milhões em novo Centro de Ensino e Pesquisa",
+      "resumo": "Hospital anuncia aporte para ampliar a estrutura de formação e de pesquisa clínica em São Paulo.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/einstein-centro-ensino/"
     },
     {
-      "titulo": "Farmácia Popular ganha novas regras, com teleatendimento e oferta de exames",
-      "resumo": "Nova portaria moderniza o Farmácia Popular com teleatendimento, exames de acompanhamento e monitoramento antifraude.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/farmacia-popular-novas-regras/"
+      "titulo": "Hospital Souza Aguiar receberá R$ 850 milhões para modernização",
+      "resumo": "Maior emergência pública do Rio passa por reforma estrutural e renovação do parque tecnológico.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/souza-aguiar-850-milhoes/"
     },
     {
-      "titulo": "TCU aponta falhas da Anvisa na fiscalização de medicamentos após o registro",
-      "resumo": "TCU aponta falhas da Anvisa na vigilância pós-registro; testes de qualidade caíram de 1.583 para 329 por ano.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/tcu-falhas-fiscalizacao-medicamentos-anvisa/"
+      "titulo": "Genomic Summit 2026 debate o futuro do diagnóstico genético",
+      "resumo": "Sétima edição do encontro organizado pela Dasa Genômica reuniu especialistas em São Paulo para discutir medicina genômica.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/genomic-summit-2026/"
     },
     {
-      "titulo": "Conselho Nacional de Saúde aprova a Política Nacional de Informação e Saúde Digital",
-      "resumo": "CNS aprova política de saúde digital com foco em interoperabilidade, telessaúde e proteção de dados no SUS.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/politica-nacional-de-informacao-e-saude-digital-e-aprovada-pelo-cns/"
-    },
-    {
-      "titulo": "Ministério da Saúde inicia migração dos dados do SUS para a Nuvem Soberana",
-      "resumo": "Ministério da Saúde inicia migração dos dados do SUS para nuvem soberana nacional, sob a LGPD, com o Serpro.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/ministerio-da-saude-migracao-nuvem-soberana-do-sus/"
-    },
-    {
-      "titulo": "Anvisa aprova o Duvyzat, novo tratamento oral para a distrofia muscular de Duchenne",
-      "resumo": "Anvisa aprova o Duvyzat, tratamento oral para distrofia muscular de Duchenne em crianças a partir de 6 anos.",
-      "veiculo": "CNN Brasil",
-      "link": "https://www.cnnbrasil.com.br/saude/anvisa-aprova-novo-medicamento-para-distrofia-muscular-de-duchenne/"
-    },
-    {
-      "titulo": "PoliHealth lança IA que cruza exames laboratoriais e genéticos para apoiar o médico",
-      "resumo": "Startup PoliHealth lança IA que cruza exames laboratoriais e genética para apoiar decisões clínicas, sob a LGPD.",
-      "veiculo": "Exame",
-      "link": "https://exame.com/negocios/startup-cria-ia-que-cruza-exames-laboratoriais-e-geneticos-e-mira-faturamento-de-r-8-milhoes/"
-    },
-    {
-      "titulo": "O Brasil piscou e o sarampo voltou: São Paulo lança vacinação em massa",
-      "resumo": "Com queda vacinal e 23 casos, São Paulo lança vacinação em massa contra o sarampo para 10 milhões de pessoas.",
-      "veiculo": "Brazil Journal",
-      "link": "https://braziljournal.com/o-brasil-piscou-o-sarampo-voltou/"
+      "titulo": "FEI analisa a calibração de modelos de IA aplicados à saúde pública",
+      "resumo": "Estudo avalia como ajustar a confiança dos modelos para apoiar decisões em programas de saúde pública.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/04/08/2026/fei-analisa-o-papel-da-calibracao-de-inteligencia-artificial-para-apoiar-a-saude-publica/"
     }
   ]
 }
