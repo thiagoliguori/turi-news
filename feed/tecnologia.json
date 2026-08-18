@@ -1,49 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-08-17",
-  "geradoEm": "2026-08-17T23:51:04-03:00",
+  "data": "2026-08-18",
+  "geradoEm": "2026-08-18T08:15:01-03:00",
   "itens": [
     {
-      "titulo": "Medicare paga a mais por dispositivos de IA e pesquisadores temem uso excessivo",
-      "resumo": "Incentivo do CMS a equipamentos recém-autorizados pode levar hospitais a usar mais tecnologia do que o necessário.",
+      "titulo": "Epic apresenta seu roteiro anual sob pressão de sucessão, IA e antitruste",
+      "resumo": "Dona do prontuário eletrônico usado pela maioria dos hospitais americanos enfrenta o ano mais desafiador de sua história.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/08/13/how-medicare-cms-pays-ntap-for-new-ai-medical-devices/"
+      "link": "https://www.statnews.com/2026/08/17/ugm-epic-confronts-challenges-succession-ai-strategy-antitrust/"
     },
     {
-      "titulo": "Enfermeiros pedem participação nas decisões sobre IA clínica",
-      "resumo": "Categoria protesta contra sistemas que monitoram o trabalho e ganham papel crescente no cuidado ao paciente.",
+      "titulo": "Investigação expõe pagamentos por indicação em startup de IA avaliada em US$ 7 bilhões",
+      "resumo": "Documentos internos mostram que a Commure remunerava clientes que indicavam seus produtos a novos compradores.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/08/11/nurses-seek-involvement-clinical-ai-decisions/"
+      "link": "https://www.statnews.com/2026/08/12/inside-commure-athelas-mad-dash-automate-health-care/"
     },
     {
-      "titulo": "Modelos de linguagem gerais superam ferramentas clínicas especializadas em testes médicos",
-      "resumo": "Comparação avaliou modelos de fronteira contra soluções dedicadas como OpenEvidence e UpToDate em benchmarks médicos.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04431-5"
-    },
-    {
-      "titulo": "Ensaios clínicos precisam se adaptar a sistemas de IA que mudam sozinhos",
-      "resumo": "Artigo propõe desenhos de estudo capazes de acompanhar modelos monitorados e atualizados de forma contínua.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04368-9"
-    },
-    {
-      "titulo": "Uso de IA salta para 75% dos sistemas de saúde americanos",
-      "resumo": "Pesquisa aponta alta ante 59% em 2025, com metade dos hospitais já operando três ou mais aplicações.",
+      "titulo": "OpenAI Foundation destina US$ 100 milhões para dobrar a cura de hepatite C",
+      "resumo": "Recursos financiam ferramentas de IA para reencontrar pacientes que saíram do cuidado em oito jurisdições americanas.",
       "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/75-us-healthcare-systems-use-plan-use-ai-platform-2026"
+      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/openai-foundation-common-health-coalition-launch-public-health-initiative"
     },
     {
-      "titulo": "Assort Health lança agente de IA para automatizar encaminhamentos",
-      "resumo": "Ferramenta cuida do fluxo de referências entre clínicas especializadas e sistemas de saúde.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/assort-health-rolls-out-ai-agent-dedicated-referrals"
+      "titulo": "Oracle lança portal do paciente com IA que traduz o jargão médico",
+      "resumo": "Ferramenta usa modelos da OpenAI e tem travas para não emitir diagnóstico nem recomendação de tratamento.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://www.healthcaredive.com/news/Oracle-launches-AI-driven-patient-portal/827656/"
     },
     {
-      "titulo": "Flagler Health capta US$ 50 milhões para plataforma de IA musculoesquelética",
-      "resumo": "Série B leva o total captado a US$ 63 milhões e amplia a operação da healthtech.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/flagler-health-raises-50m-ai-musculoskeletal-platform"
+      "titulo": "CHAI cria grupo para enfrentar riscos cibernéticos de modelos de fronteira",
+      "resumo": "Quase 100 líderes do setor devem publicar diretrizes de segurança para sistemas de saúde até o fim de 2026.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://www.healthcaredive.com/news/chai-creates-work-group-to-counter-frontier-ai-model-cybersecurity-risks/827769/"
+    },
+    {
+      "titulo": "Nem toda IA em medicina é igual, e tratar como bloco único atrapalha a avaliação",
+      "resumo": "Análise defende julgar cada aplicação pelo próprio conjunto de evidências, do escriba clínico à detecção de sepse.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/08/06/ai-health-care-skepticism-advances-nature-medicine-scribe-sepsis/"
+    },
+    {
+      "titulo": "Pesquisadores propõem teste para medir superinteligência médica",
+      "resumo": "Autores defendem estrutura rigorosa baseada em tarefas porque os benchmarks atuais seriam insuficientes e enganosos.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/articles/s41591-026-04539-8"
     }
   ]
 }
