@@ -1,49 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-08-18",
-  "geradoEm": "2026-08-18T08:15:01-03:00",
+  "data": "2026-08-19",
+  "geradoEm": "2026-08-19T08:26:10-03:00",
   "itens": [
     {
-      "titulo": "Epic apresenta seu roteiro anual sob pressão de sucessão, IA e antitruste",
-      "resumo": "Dona do prontuário eletrônico usado pela maioria dos hospitais americanos enfrenta o ano mais desafiador de sua história.",
+      "titulo": "Medicare passa a pagar hospitais pelo uso de dispositivos de IA",
+      "resumo": "Incentivo vale para tecnologias recém-autorizadas e pesquisadores alertam que o pagamento pode estimular uso excessivo.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/08/17/ugm-epic-confronts-challenges-succession-ai-strategy-antitrust/"
+      "link": "https://www.statnews.com/2026/08/13/how-medicare-cms-pays-ntap-for-new-ai-medical-devices/"
     },
     {
-      "titulo": "Investigação expõe pagamentos por indicação em startup de IA avaliada em US$ 7 bilhões",
-      "resumo": "Documentos internos mostram que a Commure remunerava clientes que indicavam seus produtos a novos compradores.",
+      "titulo": "FDA e CMS recebem big techs em reuniões fechadas sobre IA clínica",
+      "resumo": "Dez empresas, entre elas Anthropic, Microsoft e Amazon One Medical, participaram de encontro na sede da agência.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/08/12/inside-commure-athelas-mad-dash-automate-health-care/"
+      "link": "https://www.statnews.com/2026/08/05/federal-regulators-invite-industry-closed-door-meetings-clinical-ai/"
     },
     {
-      "titulo": "OpenAI Foundation destina US$ 100 milhões para dobrar a cura de hepatite C",
-      "resumo": "Recursos financiam ferramentas de IA para reencontrar pacientes que saíram do cuidado em oito jurisdições americanas.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/openai-foundation-common-health-coalition-launch-public-health-initiative"
-    },
-    {
-      "titulo": "Oracle lança portal do paciente com IA que traduz o jargão médico",
-      "resumo": "Ferramenta usa modelos da OpenAI e tem travas para não emitir diagnóstico nem recomendação de tratamento.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/Oracle-launches-AI-driven-patient-portal/827656/"
-    },
-    {
-      "titulo": "CHAI cria grupo para enfrentar riscos cibernéticos de modelos de fronteira",
-      "resumo": "Quase 100 líderes do setor devem publicar diretrizes de segurança para sistemas de saúde até o fim de 2026.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/chai-creates-work-group-to-counter-frontier-ai-model-cybersecurity-risks/827769/"
-    },
-    {
-      "titulo": "Nem toda IA em medicina é igual, e tratar como bloco único atrapalha a avaliação",
-      "resumo": "Análise defende julgar cada aplicação pelo próprio conjunto de evidências, do escriba clínico à detecção de sepse.",
+      "titulo": "Práticas anticompetitivas da Epic entram na mira de investigadores federais",
+      "resumo": "Apuração examina se acordos de sigilo impostos pela empresa de prontuário eletrônico limitam a concorrência no setor.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/08/06/ai-health-care-skepticism-advances-nature-medicine-scribe-sepsis/"
+      "link": "https://www.statnews.com/2026/08/14/epic-systems-ftc-review-nda-use-possible-anticompetitive-practices/"
     },
     {
-      "titulo": "Pesquisadores propõem teste para medir superinteligência médica",
-      "resumo": "Autores defendem estrutura rigorosa baseada em tarefas porque os benchmarks atuais seriam insuficientes e enganosos.",
+      "titulo": "Modelos de IA de uso geral superam ferramentas clínicas especializadas",
+      "resumo": "Avaliação independente coloca GPT, Gemini e Claude à frente de OpenEvidence e UpToDate em perguntas clínicas reais.",
       "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04539-8"
+      "link": "https://www.nature.com/articles/s41591-026-04431-5"
+    },
+    {
+      "titulo": "Commure encerra pagamentos a clientes que indicavam seus produtos de IA",
+      "resumo": "Empresa avaliada em US$ 7 bilhões desativa o programa de indicação após reportagem sobre a prática.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/08/13/commure-terminates-payments-under-customer-referral-programs/"
+    },
+    {
+      "titulo": "Abbott e Google integram dados de glicose ao assistente de saúde com IA",
+      "resumo": "Medições do monitor Lingo passam a alimentar o app do Google Health e recomendações geradas pelo Gemini.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/abbott-google-partner-ai-glucose-insights"
+    },
+    {
+      "titulo": "Eric Topol discute modelo que prevê a trajetória de saúde ao longo da vida",
+      "resumo": "Conversa com Sarah Urbut detalha estudo da Nature que estima risco de doenças em vez de eventos isolados.",
+      "veiculo": "Ground Truths",
+      "link": "https://erictopol.substack.com/p/predicting-your-health-arc"
     }
   ]
 }
