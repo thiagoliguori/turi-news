@@ -1,49 +1,49 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-08-18",
-  "geradoEm": "2026-08-18T08:14:56-03:00",
+  "data": "2026-08-19",
+  "geradoEm": "2026-08-19T08:23:00-03:00",
   "itens": [
     {
-      "titulo": "Anvisa libera venda de medicamentos por plataformas como iFood e Rappi",
-      "resumo": "Agência revoga proibição e permite que farmácias licenciadas usem aplicativos de entrega e marketplaces para distribuir remédios.",
+      "titulo": "SUS inicia migração de dados para nuvem soberana em território nacional",
+      "resumo": "Ministério da Saúde e Serpro migram CadSUS e RNDS, com mais de 5 bilhões de registros, para infraestrutura brasileira.",
       "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/anvisa-libera-venda-de-medicamentos-por-plataformas-como-ifood-e-rapp"
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/saude-inicia-migracao-de-dados-do-sus-para-nuvem-nacional"
     },
     {
-      "titulo": "Fleury libera 85% dos exames sem intervenção humana",
-      "resumo": "Laboratório automatiza a liberação de resultados e avalia em quais etapas a inteligência artificial gera valor clínico.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/12/08/2026/fleury-libera-85-dos-exames-sem-intervencao-humana-e-avalia-onde-ia-realmente-gera-valor/"
-    },
-    {
-      "titulo": "Ministério da Saúde reforça multivacinação de crianças e adolescentes",
-      "resumo": "Campanha segue até 1º de setembro e oferece 20 imunizantes para menores de 15 anos em todo o país.",
+      "titulo": "UTIs Inteligentes já funcionam em seis unidades de saúde do país",
+      "resumo": "Estratégia de hospitais inteligentes avança e o SAMU Inteligente roda em piloto em Recife, Belo Horizonte e Porto Alegre.",
       "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/ministerio-da-saude-reforca-vacinacao-de-criancas-e-adolescentes-contra-sarampo-pneumonias-e-outras-doencas"
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/ministro-da-saude-participa-de-simposio-sobre-hospitais-inteligentes-e-uso-da-inteligencia-artificial-no-cuidado"
     },
     {
-      "titulo": "Einstein leva dados clínicos brasileiros para a plataforma global da Mayo Clinic",
-      "resumo": "Dados descaracterizados do hospital entram no ecossistema internacional de desenvolvimento de inteligência artificial em saúde.",
+      "titulo": "Resolução do CFM sobre IA na medicina entra em vigor em 26 de agosto",
+      "resumo": "Norma exige governança institucional e encerra o uso informal de ferramentas de inteligência artificial em hospitais e clínicas.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/eval-ia-corporativa/"
+    },
+    {
+      "titulo": "Doctoralia lança IA que entrega evidência científica durante a consulta",
+      "resumo": "Noa Evidence busca literatura médica e devolve informação estruturada em segundos, sem interromper o atendimento ao paciente.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/doctoralia-noa-evidence/"
+    },
+    {
+      "titulo": "Mercado paralelo de dispositivos de saúde na internet já supera o legal",
+      "resumo": "Venda irregular deve chegar a 1,5 milhão de itens até o fim de 2026 e preocupa reguladores.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/30/07/2026/mayo-clinic-platform-e-einstein-hospital-israelita-impulsionam-a-inovacao-global-em-ia-para-a-saude-por-meio-de-colaboracao-segura-de-dados/"
+      "link": "https://saudedigitalnews.com.br/11/08/2026/mercado-paralelo-de-dispositivos-de-saude-na-internet-ja-supera-o-legal-e-deve-chegar-a-15-milhao-ate-o-final-de-2026/"
     },
     {
-      "titulo": "Ministério da Saúde abre 12 mil vagas em curso de IA para gestores do SUS",
-      "resumo": "Formação gratuita a distância tem 180 horas e cobre saúde digital, ética e implementação estratégica.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/julho/ministerio-da-saude-lanca-curso-para-fortalecer-a-gestao-do-sus-com-inteligencia-artificial"
+      "titulo": "NeuralMed recebe certificação da Anvisa para sua solução de IA",
+      "resumo": "Startup obtém regularização nível 2 para tecnologia de apoio diagnóstico em raio-X, tomografia e eletrocardiograma.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/neuralmed-anvisa/"
     },
     {
-      "titulo": "Vera Cruz Hospital chega a 4 mil cirurgias robóticas",
-      "resumo": "Hospital de Campinas atinge a marca em procedimentos assistidos por robô e amplia seu parque tecnológico.",
+      "titulo": "A IA já entrou na medicina, e o próximo desafio é saber quem a governa",
+      "resumo": "Análise defende que o gargalo do setor deixou de ser adoção tecnológica e passou a ser governança clínica.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/10/08/2026/vera-cruz-hospital-chega-a-4-mil-cirurgias-roboticas/"
-    },
-    {
-      "titulo": "Fusões recentes revelam nova fase de consolidação na saúde brasileira",
-      "resumo": "Movimento mostra busca por escala, eficiência operacional e integração entre serviços assistenciais no país.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/10/08/2026/crescimento-eficiencia-e-integracao-o-que-as-fusoes-recentes-revelam-sobre-o-setor-de-saude-brasileiro/"
+      "link": "https://saudedigitalnews.com.br/03/08/2026/a-inteligencia-artificial-ja-entrou-na-medicina-o-proximo-desafio-e-saber-quem-governa-essa-inteligencia/"
     }
   ]
 }
