@@ -1,49 +1,79 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-08-19",
-  "geradoEm": "2026-08-19T08:26:10-03:00",
+  "data": "2026-08-20",
+  "geradoEm": "2026-08-20T09:08:55-03:00",
   "itens": [
     {
-      "titulo": "Medicare passa a pagar hospitais pelo uso de dispositivos de IA",
-      "resumo": "Incentivo vale para tecnologias recém-autorizadas e pesquisadores alertam que o pagamento pode estimular uso excessivo.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/08/13/how-medicare-cms-pays-ntap-for-new-ai-medical-devices/"
+      "titulo": "FDA propõe avaliar dispositivos de IA generativa como se fossem médicos",
+      "resumo": "FDA quer avaliar dispositivos de IA generativa com testes de competência inspirados na formação médica; consulta pública aberta.",
+      "veiculo": "FDA",
+      "link": "https://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices"
     },
     {
-      "titulo": "FDA e CMS recebem big techs em reuniões fechadas sobre IA clínica",
-      "resumo": "Dez empresas, entre elas Anthropic, Microsoft e Amazon One Medical, participaram de encontro na sede da agência.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/08/05/federal-regulators-invite-industry-closed-door-meetings-clinical-ai/"
+      "titulo": "Epic lança o Ergo Visit, IA que prepara a consulta ambulatorial",
+      "resumo": "Nova IA da Epic resume o prontuário e prepara a consulta para o médico; Ochsner Health é a primeira a usar.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://www.healthcaredive.com/news/epic-targets-outpatient-visits-with-new-ai-tool/828230/"
     },
     {
-      "titulo": "Práticas anticompetitivas da Epic entram na mira de investigadores federais",
-      "resumo": "Apuração examina se acordos de sigilo impostos pela empresa de prontuário eletrônico limitam a concorrência no setor.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/08/14/epic-systems-ftc-review-nda-use-possible-anticompetitive-practices/"
+      "titulo": "Abbott e Google unem glicose contínua e IA no app Google Health",
+      "resumo": "Sensor de glicose Lingo se integra ao Google Health com orientações de nutrição, sono e treino geradas por IA.",
+      "veiculo": "Abbott",
+      "link": "https://abbott.mediaroom.com/2026-08-11-Abbott-and-Google-launch-first-of-its-kind-partnership-to-transform-everyday-health-through-glucose-insights-and-AI"
     },
     {
-      "titulo": "Modelos de IA de uso geral superam ferramentas clínicas especializadas",
-      "resumo": "Avaliação independente coloca GPT, Gemini e Claude à frente de OpenEvidence e UpToDate em perguntas clínicas reais.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04431-5"
-    },
-    {
-      "titulo": "Commure encerra pagamentos a clientes que indicavam seus produtos de IA",
-      "resumo": "Empresa avaliada em US$ 7 bilhões desativa o programa de indicação após reportagem sobre a prática.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/08/13/commure-terminates-payments-under-customer-referral-programs/"
-    },
-    {
-      "titulo": "Abbott e Google integram dados de glicose ao assistente de saúde com IA",
-      "resumo": "Medições do monitor Lingo passam a alimentar o app do Google Health e recomendações geradas pelo Gemini.",
+      "titulo": "Atlantic Health e K Health colocam o PatientGPT dentro do MyChart",
+      "resumo": "IA responde dúvidas em linguagem simples com base no prontuário do paciente e encaminha ao médico quando preciso.",
       "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/abbott-google-partner-ai-glucose-insights"
+      "link": "https://www.mobihealthnews.com/news/atlantic-health-k-health-launch-patientgpt-integrated-mychart"
     },
     {
-      "titulo": "Eric Topol discute modelo que prevê a trajetória de saúde ao longo da vida",
-      "resumo": "Conversa com Sarah Urbut detalha estudo da Nature que estima risco de doenças em vez de eventos isolados.",
+      "titulo": "R1 compra a Humata Health para automatizar autorização prévia com IA",
+      "resumo": "Aquisição reforça o Phare OS com autorização prévia automatizada por IA e até 96% de aprovação de primeira.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/finance/r1-agrees-acquire-humata-health-enhance-os-ai-powered-prior-auths"
+    },
+    {
+      "titulo": "popEVE: IA de Harvard identifica mutações raras com 98% de acerto",
+      "resumo": "Modelo usa dados evolutivos para achar mutações causadoras de doenças raras e ranquear a gravidade delas.",
+      "veiculo": "Broad Institute",
+      "link": "https://www.broadinstitute.org/news/new-ai-model-could-speed-rare-disease-diagnosis"
+    },
+    {
+      "titulo": "IA da OpenAI resolve 18 casos de doenças raras sem diagnóstico",
+      "resumo": "Modelo o3 reanalisou 376 casos sem diagnóstico e fechou 18 novos, um ganho de quase 5%.",
+      "veiculo": "OpenAI",
+      "link": "https://openai.com/index/diagnose-rare-childhood-diseases/"
+    },
+    {
+      "titulo": "Eric Topol: o uso de IA na medicina está fora do alvo",
+      "resumo": "Topol diz que a IA é adotada onde a evidência é fraca e ignorada onde é forte, e cobra melhor avaliação.",
       "veiculo": "Ground Truths",
-      "link": "https://erictopol.substack.com/p/predicting-your-health-arc"
+      "link": "https://erictopol.substack.com/"
+    },
+    {
+      "titulo": "Futuro da Saúde reúne líderes para debater IA no setor, com cases reais",
+      "resumo": "Hospitais, farmacêuticas, operadoras e SUS discutem aplicações reais e limites éticos da IA na saúde.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/inteligencia-artificial-evento-futuro-da-saude/"
+    },
+    {
+      "titulo": "Deloitte: IA vira motor de crescimento na saúde em 2026, mas maturidade é baixa",
+      "resumo": "Relatório aponta a IA como motor de crescimento, mas alerta para o baixo preparo e maturidade das empresas.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/tendencia-da-saude-2026-deloitte/"
+    },
+    {
+      "titulo": "Brasil abre 1º Simpósio de Smart Hospitals e mira hospitais inteligentes no SUS",
+      "resumo": "Governo anuncia rede nacional de hospitais e UTIs inteligentes no SUS durante simpósio internacional.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/ministro-da-saude-participa-de-simposio-sobre-hospitais-inteligentes-e-uso-da-inteligencia-artificial-no-cuidado"
+    },
+    {
+      "titulo": "Doximity aposta em ser o assistente de IA número 1 dos médicos",
+      "resumo": "Empresa intensifica investimento em IA clínica com foco na transição da adoção para a responsabilização.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/doximity-bets-big-hospital-enterprise-ai-platforms-it-ramps-tech-investment"
     }
   ]
 }
