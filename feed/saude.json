@@ -1,49 +1,49 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-08-19",
-  "geradoEm": "2026-08-19T08:23:00-03:00",
+  "data": "2026-08-21",
+  "geradoEm": "2026-08-21T10:27:51-03:00",
   "itens": [
     {
-      "titulo": "SUS inicia migração de dados para nuvem soberana em território nacional",
-      "resumo": "Ministério da Saúde e Serpro migram CadSUS e RNDS, com mais de 5 bilhões de registros, para infraestrutura brasileira.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/saude-inicia-migracao-de-dados-do-sus-para-nuvem-nacional"
-    },
-    {
-      "titulo": "UTIs Inteligentes já funcionam em seis unidades de saúde do país",
-      "resumo": "Estratégia de hospitais inteligentes avança e o SAMU Inteligente roda em piloto em Recife, Belo Horizonte e Porto Alegre.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/ministro-da-saude-participa-de-simposio-sobre-hospitais-inteligentes-e-uso-da-inteligencia-artificial-no-cuidado"
-    },
-    {
-      "titulo": "Resolução do CFM sobre IA na medicina entra em vigor em 26 de agosto",
-      "resumo": "Norma exige governança institucional e encerra o uso informal de ferramentas de inteligência artificial em hospitais e clínicas.",
+      "titulo": "Panorama da Saúde Digital 2026 mostra IA em 18% dos estabelecimentos brasileiros",
+      "resumo": "Pesquisa TIC Saúde aponta uso de IA em 18% das unidades, ainda concentrado em tarefas operacionais e administrativas.",
       "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/eval-ia-corporativa/"
+      "link": "https://medicinasa.com.br/edicao34/"
     },
     {
-      "titulo": "Doctoralia lança IA que entrega evidência científica durante a consulta",
-      "resumo": "Noa Evidence busca literatura médica e devolve informação estruturada em segundos, sem interromper o atendimento ao paciente.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/doctoralia-noa-evidence/"
-    },
-    {
-      "titulo": "Mercado paralelo de dispositivos de saúde na internet já supera o legal",
-      "resumo": "Venda irregular deve chegar a 1,5 milhão de itens até o fim de 2026 e preocupa reguladores.",
+      "titulo": "OpenAI Foundation anuncia US$ 100 milhões para aplicar IA em saúde",
+      "resumo": "Recurso vai para a Common Health Coalition levar avanços médicos já existentes a quem ainda não tem acesso.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/11/08/2026/mercado-paralelo-de-dispositivos-de-saude-na-internet-ja-supera-o-legal-e-deve-chegar-a-15-milhao-ate-o-final-de-2026/"
+      "link": "https://saudedigitalnews.com.br/14/08/2026/openai-foundation-lanca-programa-para-aplicar-ia-em-desafios-sociais-e-anuncia-us-100-milhoes-para-saude/"
     },
     {
-      "titulo": "NeuralMed recebe certificação da Anvisa para sua solução de IA",
-      "resumo": "Startup obtém regularização nível 2 para tecnologia de apoio diagnóstico em raio-X, tomografia e eletrocardiograma.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/neuralmed-anvisa/"
-    },
-    {
-      "titulo": "A IA já entrou na medicina, e o próximo desafio é saber quem a governa",
-      "resumo": "Análise defende que o gargalo do setor deixou de ser adoção tecnológica e passou a ser governança clínica.",
+      "titulo": "Grupo Marista reduz recurso de glosas de 20 para três dias com IA",
+      "resumo": "Caso mostra ganho financeiro concreto da IA em processo administrativo hospitalar, fora da área assistencial.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/03/08/2026/a-inteligencia-artificial-ja-entrou-na-medicina-o-proximo-desafio-e-saber-quem-governa-essa-inteligencia/"
+      "link": "https://saudedigitalnews.com.br/05/08/2026/grupo-marista-reduziu-de-20-para-tres-dias-processo-de-recurso-de-glosas-com-apoio-de-ia-afirma-cio/"
+    },
+    {
+      "titulo": "IA e diagnóstico: o que é permitido com as novas regras do CFM e da Anvisa",
+      "resumo": "Texto detalha limites do uso de IA em diagnóstico, responsabilidade médica e exigência de registro sanitário.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/ia-diagnostico-medico-cfm/"
+    },
+    {
+      "titulo": "A revolução assistida: como a IA transforma a medicina brasileira",
+      "resumo": "Reportagem mostra ganhos em diagnóstico e gestão, com o médico mantendo a decisão final sobre o paciente.",
+      "veiculo": "O Tempo",
+      "link": "https://www.otempo.com.br/saude-e-bem-estar/2026/8/6/a-revolucao-assistida-como-a-ia-transforma-a-medicina-brasileira-sem-substituir-o-olhar-humano"
+    },
+    {
+      "titulo": "ROI da IA na saúde começa pelo benefício clínico, diz executiva da Roche",
+      "resumo": "Executiva defende medir retorno pelo desfecho do paciente, e não apenas pela redução de custo operacional.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/05/08/2026/roi-da-inteligencia-artificial-na-saude-comeca-pelo-beneficio-clinico-afirma-executiva-da-roche-diagnostica/"
+    },
+    {
+      "titulo": "IA deve aumentar a qualidade da consulta, e não encurtar o tempo com o paciente",
+      "resumo": "Executivo da Afya diz que o tempo economizado com IA precisa voltar para a relação com o paciente.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/05/08/2026/ia-deve-aumentar-a-qualidade-da-consulta-e-nao-reduzir-o-tempo-com-o-paciente-afirma-executivo-da-afya/"
     }
   ]
 }
