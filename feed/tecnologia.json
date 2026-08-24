@@ -1,49 +1,79 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-08-21",
-  "geradoEm": "2026-08-21T10:30:16-03:00",
+  "data": "2026-08-24",
+  "geradoEm": "2026-08-24T09:27:00-03:00",
   "itens": [
     {
-      "titulo": "Ensaio randomizado no Quênia: IA generativa não reduziu falha no tratamento",
-      "resumo": "Com 9.691 pacientes e 103 profissionais, apoio do ChatGPT-4o não melhorou o desfecho de 14 dias na atenção primária.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04503-6"
+      "titulo": "FDA abre consulta pública sobre dispositivos médicos com IA generativa",
+      "resumo": "FDA pede feedback público até 19 de outubro sobre como regular dispositivos médicos de IA generativa.",
+      "veiculo": "FDA",
+      "link": "https://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices"
     },
     {
-      "titulo": "LLM no pronto-socorro é seguro, mas o uso pelos médicos cai em quatro semanas",
-      "resumo": "Estudo prospectivo em emergência terciária mostra integração segura e queda constante da adoção clínica ao longo do piloto.",
+      "titulo": "Só 3 de 1.357 dispositivos de IA aprovados pela FDA foram testados em desfechos de pacientes",
+      "resumo": "De 1.357 dispositivos de IA liberados, apenas 34 tinham ensaio clínico e só 3 mediram desfecho de paciente.",
+      "veiculo": "Medical Xpress",
+      "link": "https://medicalxpress.com/news/2026-08-ai-medical-devices-patient-outcomes.html"
+    },
+    {
+      "titulo": "Saúde digital capta US$ 7,4 bilhões no 1º semestre de 2026, puxada por IA",
+      "resumo": "Startups do setor captaram US$ 7,4 bi no semestre, US$ 1 bi acima de 2025, com IA no centro dos aportes.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/digital-health/digital-health-brought-74b-vc-funding-ai-powered-rebound-fuels-market"
+    },
+    {
+      "titulo": "Nature Medicine: LLMs de uso geral superam ferramentas clínicas especializadas de IA",
+      "resumo": "GPT-5.2, Gemini 3.1 Pro e Claude Opus 4.6 superaram OpenEvidence e UpToDate Expert AI em avaliações médicas.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/articles/s41591-026-04431-5"
+    },
+    {
+      "titulo": "Maior estudo de escribas de IA mostra ganho de tempo modesto e uso desigual",
+      "resumo": "Com 1.800 clínicos, escribas de IA economizaram 16 minutos de documentação a cada 8 horas de atendimento.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/04/01/ai-ambient-scribes-modest-time-savings-clinical-documentation/"
+    },
+    {
+      "titulo": "Abridge levanta extensão de US$ 316 milhões e reforça liderança em documentação clínica com IA",
+      "resumo": "Startup de escriba ambiental capta extensão de Série E, sobre valuation que já chegou a US$ 5,3 bilhões.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/abridge-secures-300m-boosts-valuation-53b"
+    },
+    {
+      "titulo": "Brasil lança Rede Nacional de Hospitais Inteligentes com IA no SUS",
+      "resumo": "Ministério da Saúde anuncia UTIs inteligentes com IA já em funcionamento em seis unidades do SUS.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/ministro-da-saude-participa-de-simposio-sobre-hospitais-inteligentes-e-uso-da-inteligencia-artificial-no-cuidado"
+    },
+    {
+      "titulo": "62,5% dos hospitais brasileiros já usam inteligência artificial",
+      "resumo": "IA virou infraestrutura essencial: 62,5% dos hospitais do país já a utilizam no dia a dia.",
+      "veiculo": "Blog da Engenharia",
+      "link": "https://blogdaengenharia.com/625-dos-hospitais-brasileiros-ja-utilizam-inteligencia-artificial-2/"
+    },
+    {
+      "titulo": "ChatGPT Health e a antecipação do futuro da saúde",
+      "resumo": "Forbes discute como o ChatGPT Health, que conecta prontuários e apps, sinaliza a próxima fase da saúde.",
+      "veiculo": "Forbes",
+      "link": "https://www.forbes.com/sites/saibala/2026/07/26/chatgpts-health-launch-is-foreshadowing-the-future-of-healthcare/"
+    },
+    {
+      "titulo": "Hippocratic AI expande agentes de voz de enfermagem em sistemas de saúde",
+      "resumo": "WellSpan amplia parceria com a Hippocratic AI, com agentes de voz em mais de 160 mil ligações mensais.",
+      "veiculo": "HIT Consultant",
+      "link": "https://hitconsultant.net/2026/07/30/wellspan-health-expands-hippocratic-ai-partnership-platform-wide-voice-agent/"
+    },
+    {
+      "titulo": "IA na descoberta de fármacos vive seu ano das evidências",
+      "resumo": "Já são 117 ativos desenhados com IA em ensaios clínicos; 8 completaram a Fase II e nenhum foi aprovado.",
+      "veiculo": "IntuitionLabs",
+      "link": "https://intuitionlabs.ai/articles/ai-discovered-drugs-clinical-trials-2026"
+    },
+    {
+      "titulo": "Nature Medicine avalia suporte à decisão com LLM no pronto-socorro",
+      "resumo": "Piloto em PS terciário mostrou integração segura de LLM, mas adoção clínica caiu ao longo de 4 semanas.",
       "veiculo": "Nature Medicine",
       "link": "https://www.nature.com/articles/s41591-026-04601-5"
-    },
-    {
-      "titulo": "O sistema médico paralelo que a IA está criando",
-      "resumo": "Análise questiona manchetes de IA superando médicos e mostra o dinheiro empurrando as big techs para dentro da saúde.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/08/19/ai-doctor-outperforms-chatgpt-oura-quest-ro-hims-medical-system/"
-    },
-    {
-      "titulo": "CHAI reúne cem líderes contra riscos cibernéticos dos modelos de fronteira",
-      "resumo": "Grupo com hospitais, operadoras e indústria pretende publicar guia de cibersegurança em IA até o fim de 2026.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/chai-creates-work-group-to-counter-frontier-ai-model-cybersecurity-risks/827769/"
-    },
-    {
-      "titulo": "Qualified Health capta US$ 125 milhões para escalar IA generativa em hospitais",
-      "resumo": "Startup atende Emory Healthcare, Jefferson Health e as oito instituições de saúde do sistema da Universidade do Texas.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/qualified-health-raises-125m-scale-generative-ai-health-systems"
-    },
-    {
-      "titulo": "Oracle Health libera nos EUA portal do paciente movido a IA",
-      "resumo": "Portal traduz jargão médico para linguagem simples e já está disponível de forma geral no mercado americano.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/Oracle-launches-AI-driven-patient-portal/827656/"
-    },
-    {
-      "titulo": "Fundação de doença rara leva agente de IA para dentro do cuidado das famílias",
-      "resumo": "O agente Ari, da Citizen Health, interpreta prontuários, acompanha sintomas e organiza consultas para famílias da síndrome de Angelman.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/rare-disease-foundation-partners-citizen-health-embed-ai-agent-everyday"
     }
   ]
 }
