@@ -1,79 +1,49 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-08-24",
-  "geradoEm": "2026-08-24T09:39:24-03:00",
+  "data": "2026-08-27",
+  "geradoEm": "2026-08-27T11:18:03-03:00",
   "itens": [
     {
-      "titulo": "Anvisa libera robô cirúrgico da Vinci 5 e novos testes de dengue",
-      "resumo": "Anvisa liberou o robô cirúrgico da Vinci 5 e novos kits de diagnóstico de dengue, em 38 registros de dispositivos médicos.",
-      "veiculo": "O Tempo",
-      "link": "https://www.otempo.com.br/politica/2026/8/24/anvisa-libera-robo-cirurgico-e-novos-testes-de-dengue"
+      "titulo": "Ministério da Saúde inicia migração dos dados do SUS para nuvem soberana",
+      "resumo": "CadSUS e RNDS serão os primeiros sistemas migrados, e os dados passam a ficar em território nacional sob lei brasileira.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/ministerio-da-saude-inicia-jornada-para-a-nuvem-soberana-do-sus"
     },
     {
-      "titulo": "Bill Ackman doa US$ 400 milhões para instituto de pesquisa do cérebro",
-      "resumo": "Após a filha se recuperar de hemorragia cerebral, Bill Ackman doa US$ 400 milhões para um instituto de pesquisa do cérebro.",
-      "veiculo": "Brazil Journal",
-      "link": "https://braziljournal.com/bill-ackman-quase-perdeu-a-filha-agora-vai-transformar-tragedia-em-esperanca/"
+      "titulo": "Anvisa aprova o segundo genérico de semaglutida em caneta injetável",
+      "resumo": "Nova aprovação amplia a concorrência no mercado de canetas para diabetes e obesidade e tende a pressionar os preços.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/anvisa-aprova-segundo-generico-de-semaglutida-em-caneta-injetavel"
     },
     {
-      "titulo": "Advent e Bain avançam na compra da Amil por cerca de R$ 17 bilhões",
-      "resumo": "Advent e Bain retomam negociação para comprar 100% da Amil por cerca de R$ 17 bilhões; preço e controle travam o acordo.",
-      "veiculo": "Valor Econômico",
-      "link": "https://br.advfn.com/jornal/2026/08/advent-e-bain-avancam-na-compra-da-amil-preco-de-r-17-bilhoes-trava-acordo"
+      "titulo": "Vila Nova Star é o primeiro hospital do país com o sistema Mako completo",
+      "resumo": "Hospital da Rede D'Or passa a oferecer as três aplicações do robô ortopédico: quadril, joelho total e joelho parcial.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/10/08/2026/vila-nova-star-amplia-ortopedia-com-primeiro-sistema-mako-completo-do-pais/"
     },
     {
-      "titulo": "Moderna anuncia vacina de mRNA contra o câncer de pele e ação dispara 150%",
-      "resumo": "Vacina de mRNA da Moderna e Merck reduz recorrência do melanoma e faz a ação da Moderna disparar até 158%.",
-      "veiculo": "Brazil Journal",
-      "link": "https://braziljournal.com/moderna-anuncia-vacina-contra-o-cancer-de-pele-e-acao-dispara-150/"
+      "titulo": "Tabagismo é maior entre jovens de 16 a 24 anos, aponta pesquisa",
+      "resumo": "Estudo do A.C. Camargo com 2 mil pessoas mostra 19% de fumantes entre jovens, acima da média nacional de 17%.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/tabagismo-e-maior-entre-jovens-de-16-24-anos-alerta-pesquisa"
     },
     {
-      "titulo": "Anvisa aprova o primeiro genérico e o primeiro similar de semaglutida no Brasil",
-      "resumo": "Anvisa aprova o primeiro genérico e o primeiro similar de semaglutida no Brasil, com potencial de preço bem menor.",
-      "veiculo": "InfoMoney",
-      "link": "https://www.infomoney.com.br/saude/canetas-emagrecedoras-anvisa-autoriza-1a-caneta-generica-de-semaglutida-no-brasil/"
+      "titulo": "Mais Médicos Especialistas prorroga a atuação de 676 profissionais no SUS",
+      "resumo": "Prorrogação vale até fevereiro de 2027 e depende de desempenho; 52% dos especialistas atuam em municípios do interior.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/saude-estende-atuacao-de-676-medicos-especialistas-no-sus"
     },
     {
-      "titulo": "Balanços do 2T26 na saúde: prestadores avançam e operadoras sofrem com custos",
-      "resumo": "Balanços do 2T26 mostram prestadores em alta e operadoras pressionadas; saúde suplementar chega a 53,1 milhões de beneficiários.",
-      "veiculo": "XVI Finance",
-      "link": "https://xvifinance.com.br/2026/08/17/resultados-grandes-empresas-saude-2t26-2/"
+      "titulo": "Ministério da Saúde cria programa nacional de vigilância de mortes ligadas ao trabalho",
+      "resumo": "Portaria institui o PVTT, que obriga o SUS a investigar em até 180 dias os óbitos relacionados ao trabalho.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/ministerio-da-saude-institui-programa-nacional-para-prevenir-e-reduzir-mortes-relacionadas-ao-trabalho"
     },
     {
-      "titulo": "O sarampo voltou e São Paulo faz campanha de vacinação em massa",
-      "resumo": "Com o sarampo de volta, São Paulo faz campanha de vacinação em massa para mais de 10 milhões de pessoas.",
-      "veiculo": "Brazil Journal",
-      "link": "https://braziljournal.com/o-brasil-piscou-o-sarampo-voltou/"
-    },
-    {
-      "titulo": "Hapvida vê lucro desabar 95,8% no 2T26 pressionada por custos",
-      "resumo": "Hapvida vê lucro cair 95,8% no 2T26, pressionada por custos assistenciais, e ação recua forte no pregão seguinte.",
-      "veiculo": "InfoMoney",
-      "link": "https://www.infomoney.com.br/mercados/hapvida-hapv3-resultados-segundo-trimestre-2026/"
-    },
-    {
-      "titulo": "Rede D'Or tem lucro ajustado de R$ 1,28 bilhão no 2T26, alta de 8,5%",
-      "resumo": "Rede D'Or tem lucro ajustado de R$ 1,28 bilhão no 2T26, alta de 8,5%, em contraste com as operadoras.",
-      "veiculo": "InfoMoney",
-      "link": "https://www.infomoney.com.br/mercados/rede-dor-rdor3-resultados-segundo-trimestre-2026/"
-    },
-    {
-      "titulo": "Anvisa revoga proibição da venda de remédios em marketplaces",
-      "resumo": "Anvisa revoga proibição da venda de remédios em marketplaces como Mercado Livre e iFood; liberação depende de regulamentação.",
-      "veiculo": "Brazil Journal",
-      "link": "https://braziljournal.com/venda-de-remedios-nos-marketplaces-fica-mais-perto-qual-o-impacto-nas-farmacias/"
-    },
-    {
-      "titulo": "Ministério da Saúde amplia oferta de medicamentos para asma e psoríase no SUS",
-      "resumo": "Ministério da Saúde amplia no SUS a oferta de medicamentos para asma grave e psoríase a partir de agosto.",
-      "veiculo": "O Tempo",
-      "link": "https://www.otempo.com.br/politica/2026/8/10/ministerio-da-saude-amplia-oferta-de-medicamentos-para-asma-e-psoriase-no-sus"
-    },
-    {
-      "titulo": "BradSaúde lucra R$ 1,11 bilhão no 2T26, mas ação cai com a sinistralidade",
-      "resumo": "BradSaúde lucra R$ 1,11 bilhão no 2T26, mas ação cai mais de 11% com sinistralidade em 83,8%.",
-      "veiculo": "Brazil Journal",
-      "link": "https://braziljournal.com/bradsaude-mergulha-8-com-sinistralidade-numeros-para-bulls-and-bears/"
+      "titulo": "Febre do Nilo Ocidental: quatro casos confirmados e um óbito no Brasil",
+      "resumo": "São Paulo e Santa Catarina confirmam casos, com uma morte; cerca de 80% dos infectados não apresentam sintomas.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/febre-do-nilo-ocidental-nao-ha-motivo-para-panico-diz-medico"
     }
   ]
 }
