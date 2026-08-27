@@ -1,79 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-08-25",
-  "geradoEm": "2026-08-25T09:21:47-03:00",
+  "data": "2026-08-27",
+  "geradoEm": "2026-08-27T12:23:26-03:00",
   "itens": [
     {
-      "titulo": "FDA abre consulta pública para regular dispositivos médicos com IA generativa",
-      "resumo": "FDA lança documento sobre IA generativa em dispositivos médicos e pede contribuições públicas até 19 de outubro.",
-      "veiculo": "FDA",
-      "link": "https://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices"
+      "titulo": "AMA e artigo da JAMA divergem sobre o futuro papel do médico diante da IA",
+      "resumo": "Novo framework da AMA mantém o médico no comando, enquanto artigo da JAMA questiona se o híbrido médico-IA é o melhor modelo.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/ai-advances-debate-grows-over-future-role-physicians"
     },
     {
-      "titulo": "Maioria dos dispositivos de IA aprovados pelo FDA nunca foi testada em desfecho de paciente",
-      "resumo": "De 1.357 dispositivos de IA autorizados, só 34 tinham ensaio clínico e apenas 3 mediram desfecho de paciente.",
-      "veiculo": "Medical Xpress",
-      "link": "https://medicalxpress.com/news/2026-08-ai-medical-devices-patient-outcomes.html"
+      "titulo": "Grandes sistemas de saúde adotam chatbots de IA para consultar prontuários",
+      "resumo": "Hospitais americanos liberam chatbots que leem o prontuário para poupar tempo do médico e melhorar a acurácia diagnóstica.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/08/20/health-systems-embrace-ai-chatbots-query-patient-records-ehr/"
     },
     {
-      "titulo": "R1 compra a Humata Health, especialista em autorização prévia por IA",
-      "resumo": "R1 adquire a Humata Health, que usa IA para automatizar autorizações prévias e destravar exames e tratamentos.",
+      "titulo": "Pagamento extra do Medicare por dispositivos de IA acende alerta de uso excessivo",
+      "resumo": "Pesquisadores alertam que o incentivo financeiro pode estimular hospitais a usar dispositivos de IA sem necessidade clínica.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/08/13/how-medicare-cms-pays-ntap-for-new-ai-medical-devices/"
+    },
+    {
+      "titulo": "Atlantic Health e K Health colocam o PatientGPT dentro do MyChart",
+      "resumo": "IA usa o prontuário do paciente no portal Epic para orientar e agendar consulta virtual no mesmo dia.",
       "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/r1-acquire-humata-health-and-more-digital-health-news"
+      "link": "https://www.mobihealthnews.com/news/atlantic-health-k-health-launch-patientgpt-integrated-mychart"
     },
     {
-      "titulo": "OpenAI Foundation destina US$ 100 milhões para IA na saúde pública",
-      "resumo": "OpenAI Foundation cria fundo de US$ 100 milhões para acelerar pesquisa em saúde pública com IA, começando pela hepatite C.",
-      "veiculo": "Nextgov",
-      "link": "https://www.nextgov.com/emerging-tech/2026/08/openai-foundation-gives-100-million-fund-state-ai-implementation-public-health/415382/"
+      "titulo": "Suki lança ditado por IA nativo dentro do Epic e do Meditech",
+      "resumo": "Ferramenta transcreve a fala palavra por palavra no prontuário e convive com a escuta ambiente na mesma plataforma.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://www.healthcaredive.com/news/suki-launches-ai-dictation-tool-with-ehr-integration-capabilities/828837/"
     },
     {
-      "titulo": "Atropos Health e Health Universe unem forças em decisão clínica com IA",
-      "resumo": "Parceria dá aos médicos evidência do mundo real na hora da decisão clínica, quase como um estudo em minutos.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/atropos-health-partners-health-universe-ai-clinical-decision-support"
-    },
-    {
-      "titulo": "Ant Group relança app médico com IA para pré-consulta e seguimento",
-      "resumo": "A chinesa Ant Group transforma o Haodf em AQ for Doctor, com IA para anamnese, seguimento e decisão clínica.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/asia/ant-group-upgrades-doctor-app-ai"
-    },
-    {
-      "titulo": "Novas regras do CFM para IA na medicina entram em vigor",
-      "resumo": "Resolução CFM 2.454/2026 vale a partir de 26 de agosto e mantém a decisão médica no centro do uso da IA.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/12/08/2026/a-nova-regra-para-ia-na-saude-vai-muito-alem-da-classificacao-de-riscos/"
-    },
-    {
-      "titulo": "TIC Saúde: 18% dos estabelecimentos de saúde no Brasil já usam IA",
-      "resumo": "Pesquisa mostra que 18% das instituições brasileiras já usam IA, sobretudo em tarefas administrativas e de processos.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/edicao34/"
-    },
-    {
-      "titulo": "Nature Medicine: IA de decisão em pronto-socorro é segura, mas adesão cai com o tempo",
-      "resumo": "Estudo em pronto-socorro mostrou integração segura de um LLM, mas com queda de uso ao longo de quatro semanas.",
+      "titulo": "Nature Medicine propõe ensaios clínicos para sistemas de IA que se atualizam sozinhos",
+      "resumo": "Artigo discute como desenhar ensaios para modelos clínicos que mudam depois da aprovação e exigem monitoramento contínuo.",
       "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04601-5"
+      "link": "https://www.nature.com/articles/s41591-026-04368-9"
     },
     {
-      "titulo": "Nature Medicine: modelos generalistas superam ferramentas clínicas especializadas de IA",
-      "resumo": "LLMs de fronteira superaram ferramentas clínicas dedicadas em benchmarks médicos, reacendendo o debate generalista x especialista.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04431-5"
-    },
-    {
-      "titulo": "Google anuncia financiamento para projetos de saúde digital com IA",
-      "resumo": "Google financia projetos de saúde digital com IA, reforçando a aposta das big techs num setor que já capta bilhões.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/google-announces-funding-ai-enabled-digital-health-projects"
-    },
-    {
-      "titulo": "Eric Topol: a IA agêntica chega à medicina",
-      "resumo": "Topol descreve IA agêntica que une um agente de diálogo rápido a um agente de raciocínio lento e profundo.",
+      "titulo": "Eric Topol debate o complexo industrial do bem-estar com Deborah Cohen",
+      "resumo": "Conversa aborda a armadilha de tratar pessoas saudáveis como doentes até prova em contrário, movida por exames e rastreios.",
       "veiculo": "Ground Truths",
-      "link": "https://erictopol.substack.com/p/agentic-ai-comes-to-medicine"
+      "link": "https://erictopol.substack.com/p/deborah-cohen-the-wellness-industrial"
     }
   ]
 }
