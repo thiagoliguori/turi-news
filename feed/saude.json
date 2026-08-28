@@ -1,49 +1,49 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-08-27",
-  "geradoEm": "2026-08-27T11:18:03-03:00",
+  "data": "2026-08-28",
+  "geradoEm": "2026-08-28T10:01:38-03:00",
   "itens": [
     {
-      "titulo": "Ministério da Saúde inicia migração dos dados do SUS para nuvem soberana",
-      "resumo": "CadSUS e RNDS serão os primeiros sistemas migrados, e os dados passam a ficar em território nacional sob lei brasileira.",
+      "titulo": "CIT aprova Política Nacional de Informação e Saúde Digital e amplia medicamentos no SUS",
+      "resumo": "Política orienta a transformação digital do SUS e nove novos tratamentos entram na rede, com R$ 211 milhões.",
       "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/ministerio-da-saude-inicia-jornada-para-a-nuvem-soberana-do-sus"
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/cit-pactua-politica-nacional-de-informacao-e-saude-digital-e-amplia-oferta-de-medicamentos-no-sus"
     },
     {
-      "titulo": "Anvisa aprova o segundo genérico de semaglutida em caneta injetável",
-      "resumo": "Nova aprovação amplia a concorrência no mercado de canetas para diabetes e obesidade e tende a pressionar os preços.",
+      "titulo": "São Paulo chega a 26 casos de sarampo em 2026",
+      "resumo": "A capital concentra 23 casos e 19 dos infectados não tinham vacinação ou tinham esquema incompleto.",
       "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/anvisa-aprova-segundo-generico-de-semaglutida-em-caneta-injetavel"
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/sao-paulo-chega-26-casos-de-sarampo-em-2026"
     },
     {
-      "titulo": "Vila Nova Star é o primeiro hospital do país com o sistema Mako completo",
-      "resumo": "Hospital da Rede D'Or passa a oferecer as três aplicações do robô ortopédico: quadril, joelho total e joelho parcial.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/10/08/2026/vila-nova-star-amplia-ortopedia-com-primeiro-sistema-mako-completo-do-pais/"
-    },
-    {
-      "titulo": "Tabagismo é maior entre jovens de 16 a 24 anos, aponta pesquisa",
-      "resumo": "Estudo do A.C. Camargo com 2 mil pessoas mostra 19% de fumantes entre jovens, acima da média nacional de 17%.",
+      "titulo": "Anvisa e Roche cancelam o registro do Elevidys no Brasil",
+      "resumo": "Terapia gênica para distrofia de Duchenne perde o registro condicional após dados de segurança considerados insuficientes.",
       "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/tabagismo-e-maior-entre-jovens-de-16-24-anos-alerta-pesquisa"
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/anvisa-e-roche-cancelam-registro-de-elevidys-para-doenca-rara"
     },
     {
-      "titulo": "Mais Médicos Especialistas prorroga a atuação de 676 profissionais no SUS",
-      "resumo": "Prorrogação vale até fevereiro de 2027 e depende de desempenho; 52% dos especialistas atuam em municípios do interior.",
+      "titulo": "Pediatras alertam para o uso de canetas emagrecedoras em crianças e adolescentes",
+      "resumo": "SBP aponta risco de déficit de crescimento, perda muscular, pancreatite e transtornos alimentares no uso estético de GLP-1.",
       "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/saude-estende-atuacao-de-676-medicos-especialistas-no-sus"
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/canetas-emagrecedoras-pediatras-alertam-para-risco-de-uso-em-criancas"
     },
     {
-      "titulo": "Ministério da Saúde cria programa nacional de vigilância de mortes ligadas ao trabalho",
-      "resumo": "Portaria institui o PVTT, que obriga o SUS a investigar em até 180 dias os óbitos relacionados ao trabalho.",
+      "titulo": "SUS passa a oferecer teleatendimento psicológico a mulheres em situação de violência",
+      "resumo": "Serviço gratuito pelo app Acolhe Mais no Meu SUS Digital prevê até 100 mil consultas por mês.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/sus-mulheres-em-situacao-de-violencia-tem-teleatendimento-psicologico"
+    },
+    {
+      "titulo": "Ministério da Saúde apresenta plano de preparação para o El Niño 2026-2027",
+      "resumo": "Plano prevê salas de situação, kits emergenciais e Força Nacional do SUS mobilizada em até 48 horas.",
       "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/ministerio-da-saude-institui-programa-nacional-para-prevenir-e-reduzir-mortes-relacionadas-ao-trabalho"
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/ministerio-da-saude-apresenta-a-secretarios-estaduais-plano-de-preparacao-para-o-el-nino-2026-2027"
     },
     {
-      "titulo": "Febre do Nilo Ocidental: quatro casos confirmados e um óbito no Brasil",
-      "resumo": "São Paulo e Santa Catarina confirmam casos, com uma morte; cerca de 80% dos infectados não apresentam sintomas.",
+      "titulo": "Distribuição de medicamentos para esclerose múltipla cresce no SUS",
+      "resumo": "Estudo com 1,7 milhão de registros mostra alta de 44,5% no natalizumabe e 25,9% mais pacientes em tratamento.",
       "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/febre-do-nilo-ocidental-nao-ha-motivo-para-panico-diz-medico"
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/distribuicao-de-medicamentos-para-esclerose-multipla-aumentou"
     }
   ]
 }
