@@ -1,49 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-08-27",
-  "geradoEm": "2026-08-27T12:23:26-03:00",
+  "data": "2026-08-28",
+  "geradoEm": "2026-08-28T10:01:46-03:00",
   "itens": [
     {
-      "titulo": "AMA e artigo da JAMA divergem sobre o futuro papel do médico diante da IA",
-      "resumo": "Novo framework da AMA mantém o médico no comando, enquanto artigo da JAMA questiona se o híbrido médico-IA é o melhor modelo.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/ai-advances-debate-grows-over-future-role-physicians"
+      "titulo": "FDA abre consulta pública sobre como regular dispositivos médicos com IA generativa",
+      "resumo": "Agência recebe contribuições até 19 de outubro sobre risco, avaliação pré-mercado e monitoramento desses dispositivos.",
+      "veiculo": "FDA",
+      "link": "https://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices"
     },
     {
-      "titulo": "Grandes sistemas de saúde adotam chatbots de IA para consultar prontuários",
-      "resumo": "Hospitais americanos liberam chatbots que leem o prontuário para poupar tempo do médico e melhorar a acurácia diagnóstica.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/08/20/health-systems-embrace-ai-chatbots-query-patient-records-ehr/"
-    },
-    {
-      "titulo": "Pagamento extra do Medicare por dispositivos de IA acende alerta de uso excessivo",
-      "resumo": "Pesquisadores alertam que o incentivo financeiro pode estimular hospitais a usar dispositivos de IA sem necessidade clínica.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/08/13/how-medicare-cms-pays-ntap-for-new-ai-medical-devices/"
-    },
-    {
-      "titulo": "Atlantic Health e K Health colocam o PatientGPT dentro do MyChart",
-      "resumo": "IA usa o prontuário do paciente no portal Epic para orientar e agendar consulta virtual no mesmo dia.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/atlantic-health-k-health-launch-patientgpt-integrated-mychart"
-    },
-    {
-      "titulo": "Suki lança ditado por IA nativo dentro do Epic e do Meditech",
-      "resumo": "Ferramenta transcreve a fala palavra por palavra no prontuário e convive com a escuta ambiente na mesma plataforma.",
+      "titulo": "Maioria dos americanos quer que o médico avise quando usar IA, aponta Pew",
+      "resumo": "Pesquisa com 3.488 adultos mostra que 80% querem ser informados quando a IA interpreta exames ou faz diagnóstico.",
       "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/suki-launches-ai-dictation-tool-with-ehr-integration-capabilities/828837/"
+      "link": "https://www.healthcaredive.com/news/most-americans-want-providers-disclose-ai-use-survey-pew/828921/"
     },
     {
-      "titulo": "Nature Medicine propõe ensaios clínicos para sistemas de IA que se atualizam sozinhos",
-      "resumo": "Artigo discute como desenhar ensaios para modelos clínicos que mudam depois da aprovação e exigem monitoramento contínuo.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04368-9"
+      "titulo": "Epic lança Ergo Visit, IA que conduz o médico ao longo da consulta ambulatorial",
+      "resumo": "Ferramenta resume o prontuário antes, durante e depois do atendimento e já roda na Ochsner Health.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://www.healthcaredive.com/news/epic-targets-outpatient-visits-with-new-ai-tool/828230/"
     },
     {
-      "titulo": "Eric Topol debate o complexo industrial do bem-estar com Deborah Cohen",
-      "resumo": "Conversa aborda a armadilha de tratar pessoas saudáveis como doentes até prova em contrário, movida por exames e rastreios.",
-      "veiculo": "Ground Truths",
-      "link": "https://erictopol.substack.com/p/deborah-cohen-the-wellness-industrial"
+      "titulo": "Epic amplia aposta em IA com plataforma de agentes e previsões baseadas no Cosmos",
+      "resumo": "Agent Factory deixa o hospital criar agentes sem código e o Cosmos passa a prever reinternação e risco clínico.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/health-tech/epic-expands-ai-ambitions-agent-platform-cosmos-powered-predictions-and-deeper-workflow"
+    },
+    {
+      "titulo": "STAT alerta para o sistema médico paralelo criado pela IA",
+      "resumo": "Autores de Harvard argumentam que pacientes se autodiagnosticam com IA fora do consultório, sem responsabilidade clínica definida.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/08/19/ai-doctor-outperforms-chatgpt-oura-quest-ro-hims-medical-system/"
+    },
+    {
+      "titulo": "Francisco Partners compra a Weave Communications por US$ 650 milhões",
+      "resumo": "Plataforma de engajamento e pagamentos com IA para clínicas fecha capital, em nova rodada de consolidação do setor.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/weave-communications-be-acquired-francisco-partners-650m"
+    },
+    {
+      "titulo": "Daphne Koller, da Insitro, fala em usar IA para acelerar ensaios clínicos",
+      "resumo": "CEO da biotech de IA defende modelos de prognóstico para selecionar pacientes e encurtar o tempo dos estudos.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/08/26/biotech-insitro-ceo-daphne-koller-speeding-up-clinical-trials-ai-prognosis/"
     }
   ]
 }
