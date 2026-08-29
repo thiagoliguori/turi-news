@@ -1,49 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-08-28",
-  "geradoEm": "2026-08-28T10:01:46-03:00",
+  "data": "2026-08-29",
+  "geradoEm": "2026-08-29T10:43:03-03:00",
   "itens": [
     {
-      "titulo": "FDA abre consulta pública sobre como regular dispositivos médicos com IA generativa",
-      "resumo": "Agência recebe contribuições até 19 de outubro sobre risco, avaliação pré-mercado e monitoramento desses dispositivos.",
-      "veiculo": "FDA",
-      "link": "https://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices"
+      "titulo": "Dos 1.357 dispositivos com IA liberados pelo FDA, só 3 foram testados em desfechos de pacientes",
+      "resumo": "Análise mostra que apenas 2,5% tiveram ensaio prospectivo registrado e 0,2% mediram mortalidade, morbidade ou reinternação.",
+      "veiculo": "PLOS Digital Health",
+      "link": "https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001597"
     },
     {
-      "titulo": "Maioria dos americanos quer que o médico avise quando usar IA, aponta Pew",
-      "resumo": "Pesquisa com 3.488 adultos mostra que 80% querem ser informados quando a IA interpreta exames ou faz diagnóstico.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/most-americans-want-providers-disclose-ai-use-survey-pew/828921/"
-    },
-    {
-      "titulo": "Epic lança Ergo Visit, IA que conduz o médico ao longo da consulta ambulatorial",
-      "resumo": "Ferramenta resume o prontuário antes, durante e depois do atendimento e já roda na Ochsner Health.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/epic-targets-outpatient-visits-with-new-ai-tool/828230/"
-    },
-    {
-      "titulo": "Epic amplia aposta em IA com plataforma de agentes e previsões baseadas no Cosmos",
-      "resumo": "Agent Factory deixa o hospital criar agentes sem código e o Cosmos passa a prever reinternação e risco clínico.",
+      "titulo": "Emanuel e Khosla defendem na JAMA que IA autônoma pode superar o médico assistido por IA",
+      "resumo": "Autores citam cinco tarefas cognitivas em que modelos já empatam ou vencem médicos e projetam uso real até 2030.",
       "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/health-tech/epic-expands-ai-ambitions-agent-platform-cosmos-powered-predictions-and-deeper-workflow"
+      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/ai-advances-debate-grows-over-future-role-physicians"
     },
     {
-      "titulo": "STAT alerta para o sistema médico paralelo criado pela IA",
-      "resumo": "Autores de Harvard argumentam que pacientes se autodiagnosticam com IA fora do consultório, sem responsabilidade clínica definida.",
+      "titulo": "Suporte à decisão com LLM é seguro no pronto-socorro, mas o uso cai em quatro semanas",
+      "resumo": "Estudo prospectivo em emergência terciária mostra integração segura e adoção clínica em queda constante ao longo do piloto.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/articles/s41591-026-04601-5"
+    },
+    {
+      "titulo": "Dois terços dos médicos já usam IA toda semana e querem parte do ganho, diz Doximity",
+      "resumo": "Mais de 40% acham que devem ficar com a economia gerada e 42% temem cobrança maior por produtividade.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://www.healthcaredive.com/news/physicians-say-they-should-benefit-financially-from-ais-time-savings-doximity/829046/"
+    },
+    {
+      "titulo": "FDA promete guias regulatórios para dispositivos com IA generativa",
+      "resumo": "Rick Abramson, chefe de política de saúde digital da agência, diz que orientações formais estão a caminho.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/08/19/ai-doctor-outperforms-chatgpt-oura-quest-ro-hims-medical-system/"
+      "link": "https://www.statnews.com/2026/08/24/fda-rick-abramson-generative-ai-guidances-are-coming/"
     },
     {
-      "titulo": "Francisco Partners compra a Weave Communications por US$ 650 milhões",
-      "resumo": "Plataforma de engajamento e pagamentos com IA para clínicas fecha capital, em nova rodada de consolidação do setor.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/weave-communications-be-acquired-francisco-partners-650m"
+      "titulo": "Abbott e Google integram sensor de glicose ao app de saúde com coach de IA",
+      "resumo": "Dados do Lingo entram no Google Health app e alimentam recomendações personalizadas e um grande estudo metabólico.",
+      "veiculo": "MedTech Dive",
+      "link": "https://www.medtechdive.com/news/abbott-google-to-combine-glucose-data-with-ai-coaching/827680/"
     },
     {
-      "titulo": "Daphne Koller, da Insitro, fala em usar IA para acelerar ensaios clínicos",
-      "resumo": "CEO da biotech de IA defende modelos de prognóstico para selecionar pacientes e encurtar o tempo dos estudos.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/08/26/biotech-insitro-ceo-daphne-koller-speeding-up-clinical-trials-ai-prognosis/"
+      "titulo": "Ant Group transforma plataforma médica em estação de trabalho com IA na China",
+      "resumo": "AQ for Doctor reúne 300 mil médicos verificados e abre a hospitais a operação de seus próprios serviços online.",
+      "veiculo": "Computer Weekly",
+      "link": "https://www.computerweekly.com/news/366648877/Ant-Group-debuts-physician-platform-to-support-patient-care"
     }
   ]
 }
