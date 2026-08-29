@@ -1,49 +1,49 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-08-28",
-  "geradoEm": "2026-08-28T10:01:38-03:00",
+  "data": "2026-08-29",
+  "geradoEm": "2026-08-29T10:42:56-03:00",
   "itens": [
     {
-      "titulo": "CIT aprova Política Nacional de Informação e Saúde Digital e amplia medicamentos no SUS",
-      "resumo": "Política orienta a transformação digital do SUS e nove novos tratamentos entram na rede, com R$ 211 milhões.",
+      "titulo": "Resolução do CFM sobre IA na medicina entra em vigor cercada de dúvidas",
+      "resumo": "Norma exige registro do uso de IA em prontuário e aviso ao paciente, mas clínicas menores relatam despreparo.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/resolucao-cfm-inteligencia-artificial/"
+    },
+    {
+      "titulo": "Entidades de hospitais vão à Justiça para suspender a resolução de IA do CFM",
+      "resumo": "CNSaúde, Fenaess e sindicato brasiliense alegam violação de dez dispositivos legais e pedem suspensão urgente da norma.",
+      "veiculo": "APM",
+      "link": "https://www.apm.org.br/acao-judicial-tenta-suspender-novas-regras-do-cfm-para-inteligencia-artificial-na-medicina/"
+    },
+    {
+      "titulo": "Saúde inicia migração dos dados do SUS para nuvem nacional",
+      "resumo": "CadSUS e RNDS, com mais de 5 bilhões de registros, passam a ser processados em território brasileiro.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/saude-inicia-migracao-de-dados-do-sus-para-nuvem-nacional"
+    },
+    {
+      "titulo": "Anvisa atualiza regras de controle de qualidade em laboratórios",
+      "resumo": "Laboratórios terão um ano para adotar a norma ISO 17025 e boas práticas da OMS nos ensaios.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/anvisa-atualiza-regras-sobre-controle-de-qualidade-em-laboratorios"
+    },
+    {
+      "titulo": "Nova diretriz muda o tratamento da tireoide na gestação",
+      "resumo": "Grávidas com anti-TPO positivo e função normal deixam de receber levotiroxina preventiva, mas o rastreio universal segue.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/nova-diretriz-muda-tratamento-da-tireoide-na-gestacao"
+    },
+    {
+      "titulo": "Demora no diagnóstico agrava a esclerose múltipla, alerta associação",
+      "resumo": "Cerca de um quarto dos pacientes leva mais de cinco anos para receber o diagnóstico da doença.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/demora-no-diagnostico-agrava-esclerose-multipla-alerta-associacao"
+    },
+    {
+      "titulo": "Ministério da Saúde abre seleção do PET Saúde para inovação digital no SUS",
+      "resumo": "Institutos federais podem inscrever projetos de pesquisa e inovação em saúde digital até 8 de setembro.",
       "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/cit-pactua-politica-nacional-de-informacao-e-saude-digital-e-amplia-oferta-de-medicamentos-no-sus"
-    },
-    {
-      "titulo": "São Paulo chega a 26 casos de sarampo em 2026",
-      "resumo": "A capital concentra 23 casos e 19 dos infectados não tinham vacinação ou tinham esquema incompleto.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/sao-paulo-chega-26-casos-de-sarampo-em-2026"
-    },
-    {
-      "titulo": "Anvisa e Roche cancelam o registro do Elevidys no Brasil",
-      "resumo": "Terapia gênica para distrofia de Duchenne perde o registro condicional após dados de segurança considerados insuficientes.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/anvisa-e-roche-cancelam-registro-de-elevidys-para-doenca-rara"
-    },
-    {
-      "titulo": "Pediatras alertam para o uso de canetas emagrecedoras em crianças e adolescentes",
-      "resumo": "SBP aponta risco de déficit de crescimento, perda muscular, pancreatite e transtornos alimentares no uso estético de GLP-1.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/canetas-emagrecedoras-pediatras-alertam-para-risco-de-uso-em-criancas"
-    },
-    {
-      "titulo": "SUS passa a oferecer teleatendimento psicológico a mulheres em situação de violência",
-      "resumo": "Serviço gratuito pelo app Acolhe Mais no Meu SUS Digital prevê até 100 mil consultas por mês.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/sus-mulheres-em-situacao-de-violencia-tem-teleatendimento-psicologico"
-    },
-    {
-      "titulo": "Ministério da Saúde apresenta plano de preparação para o El Niño 2026-2027",
-      "resumo": "Plano prevê salas de situação, kits emergenciais e Força Nacional do SUS mobilizada em até 48 horas.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/ministerio-da-saude-apresenta-a-secretarios-estaduais-plano-de-preparacao-para-o-el-nino-2026-2027"
-    },
-    {
-      "titulo": "Distribuição de medicamentos para esclerose múltipla cresce no SUS",
-      "resumo": "Estudo com 1,7 milhão de registros mostra alta de 44,5% no natalizumabe e 25,9% mais pacientes em tratamento.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/distribuicao-de-medicamentos-para-esclerose-multipla-aumentou"
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/ministerio-da-saude-lanca-nova-selecao-do-pet-saude-para-ampliar-pesquisa-e-inovacao-em-saude-digital-no-sus"
     }
   ]
 }
