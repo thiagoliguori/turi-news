@@ -1,49 +1,49 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-08-29",
-  "geradoEm": "2026-08-29T10:42:56-03:00",
+  "data": "2026-08-30",
+  "geradoEm": "2026-08-30T10:19:57-03:00",
   "itens": [
     {
-      "titulo": "Resolução do CFM sobre IA na medicina entra em vigor cercada de dúvidas",
-      "resumo": "Norma exige registro do uso de IA em prontuário e aviso ao paciente, mas clínicas menores relatam despreparo.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/resolucao-cfm-inteligencia-artificial/"
-    },
-    {
-      "titulo": "Entidades de hospitais vão à Justiça para suspender a resolução de IA do CFM",
-      "resumo": "CNSaúde, Fenaess e sindicato brasiliense alegam violação de dez dispositivos legais e pedem suspensão urgente da norma.",
-      "veiculo": "APM",
-      "link": "https://www.apm.org.br/acao-judicial-tenta-suspender-novas-regras-do-cfm-para-inteligencia-artificial-na-medicina/"
-    },
-    {
-      "titulo": "Saúde inicia migração dos dados do SUS para nuvem nacional",
-      "resumo": "CadSUS e RNDS, com mais de 5 bilhões de registros, passam a ser processados em território brasileiro.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/saude-inicia-migracao-de-dados-do-sus-para-nuvem-nacional"
-    },
-    {
-      "titulo": "Anvisa atualiza regras de controle de qualidade em laboratórios",
-      "resumo": "Laboratórios terão um ano para adotar a norma ISO 17025 e boas práticas da OMS nos ensaios.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/anvisa-atualiza-regras-sobre-controle-de-qualidade-em-laboratorios"
-    },
-    {
-      "titulo": "Nova diretriz muda o tratamento da tireoide na gestação",
-      "resumo": "Grávidas com anti-TPO positivo e função normal deixam de receber levotiroxina preventiva, mas o rastreio universal segue.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/nova-diretriz-muda-tratamento-da-tireoide-na-gestacao"
-    },
-    {
-      "titulo": "Demora no diagnóstico agrava a esclerose múltipla, alerta associação",
-      "resumo": "Cerca de um quarto dos pacientes leva mais de cinco anos para receber o diagnóstico da doença.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/demora-no-diagnostico-agrava-esclerose-multipla-alerta-associacao"
-    },
-    {
-      "titulo": "Ministério da Saúde abre seleção do PET Saúde para inovação digital no SUS",
-      "resumo": "Institutos federais podem inscrever projetos de pesquisa e inovação em saúde digital até 8 de setembro.",
+      "titulo": "SUS contrata 259 hospitais privados para 600 mil cirurgias e exames",
+      "resumo": "Programa Agora Tem Especialistas atua em 21 estados com R$ 1 bilhão em créditos fiscais formalizados.",
       "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/ministerio-da-saude-lanca-nova-selecao-do-pet-saude-para-ampliar-pesquisa-e-inovacao-em-saude-digital-no-sus"
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/pacientes-do-sus-serao-atendidos-por-hospitais-particulares-para-a-realizacao-de-600-mil-cirurgias-e-exames"
+    },
+    {
+      "titulo": "Mais Médicos Especialistas prorroga atuação de 676 profissionais até fevereiro de 2027",
+      "resumo": "Cerca de 52% dos médicos seguem lotados em municípios do interior do país.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/saude-estende-atuacao-de-676-medicos-especialistas-no-sus"
+    },
+    {
+      "titulo": "São Paulo chega a 26 casos de sarampo em 2026",
+      "resumo": "Três novas infecções na capital ocorreram entre pessoas não vacinadas e a campanha nas cidades afetadas vai até 1º de setembro.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/sao-paulo-chega-26-casos-de-sarampo-em-2026"
+    },
+    {
+      "titulo": "Tabagismo é maior entre jovens de 16 a 24 anos, aponta pesquisa",
+      "resumo": "Levantamento do A.C. Camargo mostra 19% de fumantes ativos nessa faixa, acima da média nacional de 17%.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/tabagismo-e-maior-entre-jovens-de-16-24-anos-alerta-pesquisa"
+    },
+    {
+      "titulo": "Brasil aprova política nacional de saúde integral para a população quilombola",
+      "resumo": "PNASQ alcança cerca de 1,3 milhão de pessoas e prevê ações compartilhadas entre União, estados e municípios.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/populacao-quilombola-passa-a-contar-com-politica-nacional-de-saude-integral"
+    },
+    {
+      "titulo": "Maioria dos americanos quer saber quando o médico usa IA no atendimento",
+      "resumo": "Pesquisa Pew mostra que três em cada quatro adultos consideram essencial ser avisados sobre o uso da tecnologia.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://www.healthcaredive.com/news/most-americans-want-providers-disclose-ai-use-survey-pew/828921/"
+    },
+    {
+      "titulo": "Lacunas de dados e governança travam a expansão da IA na saúde",
+      "resumo": "Relatório da Cloudera aponta acesso a dados, governança e infraestrutura como principais barreiras para escalar projetos.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/18/08/2026/ambicoes-relacionadas-a-ia-na-area-da-saude-estao-ameacadas-por-lacunas-criticas-no-acesso-aos-dados-e-na-governanca-mostra-relatorio-da-cloudera/"
     }
   ]
 }
