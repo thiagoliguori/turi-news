@@ -1,49 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-08-29",
-  "geradoEm": "2026-08-29T10:43:03-03:00",
+  "data": "2026-08-30",
+  "geradoEm": "2026-08-30T10:20:04-03:00",
   "itens": [
     {
-      "titulo": "Dos 1.357 dispositivos com IA liberados pelo FDA, só 3 foram testados em desfechos de pacientes",
-      "resumo": "Análise mostra que apenas 2,5% tiveram ensaio prospectivo registrado e 0,2% mediram mortalidade, morbidade ou reinternação.",
-      "veiculo": "PLOS Digital Health",
-      "link": "https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001597"
-    },
-    {
-      "titulo": "Emanuel e Khosla defendem na JAMA que IA autônoma pode superar o médico assistido por IA",
-      "resumo": "Autores citam cinco tarefas cognitivas em que modelos já empatam ou vencem médicos e projetam uso real até 2030.",
+      "titulo": "Epic amplia aposta em IA com fábrica de agentes e previsões do Cosmos",
+      "resumo": "No encontro anual de usuários, a empresa apresentou o Agent Factory, a interface clínica Ergo e o Cosmos Curiosity.",
       "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/ai-advances-debate-grows-over-future-role-physicians"
+      "link": "https://www.fiercehealthcare.com/health-tech/epic-expands-ai-ambitions-agent-platform-cosmos-powered-predictions-and-deeper-workflow"
     },
     {
-      "titulo": "Suporte à decisão com LLM é seguro no pronto-socorro, mas o uso cai em quatro semanas",
-      "resumo": "Estudo prospectivo em emergência terciária mostra integração segura e adoção clínica em queda constante ao longo do piloto.",
+      "titulo": "Revisão encontra 4.609 estudos de LLM em medicina e apenas 19 ensaios randomizados",
+      "resumo": "Levantamento mostra que a maioria dos trabalhos usa cenários simulados ou questões de prova, não dados reais de pacientes.",
       "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04601-5"
+      "link": "https://www.nature.com/articles/s41591-026-04229-5"
     },
     {
-      "titulo": "Dois terços dos médicos já usam IA toda semana e querem parte do ganho, diz Doximity",
-      "resumo": "Mais de 40% acham que devem ficar com a economia gerada e 42% temem cobrança maior por produtividade.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/physicians-say-they-should-benefit-financially-from-ais-time-savings-doximity/829046/"
+      "titulo": "ECRI passa a receber relatos de erros e falhas de IA em serviços de saúde",
+      "resumo": "Rede nacional de notificação nos EUA agora inclui saídas incorretas e comportamento inseguro de sistemas em uso clínico.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-ecri-expands-reporting-network-include-ai-errors-american-nurses"
     },
     {
-      "titulo": "FDA promete guias regulatórios para dispositivos com IA generativa",
-      "resumo": "Rick Abramson, chefe de política de saúde digital da agência, diz que orientações formais estão a caminho.",
+      "titulo": "FDA abre consulta pública sobre dispositivos médicos com IA generativa",
+      "resumo": "Agência publicou documento de discussão e recebe contribuições até 19 de outubro para desenhar o marco regulatório.",
+      "veiculo": "FDA",
+      "link": "https://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices"
+    },
+    {
+      "titulo": "CMS prepara lançamento do ACCESS, piloto de cuidado crônico do Medicare",
+      "resumo": "Modelo de dez anos remunera desfechos em condições como hipertensão, diabetes, dor musculoesquelética e depressão.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/08/24/fda-rick-abramson-generative-ai-guidances-are-coming/"
+      "link": "https://www.statnews.com/2026/08/27/cms-plans-launch-event-access-medicare-pilot-health-tech/"
     },
     {
-      "titulo": "Abbott e Google integram sensor de glicose ao app de saúde com coach de IA",
-      "resumo": "Dados do Lingo entram no Google Health app e alimentam recomendações personalizadas e um grande estudo metabólico.",
-      "veiculo": "MedTech Dive",
-      "link": "https://www.medtechdive.com/news/abbott-google-to-combine-glucose-data-with-ai-coaching/827680/"
+      "titulo": "Daphne Koller discute como a IA pode encurtar os ensaios clínicos",
+      "resumo": "CEO da Insitro explica no podcast da STAT onde modelos de IA já aceleram o desenvolvimento de medicamentos.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/08/26/biotech-insitro-ceo-daphne-koller-speeding-up-clinical-trials-ai-prognosis/"
     },
     {
-      "titulo": "Ant Group transforma plataforma médica em estação de trabalho com IA na China",
-      "resumo": "AQ for Doctor reúne 300 mil médicos verificados e abre a hospitais a operação de seus próprios serviços online.",
-      "veiculo": "Computer Weekly",
-      "link": "https://www.computerweekly.com/news/366648877/Ant-Group-debuts-physician-platform-to-support-patient-care"
+      "titulo": "Bioptimus e Cancer Research Horizons firmam parceria para modelo de IA em câncer",
+      "resumo": "Acordo dá acesso a dados de mais de 1.750 pacientes com câncer colorretal de oito ensaios clínicos britânicos.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/bioptimus-cancer-research-horizons-partner-ai-cancer-model"
     }
   ]
 }
