@@ -1,49 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-08-30",
-  "geradoEm": "2026-08-30T10:20:04-03:00",
+  "data": "2026-09-01",
+  "geradoEm": "2026-09-01T08:10:52-03:00",
   "itens": [
     {
-      "titulo": "Epic amplia aposta em IA com fábrica de agentes e previsões do Cosmos",
-      "resumo": "No encontro anual de usuários, a empresa apresentou o Agent Factory, a interface clínica Ergo e o Cosmos Curiosity.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/health-tech/epic-expands-ai-ambitions-agent-platform-cosmos-powered-predictions-and-deeper-workflow"
+      "titulo": "Enfermeiros pedem assento à mesa nas decisões sobre IA clínica",
+      "resumo": "Categoria se organiza contra vigilância algorítmica e substituição de postos em hospitais nos Estados Unidos.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/08/11/nurses-seek-involvement-clinical-ai-decisions/"
     },
     {
-      "titulo": "Revisão encontra 4.609 estudos de LLM em medicina e apenas 19 ensaios randomizados",
-      "resumo": "Levantamento mostra que a maioria dos trabalhos usa cenários simulados ou questões de prova, não dados reais de pacientes.",
+      "titulo": "FDA promete nova orientação sobre IA e Epic apresenta novidades no encontro anual",
+      "resumo": "Agência sinaliza regras adicionais para dispositivos com IA enquanto a Epic detalha sua agenda de produtos.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/08/25/fda-promises-new-ai-guidance-and-epic-ugm-updates/"
+    },
+    {
+      "titulo": "Estudo cria método clínico para auditar chatbots de IA em saúde mental",
+      "resumo": "Avaliação de 810 conversas indica que os modelos tendem a amplificar vulnerabilidades psicológicas dos usuários simulados.",
       "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04229-5"
+      "link": "https://www.nature.com/articles/s41591-026-04577-2"
     },
     {
-      "titulo": "ECRI passa a receber relatos de erros e falhas de IA em serviços de saúde",
-      "resumo": "Rede nacional de notificação nos EUA agora inclui saídas incorretas e comportamento inseguro de sistemas em uso clínico.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-ecri-expands-reporting-network-include-ai-errors-american-nurses"
+      "titulo": "Ensaios clínicos precisam se adaptar a sistemas de IA atualizados continuamente",
+      "resumo": "Artigo propõe desenhos de estudo compatíveis com modelos que mudam depois de entrarem no fluxo assistencial.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/articles/s41591-026-04368-9"
     },
     {
-      "titulo": "FDA abre consulta pública sobre dispositivos médicos com IA generativa",
-      "resumo": "Agência publicou documento de discussão e recebe contribuições até 19 de outubro para desenhar o marco regulatório.",
-      "veiculo": "FDA",
-      "link": "https://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices"
+      "titulo": "Suki lança ferramenta de ditado com IA integrada ao prontuário eletrônico",
+      "resumo": "Produto amplia a disputa no mercado de documentação clínica automatizada nos Estados Unidos.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://www.healthcaredive.com/news/suki-launches-ai-dictation-tool-with-ehr-integration-capabilities/828837/"
     },
     {
-      "titulo": "CMS prepara lançamento do ACCESS, piloto de cuidado crônico do Medicare",
-      "resumo": "Modelo de dez anos remunera desfechos em condições como hipertensão, diabetes, dor musculoesquelética e depressão.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/08/27/cms-plans-launch-event-access-medicare-pilot-health-tech/"
+      "titulo": "Sword Health anuncia acordo para comprar a Headspace",
+      "resumo": "Empresa de fisioterapia digital soma saúde mental ao portfólio em uma das maiores fusões do setor no ano.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://www.healthcaredive.com/news/sword-health-to-acquire-headspace/828873/"
     },
     {
-      "titulo": "Daphne Koller discute como a IA pode encurtar os ensaios clínicos",
-      "resumo": "CEO da Insitro explica no podcast da STAT onde modelos de IA já aceleram o desenvolvimento de medicamentos.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/08/26/biotech-insitro-ceo-daphne-koller-speeding-up-clinical-trials-ai-prognosis/"
-    },
-    {
-      "titulo": "Bioptimus e Cancer Research Horizons firmam parceria para modelo de IA em câncer",
-      "resumo": "Acordo dá acesso a dados de mais de 1.750 pacientes com câncer colorretal de oito ensaios clínicos britânicos.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/bioptimus-cancer-research-horizons-partner-ai-cancer-model"
+      "titulo": "Eric Topol analisa dois estudos que desafiam dogmas sobre células imunes do cérebro",
+      "resumo": "Trabalhos independentes reposicionam o papel da microglia no envelhecimento cerebral e abrem caminhos terapêuticos.",
+      "veiculo": "Ground Truths",
+      "link": "https://erictopol.substack.com/p/two-landmark-studies-challenge-dogma"
     }
   ]
 }
