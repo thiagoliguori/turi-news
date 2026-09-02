@@ -1,49 +1,79 @@
 {
-  "fonte": "A saúde em News",
-  "data": "2026-09-01",
-  "geradoEm": "2026-09-01T08:10:47-03:00",
+  "fonte": "A Saúde em News",
+  "data": "2026-09-02",
+  "geradoEm": "2026-09-02T09:20:30-03:00",
   "itens": [
     {
-      "titulo": "Anvisa aprova nova caneta emagrecedora à base de semaglutida",
-      "resumo": "Agência autoriza mais um produto com semaglutida no Brasil, ampliando as opções de tratamento para obesidade.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/anvisa-aprova-nova-caneta-emagrecedora-base-de-semaglutida"
+      "titulo": "SUS terá três novos medicamentos para câncer de pulmão",
+      "resumo": "Ministério da Saúde incorpora brigatinibe, gefitinibe e durvalumabe ao SUS, com oferta a partir de outubro.",
+      "veiculo": "A Tarde",
+      "link": "https://atarde.com.br/saude/cancer-de-pulmao-sus-tera-tres-novos-medicamentos-a-partir-de-outubro-1400366"
     },
     {
-      "titulo": "SUS vai ofertar três novos medicamentos para câncer de pulmão",
-      "resumo": "Distribuição de brigatinibe, gefitinibe e durvalumabe começa em outubro e deve alcançar cerca de 1,9 mil pacientes.",
+      "titulo": "Brasil vai testar a primeira vacina nacional de mRNA em humanos",
+      "resumo": "Vacina de mRNA da Fiocruz recebe aval da Anvisa e pode virar plataforma contra câncer e outras doenças.",
+      "veiculo": "Olhar Digital",
+      "link": "https://olhardigital.com.br/2026/09/02/medicina-e-saude/vacina-de-mrna-da-fiocruz-pode-virar-plataforma-contra-doencas"
+    },
+    {
+      "titulo": "FDA aprova Mounjaro para reduzir risco de infarto e AVC em diabéticos",
+      "resumo": "FDA libera tirzepatida para reduzir risco cardiovascular em adultos com diabetes tipo 2.",
+      "veiculo": "Metrópoles",
+      "link": "https://www.metropoles.com/saude/fda-autoriza-mounjaro-para-reduzir-risco-cardiaco-em-pessoas-com-diabetes"
+    },
+    {
+      "titulo": "Febre das canetas emagrecedoras impulsiona mercado ilegal no Brasil",
+      "resumo": "Quatro em cada cinco canetas vendidas no país seriam ilegais, em mercado de R$ 36,8 bilhões.",
+      "veiculo": "InfoMoney",
+      "link": "https://www.infomoney.com.br/brasil/febre-de-canetas-emagrecedores-impulsiona-mercado-ilegal-e-preocupa-autoridades/"
+    },
+    {
+      "titulo": "Novas 'canetas para músculos' miram sarcopenia e envelhecimento",
+      "resumo": "Mais de 40 substâncias em teste contra a perda de massa muscular do envelhecimento.",
+      "veiculo": "Perfil Brasil",
+      "link": "https://brasil.perfil.com/saude/canetas-para-musculos-novos-medicamentos-buscam-combater-a-perda-de-massa-muscular.phtml"
+    },
+    {
+      "titulo": "UFMG e Embrapii criam o primeiro centro de vacinas e terapias de RNA do Brasil",
+      "resumo": "Centro em BH terá R$ 60 milhões em quatro anos para desenvolver vacinas e terapias de RNA.",
+      "veiculo": "Diário do Comércio",
+      "link": "https://diariodocomercio.com.br/negocios/bh-centro-inedito-vacinas-terapias-rna/"
+    },
+    {
+      "titulo": "Pílula contra câncer de pâncreas é aprovada nos EUA",
+      "resumo": "FDA aprova daraxonrasib, da Revolution Medicines, que quase dobrou a sobrevida na doença.",
+      "veiculo": "CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br/saude/pilula-contra-cancer-de-pancreas-e-aprovada-nos-eua/"
+    },
+    {
+      "titulo": "Hapvida ressuscita a marca NotreDame para disputar o segmento premium",
+      "resumo": "Operadora cria unidade de alta renda com rede de ponta e sistema de reembolso.",
+      "veiculo": "Exame",
+      "link": "https://exame.com/invest/mercados/hapvida-ressuscita-marca-notredame-para-competir-por-segmento-premium-em-sp-e-rj/"
+    },
+    {
+      "titulo": "Healthtechs em alta: investimentos somam R$ 1,79 bilhão e M&As devem continuar",
+      "resumo": "Setor de healthtechs brasileiras retoma fôlego com aportes e expectativa de mais aquisições.",
+      "veiculo": "Exame INSIGHT",
+      "link": "https://exame.com/insight/healthtechs-em-alta-investimentos-somam-r-179-bilhao-e-mas-devem-continuar/"
+    },
+    {
+      "titulo": "BofA dá downgrade duplo na Dasa e vê a Hapvida como 'top pick'",
+      "resumo": "Banco rebaixa a Dasa e elege a Hapvida como preferida, apostando em queda da sinistralidade.",
+      "veiculo": "Brazil Journal",
+      "link": "https://braziljournal.com/saude-bofa-da-downgrade-duplo-na-dasa-e-ve-hapvida-como-top-pick/"
+    },
+    {
+      "titulo": "Após salto no lucro, reajuste dos planos de saúde pode ser menor em 2026",
+      "resumo": "Com queda da sinistralidade, analistas projetam reajustes mais baixos para os planos em 2026.",
+      "veiculo": "CQCS",
+      "link": "https://cqcs.com.br/noticia/apos-salto-no-lucro-dos-planos-de-saude-reajuste-pode-ser-menor-em-2026-preveem-analistas/"
+    },
+    {
+      "titulo": "Campanha Nacional de Multivacinação encerra com mais de 8 milhões de doses",
+      "resumo": "Campanha para menores de 15 anos terminou em 1º de setembro com mais de 8 milhões de doses.",
       "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/sus-vai-ofertar-tres-novos-medicamentos-para-o-tratamento-de-cancer-de-pulmao"
-    },
-    {
-      "titulo": "Pacientes com câncer colorretal têm novo medicamento aprovado pela Anvisa",
-      "resumo": "Registro amplia o arsenal terapêutico para um dos tumores mais frequentes no país.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/pacientes-com-cancer-colorretal-tem-medicamento-aprovado-pela-anvisa"
-    },
-    {
-      "titulo": "Brasil participa de pesquisa inédita que busca a cura da hepatite B",
-      "resumo": "Estudo internacional com centros brasileiros testa estratégias para eliminar o vírus, hoje apenas controlado por medicamentos.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/brasil-participa-de-pesquisa-inedita-que-busca-cura-da-hepatite-b"
-    },
-    {
-      "titulo": "Vacinação é ampliada em comunidades indígenas da Amazônia",
-      "resumo": "Ação leva imunizantes a aldeias de difícil acesso para reduzir lacunas de cobertura na região.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/vacinacao-e-ampliada-em-comunidades-indigenas-da-amazonia"
-    },
-    {
-      "titulo": "Médicos querem participar dos ganhos financeiros gerados pela IA",
-      "resumo": "Pesquisa da Doximity mostra que médicos esperam remuneração pelo tempo economizado com ferramentas de inteligência artificial.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/physicians-say-they-should-benefit-financially-from-ais-time-savings-doximity/829046/"
-    },
-    {
-      "titulo": "IA na saúde precisa gerar valor para todo o ecossistema, diz executivo da Doctoralia",
-      "resumo": "No Fórum Saúde Digital, Pedro Prado defendeu foco em retorno sobre investimento na operação e no cuidado.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/05/08/2026/ia-na-saude-precisa-gerar-valor-para-todo-o-ecossistema-defende-executivo-da-doctoralia/"
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/campanha-nacional-de-multivacinacao-encerra-nesta-terca-feira-1o-com-mais-de-8-milhoes-de-doses-aplicadas"
     }
   ]
 }
