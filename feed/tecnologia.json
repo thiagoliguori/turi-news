@@ -1,49 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
   "data": "2026-09-03",
-  "geradoEm": "2026-09-03T08:10:48-03:00",
+  "geradoEm": "2026-09-03T11:09:43-03:00",
   "itens": [
     {
-      "titulo": "FDA libera cockpit cirúrgico da Stryker que usa o headset Vision Pro da Apple",
-      "resumo": "Autorização abre caminho para realidade virtual no centro cirúrgico, com controle de imagens e dados pelo cirurgião.",
+      "titulo": "FDA cria piloto que libera dispositivos com IA generativa antes da autorização formal",
+      "resumo": "Programa TEMPO já aceitou quatro produtos, entre eles os das empresas Cadence e Limbic.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/01/fda-stryker-surgical-cockpit-apple-vr-headset-health-tech/"
+      "link": "https://www.statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/"
     },
     {
-      "titulo": "FDA abre consulta pública sobre como regular dispositivos com IA generativa",
-      "resumo": "Documento discute risco, avaliação pré-mercado e monitoramento de modelos de fundação e sistemas agênticos.",
-      "veiculo": "FDA",
-      "link": "https://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices"
-    },
-    {
-      "titulo": "Estudo testa apoio à decisão com LLM no pronto-socorro e vê adesão cair em quatro semanas",
-      "resumo": "Implantação em emergência terciária foi segura, mas o uso pelos médicos caiu de forma consistente durante o piloto.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04601-5"
-    },
-    {
-      "titulo": "FDA libera IA da Tempus que detecta sinais de hipertensão pulmonar no eletrocardiograma",
-      "resumo": "Software analisa ECG de 12 derivações e é o terceiro produto cardiovascular da empresa autorizado nos Estados Unidos.",
-      "veiculo": "Diagnostic and Interventional Cardiology",
-      "link": "https://www.dicardiology.com/content/fda-clears-ai-product-detects-pulmonary-hypertension-standard-ecgs"
-    },
-    {
-      "titulo": "Daphne Koller, da Insitro, explica como a IA pode acelerar ensaios clínicos",
-      "resumo": "Executiva defende seleção de pacientes guiada por dados para reduzir tempo e custo no desenvolvimento de fármacos.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/08/26/biotech-insitro-ceo-daphne-koller-speeding-up-clinical-trials-ai-prognosis/"
-    },
-    {
-      "titulo": "Ciberataque interrompe a produção de dispositivos da Boston Scientific",
-      "resumo": "Fabricação e processamento de pedidos foram afetados e a empresa não deu prazo para normalizar as operações.",
+      "titulo": "Epic ativa checagem de autorização prévia em tempo real em quatro sistemas de saúde",
+      "resumo": "Nova API mostra ao médico, dentro do prontuário, se o procedimento precisa de aprovação do plano.",
       "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/boston-scientific-says-cyberattack-has-disrupted-product-manufacturing/829151/"
+      "link": "https://www.healthcaredive.com/news/epic-debuts-instant-prior-authorization-checks-at-4-health-systems/828156/"
     },
     {
-      "titulo": "CMS prepara lançamento do ACCESS, piloto de cuidado crônico no Medicare",
-      "resumo": "Programa vai testar modelos digitais de acompanhamento de doenças crônicas dentro do seguro público americano.",
+      "titulo": "Departamento dos Veteranos amplia em até 17 bilhões de dólares o contrato de prontuário com a Oracle",
+      "resumo": "Ajuste eleva o total para cerca de 27 bilhões e pode estender a implantação até 2031.",
+      "veiculo": "Healthcare IT News",
+      "link": "https://www.healthcareitnews.com/news/va-adds-17b-its-federal-ehr-contract-oracle"
+    },
+    {
+      "titulo": "Modelos de linguagem gerais superam ferramentas clínicas especializadas em avaliações médicas",
+      "resumo": "Comparação com GPT-5.2, Gemini 3.1 Pro e Claude Opus 4.6 favoreceu os modelos de propósito geral.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/articles/s41591-026-04431-5"
+    },
+    {
+      "titulo": "Revisão encontra poucos ensaios randomizados sobre modelos de linguagem na prática clínica",
+      "resumo": "De 4.609 estudos analisados, apenas 19 foram ensaios randomizados prospectivos com pacientes reais.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/articles/s41591-026-04229-5"
+    },
+    {
+      "titulo": "McKesson confirma roubo de dados em ataque cibernético via aplicativos de terceiros",
+      "resumo": "Distribuidora diz que o incidente atingiu clientes das áreas oncológica e médico-cirúrgica.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://www.healthcaredive.com/news/mckesson-confirms-data-theft-cyberattack-involving-third-party-apps/829435/"
+    },
+    {
+      "titulo": "Startup de ex-diretor da ARPA-H ataca os gargalos operacionais da IA na biologia",
+      "resumo": "A Transfyr quer resolver problemas simples que travam a aplicação de inteligência artificial na pesquisa biomédica.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/08/27/cms-plans-launch-event-access-medicare-pilot-health-tech/"
+      "link": "https://www.statnews.com/2026/09/02/why-transfyr-tackles-dumb-problems-intersection-bio-ai-prognosis/"
     }
   ]
 }
