@@ -1,79 +1,49 @@
 {
-  "fonte": "A Saúde em News",
-  "data": "2026-09-02",
-  "geradoEm": "2026-09-02T09:20:30-03:00",
+  "fonte": "A saúde em News",
+  "data": "2026-09-03",
+  "geradoEm": "2026-09-03T08:10:41-03:00",
   "itens": [
     {
-      "titulo": "SUS terá três novos medicamentos para câncer de pulmão",
-      "resumo": "Ministério da Saúde incorpora brigatinibe, gefitinibe e durvalumabe ao SUS, com oferta a partir de outubro.",
-      "veiculo": "A Tarde",
-      "link": "https://atarde.com.br/saude/cancer-de-pulmao-sus-tera-tres-novos-medicamentos-a-partir-de-outubro-1400366"
-    },
-    {
-      "titulo": "Brasil vai testar a primeira vacina nacional de mRNA em humanos",
-      "resumo": "Vacina de mRNA da Fiocruz recebe aval da Anvisa e pode virar plataforma contra câncer e outras doenças.",
-      "veiculo": "Olhar Digital",
-      "link": "https://olhardigital.com.br/2026/09/02/medicina-e-saude/vacina-de-mrna-da-fiocruz-pode-virar-plataforma-contra-doencas"
-    },
-    {
-      "titulo": "FDA aprova Mounjaro para reduzir risco de infarto e AVC em diabéticos",
-      "resumo": "FDA libera tirzepatida para reduzir risco cardiovascular em adultos com diabetes tipo 2.",
-      "veiculo": "Metrópoles",
-      "link": "https://www.metropoles.com/saude/fda-autoriza-mounjaro-para-reduzir-risco-cardiaco-em-pessoas-com-diabetes"
-    },
-    {
-      "titulo": "Febre das canetas emagrecedoras impulsiona mercado ilegal no Brasil",
-      "resumo": "Quatro em cada cinco canetas vendidas no país seriam ilegais, em mercado de R$ 36,8 bilhões.",
-      "veiculo": "InfoMoney",
-      "link": "https://www.infomoney.com.br/brasil/febre-de-canetas-emagrecedores-impulsiona-mercado-ilegal-e-preocupa-autoridades/"
-    },
-    {
-      "titulo": "Novas 'canetas para músculos' miram sarcopenia e envelhecimento",
-      "resumo": "Mais de 40 substâncias em teste contra a perda de massa muscular do envelhecimento.",
-      "veiculo": "Perfil Brasil",
-      "link": "https://brasil.perfil.com/saude/canetas-para-musculos-novos-medicamentos-buscam-combater-a-perda-de-massa-muscular.phtml"
-    },
-    {
-      "titulo": "UFMG e Embrapii criam o primeiro centro de vacinas e terapias de RNA do Brasil",
-      "resumo": "Centro em BH terá R$ 60 milhões em quatro anos para desenvolver vacinas e terapias de RNA.",
-      "veiculo": "Diário do Comércio",
-      "link": "https://diariodocomercio.com.br/negocios/bh-centro-inedito-vacinas-terapias-rna/"
-    },
-    {
-      "titulo": "Pílula contra câncer de pâncreas é aprovada nos EUA",
-      "resumo": "FDA aprova daraxonrasib, da Revolution Medicines, que quase dobrou a sobrevida na doença.",
-      "veiculo": "CNN Brasil",
-      "link": "https://www.cnnbrasil.com.br/saude/pilula-contra-cancer-de-pancreas-e-aprovada-nos-eua/"
-    },
-    {
-      "titulo": "Hapvida ressuscita a marca NotreDame para disputar o segmento premium",
-      "resumo": "Operadora cria unidade de alta renda com rede de ponta e sistema de reembolso.",
-      "veiculo": "Exame",
-      "link": "https://exame.com/invest/mercados/hapvida-ressuscita-marca-notredame-para-competir-por-segmento-premium-em-sp-e-rj/"
-    },
-    {
-      "titulo": "Healthtechs em alta: investimentos somam R$ 1,79 bilhão e M&As devem continuar",
-      "resumo": "Setor de healthtechs brasileiras retoma fôlego com aportes e expectativa de mais aquisições.",
-      "veiculo": "Exame INSIGHT",
-      "link": "https://exame.com/insight/healthtechs-em-alta-investimentos-somam-r-179-bilhao-e-mas-devem-continuar/"
-    },
-    {
-      "titulo": "BofA dá downgrade duplo na Dasa e vê a Hapvida como 'top pick'",
-      "resumo": "Banco rebaixa a Dasa e elege a Hapvida como preferida, apostando em queda da sinistralidade.",
-      "veiculo": "Brazil Journal",
-      "link": "https://braziljournal.com/saude-bofa-da-downgrade-duplo-na-dasa-e-ve-hapvida-como-top-pick/"
-    },
-    {
-      "titulo": "Após salto no lucro, reajuste dos planos de saúde pode ser menor em 2026",
-      "resumo": "Com queda da sinistralidade, analistas projetam reajustes mais baixos para os planos em 2026.",
-      "veiculo": "CQCS",
-      "link": "https://cqcs.com.br/noticia/apos-salto-no-lucro-dos-planos-de-saude-reajuste-pode-ser-menor-em-2026-preveem-analistas/"
-    },
-    {
-      "titulo": "Campanha Nacional de Multivacinação encerra com mais de 8 milhões de doses",
-      "resumo": "Campanha para menores de 15 anos terminou em 1º de setembro com mais de 8 milhões de doses.",
+      "titulo": "Campanha Nacional de Multivacinação encerra com mais de 8 milhões de doses aplicadas",
+      "resumo": "Ministério da Saúde fecha a campanha voltada a crianças e adolescentes com mais de 8 milhões de doses aplicadas.",
       "veiculo": "Ministério da Saúde",
       "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/campanha-nacional-de-multivacinacao-encerra-nesta-terca-feira-1o-com-mais-de-8-milhoes-de-doses-aplicadas"
+    },
+    {
+      "titulo": "Anvisa determina apreensão de produtos da marca United Labz",
+      "resumo": "Agência manda recolher e proíbe a venda dos produtos da marca em todo o território nacional.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/anvisa-determina-apreensao-de-produtos-da-marca-united-labz"
+    },
+    {
+      "titulo": "Ministério da Saúde inicia jornada para a Nuvem Soberana do SUS",
+      "resumo": "Parceria com o Serpro passa a armazenar dados do CadSUS e da RNDS em território nacional, sob legislação brasileira.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/ministerio-da-saude-inicia-jornada-para-a-nuvem-soberana-do-sus"
+    },
+    {
+      "titulo": "Ministério da Saúde detalha ações contra judicialização e para ampliar inovação tecnológica",
+      "resumo": "Pasta apresenta agenda que reúne judicialização, mudanças climáticas e incorporação de tecnologia no SUS.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/ministerio-da-saude-destaca-acoes-para-enfrentar-a-judicializacao-as-mudancas-climaticas-e-ampliar-a-inovacao-tecnologica-na-saude"
+    },
+    {
+      "titulo": "Inteligência artificial já está no consultório de 76% dos médicos brasileiros",
+      "resumo": "Levantamento aponta uso semanal de IA por 76% dos médicos, sobretudo para estudo, atualização e apoio diagnóstico.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/ia-consultorio/"
+    },
+    {
+      "titulo": "Maioria dos pacientes quer ser avisada quando a IA participa do atendimento",
+      "resumo": "Pesquisa do Pew mostra que quase metade dos adultos desconhece o uso de IA no próprio cuidado.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://www.healthcaredive.com/news/most-americans-want-providers-disclose-ai-use-survey-pew/828921/"
+    },
+    {
+      "titulo": "CFM normatiza o uso da inteligência artificial na medicina",
+      "resumo": "Resolução 2.454/2026, já em vigor, define a IA como apoio e mantém a decisão clínica sob responsabilidade do médico.",
+      "veiculo": "Portal Médico CFM",
+      "link": "https://portal.cfm.org.br/noticias/cfm-normatiza-uso-da-ia-na-medicina/"
     }
   ]
 }
