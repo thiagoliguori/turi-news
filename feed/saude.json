@@ -1,49 +1,49 @@
 {
   "fonte": "A saúde em News",
   "data": "2026-09-03",
-  "geradoEm": "2026-09-03T08:10:41-03:00",
+  "geradoEm": "2026-09-03T11:09:28-03:00",
   "itens": [
     {
-      "titulo": "Campanha Nacional de Multivacinação encerra com mais de 8 milhões de doses aplicadas",
-      "resumo": "Ministério da Saúde fecha a campanha voltada a crianças e adolescentes com mais de 8 milhões de doses aplicadas.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/campanha-nacional-de-multivacinacao-encerra-nesta-terca-feira-1o-com-mais-de-8-milhoes-de-doses-aplicadas"
-    },
-    {
-      "titulo": "Anvisa determina apreensão de produtos da marca United Labz",
-      "resumo": "Agência manda recolher e proíbe a venda dos produtos da marca em todo o território nacional.",
+      "titulo": "Fiocruz vai iniciar testes da primeira vacina de RNA mensageiro contra a covid-19",
+      "resumo": "Ensaio clínico começa com imunizante nacional, o primeiro do país desenvolvido na plataforma de RNA mensageiro.",
       "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/anvisa-determina-apreensao-de-produtos-da-marca-united-labz"
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/fiocruz-vai-iniciar-testes-da-primeira-vacina-rnam-contra-covid-19"
     },
     {
-      "titulo": "Ministério da Saúde inicia jornada para a Nuvem Soberana do SUS",
-      "resumo": "Parceria com o Serpro passa a armazenar dados do CadSUS e da RNDS em território nacional, sob legislação brasileira.",
+      "titulo": "SUS amplia oferta de trombolíticos para infarto e AVC isquêmico",
+      "resumo": "Lei sancionada garante medicamentos que dissolvem coágulos na rede de urgência e emergência de todo o país.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/sus-amplia-oferta-de-tromboliticos-para-infarto-e-avc-isquemico"
+    },
+    {
+      "titulo": "Casos confirmados de sarampo chegam a 28 em São Paulo",
+      "resumo": "Balanço da Secretaria Estadual de Saúde registra 28 casos confirmados da doença no estado.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/casos-confirmados-de-sarampo-chegam-28-em-sao-paulo"
+    },
+    {
+      "titulo": "Ministério da Saúde publica Plano de Dados Abertos para 2026 a 2028",
+      "resumo": "Plano organiza a abertura das bases de dados do ministério e o cronograma de publicação até 2028.",
       "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/ministerio-da-saude-inicia-jornada-para-a-nuvem-soberana-do-sus"
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/ministerio-da-saude-publica-plano-de-dados-abertos-para-o-periodo-2026-2028"
     },
     {
-      "titulo": "Ministério da Saúde detalha ações contra judicialização e para ampliar inovação tecnológica",
-      "resumo": "Pasta apresenta agenda que reúne judicialização, mudanças climáticas e incorporação de tecnologia no SUS.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/agosto/ministerio-da-saude-destaca-acoes-para-enfrentar-a-judicializacao-as-mudancas-climaticas-e-ampliar-a-inovacao-tecnologica-na-saude"
-    },
-    {
-      "titulo": "Inteligência artificial já está no consultório de 76% dos médicos brasileiros",
-      "resumo": "Levantamento aponta uso semanal de IA por 76% dos médicos, sobretudo para estudo, atualização e apoio diagnóstico.",
+      "titulo": "Inteligência artificial deve acelerar pesquisas contra influenza e resistência a antibióticos",
+      "resumo": "Pesquisadores apostam em modelos de IA para encurtar a busca por novos antivirais e antibióticos.",
       "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/ia-consultorio/"
+      "link": "https://medicinasa.com.br/ia-influenza-antibioticos/"
     },
     {
-      "titulo": "Maioria dos pacientes quer ser avisada quando a IA participa do atendimento",
-      "resumo": "Pesquisa do Pew mostra que quase metade dos adultos desconhece o uso de IA no próprio cuidado.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/most-americans-want-providers-disclose-ai-use-survey-pew/828921/"
+      "titulo": "Câmara aprova regras para vigilância sanitária periódica em hospitais",
+      "resumo": "Texto aprovado define inspeções regulares em estabelecimentos de saúde de todo o país.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/vigilancia-sanitaria-periodica/"
     },
     {
-      "titulo": "CFM normatiza o uso da inteligência artificial na medicina",
-      "resumo": "Resolução 2.454/2026, já em vigor, define a IA como apoio e mantém a decisão clínica sob responsabilidade do médico.",
-      "veiculo": "Portal Médico CFM",
-      "link": "https://portal.cfm.org.br/noticias/cfm-normatiza-uso-da-ia-na-medicina/"
+      "titulo": "SUS regulamenta Componente da Assistência Farmacêutica em Oncologia",
+      "resumo": "Norma estrutura como a rede pública organiza a oferta de medicamentos para tratamento do câncer.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/sus-regulamenta-componente-da-assistencia-farmaceutica-em-oncologia"
     }
   ]
 }
