@@ -1,49 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-09-01",
-  "geradoEm": "2026-09-01T08:10:52-03:00",
+  "data": "2026-09-03",
+  "geradoEm": "2026-09-03T08:10:48-03:00",
   "itens": [
     {
-      "titulo": "Enfermeiros pedem assento à mesa nas decisões sobre IA clínica",
-      "resumo": "Categoria se organiza contra vigilância algorítmica e substituição de postos em hospitais nos Estados Unidos.",
+      "titulo": "FDA libera cockpit cirúrgico da Stryker que usa o headset Vision Pro da Apple",
+      "resumo": "Autorização abre caminho para realidade virtual no centro cirúrgico, com controle de imagens e dados pelo cirurgião.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/08/11/nurses-seek-involvement-clinical-ai-decisions/"
+      "link": "https://www.statnews.com/2026/09/01/fda-stryker-surgical-cockpit-apple-vr-headset-health-tech/"
     },
     {
-      "titulo": "FDA promete nova orientação sobre IA e Epic apresenta novidades no encontro anual",
-      "resumo": "Agência sinaliza regras adicionais para dispositivos com IA enquanto a Epic detalha sua agenda de produtos.",
+      "titulo": "FDA abre consulta pública sobre como regular dispositivos com IA generativa",
+      "resumo": "Documento discute risco, avaliação pré-mercado e monitoramento de modelos de fundação e sistemas agênticos.",
+      "veiculo": "FDA",
+      "link": "https://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices"
+    },
+    {
+      "titulo": "Estudo testa apoio à decisão com LLM no pronto-socorro e vê adesão cair em quatro semanas",
+      "resumo": "Implantação em emergência terciária foi segura, mas o uso pelos médicos caiu de forma consistente durante o piloto.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/articles/s41591-026-04601-5"
+    },
+    {
+      "titulo": "FDA libera IA da Tempus que detecta sinais de hipertensão pulmonar no eletrocardiograma",
+      "resumo": "Software analisa ECG de 12 derivações e é o terceiro produto cardiovascular da empresa autorizado nos Estados Unidos.",
+      "veiculo": "Diagnostic and Interventional Cardiology",
+      "link": "https://www.dicardiology.com/content/fda-clears-ai-product-detects-pulmonary-hypertension-standard-ecgs"
+    },
+    {
+      "titulo": "Daphne Koller, da Insitro, explica como a IA pode acelerar ensaios clínicos",
+      "resumo": "Executiva defende seleção de pacientes guiada por dados para reduzir tempo e custo no desenvolvimento de fármacos.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/08/25/fda-promises-new-ai-guidance-and-epic-ugm-updates/"
+      "link": "https://www.statnews.com/2026/08/26/biotech-insitro-ceo-daphne-koller-speeding-up-clinical-trials-ai-prognosis/"
     },
     {
-      "titulo": "Estudo cria método clínico para auditar chatbots de IA em saúde mental",
-      "resumo": "Avaliação de 810 conversas indica que os modelos tendem a amplificar vulnerabilidades psicológicas dos usuários simulados.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04577-2"
-    },
-    {
-      "titulo": "Ensaios clínicos precisam se adaptar a sistemas de IA atualizados continuamente",
-      "resumo": "Artigo propõe desenhos de estudo compatíveis com modelos que mudam depois de entrarem no fluxo assistencial.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04368-9"
-    },
-    {
-      "titulo": "Suki lança ferramenta de ditado com IA integrada ao prontuário eletrônico",
-      "resumo": "Produto amplia a disputa no mercado de documentação clínica automatizada nos Estados Unidos.",
+      "titulo": "Ciberataque interrompe a produção de dispositivos da Boston Scientific",
+      "resumo": "Fabricação e processamento de pedidos foram afetados e a empresa não deu prazo para normalizar as operações.",
       "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/suki-launches-ai-dictation-tool-with-ehr-integration-capabilities/828837/"
+      "link": "https://www.healthcaredive.com/news/boston-scientific-says-cyberattack-has-disrupted-product-manufacturing/829151/"
     },
     {
-      "titulo": "Sword Health anuncia acordo para comprar a Headspace",
-      "resumo": "Empresa de fisioterapia digital soma saúde mental ao portfólio em uma das maiores fusões do setor no ano.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/sword-health-to-acquire-headspace/828873/"
-    },
-    {
-      "titulo": "Eric Topol analisa dois estudos que desafiam dogmas sobre células imunes do cérebro",
-      "resumo": "Trabalhos independentes reposicionam o papel da microglia no envelhecimento cerebral e abrem caminhos terapêuticos.",
-      "veiculo": "Ground Truths",
-      "link": "https://erictopol.substack.com/p/two-landmark-studies-challenge-dogma"
+      "titulo": "CMS prepara lançamento do ACCESS, piloto de cuidado crônico no Medicare",
+      "resumo": "Programa vai testar modelos digitais de acompanhamento de doenças crônicas dentro do seguro público americano.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/08/27/cms-plans-launch-event-access-medicare-pilot-health-tech/"
     }
   ]
 }
