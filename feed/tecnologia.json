@@ -1,49 +1,79 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-09-03",
-  "geradoEm": "2026-09-03T11:09:43-03:00",
+  "data": "2026-09-04",
+  "geradoEm": "2026-09-04T09:13:38-03:00",
   "itens": [
     {
-      "titulo": "FDA cria piloto que libera dispositivos com IA generativa antes da autorização formal",
-      "resumo": "Programa TEMPO já aceitou quatro produtos, entre eles os das empresas Cadence e Limbic.",
+      "titulo": "FDA abre consulta pública para regular IA generativa em dispositivos médicos",
+      "resumo": "FDA pede feedback do setor sobre risco, aprovação e monitoramento de dispositivos com IA generativa, com prazo até outubro de 2026.",
+      "veiculo": "FDA",
+      "link": "https://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices"
+    },
+    {
+      "titulo": "Piloto TEMPO da FDA leva IA generativa ao paciente antes da autorização",
+      "resumo": "Programa TEMPO deixa dispositivos com IA chegarem ao paciente em ambiente real antes da autorização, para gerar evidência de desfecho.",
       "veiculo": "STAT News",
       "link": "https://www.statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/"
     },
     {
-      "titulo": "Epic ativa checagem de autorização prévia em tempo real em quatro sistemas de saúde",
-      "resumo": "Nova API mostra ao médico, dentro do prontuário, se o procedimento precisa de aprovação do plano.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/epic-debuts-instant-prior-authorization-checks-at-4-health-systems/828156/"
+      "titulo": "OpenEvidence lança família de modelos de IA para médicos",
+      "resumo": "OpenEvidence libera grátis a médicos três modelos de busca clínica (5 s a 5 min) e o Darwin, avançado, para pesquisadores.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/09/03/openevidence-launches-new-ai-models-clinicians-health-tech/"
     },
     {
-      "titulo": "Departamento dos Veteranos amplia em até 17 bilhões de dólares o contrato de prontuário com a Oracle",
-      "resumo": "Ajuste eleva o total para cerca de 27 bilhões e pode estender a implantação até 2031.",
-      "veiculo": "Healthcare IT News",
-      "link": "https://www.healthcareitnews.com/news/va-adds-17b-its-federal-ehr-contract-oracle"
-    },
-    {
-      "titulo": "Modelos de linguagem gerais superam ferramentas clínicas especializadas em avaliações médicas",
-      "resumo": "Comparação com GPT-5.2, Gemini 3.1 Pro e Claude Opus 4.6 favoreceu os modelos de propósito geral.",
+      "titulo": "LLMs de propósito geral superam ferramentas clínicas especializadas",
+      "resumo": "Estudo mostra modelos gerais como GPT, Gemini e Claude batendo ferramentas clínicas especializadas em benchmarks médicos, expondo lacuna de validação.",
       "veiculo": "Nature Medicine",
       "link": "https://www.nature.com/articles/s41591-026-04431-5"
     },
     {
-      "titulo": "Revisão encontra poucos ensaios randomizados sobre modelos de linguagem na prática clínica",
-      "resumo": "De 4.609 estudos analisados, apenas 19 foram ensaios randomizados prospectivos com pacientes reais.",
+      "titulo": "AMIE multimodal supera médicos de atenção primária em diagnóstico simulado",
+      "resumo": "Em 105 consultas simuladas, a IA multimodal do Google superou médicos em acurácia diagnóstica e qualidade da conversa, incluindo empatia.",
       "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04229-5"
+      "link": "https://www.nature.com/articles/s41591-026-04371-0"
     },
     {
-      "titulo": "McKesson confirma roubo de dados em ataque cibernético via aplicativos de terceiros",
-      "resumo": "Distribuidora diz que o incidente atingiu clientes das áreas oncológica e médico-cirúrgica.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/mckesson-confirms-data-theft-cyberattack-involving-third-party-apps/829435/"
+      "titulo": "Google The Check Up 2026 aposta em agentes de saúde com Gemini",
+      "resumo": "Google apresenta agentes de saúde com Gemini e detecção de doenças, num movimento rumo a cuidado mais proativo e centrado no paciente.",
+      "veiculo": "UCI Future Health",
+      "link": "https://futurehealth.uci.edu/googles-2026-health-ai-updates-highlight-a-shift-toward-more-proactive-and-agentic-care"
     },
     {
-      "titulo": "Startup de ex-diretor da ARPA-H ataca os gargalos operacionais da IA na biologia",
-      "resumo": "A Transfyr quer resolver problemas simples que travam a aplicação de inteligência artificial na pesquisa biomédica.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/02/why-transfyr-tackles-dumb-problems-intersection-bio-ai-prognosis/"
+      "titulo": "Deep Origin anuncia avanço em descoberta de fármacos com IA e física",
+      "resumo": "Plataforma atinge cerca de 31% de acerto para alvo de imunoterapia no câncer, quase 100x acima do machine learning comum.",
+      "veiculo": "HPCwire",
+      "link": "https://www.hpcwire.com/2026/08/17/deep-origin-claims-breakthrough-in-ai-drug-discovery-platform/"
+    },
+    {
+      "titulo": "Financiamento em saúde digital chega a US$ 7,4 bi no 1º semestre de 2026",
+      "resumo": "Startups de saúde digital nos EUA captam US$ 7,4 bilhões no semestre, puxadas por IA, com megadeals e saúde mental na liderança.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/digital-health/digital-health-brought-74b-vc-funding-ai-powered-rebound-fuels-market"
+    },
+    {
+      "titulo": "Escrivães de IA ambiente viram padrão e devolvem tempo ao clínico",
+      "resumo": "Ambient AI scribes se popularizam nos hospitais e economizam cerca de 16 minutos de documentação por dia de trabalho.",
+      "veiculo": "npj Digital Medicine",
+      "link": "https://www.nature.com/articles/s41746-026-02554-0"
+    },
+    {
+      "titulo": "TIC Saúde: 18% dos estabelecimentos de saúde no Brasil já usam IA",
+      "resumo": "Pesquisa TIC Saúde aponta 18% dos estabelecimentos usando IA no Brasil, com foco operacional e debate sobre governança de dados.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/saude-digital-conexao-governanca-artigo/"
+    },
+    {
+      "titulo": "Fierce AI Innovation Awards premia impacto real da IA na saúde",
+      "resumo": "Primeira edição do prêmio reconhece IA com impacto mensurável, de descoberta de fármacos a governança de dados, com Vitea na privacidade.",
+      "veiculo": "GlobeNewswire",
+      "link": "https://www.globenewswire.com/news-release/2026/09/02/3355376/0/en/forge-s-fierce-life-sciences-announces-the-winners-of-the-first-ever-fierce-ai-innovation-awards-honoring-the-real-world-impact-of-ai-across-life-sciences-and-healthcare.html"
+    },
+    {
+      "titulo": "Nature Medicine: IA supera terapeutas em terapia cognitivo-comportamental",
+      "resumo": "Estudo indica IA superando terapeutas em tarefas de TCC, reacendendo o debate sobre escala e acesso em saúde mental.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.businesswire.com/news/home/20260312701626/en/Nature-Medicine-Study-Shows-AI-Outperforms-Therapists-on-Cognitive-Behavioral-Therapy"
     }
   ]
 }
