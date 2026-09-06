@@ -1,79 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-09-04",
-  "geradoEm": "2026-09-04T09:13:38-03:00",
+  "data": "2026-09-06",
+  "geradoEm": "2026-09-06T12:19:21-03:00",
   "itens": [
     {
-      "titulo": "FDA abre consulta pública para regular IA generativa em dispositivos médicos",
-      "resumo": "FDA pede feedback do setor sobre risco, aprovação e monitoramento de dispositivos com IA generativa, com prazo até outubro de 2026.",
-      "veiculo": "FDA",
-      "link": "https://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices"
-    },
-    {
-      "titulo": "Piloto TEMPO da FDA leva IA generativa ao paciente antes da autorização",
-      "resumo": "Programa TEMPO deixa dispositivos com IA chegarem ao paciente em ambiente real antes da autorização, para gerar evidência de desfecho.",
+      "titulo": "FDA autoriza cockpit cirúrgico da Stryker com o Apple Vision Pro",
+      "resumo": "Plataforma leva o headset de realidade virtual da Apple para dentro do centro cirúrgico, agora com liberação da FDA.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/"
+      "link": "https://www.statnews.com/2026/09/01/fda-stryker-surgical-cockpit-apple-vr-headset-health-tech/"
     },
     {
-      "titulo": "OpenEvidence lança família de modelos de IA para médicos",
-      "resumo": "OpenEvidence libera grátis a médicos três modelos de busca clínica (5 s a 5 min) e o Darwin, avançado, para pesquisadores.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/03/openevidence-launches-new-ai-models-clinicians-health-tech/"
+      "titulo": "Medtronic investe US$ 700 milhões na Cornerstone Robotics",
+      "resumo": "Acordo dá à Medtronic o direito de distribuir o robô cirúrgico Sentire fora dos Estados Unidos, ao lado do Hugo.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/medtronic-invests-700m-cornerstone-robotics"
     },
     {
-      "titulo": "LLMs de propósito geral superam ferramentas clínicas especializadas",
-      "resumo": "Estudo mostra modelos gerais como GPT, Gemini e Claude batendo ferramentas clínicas especializadas em benchmarks médicos, expondo lacuna de validação.",
+      "titulo": "Midjourney entra na saúde com escaneamento corporal de 60 segundos",
+      "resumo": "Empresa cria divisão médica com ultrassom de corpo inteiro sem radiação, vendido primeiro como produto de bem-estar.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/midjourney-enters-healthcare-60-second-full-body-imaging-system"
+    },
+    {
+      "titulo": "IA de imagem de retina rastreia demência e estima risco futuro",
+      "resumo": "Modelo da Universidade Nacional de Seul superou escore clínico tradicional na detecção e na previsão de demência.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/asia/retinal-ai-screens-dementia-predicts-future-risk"
+    },
+    {
+      "titulo": "Nature Medicine discute ensaios clínicos para IA atualizada continuamente",
+      "resumo": "Artigo propõe como desenhar ensaios para sistemas de IA que mudam depois da aprovação, sem perder validade.",
       "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04431-5"
+      "link": "https://www.nature.com/articles/s41591-026-04368-9"
     },
     {
-      "titulo": "AMIE multimodal supera médicos de atenção primária em diagnóstico simulado",
-      "resumo": "Em 105 consultas simuladas, a IA multimodal do Google superou médicos em acurácia diagnóstica e qualidade da conversa, incluindo empatia.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04371-0"
-    },
-    {
-      "titulo": "Google The Check Up 2026 aposta em agentes de saúde com Gemini",
-      "resumo": "Google apresenta agentes de saúde com Gemini e detecção de doenças, num movimento rumo a cuidado mais proativo e centrado no paciente.",
-      "veiculo": "UCI Future Health",
-      "link": "https://futurehealth.uci.edu/googles-2026-health-ai-updates-highlight-a-shift-toward-more-proactive-and-agentic-care"
-    },
-    {
-      "titulo": "Deep Origin anuncia avanço em descoberta de fármacos com IA e física",
-      "resumo": "Plataforma atinge cerca de 31% de acerto para alvo de imunoterapia no câncer, quase 100x acima do machine learning comum.",
-      "veiculo": "HPCwire",
-      "link": "https://www.hpcwire.com/2026/08/17/deep-origin-claims-breakthrough-in-ai-drug-discovery-platform/"
-    },
-    {
-      "titulo": "Financiamento em saúde digital chega a US$ 7,4 bi no 1º semestre de 2026",
-      "resumo": "Startups de saúde digital nos EUA captam US$ 7,4 bilhões no semestre, puxadas por IA, com megadeals e saúde mental na liderança.",
+      "titulo": "Scan.com capta US$ 220 milhões para ampliar rede de imagem nos EUA",
+      "resumo": "Rodada soma US$ 90 milhões em equity e US$ 130 milhões em dívida, com foco em infraestrutura de IA agêntica.",
       "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/digital-health/digital-health-brought-74b-vc-funding-ai-powered-rebound-fuels-market"
+      "link": "https://www.fiercehealthcare.com/finance/scancom-raises-220m-build-largest-medical-imaging-network-us"
     },
     {
-      "titulo": "Escrivães de IA ambiente viram padrão e devolvem tempo ao clínico",
-      "resumo": "Ambient AI scribes se popularizam nos hospitais e economizam cerca de 16 minutos de documentação por dia de trabalho.",
-      "veiculo": "npj Digital Medicine",
-      "link": "https://www.nature.com/articles/s41746-026-02554-0"
-    },
-    {
-      "titulo": "TIC Saúde: 18% dos estabelecimentos de saúde no Brasil já usam IA",
-      "resumo": "Pesquisa TIC Saúde aponta 18% dos estabelecimentos usando IA no Brasil, com foco operacional e debate sobre governança de dados.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/saude-digital-conexao-governanca-artigo/"
-    },
-    {
-      "titulo": "Fierce AI Innovation Awards premia impacto real da IA na saúde",
-      "resumo": "Primeira edição do prêmio reconhece IA com impacto mensurável, de descoberta de fármacos a governança de dados, com Vitea na privacidade.",
-      "veiculo": "GlobeNewswire",
-      "link": "https://www.globenewswire.com/news-release/2026/09/02/3355376/0/en/forge-s-fierce-life-sciences-announces-the-winners-of-the-first-ever-fierce-ai-innovation-awards-honoring-the-real-world-impact-of-ai-across-life-sciences-and-healthcare.html"
-    },
-    {
-      "titulo": "Nature Medicine: IA supera terapeutas em terapia cognitivo-comportamental",
-      "resumo": "Estudo indica IA superando terapeutas em tarefas de TCC, reacendendo o debate sobre escala e acesso em saúde mental.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.businesswire.com/news/home/20260312701626/en/Nature-Medicine-Study-Shows-AI-Outperforms-Therapists-on-Cognitive-Behavioral-Therapy"
+      "titulo": "LeanTaaS compra a Aidin para acelerar a alta hospitalar",
+      "resumo": "Plataforma de transição de cuidado atende mais de 200 hospitais e coordena 2 milhões de encaminhamentos por ano.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-vitality-acquires-icario-hims-expands-australia"
     }
   ]
 }
