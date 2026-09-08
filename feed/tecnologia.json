@@ -1,49 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-09-06",
-  "geradoEm": "2026-09-06T12:19:21-03:00",
+  "data": "2026-09-08",
+  "geradoEm": "2026-09-08T16:38:44-03:00",
   "itens": [
     {
-      "titulo": "FDA autoriza cockpit cirúrgico da Stryker com o Apple Vision Pro",
-      "resumo": "Plataforma leva o headset de realidade virtual da Apple para dentro do centro cirúrgico, agora com liberação da FDA.",
+      "titulo": "Piloto da FDA libera dispositivos com IA generativa antes da autorização de mercado",
+      "resumo": "Programa TEMPO deixa dispositivos com IA generativa chegarem a pacientes antes da autorização formal, sob condições da agência.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/01/fda-stryker-surgical-cockpit-apple-vr-headset-health-tech/"
+      "link": "https://www.statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/"
     },
     {
-      "titulo": "Medtronic investe US$ 700 milhões na Cornerstone Robotics",
-      "resumo": "Acordo dá à Medtronic o direito de distribuir o robô cirúrgico Sentire fora dos Estados Unidos, ao lado do Hugo.",
+      "titulo": "OpenEvidence lança família de modelos médicos e agentes de oncologia",
+      "resumo": "Empresa amplia o apoio à decisão clínica em câncer e libera novos modelos de busca médica para clínicos verificados.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/health-tech/openevidence-deepens-oncology-push-expands-ai-decision-support-cancer-care"
+    },
+    {
+      "titulo": "OpenAI conecta o ChatGPT aos prontuários eletrônicos da Epic",
+      "resumo": "Integração permite consultar o prontuário Epic dentro do ChatGPT em modo somente leitura, com piloto na UCSF Health.",
       "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/medtronic-invests-700m-cornerstone-robotics"
+      "link": "https://www.mobihealthnews.com/news/openai-connects-chatgpt-epic-ehrs"
     },
     {
-      "titulo": "Midjourney entra na saúde com escaneamento corporal de 60 segundos",
-      "resumo": "Empresa cria divisão médica com ultrassom de corpo inteiro sem radiação, vendido primeiro como produto de bem-estar.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/midjourney-enters-healthcare-60-second-full-body-imaging-system"
+      "titulo": "ECRI passa a receber notificações de erros causados por ferramentas de IA",
+      "resumo": "Rede de notificação de incidentes da ECRI passa a registrar erros e respostas incorretas de sistemas de IA clínica.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-ecri-expands-reporting-network-include-ai-errors-american-nurses"
     },
     {
-      "titulo": "IA de imagem de retina rastreia demência e estima risco futuro",
-      "resumo": "Modelo da Universidade Nacional de Seul superou escore clínico tradicional na detecção e na previsão de demência.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/asia/retinal-ai-screens-dementia-predicts-future-risk"
-    },
-    {
-      "titulo": "Nature Medicine discute ensaios clínicos para IA atualizada continuamente",
-      "resumo": "Artigo propõe como desenhar ensaios para sistemas de IA que mudam depois da aprovação, sem perder validade.",
+      "titulo": "Lições de um dos primeiros ensaios randomizados de IA na medicina",
+      "resumo": "Artigo defende avaliar sistemas de IA pelo desfecho do paciente, e não apenas pela acurácia frente ao médico.",
       "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04368-9"
+      "link": "https://www.nature.com/articles/s41591-026-04633-x"
     },
     {
-      "titulo": "Scan.com capta US$ 220 milhões para ampliar rede de imagem nos EUA",
-      "resumo": "Rodada soma US$ 90 milhões em equity e US$ 130 milhões em dívida, com foco em infraestrutura de IA agêntica.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/finance/scancom-raises-220m-build-largest-medical-imaging-network-us"
+      "titulo": "Software de IA contra desvio de medicamentos em hospitais tem falhas",
+      "resumo": "Ferramentas que detectam furto de controlados em hospitais ainda dependem de supervisão humana e geram alertas equivocados.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/08/25/ai-drug-diversion-software-human-oversight-controlcheck-sentri7/"
     },
     {
-      "titulo": "LeanTaaS compra a Aidin para acelerar a alta hospitalar",
-      "resumo": "Plataforma de transição de cuidado atende mais de 200 hospitais e coordena 2 milhões de encaminhamentos por ano.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-vitality-acquires-icario-hims-expands-australia"
+      "titulo": "Metriport capta US$ 26 milhões para reunir prontuários dispersos",
+      "resumo": "Startup de código aberto quer entregar ao médico o histórico completo do paciente no momento do atendimento.",
+      "veiculo": "Endpoints News",
+      "link": "https://endpoints.news/metriport-raises-26m-to-help-doctors-retrieve-patient-data/"
     }
   ]
 }
