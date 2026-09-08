@@ -1,49 +1,49 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-09-06",
-  "geradoEm": "2026-09-06T12:19:17-03:00",
+  "data": "2026-09-08",
+  "geradoEm": "2026-09-08T16:38:39-03:00",
   "itens": [
     {
-      "titulo": "Ministério da Saúde apresenta Central de Comando das UTIs Inteligentes do SUS",
-      "resumo": "Central monitora em tempo real sinais vitais de 60 leitos inteligentes em seis hospitais públicos, de Manaus a Porto Alegre.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/04/09/2026/ministerio-da-saude-apresenta-central-de-comando-das-utis-inteligentes-do-sus/"
-    },
-    {
-      "titulo": "Uso de IA nos hospitais latino-americanos avança para aplicações clínicas",
-      "resumo": "Entre hospitais que usam IA, 88% citam alguma aplicação clínica, com apoio ao diagnóstico à frente, em 61% deles.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/04/09/2026/uso-de-ia-nos-hospitais-latino-americanos-avanca-para-aplicacoes-clinicas/"
-    },
-    {
-      "titulo": "Anvisa aprova importação de remédio experimental para o piloto Lito",
-      "resumo": "Agência autoriza a importação excepcional de medicamento experimental para o tratamento do piloto conhecido como Lito.",
+      "titulo": "Fiocruz inicia testes da primeira vacina de RNA mensageiro contra a covid-19",
+      "resumo": "Ensaio clínico da vacina nacional de RNA mensageiro contra a covid-19 começa com voluntários no Rio de Janeiro.",
       "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/anvisa-aprova-importacao-de-remedio-experimental-para-piloto-lito"
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/fiocruz-vai-iniciar-testes-da-primeira-vacina-rnam-contra-covid-19"
     },
     {
-      "titulo": "Ministério da Saúde vai levar 500 ultrassons portáteis às unidades básicas",
-      "resumo": "Investimento de R$ 12,58 milhões leva ultrassom de bolso à atenção primária e encurta o tempo de espera por resultado.",
+      "titulo": "SUS amplia oferta de trombolíticos para infarto e AVC isquêmico",
+      "resumo": "Ministério da Saúde amplia a oferta de trombolíticos no SUS para o tratamento de infarto e AVC isquêmico.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/sus-amplia-oferta-de-tromboliticos-para-infarto-e-avc-isquemico"
+    },
+    {
+      "titulo": "Famílias recusam doação de órgãos em 45% dos casos no Brasil",
+      "resumo": "Levantamento mostra recusa familiar em 45% dos casos, principal entrave para ampliar os transplantes no país.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/taxa-media-de-recusa-de-doacao-de-orgaos-pelos-familiares-e-45"
+    },
+    {
+      "titulo": "Hospitais privados farão 205 mil procedimentos para pacientes do SUS em Minas Gerais",
+      "resumo": "Hospitais particulares vão realizar 205 mil procedimentos para pacientes do SUS em Minas Gerais, com pagamento federal.",
       "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/500-ultrassons-portateis-fortalecem-atendimento-nas-unidades-basicas-de-saude"
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/pacientes-do-sus-em-minas-gerais-serao-atendidos-por-hospitais-particulares-para-a-realizacao-de-205-mil-procedimentos"
     },
     {
-      "titulo": "Hospital de Amor em Barretos inaugura ala de reabilitação oncológica",
-      "resumo": "Nova ala amplia a reabilitação de pacientes com câncer atendidos pelo SUS no interior de São Paulo.",
+      "titulo": "Anvisa aprova nova caneta emagrecedora à base de semaglutida",
+      "resumo": "Agência libera mais uma caneta emagrecedora com semaglutida, ampliando as opções disponíveis no mercado brasileiro.",
       "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/hospital-de-amor-em-barretos-inaugura-ala-de-reabilitacao-oncologica"
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/anvisa-aprova-nova-caneta-emagrecedora-base-de-semaglutida"
     },
     {
-      "titulo": "Qual o limite do uso de IA na área da saúde",
-      "resumo": "Análise discute os limites éticos e regulatórios do uso de inteligência artificial na assistência à saúde.",
+      "titulo": "Falhas de dados e de governança travam projetos de IA na saúde, aponta relatório",
+      "resumo": "Estudo da Cloudera indica que lacunas de acesso a dados e de governança barram a expansão da IA clínica.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/01/09/2026/qual-o-limite-do-uso-de-ia-na-area-da-saude/"
+      "link": "https://saudedigitalnews.com.br/18/08/2026/ambicoes-relacionadas-a-ia-na-area-da-saude-estao-ameacadas-por-lacunas-criticas-no-acesso-aos-dados-e-na-governanca-mostra-relatorio-da-cloudera/"
     },
     {
-      "titulo": "Saúde mental após perda gestacional requer atenção de profissionais",
-      "resumo": "Especialistas alertam para o acompanhamento psicológico de mulheres e famílias depois da perda gestacional.",
+      "titulo": "São Paulo passa de 58 mil casos de dengue no ano",
+      "resumo": "Estado de São Paulo acumula mais de 58 mil casos de dengue desde janeiro, segundo a secretaria estadual.",
       "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/saude-mental-apos-perda-gestacional-requer-atencao-de-profissionais"
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/sao-paulo-tem-mais-de-58-mil-casos-de-dengue-desde-o-inicio-do-ano"
     }
   ]
 }
