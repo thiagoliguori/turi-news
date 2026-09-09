@@ -1,49 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-09-08",
-  "geradoEm": "2026-09-08T16:38:44-03:00",
+  "data": "2026-09-09",
+  "geradoEm": "2026-09-09T15:27:05-03:00",
   "itens": [
     {
-      "titulo": "Piloto da FDA libera dispositivos com IA generativa antes da autorização de mercado",
-      "resumo": "Programa TEMPO deixa dispositivos com IA generativa chegarem a pacientes antes da autorização formal, sob condições da agência.",
+      "titulo": "IA acelera a nota clínica no pronto-socorro, mas não reduz o tempo de espera",
+      "resumo": "Estudo mostra que escribas de IA poupam minutos por paciente sem encurtar filas nem acelerar exames na emergência.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/"
+      "link": "https://www.statnews.com/2026/09/09/ai-healthcare-limitations-emergency-room-study-medical-scribe-impact/"
     },
     {
-      "titulo": "OpenEvidence lança família de modelos médicos e agentes de oncologia",
-      "resumo": "Empresa amplia o apoio à decisão clínica em câncer e libera novos modelos de busca médica para clínicos verificados.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/health-tech/openevidence-deepens-oncology-push-expands-ai-decision-support-cancer-care"
+      "titulo": "IA autônoma deve superar médicos assistidos por IA em tarefas cognitivas",
+      "resumo": "Ezekiel Emanuel argumenta que sistemas autônomos já batem médicos, com ou sem apoio de IA, em cinco tarefas centrais.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/09/09/ai-medicine-assisted-physicians-research-autonomy/"
     },
     {
-      "titulo": "OpenAI conecta o ChatGPT aos prontuários eletrônicos da Epic",
-      "resumo": "Integração permite consultar o prontuário Epic dentro do ChatGPT em modo somente leitura, com piloto na UCSF Health.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/openai-connects-chatgpt-epic-ehrs"
+      "titulo": "IA de consumo deixa de informar e passa a controlar a rota de cuidado",
+      "resumo": "Análise mostra ChatGPT Health, Amazon Health AI e Claude for Healthcare conectados a prontuários, agendamento e farmácia.",
+      "veiculo": "Nature Health",
+      "link": "https://www.nature.com/articles/s44360-026-00195-x"
     },
     {
-      "titulo": "ECRI passa a receber notificações de erros causados por ferramentas de IA",
-      "resumo": "Rede de notificação de incidentes da ECRI passa a registrar erros e respostas incorretas de sistemas de IA clínica.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-ecri-expands-reporting-network-include-ai-errors-american-nurses"
-    },
-    {
-      "titulo": "Lições de um dos primeiros ensaios randomizados de IA na medicina",
-      "resumo": "Artigo defende avaliar sistemas de IA pelo desfecho do paciente, e não apenas pela acurácia frente ao médico.",
+      "titulo": "Pesquisadores propõem teste para medir superinteligência médica em IA",
+      "resumo": "Modelos que tiram 92% em provas médicas caem para 44,8% em tarefas clínicas reais, o que motivou o novo framework.",
       "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04633-x"
+      "link": "https://www.nature.com/articles/s41591-026-04539-8"
     },
     {
-      "titulo": "Software de IA contra desvio de medicamentos em hospitais tem falhas",
-      "resumo": "Ferramentas que detectam furto de controlados em hospitais ainda dependem de supervisão humana e geram alertas equivocados.",
+      "titulo": "Oura abre capital e reporta lucro",
+      "resumo": "Fabricante do anel inteligente pede registro para IPO e se posiciona como plataforma de saúde movida a IA.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/08/25/ai-drug-diversion-software-human-oversight-controlcheck-sentri7/"
+      "link": "https://www.statnews.com/2026/09/08/health-tech-newsletter-oura-goes-public-reports-profitability/"
     },
     {
-      "titulo": "Metriport capta US$ 26 milhões para reunir prontuários dispersos",
-      "resumo": "Startup de código aberto quer entregar ao médico o histórico completo do paciente no momento do atendimento.",
-      "veiculo": "Endpoints News",
-      "link": "https://endpoints.news/metriport-raises-26m-to-help-doctors-retrieve-patient-data/"
+      "titulo": "Forus capta US$ 150 milhões para plataforma de acesso a medicamentos",
+      "resumo": "Startup usa IA para autorização prévia e recursos contra negativas de planos e chega a US$ 3 bilhões de valuation.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/health-tech/forus-secures-150m-series-c-3b-valuation"
+    },
+    {
+      "titulo": "GenHealth.ai capta US$ 16,5 milhões para expandir agentes de IA administrativos",
+      "resumo": "Empresa automatiza ciclo de receita e tarefas de retaguarda para operadoras, prestadores e fornecedores de equipamentos.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/genhealthai-raises-165m-expand-healthcare-ai-agents"
     }
   ]
 }
