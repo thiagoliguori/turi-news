@@ -1,49 +1,49 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-09-08",
-  "geradoEm": "2026-09-08T16:38:39-03:00",
+  "data": "2026-09-09",
+  "geradoEm": "2026-09-09T15:27:00-03:00",
   "itens": [
     {
-      "titulo": "Fiocruz inicia testes da primeira vacina de RNA mensageiro contra a covid-19",
-      "resumo": "Ensaio clínico da vacina nacional de RNA mensageiro contra a covid-19 começa com voluntários no Rio de Janeiro.",
+      "titulo": "Anvisa aprova genéricos de medicamentos contra diabetes e obesidade",
+      "resumo": "EMS recebe aval da Anvisa para versões genéricas de canetas usadas no tratamento de obesidade e diabetes tipo 2.",
       "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/fiocruz-vai-iniciar-testes-da-primeira-vacina-rnam-contra-covid-19"
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/anvisa-aprova-genericos-de-medicamentos-contra-diabetes-e-obesidade"
     },
     {
-      "titulo": "SUS amplia oferta de trombolíticos para infarto e AVC isquêmico",
-      "resumo": "Ministério da Saúde amplia a oferta de trombolíticos no SUS para o tratamento de infarto e AVC isquêmico.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/sus-amplia-oferta-de-tromboliticos-para-infarto-e-avc-isquemico"
+      "titulo": "Ministério da Saúde inaugura Central de Comando das UTIs Inteligentes do SUS",
+      "resumo": "Central no HC-FMUSP monitora em tempo real 60 leitos de terapia intensiva em seis hospitais públicos do país.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/central-comando-utis-sus/"
     },
     {
-      "titulo": "Famílias recusam doação de órgãos em 45% dos casos no Brasil",
-      "resumo": "Levantamento mostra recusa familiar em 45% dos casos, principal entrave para ampliar os transplantes no país.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/taxa-media-de-recusa-de-doacao-de-orgaos-pelos-familiares-e-45"
+      "titulo": "IA nos hospitais latino-americanos avança para aplicações clínicas",
+      "resumo": "Levantamento IntelLat com 105 hospitais mostra que 88% dos que usam IA já citam ao menos uma aplicação clínica.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/ia-hospitais-latino-americanos/"
     },
     {
-      "titulo": "Hospitais privados farão 205 mil procedimentos para pacientes do SUS em Minas Gerais",
-      "resumo": "Hospitais particulares vão realizar 205 mil procedimentos para pacientes do SUS em Minas Gerais, com pagamento federal.",
+      "titulo": "Anvisa aprova novo medicamento para tratamento de enxaqueca",
+      "resumo": "Atogepanto é liberado para adultos com pelo menos quatro crises de enxaqueca por mês, segundo a agência.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/anvisa-aprova-novo-medicamento-para-tratamento-de-enxaqueca"
+    },
+    {
+      "titulo": "Cuidado multiprofissional e IA são caminhos para a reabilitação visual",
+      "resumo": "Especialistas apontam equipe multiprofissional e inteligência artificial como rotas para ampliar a reabilitação de pessoas com baixa visão.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/cuidado-multiprofissional-e-ia-sao-caminhos-para-reabilitacao-visual"
+    },
+    {
+      "titulo": "Hospitais privados farão 170 mil procedimentos para pacientes do SUS em Santa Catarina",
+      "resumo": "Programa Agora Tem Especialistas prevê R$ 65,6 milhões para exames, consultas e cirurgias no estado.",
       "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/pacientes-do-sus-em-minas-gerais-serao-atendidos-por-hospitais-particulares-para-a-realizacao-de-205-mil-procedimentos"
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/pacientes-do-sus-em-santa-catarina-serao-atendidos-por-hospitais-particulares-para-a-realizacao-de-mais-de-170-mil-procedimentos"
     },
     {
-      "titulo": "Anvisa aprova nova caneta emagrecedora à base de semaglutida",
-      "resumo": "Agência libera mais uma caneta emagrecedora com semaglutida, ampliando as opções disponíveis no mercado brasileiro.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/anvisa-aprova-nova-caneta-emagrecedora-base-de-semaglutida"
-    },
-    {
-      "titulo": "Falhas de dados e de governança travam projetos de IA na saúde, aponta relatório",
-      "resumo": "Estudo da Cloudera indica que lacunas de acesso a dados e de governança barram a expansão da IA clínica.",
+      "titulo": "Open Health e IA fortalecem a medicina preventiva e personalizada",
+      "resumo": "Fragmentação dos dados clínicos entre hospitais, laboratórios e operadoras ainda limita o uso preventivo da inteligência artificial.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/18/08/2026/ambicoes-relacionadas-a-ia-na-area-da-saude-estao-ameacadas-por-lacunas-criticas-no-acesso-aos-dados-e-na-governanca-mostra-relatorio-da-cloudera/"
-    },
-    {
-      "titulo": "São Paulo passa de 58 mil casos de dengue no ano",
-      "resumo": "Estado de São Paulo acumula mais de 58 mil casos de dengue desde janeiro, segundo a secretaria estadual.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/sao-paulo-tem-mais-de-58-mil-casos-de-dengue-desde-o-inicio-do-ano"
+      "link": "https://saudedigitalnews.com.br/08/09/2026/open-health-e-ia-fortalecem-a-medicina-preventiva-e-personalizada/"
     }
   ]
 }
