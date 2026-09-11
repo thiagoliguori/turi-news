@@ -1,49 +1,49 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-09-09",
-  "geradoEm": "2026-09-09T15:27:00-03:00",
+  "data": "2026-09-11",
+  "geradoEm": "2026-09-11T09:18:54-03:00",
   "itens": [
     {
-      "titulo": "Anvisa aprova genéricos de medicamentos contra diabetes e obesidade",
-      "resumo": "EMS recebe aval da Anvisa para versões genéricas de canetas usadas no tratamento de obesidade e diabetes tipo 2.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/anvisa-aprova-genericos-de-medicamentos-contra-diabetes-e-obesidade"
-    },
-    {
-      "titulo": "Ministério da Saúde inaugura Central de Comando das UTIs Inteligentes do SUS",
-      "resumo": "Central no HC-FMUSP monitora em tempo real 60 leitos de terapia intensiva em seis hospitais públicos do país.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/central-comando-utis-sus/"
-    },
-    {
-      "titulo": "IA nos hospitais latino-americanos avança para aplicações clínicas",
-      "resumo": "Levantamento IntelLat com 105 hospitais mostra que 88% dos que usam IA já citam ao menos uma aplicação clínica.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/ia-hospitais-latino-americanos/"
-    },
-    {
-      "titulo": "Anvisa aprova novo medicamento para tratamento de enxaqueca",
-      "resumo": "Atogepanto é liberado para adultos com pelo menos quatro crises de enxaqueca por mês, segundo a agência.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/anvisa-aprova-novo-medicamento-para-tratamento-de-enxaqueca"
-    },
-    {
-      "titulo": "Cuidado multiprofissional e IA são caminhos para a reabilitação visual",
-      "resumo": "Especialistas apontam equipe multiprofissional e inteligência artificial como rotas para ampliar a reabilitação de pessoas com baixa visão.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/cuidado-multiprofissional-e-ia-sao-caminhos-para-reabilitacao-visual"
-    },
-    {
-      "titulo": "Hospitais privados farão 170 mil procedimentos para pacientes do SUS em Santa Catarina",
-      "resumo": "Programa Agora Tem Especialistas prevê R$ 65,6 milhões para exames, consultas e cirurgias no estado.",
+      "titulo": "Governo notifica Google e cobra remoção de vídeos com falsos médicos criados por IA",
+      "resumo": "Ministério da Saúde pede retirada de vídeos com médicos falsos gerados por inteligência artificial que promovem tratamentos sem comprovação.",
       "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/pacientes-do-sus-em-santa-catarina-serao-atendidos-por-hospitais-particulares-para-a-realizacao-de-mais-de-170-mil-procedimentos"
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/governo-notifica-google-e-cobra-remocao-de-videos-com-falsos-medicos-criados-por-ia"
     },
     {
-      "titulo": "Open Health e IA fortalecem a medicina preventiva e personalizada",
-      "resumo": "Fragmentação dos dados clínicos entre hospitais, laboratórios e operadoras ainda limita o uso preventivo da inteligência artificial.",
+      "titulo": "Complexo de Saúde Inteligente no Rio Grande do Sul incorpora tecnologia ao SUS",
+      "resumo": "Reestruturação do Grupo Hospitalar Conceição prevê R$ 1,9 bilhão, equipamentos ultraconectados e uso de inteligência artificial na assistência.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/complexo-de-saude-inteligente-no-rio-grande-do-sul-incorpora-evolucao-tecnologica-ao-sus"
+    },
+    {
+      "titulo": "Parceria entre Wellon e UEFS usa IA para reduzir faltas em consultas em até 50%",
+      "resumo": "Validação científica com a universidade baiana aponta queda de até 50% no absenteísmo e ganho de faturamento em clínicas.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/08/09/2026/open-health-e-ia-fortalecem-a-medicina-preventiva-e-personalizada/"
+      "link": "https://saudedigitalnews.com.br/09/09/2026/parceria-entre-wellon-e-uefs-aplica-inteligencia-artificial-para-reduzir-faltas-em-consultas-em-ate-50/"
+    },
+    {
+      "titulo": "Tecnologias de inteligência artificial ampliam o apoio ao atendimento médico em domicílio",
+      "resumo": "Ferramentas de IA passam a apoiar triagem, monitoramento e decisão clínica no home care brasileiro, segundo especialistas do setor.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/10/09/2026/tecnologias-de-inteligencia-artificial-ampliam-apoio-ao-atendimento-medico-em-domicilio/"
+    },
+    {
+      "titulo": "Anvisa amplia indicação de vacina contra meningite",
+      "resumo": "Ampliação se baseia em estudos clínicos com cerca de 6 mil bebês de 6 semanas a 12 meses.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/anvisa-amplia-indicacao-de-vacina-contra-meningite"
+    },
+    {
+      "titulo": "Super Centro Brasil de Diagnóstico de Câncer realiza 56,5 mil procedimentos em 2026",
+      "resumo": "Unidade do Ministério da Saúde amplia exames e acelera o diagnóstico oncológico na rede pública ao longo de 2026.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/super-centro-brasil-de-diagnostico-de-cancer-realiza-56-5-mil-procedimentos-em-2026"
+    },
+    {
+      "titulo": "Força Nacional do SUS ganha base no Rio de Janeiro para emergências climáticas",
+      "resumo": "Nova base apoia resposta rápida a enchentes, ondas de calor e outros eventos extremos no Sudeste.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/forca-nacional-do-sus-recebe-base-no-rio-de-janeiro-para-enfrentar-emergencias-climaticas"
     }
   ]
 }
