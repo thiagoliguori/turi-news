@@ -1,49 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-09-09",
-  "geradoEm": "2026-09-09T15:27:05-03:00",
+  "data": "2026-09-11",
+  "geradoEm": "2026-09-11T09:18:59-03:00",
   "itens": [
     {
-      "titulo": "IA acelera a nota clínica no pronto-socorro, mas não reduz o tempo de espera",
-      "resumo": "Estudo mostra que escribas de IA poupam minutos por paciente sem encurtar filas nem acelerar exames na emergência.",
+      "titulo": "Reino Unido divulga recomendações para regular a inteligência artificial na medicina",
+      "resumo": "Proposta britânica trata de avaliação, monitoramento contínuo e responsabilidade das ferramentas de IA usadas no atendimento clínico.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/09/ai-healthcare-limitations-emergency-room-study-medical-scribe-impact/"
+      "link": "https://www.statnews.com/2026/09/09/uk-unveils-recommendations-ai-regulation-medicine/"
     },
     {
-      "titulo": "IA autônoma deve superar médicos assistidos por IA em tarefas cognitivas",
-      "resumo": "Ezekiel Emanuel argumenta que sistemas autônomos já batem médicos, com ou sem apoio de IA, em cinco tarefas centrais.",
+      "titulo": "ARPA-H investirá US$ 62 milhões em IA autorizada pela FDA para insuficiência cardíaca",
+      "resumo": "Programa Advocate quer agentes parcialmente autônomos capazes de avaliar sintomas, prescrever remédios e pedir exames laboratoriais.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/09/ai-medicine-assisted-physicians-research-autonomy/"
+      "link": "https://www.statnews.com/2026/09/09/arpa-h-advocate-program-autonomous-ai-bots-for-heart-failure/"
     },
     {
-      "titulo": "IA de consumo deixa de informar e passa a controlar a rota de cuidado",
-      "resumo": "Análise mostra ChatGPT Health, Amazon Health AI e Claude for Healthcare conectados a prontuários, agendamento e farmácia.",
-      "veiculo": "Nature Health",
-      "link": "https://www.nature.com/articles/s44360-026-00195-x"
-    },
-    {
-      "titulo": "Pesquisadores propõem teste para medir superinteligência médica em IA",
-      "resumo": "Modelos que tiram 92% em provas médicas caem para 44,8% em tarefas clínicas reais, o que motivou o novo framework.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04539-8"
-    },
-    {
-      "titulo": "Oura abre capital e reporta lucro",
-      "resumo": "Fabricante do anel inteligente pede registro para IPO e se posiciona como plataforma de saúde movida a IA.",
+      "titulo": "FDA cria piloto TEMPO para acompanhar dispositivos médicos com IA generativa",
+      "resumo": "Programa dá à agência experiência prática com produtos de IA generativa em uso real antes da autorização definitiva.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/08/health-tech-newsletter-oura-goes-public-reports-profitability/"
+      "link": "https://www.statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/"
     },
     {
-      "titulo": "Forus capta US$ 150 milhões para plataforma de acesso a medicamentos",
-      "resumo": "Startup usa IA para autorização prévia e recursos contra negativas de planos e chega a US$ 3 bilhões de valuation.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/health-tech/forus-secures-150m-series-c-3b-valuation"
-    },
-    {
-      "titulo": "GenHealth.ai capta US$ 16,5 milhões para expandir agentes de IA administrativos",
-      "resumo": "Empresa automatiza ciclo de receita e tarefas de retaguarda para operadoras, prestadores e fornecedores de equipamentos.",
+      "titulo": "OpenEvidence lança quatro modelos de IA médica para clínicos",
+      "resumo": "Osler, Sackett e Snow ficam liberados para médicos verificados; Darwin segue em prévia restrita por risco de uso duplo.",
       "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/genhealthai-raises-165m-expand-healthcare-ai-agents"
+      "link": "https://www.mobihealthnews.com/news/openevidence-launches-4-medical-ai-models-clinicians"
+    },
+    {
+      "titulo": "Líderes da saúde rural duvidam que a IA resolva o acesso ao cuidado",
+      "resumo": "Reportagem mostra hospitais rurais sem infraestrutura, dados e dinheiro para adotar as ferramentas prometidas por Washington.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/09/10/rural-health-care-ai-adoption-challenges-part-4-unraveled-series/"
+    },
+    {
+      "titulo": "CEO da AMA diz que a IA não vai substituir médicos e sim trabalhar ao lado deles",
+      "resumo": "Associação Médica Americana defende a IA como apoio, com o médico mantendo a responsabilidade final pela decisão clínica.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/09/09/ai-medicine-doctors-replacement-debate-ama-ceo/"
+    },
+    {
+      "titulo": "Implicity capta US$ 40 milhões para monitoramento cardíaco remoto com IA",
+      "resumo": "Empresa francesa acompanha 120 mil pacientes por dia e relata queda de 26% na mortalidade com a plataforma.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/implicity-raises-40m-ai-remote-cardiac-monitoring"
     }
   ]
 }
