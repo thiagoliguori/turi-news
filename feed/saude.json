@@ -1,49 +1,49 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-09-11",
-  "geradoEm": "2026-09-11T09:18:54-03:00",
+  "data": "2026-09-12",
+  "geradoEm": "2026-09-12T18:30:35-03:00",
   "itens": [
     {
-      "titulo": "Governo notifica Google e cobra remoção de vídeos com falsos médicos criados por IA",
-      "resumo": "Ministério da Saúde pede retirada de vídeos com médicos falsos gerados por inteligência artificial que promovem tratamentos sem comprovação.",
+      "titulo": "UTI Inteligente em Brasília é conectada à Central de Comando nacional do SUS",
+      "resumo": "Hospital do Distrito Federal passa a enviar sinais vitais em tempo real à central nacional das UTIs Inteligentes.",
       "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/governo-notifica-google-e-cobra-remocao-de-videos-com-falsos-medicos-criados-por-ia"
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/uti-inteligente-em-brasilia-df-esta-conectada-a-central-de-comando-nacional-do-sus"
     },
     {
-      "titulo": "Complexo de Saúde Inteligente no Rio Grande do Sul incorpora tecnologia ao SUS",
-      "resumo": "Reestruturação do Grupo Hospitalar Conceição prevê R$ 1,9 bilhão, equipamentos ultraconectados e uso de inteligência artificial na assistência.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/complexo-de-saude-inteligente-no-rio-grande-do-sul-incorpora-evolucao-tecnologica-ao-sus"
-    },
-    {
-      "titulo": "Parceria entre Wellon e UEFS usa IA para reduzir faltas em consultas em até 50%",
-      "resumo": "Validação científica com a universidade baiana aponta queda de até 50% no absenteísmo e ganho de faturamento em clínicas.",
+      "titulo": "Uso de IA nos hospitais latino-americanos avança para aplicações clínicas",
+      "resumo": "Levantamento aponta que 88% dos hospitais da região já citam ao menos uma aplicação clínica de inteligência artificial.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/09/09/2026/parceria-entre-wellon-e-uefs-aplica-inteligencia-artificial-para-reduzir-faltas-em-consultas-em-ate-50/"
+      "link": "https://saudedigitalnews.com.br/04/09/2026/uso-de-ia-nos-hospitais-latino-americanos-avanca-para-aplicacoes-clinicas/"
     },
     {
-      "titulo": "Tecnologias de inteligência artificial ampliam o apoio ao atendimento médico em domicílio",
-      "resumo": "Ferramentas de IA passam a apoiar triagem, monitoramento e decisão clínica no home care brasileiro, segundo especialistas do setor.",
+      "titulo": "Hapvida ultrapassa 600 mil consultas no ano com apoio de IA",
+      "resumo": "Transcrição por voz gerou 604 mil anamneses de janeiro a maio, com CID sugerido e revisão do médico.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/hapvida-ia/"
+    },
+    {
+      "titulo": "Inteligência artificial começa a tirar médicos das telas e devolver tempo aos pacientes",
+      "resumo": "Ferramentas de documentação automática prometem devolver ao médico o tempo hoje gasto preenchendo prontuário durante a consulta.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/10/09/2026/tecnologias-de-inteligencia-artificial-ampliam-apoio-ao-atendimento-medico-em-domicilio/"
+      "link": "https://saudedigitalnews.com.br/09/09/2026/inteligencia-artificial-comeca-a-tirar-medicos-das-telas-e-devolver-tempo-aos-pacientes/"
     },
     {
-      "titulo": "Anvisa amplia indicação de vacina contra meningite",
-      "resumo": "Ampliação se baseia em estudos clínicos com cerca de 6 mil bebês de 6 semanas a 12 meses.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/anvisa-amplia-indicacao-de-vacina-contra-meningite"
+      "titulo": "Open Health e IA fortalecem a medicina preventiva e personalizada",
+      "resumo": "Compartilhamento de dados de saúde somado à inteligência artificial abre caminho para prevenção e tratamentos mais personalizados.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/08/09/2026/open-health-e-ia-fortalecem-a-medicina-preventiva-e-personalizada/"
     },
     {
-      "titulo": "Super Centro Brasil de Diagnóstico de Câncer realiza 56,5 mil procedimentos em 2026",
-      "resumo": "Unidade do Ministério da Saúde amplia exames e acelera o diagnóstico oncológico na rede pública ao longo de 2026.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/super-centro-brasil-de-diagnostico-de-cancer-realiza-56-5-mil-procedimentos-em-2026"
+      "titulo": "Planos de saúde apontam redução de custos e mais eficiência com o uso de IA",
+      "resumo": "Operadoras relatam automação de autorizações de procedimentos, queda de custos e ganho de eficiência com inteligência artificial.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/planos-de-saude-uso-ia/"
     },
     {
-      "titulo": "Força Nacional do SUS ganha base no Rio de Janeiro para emergências climáticas",
-      "resumo": "Nova base apoia resposta rápida a enchentes, ondas de calor e outros eventos extremos no Sudeste.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/forca-nacional-do-sus-recebe-base-no-rio-de-janeiro-para-enfrentar-emergencias-climaticas"
+      "titulo": "Medtronic investe US$ 700 milhões em robótica cirúrgica e amplia aposta em IA",
+      "resumo": "Aporte amplia a plataforma de cirurgia robótica da empresa e o uso de inteligência artificial no centro cirúrgico.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/01/09/2026/medtronic-investe-us-700-milhoes-em-robotica-cirurgica-e-amplia-aposta-em-ia/"
     }
   ]
 }
