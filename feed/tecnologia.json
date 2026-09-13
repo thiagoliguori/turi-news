@@ -1,49 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-09-12",
-  "geradoEm": "2026-09-12T18:30:39-03:00",
+  "data": "2026-09-13",
+  "geradoEm": "2026-09-13T10:26:42-03:00",
   "itens": [
     {
-      "titulo": "FDA autoriza IA Queen of Hearts que detecta infarto oculto no eletrocardiograma",
-      "resumo": "Agência concede classificação de novo ao algoritmo da Powerful Medical, que promete acelerar o encaminhamento ao cateterismo.",
+      "titulo": "ARPA-H investe US$ 62 milhões em IA autônoma para tratar insuficiência cardíaca",
+      "resumo": "Programa quer chegar a dispositivos parcialmente autônomos autorizados pelo FDA, com Tempus, UpDoc, Stanford e Duke.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/11/fda-new-ekg-heart-attack-detection-algo-queen-of-hearts/"
+      "link": "https://www.statnews.com/2026/09/09/arpa-h-advocate-program-autonomous-ai-bots-for-heart-failure/"
     },
     {
-      "titulo": "Estudo projeta IA autônoma superando o médico assistido por IA até 2030",
-      "resumo": "Artigo no JAMA aponta cinco tarefas cognitivas em que a IA autônoma deve ultrapassar médicos com e sem apoio.",
+      "titulo": "Piloto TEMPO do FDA libera dispositivos de IA generativa antes da autorização de mercado",
+      "resumo": "Produtos da Cadence e da Limbic estão entre os quatro aceitos para uso real sob acompanhamento da agência.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/09/ai-medicine-assisted-physicians-research-autonomy/"
+      "link": "https://www.statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/"
     },
     {
-      "titulo": "Chefe do CMS defende avatares de IA para o interior e lideranças rurais discordam",
-      "resumo": "Mehmet Oz promete IA como virada de jogo no acesso rural, mas gestores apontam falta de infraestrutura e verba.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/10/health-news-oz-says-ai-based-avatars-can-help-rural-communities-despite-skepticism/"
+      "titulo": "FDA abre consulta pública sobre como regular dispositivos com IA generativa",
+      "resumo": "Documento discute avaliação de risco, análise pré-mercado e monitoramento pós-mercado; comentários vão até 19 de outubro.",
+      "veiculo": "FDA",
+      "link": "https://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices"
     },
     {
-      "titulo": "A IA não conserta o pronto-socorro, mas pode consertar o sistema de saúde",
-      "resumo": "Série da STAT avalia até onde escribas e outras ferramentas de IA aliviam os gargalos da emergência americana.",
+      "titulo": "OpenEvidence lança nova família de modelos de IA voltada a médicos",
+      "resumo": "Empresa aposta em modelos próprios para consulta clínica baseada em evidência dentro do fluxo de trabalho.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/09/scribe-emergency-room-fix-health-care-ai-prognosis/"
+      "link": "https://www.statnews.com/2026/09/03/openevidence-launches-new-ai-models-clinicians-health-tech/"
     },
     {
-      "titulo": "GenHealth.ai capta US$ 16,5 milhões para agentes de IA no back office da saúde",
-      "resumo": "Série A financia agentes que assumem tarefas administrativas de clínicas e operadoras nos Estados Unidos.",
+      "titulo": "ChatGPT Health passa a importar dados de pacientes do prontuário Epic",
+      "resumo": "Integração dá ao médico acesso somente leitura a notas, exames e medicações para consultar dentro do ChatGPT.",
+      "veiculo": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/"
+    },
+    {
+      "titulo": "Implicity capta US$ 40 milhões para monitoramento cardíaco remoto com IA",
+      "resumo": "Rodada liderada pela IRIS financia expansão comercial nos Estados Unidos e na Europa.",
       "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/genhealthai-raises-165m-expand-healthcare-ai-agents"
+      "link": "https://www.mobihealthnews.com/news/implicity-raises-40m-ai-remote-cardiac-monitoring"
     },
     {
-      "titulo": "Forus levanta US$ 150 milhões e triplica valuation para US$ 3 bilhões",
-      "resumo": "Startup coloca um agente de IA em cada prescrição de alto custo para destravar autorização prévia e acesso.",
-      "veiculo": "HIT Consultant",
-      "link": "https://hitconsultant.net/2026/09/08/forus-raises-150m-series-c-3b-valuation-bain-capital-ventures-ai-prescriptions/"
-    },
-    {
-      "titulo": "Cleveland Clinic contrata a Luminai para automatizar encaminhamentos com IA",
-      "resumo": "Parceria começa pelo processamento de encaminhamentos externos e integra o balanço semanal de novidades em IA clínica.",
+      "titulo": "CMS define pilares de IA clínica enquanto médicos debatem os riscos",
+      "resumo": "Agência quer confiança pública, interoperabilidade, caminho regulatório mais claro e modelos de reembolso para IA.",
       "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-cleveland-clinic-taps-luminai-ai-automation-apple-expands-health-and"
+      "link": "https://www.fiercehealthcare.com/health-tech/ctas-dc-healthcare-event-federal-officials-outline-ai-ambitions-clinicians-debate-risks"
     }
   ]
 }
