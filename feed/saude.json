@@ -1,49 +1,49 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-09-12",
-  "geradoEm": "2026-09-12T18:30:35-03:00",
+  "data": "2026-09-13",
+  "geradoEm": "2026-09-13T10:26:38-03:00",
   "itens": [
     {
-      "titulo": "UTI Inteligente em Brasília é conectada à Central de Comando nacional do SUS",
-      "resumo": "Hospital do Distrito Federal passa a enviar sinais vitais em tempo real à central nacional das UTIs Inteligentes.",
+      "titulo": "Resolução do CFM sobre IA busca complementar a lei e proteger o ato médico",
+      "resumo": "Norma em vigor desde agosto veda delegar diagnóstico e conduta à IA e mantém a decisão final com o médico.",
+      "veiculo": "Consultor Jurídico",
+      "link": "https://conjur.com.br/2026-set-11/norma-do-cfm-busca-complementar-lei-sobre-ia-e-proteger-ato-medico/"
+    },
+    {
+      "titulo": "No mar da inteligência artificial, até onde o médico deve mergulhar",
+      "resumo": "Texto defende níveis diferentes de supervisão e validação conforme o risco clínico de cada uso da IA.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/11/09/2026/no-mar-da-inteligencia-artificial-ate-onde-o-medico-deve-mergulhar/"
+    },
+    {
+      "titulo": "IA reduz faltas em consultas em até 50%, aponta parceria entre Wellon e UEFS",
+      "resumo": "Modelos preditivos atacam o absenteísmo, que consome de 20% a 30% das agendas médicas no país.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/09/09/2026/parceria-entre-wellon-e-uefs-aplica-inteligencia-artificial-para-reduzir-faltas-em-consultas-em-ate-50/"
+    },
+    {
+      "titulo": "UTI Inteligente do Rio de Janeiro é conectada à Central de Comando nacional do SUS",
+      "resumo": "Rede chega a seis hospitais e 60 leitos que transmitem sinais vitais em tempo real para o HC-FMUSP.",
       "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/uti-inteligente-em-brasilia-df-esta-conectada-a-central-de-comando-nacional-do-sus"
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/uti-inteligente-no-rio-de-janeiro-rj-esta-conectada-a-central-de-comando-nacional-do-sus"
     },
     {
-      "titulo": "Uso de IA nos hospitais latino-americanos avança para aplicações clínicas",
-      "resumo": "Levantamento aponta que 88% dos hospitais da região já citam ao menos uma aplicação clínica de inteligência artificial.",
+      "titulo": "Brasil tem três hospitais entre os cinco melhores da América Latina",
+      "resumo": "Ranking IntelLat 2026 coloca o Einstein em primeiro, com Sírio-Libanês e Moinhos de Vento também no topo.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/04/09/2026/uso-de-ia-nos-hospitais-latino-americanos-avanca-para-aplicacoes-clinicas/"
+      "link": "https://saudedigitalnews.com.br/11/09/2026/brasil-tem-tres-hospitais-entre-os-cinco-melhores-da-america-latina-segundo-ranking-intellat-2026/"
     },
     {
-      "titulo": "Hapvida ultrapassa 600 mil consultas no ano com apoio de IA",
-      "resumo": "Transcrição por voz gerou 604 mil anamneses de janeiro a maio, com CID sugerido e revisão do médico.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/hapvida-ia/"
-    },
-    {
-      "titulo": "Inteligência artificial começa a tirar médicos das telas e devolver tempo aos pacientes",
-      "resumo": "Ferramentas de documentação automática prometem devolver ao médico o tempo hoje gasto preenchendo prontuário durante a consulta.",
+      "titulo": "Vyro recebe R$ 1,2 milhão da Fapesp para avançar em plataforma de tratamento oncológico",
+      "resumo": "Aporte público financia o desenvolvimento da plataforma da healthtech voltada ao tratamento de câncer.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/09/09/2026/inteligencia-artificial-comeca-a-tirar-medicos-das-telas-e-devolver-tempo-aos-pacientes/"
+      "link": "https://saudedigitalnews.com.br/11/09/2026/vyro-recebe-aporte-de-mais-de-r-1-2-milhao-da-fapesp-para-avancar-em-plataforma-de-tratamento-oncologico/"
     },
     {
-      "titulo": "Open Health e IA fortalecem a medicina preventiva e personalizada",
-      "resumo": "Compartilhamento de dados de saúde somado à inteligência artificial abre caminho para prevenção e tratamentos mais personalizados.",
+      "titulo": "Varejo farmacêutico movimenta R$ 130,2 bilhões no primeiro semestre",
+      "resumo": "Setor cresceu 10,1% de janeiro a junho, segundo levantamento da Abafarma divulgado nesta semana.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/08/09/2026/open-health-e-ia-fortalecem-a-medicina-preventiva-e-personalizada/"
-    },
-    {
-      "titulo": "Planos de saúde apontam redução de custos e mais eficiência com o uso de IA",
-      "resumo": "Operadoras relatam automação de autorizações de procedimentos, queda de custos e ganho de eficiência com inteligência artificial.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/planos-de-saude-uso-ia/"
-    },
-    {
-      "titulo": "Medtronic investe US$ 700 milhões em robótica cirúrgica e amplia aposta em IA",
-      "resumo": "Aporte amplia a plataforma de cirurgia robótica da empresa e o uso de inteligência artificial no centro cirúrgico.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/01/09/2026/medtronic-investe-us-700-milhoes-em-robotica-cirurgica-e-amplia-aposta-em-ia/"
+      "link": "https://saudedigitalnews.com.br/11/09/2026/varejo-farmaceutico-movimenta-r-1302-bilhoes-no-1o-semestre-e-cresce-101-aponta-abafarma/"
     }
   ]
 }
