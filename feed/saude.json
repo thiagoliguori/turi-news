@@ -1,49 +1,49 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-09-13",
-  "geradoEm": "2026-09-13T10:26:38-03:00",
+  "data": "2026-09-14",
+  "geradoEm": "2026-09-14T10:54:23-03:00",
   "itens": [
     {
-      "titulo": "Resolução do CFM sobre IA busca complementar a lei e proteger o ato médico",
-      "resumo": "Norma em vigor desde agosto veda delegar diagnóstico e conduta à IA e mantém a decisão final com o médico.",
-      "veiculo": "Consultor Jurídico",
-      "link": "https://conjur.com.br/2026-set-11/norma-do-cfm-busca-complementar-lei-sobre-ia-e-proteger-ato-medico/"
+      "titulo": "ANS vai ampliar uso de IA e alerta para uso indevido pelas operadoras",
+      "resumo": "Agência quer usar IA internamente e estuda regras; negar procedimento não pode ser decisão de algoritmo.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/ans-ampliar-inteligencia-artificial/"
     },
     {
-      "titulo": "No mar da inteligência artificial, até onde o médico deve mergulhar",
-      "resumo": "Texto defende níveis diferentes de supervisão e validação conforme o risco clínico de cada uso da IA.",
+      "titulo": "Uso de IA nos hospitais latino-americanos avança para aplicações clínicas",
+      "resumo": "Apoio ao diagnóstico aparece em 61% dos casos e análise de imagens médicas em 42% dos hospitais.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/11/09/2026/no-mar-da-inteligencia-artificial-ate-onde-o-medico-deve-mergulhar/"
+      "link": "https://saudedigitalnews.com.br/04/09/2026/uso-de-ia-nos-hospitais-latino-americanos-avanca-para-aplicacoes-clinicas/"
     },
     {
-      "titulo": "IA reduz faltas em consultas em até 50%, aponta parceria entre Wellon e UEFS",
-      "resumo": "Modelos preditivos atacam o absenteísmo, que consome de 20% a 30% das agendas médicas no país.",
+      "titulo": "Tecnologias de inteligência artificial ampliam apoio ao atendimento médico em domicílio",
+      "resumo": "Ferramentas passam a apoiar monitoramento e decisão clínica no home care, com foco em risco e continuidade.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/09/09/2026/parceria-entre-wellon-e-uefs-aplica-inteligencia-artificial-para-reduzir-faltas-em-consultas-em-ate-50/"
+      "link": "https://saudedigitalnews.com.br/10/09/2026/tecnologias-de-inteligencia-artificial-ampliam-apoio-ao-atendimento-medico-em-domicilio/"
     },
     {
-      "titulo": "UTI Inteligente do Rio de Janeiro é conectada à Central de Comando nacional do SUS",
-      "resumo": "Rede chega a seis hospitais e 60 leitos que transmitem sinais vitais em tempo real para o HC-FMUSP.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/uti-inteligente-no-rio-de-janeiro-rj-esta-conectada-a-central-de-comando-nacional-do-sus"
-    },
-    {
-      "titulo": "Brasil tem três hospitais entre os cinco melhores da América Latina",
-      "resumo": "Ranking IntelLat 2026 coloca o Einstein em primeiro, com Sírio-Libanês e Moinhos de Vento também no topo.",
+      "titulo": "Inteligência artificial começa a tirar médicos das telas e devolver tempo aos pacientes",
+      "resumo": "Documentação clínica automática organiza a consulta e produz versões preliminares do prontuário para revisão do médico.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/11/09/2026/brasil-tem-tres-hospitais-entre-os-cinco-melhores-da-america-latina-segundo-ranking-intellat-2026/"
+      "link": "https://saudedigitalnews.com.br/09/09/2026/inteligencia-artificial-comeca-a-tirar-medicos-das-telas-e-devolver-tempo-aos-pacientes/"
     },
     {
-      "titulo": "Vyro recebe R$ 1,2 milhão da Fapesp para avançar em plataforma de tratamento oncológico",
-      "resumo": "Aporte público financia o desenvolvimento da plataforma da healthtech voltada ao tratamento de câncer.",
+      "titulo": "Open Health e IA fortalecem a medicina preventiva e personalizada",
+      "resumo": "Compartilhamento de dados entre instituições somado a modelos preditivos amplia prevenção e personalização do cuidado.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/11/09/2026/vyro-recebe-aporte-de-mais-de-r-1-2-milhao-da-fapesp-para-avancar-em-plataforma-de-tratamento-oncologico/"
+      "link": "https://saudedigitalnews.com.br/08/09/2026/open-health-e-ia-fortalecem-a-medicina-preventiva-e-personalizada/"
     },
     {
-      "titulo": "Varejo farmacêutico movimenta R$ 130,2 bilhões no primeiro semestre",
-      "resumo": "Setor cresceu 10,1% de janeiro a junho, segundo levantamento da Abafarma divulgado nesta semana.",
+      "titulo": "Qual o limite do uso de IA na área da saúde",
+      "resumo": "Análise discute onde termina o apoio legítimo à decisão clínica e onde começa o risco ao paciente.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/11/09/2026/varejo-farmaceutico-movimenta-r-1302-bilhoes-no-1o-semestre-e-cresce-101-aponta-abafarma/"
+      "link": "https://saudedigitalnews.com.br/01/09/2026/qual-o-limite-do-uso-de-ia-na-area-da-saude/"
+    },
+    {
+      "titulo": "IA não conserta o pronto-socorro, mas pode ajudar o resto do sistema",
+      "resumo": "Escribas digitais aliviam a burocracia do plantão, porém não resolvem superlotação nem gargalos de leito.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/09/09/scribe-emergency-room-fix-health-care-ai-prognosis/"
     }
   ]
 }
