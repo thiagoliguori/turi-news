@@ -1,49 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-09-13",
-  "geradoEm": "2026-09-13T10:26:42-03:00",
+  "data": "2026-09-14",
+  "geradoEm": "2026-09-14T10:54:27-03:00",
   "itens": [
     {
-      "titulo": "ARPA-H investe US$ 62 milhões em IA autônoma para tratar insuficiência cardíaca",
-      "resumo": "Programa quer chegar a dispositivos parcialmente autônomos autorizados pelo FDA, com Tempus, UpDoc, Stanford e Duke.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/09/arpa-h-advocate-program-autonomous-ai-bots-for-heart-failure/"
-    },
-    {
-      "titulo": "Piloto TEMPO do FDA libera dispositivos de IA generativa antes da autorização de mercado",
-      "resumo": "Produtos da Cadence e da Limbic estão entre os quatro aceitos para uso real sob acompanhamento da agência.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/"
-    },
-    {
-      "titulo": "FDA abre consulta pública sobre como regular dispositivos com IA generativa",
-      "resumo": "Documento discute avaliação de risco, análise pré-mercado e monitoramento pós-mercado; comentários vão até 19 de outubro.",
-      "veiculo": "FDA",
-      "link": "https://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices"
-    },
-    {
-      "titulo": "OpenEvidence lança nova família de modelos de IA voltada a médicos",
-      "resumo": "Empresa aposta em modelos próprios para consulta clínica baseada em evidência dentro do fluxo de trabalho.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/03/openevidence-launches-new-ai-models-clinicians-health-tech/"
-    },
-    {
-      "titulo": "ChatGPT Health passa a importar dados de pacientes do prontuário Epic",
-      "resumo": "Integração dá ao médico acesso somente leitura a notas, exames e medicações para consultar dentro do ChatGPT.",
-      "veiculo": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/"
-    },
-    {
-      "titulo": "Implicity capta US$ 40 milhões para monitoramento cardíaco remoto com IA",
-      "resumo": "Rodada liderada pela IRIS financia expansão comercial nos Estados Unidos e na Europa.",
+      "titulo": "Inspiren capta US$ 70 milhões para plataforma de IA em moradias assistidas",
+      "resumo": "Série C leva a empresa a mais de US$ 500 milhões de valuation e 225 milhões captados.",
       "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/implicity-raises-40m-ai-remote-cardiac-monitoring"
+      "link": "https://www.mobihealthnews.com/news/inspiren-raises-70m-ai-senior-care-platform"
     },
     {
-      "titulo": "CMS define pilares de IA clínica enquanto médicos debatem os riscos",
-      "resumo": "Agência quer confiança pública, interoperabilidade, caminho regulatório mais claro e modelos de reembolso para IA.",
+      "titulo": "Apple compra a Sonera, startup de sensores biomagnéticos do cérebro",
+      "resumo": "Tecnologia mede campos magnéticos sem contato com a pele e pode virar recurso de saúde no Watch.",
+      "veiculo": "MacRumors",
+      "link": "https://www.macrumors.com/2026/09/08/apple-acquires-sonera/"
+    },
+    {
+      "titulo": "Suki cria rede de pesquisa para gerar evidência clínica sobre IA ambiental",
+      "resumo": "Colaborativo reúne hospitais e universidades para estudar implementação, fluxo de trabalho e uso em especialidades.",
       "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/health-tech/ctas-dc-healthcare-event-federal-officials-outline-ai-ambitions-clinicians-debate-risks"
+      "link": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-cleveland-clinic-taps-luminai-ai-automation-apple-expands-health-and"
+    },
+    {
+      "titulo": "MD Integrations capta US$ 77 milhões em nova rodada de saúde digital",
+      "resumo": "Plataforma de telessaúde white label recebe aporte da Updata Partners e da Denali Growth Partners.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/md-integration-scores-77m-and-more-digital-health-funding"
+    },
+    {
+      "titulo": "IA sozinha pode superar tanto o médico quanto o médico assistido por IA",
+      "resumo": "Emanuel e Baker-Butler defendem que sistemas autônomos devem liderar cinco tarefas cognitivas centrais da medicina.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/09/09/ai-medicine-assisted-physicians-research-autonomy/"
+    },
+    {
+      "titulo": "Nature Medicine propõe ensaios clínicos para sistemas de IA que se atualizam sozinhos",
+      "resumo": "Artigo separa o monitoramento próprio do modelo daquele feito pela governança do estudo clínico.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/articles/s41591-026-04368-9"
+    },
+    {
+      "titulo": "Governo dos EUA aposta em IA para hospitais rurais enquanto o Senado sabatina indicados",
+      "resumo": "Lideranças rurais temem que o investimento em IA aprofunde a desigualdade entre cidades e interior.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/09/10/ai-rural-health-hospitals-chris-klomp-nicole-saphier-senate-hearings/"
     }
   ]
 }
