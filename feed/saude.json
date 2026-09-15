@@ -1,49 +1,49 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-09-14",
-  "geradoEm": "2026-09-14T10:54:23-03:00",
+  "data": "2026-09-15",
+  "geradoEm": "2026-09-15T16:16:09-03:00",
   "itens": [
     {
-      "titulo": "ANS vai ampliar uso de IA e alerta para uso indevido pelas operadoras",
-      "resumo": "Agência quer usar IA internamente e estuda regras; negar procedimento não pode ser decisão de algoritmo.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/ans-ampliar-inteligencia-artificial/"
+      "titulo": "Governo aciona Google contra 97 perfis com médicos falsos criados por IA",
+      "resumo": "AGU notifica YouTube para remover ou rotular vídeos com avatares que se passam por médicos e prometem curas.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/governo-identifica-97-medicos-falsos-de-ia-no-youtube-e-aciona-google"
     },
     {
-      "titulo": "Uso de IA nos hospitais latino-americanos avança para aplicações clínicas",
-      "resumo": "Apoio ao diagnóstico aparece em 61% dos casos e análise de imagens médicas em 42% dos hospitais.",
+      "titulo": "Inteligência artificial na saúde: o desafio já não é adotar, mas gerar valor",
+      "resumo": "Instituições acumulam pilotos e a régua passa a ser impacto clínico e financeiro mensurável.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/04/09/2026/uso-de-ia-nos-hospitais-latino-americanos-avanca-para-aplicacoes-clinicas/"
+      "link": "https://saudedigitalnews.com.br/14/09/2026/inteligencia-artificial-na-saude-o-desafio-ja-nao-e-adotar-a-tecnologia-mas-gerar-valor-com-ela/"
     },
     {
-      "titulo": "Tecnologias de inteligência artificial ampliam apoio ao atendimento médico em domicílio",
-      "resumo": "Ferramentas passam a apoiar monitoramento e decisão clínica no home care, com foco em risco e continuidade.",
+      "titulo": "No mar da inteligência artificial, até onde o médico deve mergulhar?",
+      "resumo": "Artigo discute o grau de autonomia que o médico pode delegar a ferramentas de IA na prática.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/10/09/2026/tecnologias-de-inteligencia-artificial-ampliam-apoio-ao-atendimento-medico-em-domicilio/"
+      "link": "https://saudedigitalnews.com.br/11/09/2026/no-mar-da-inteligencia-artificial-ate-onde-o-medico-deve-mergulhar/"
     },
     {
-      "titulo": "Inteligência artificial começa a tirar médicos das telas e devolver tempo aos pacientes",
-      "resumo": "Documentação clínica automática organiza a consulta e produz versões preliminares do prontuário para revisão do médico.",
+      "titulo": "IA para todos, vantagem para poucos",
+      "resumo": "Acesso amplo a modelos não garante diferencial; o ganho está nos dados e no processo de cada instituição.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/09/09/2026/inteligencia-artificial-comeca-a-tirar-medicos-das-telas-e-devolver-tempo-aos-pacientes/"
+      "link": "https://saudedigitalnews.com.br/10/09/2026/ia-para-todos-vantagem-para-poucos/"
     },
     {
-      "titulo": "Open Health e IA fortalecem a medicina preventiva e personalizada",
-      "resumo": "Compartilhamento de dados entre instituições somado a modelos preditivos amplia prevenção e personalização do cuidado.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/08/09/2026/open-health-e-ia-fortalecem-a-medicina-preventiva-e-personalizada/"
-    },
-    {
-      "titulo": "Qual o limite do uso de IA na área da saúde",
-      "resumo": "Análise discute onde termina o apoio legítimo à decisão clínica e onde começa o risco ao paciente.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/01/09/2026/qual-o-limite-do-uso-de-ia-na-area-da-saude/"
-    },
-    {
-      "titulo": "IA não conserta o pronto-socorro, mas pode ajudar o resto do sistema",
-      "resumo": "Escribas digitais aliviam a burocracia do plantão, porém não resolvem superlotação nem gargalos de leito.",
+      "titulo": "Documentos expõem falhas no piloto de IA do Medicare para autorização prévia",
+      "resumo": "Lançamento apressado do programa WISeR gerou atrasos no cuidado, segundo documentos internos obtidos pela reportagem.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/09/scribe-emergency-room-fix-health-care-ai-prognosis/"
+      "link": "https://www.statnews.com/2026/09/15/medicare-wiser-ai-prior-authorization-pilot-rushed-launch-delayed-care/"
+    },
+    {
+      "titulo": "FDA autoriza algoritmo de ECG que detecta infarto despercebido",
+      "resumo": "O Queen of Hearts identifica oclusão coronariana que o traçado convencional costuma deixar passar.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/09/11/fda-new-ekg-heart-attack-detection-algo-queen-of-hearts/"
+    },
+    {
+      "titulo": "ARPA-H investe US$ 62 milhões em agentes autônomos de IA para insuficiência cardíaca",
+      "resumo": "Programa quer sistemas que acompanhem e ajustem o tratamento de pacientes crônicos entre consultas.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/09/09/arpa-h-advocate-program-autonomous-ai-bots-for-heart-failure/"
     }
   ]
 }
