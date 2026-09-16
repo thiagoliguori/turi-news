@@ -1,79 +1,49 @@
 {
   "fonte": "A saúde em News",
   "data": "2026-09-16",
-  "geradoEm": "2026-09-16T09:10:53-03:00",
+  "geradoEm": "2026-09-16T20:33:44-03:00",
   "itens": [
     {
-      "titulo": "Anvisa aprova novos genéricos de liraglutida para diabetes e obesidade",
-      "resumo": "Com a queda de patentes, a Anvisa somou 14 canetas para diabetes e obesidade em 2026, ampliando concorrência e acesso.",
-      "veiculo": "O Tempo",
-      "link": "https://www.otempo.com.br/saude-e-bem-estar/2026/9/14/anvisa-aprova-12-novas-canetas-para-diabetes-e-obesidade-em-2026-confira-opcoes-e-precos"
+      "titulo": "Regulação da IA pelo CFM preocupa empresas e entidades do setor",
+      "resumo": "Resolução 2.454/2026 em vigor gera dúvidas sobre responsabilidade, classificação de risco e adoção de ferramentas clínicas.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/regulacao-ia-cfm/"
     },
     {
-      "titulo": "IA na saúde: o desafio já não é adotar a tecnologia, mas gerar valor com ela",
-      "resumo": "Debate do setor migra da adoção de IA para a entrega de valor: ganho operacional, redução de custo e desfecho clínico.",
+      "titulo": "IA usa hemograma para prever risco de recidiva do câncer de mama",
+      "resumo": "Modelo analisa exame de rotina e estima a chance de retorno do tumor a partir de dados já disponíveis.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/saude-digital-edicao35/"
+    },
+    {
+      "titulo": "Só 4% dos brasileiros recorreriam à IA em uma crise de ansiedade forte",
+      "resumo": "Levantamento mostra o limite da confiança em chatbots quando o sofrimento psíquico é agudo.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/ia-ansiedade/"
+    },
+    {
+      "titulo": "IA nos hospitais latino-americanos avança para aplicações clínicas",
+      "resumo": "88% das instituições pesquisadas já citam ao menos um uso clínico, além de chatbots e tarefas administrativas.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/ia-hospitais-latino-americanos/"
+    },
+    {
+      "titulo": "Parceria entre Wellon e UEFS usa IA para reduzir faltas em consultas",
+      "resumo": "Projeto baiano prevê queda de até 50% no absenteísmo ao antecipar quais pacientes tendem a faltar.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/14/09/2026/inteligencia-artificial-na-saude-o-desafio-ja-nao-e-adotar-a-tecnologia-mas-gerar-valor-com-ela/"
+      "link": "https://saudedigitalnews.com.br/09/09/2026/parceria-entre-wellon-e-uefs-aplica-inteligencia-artificial-para-reduzir-faltas-em-consultas-em-ate-50/"
     },
     {
-      "titulo": "Setor de saúde mantém recuperação no 2º tri, mas Oncoclínicas e Hapvida seguem pressionadas",
-      "resumo": "Balanços do 2º tri mostram cenário desigual: Rede D'Or e Fleury avançam enquanto Oncoclínicas e Hapvida sentem a pressão de custos.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/mercado-resultados-segundo-trimestre-2026-recuperacao/"
+      "titulo": "Pesquisa revela gargalo na integração de dados em hospital privado",
+      "resumo": "Sistemas isolados travam projetos de IA e limitam o aproveitamento clínico das informações já coletadas.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/14/09/2026/pesquisa-revela-gargalo-na-integracao-de-dados-em-hospital-privado/"
     },
     {
-      "titulo": "Saúde suplementar registra lucro de R$ 8,5 bilhões no primeiro semestre de 2026",
-      "resumo": "Dados da ANS mostram receita acima de R$ 173 bilhões e lucro de R$ 8,5 bilhões, com 53 milhões de beneficiários no semestre.",
-      "veiculo": "Biored Brasil / ANS",
-      "link": "https://www.bioredbrasil.com.br/ans-saude-suplementar-lucro-2026/"
-    },
-    {
-      "titulo": "CFM regulamenta o uso de inteligência artificial na medicina (Resolução 2.454/2026)",
-      "resumo": "Primeira norma do CFM dedicada à IA define governança e mantém o médico como responsável final pela decisão clínica.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/eval-ia-corporativa/"
-    },
-    {
-      "titulo": "Mercado prevê maior apetite de investimento em healthtechs brasileiras em 2026",
-      "resumo": "Com juros em queda, expectativa é de mais rodadas e cheques maiores para healthtechs com produto validado.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/investimentos-healthtechs-2026/"
-    },
-    {
-      "titulo": "Ministério da Saúde abre chamamento público para soluções em saúde digital no SUS",
-      "resumo": "Governo lança edital para impulsionar soluções inovadoras de saúde digital no SUS, com foco em pesquisa e interoperabilidade.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/saude-digital-sus/"
-    },
-    {
-      "titulo": "Indústria farmacêutica movimenta R$ 230 bilhões e projeta crescimento de até 14%",
-      "resumo": "Setor farmacêutico projeta novo ciclo de investimentos, com vendas online em alta e envelhecimento populacional como motor.",
-      "veiculo": "Brasil 247",
-      "link": "https://www.brasil247.com/saude/industria-farmaceutica-movimenta-r-230-bilhoes-e-projeta-crescimento-de-ate-14-no-brasil/"
-    },
-    {
-      "titulo": "Healthcare Innovation Show 2026 reúne o mercado de tecnologia em saúde",
-      "resumo": "Evento reúne executivos, médicos e lideranças para debater eficiência, IA e transformação digital na saúde nesta semana.",
-      "veiculo": "Saúde Business",
-      "link": "https://www.saudebusiness.com/eventos-3/healthcare-innovation-show/his-2026-reunira-mercado-de-tecnologia-em-saude-para-debater-eficiencia-e-transformacao-digital/"
-    },
-    {
-      "titulo": "Fraudes e desperdício custam mais de R$ 30 bilhões por ano à saúde suplementar",
-      "resumo": "Estudos do IESS estimam perda anual acima de R$ 30 bilhões com fraude e desperdício, pressionando a sinistralidade.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/sustentabilidade-convenios/"
-    },
-    {
-      "titulo": "ANS aprova reajuste de planos de saúde para 2026",
-      "resumo": "ANS definiu reajuste máximo de até 5,52% para medicina de grupo e 6,2% para seguradoras especializadas em saúde.",
-      "veiculo": "CQCS",
-      "link": "https://cqcs.com.br/noticia/reajuste-de-plano-de-saude-2026-e-aprovado-pela-ans-veja-as-novas-regras/"
-    },
-    {
-      "titulo": "IA avança como motor de crescimento na saúde em 2026, aponta Deloitte",
-      "resumo": "Relatório da Deloitte aponta a inteligência artificial como principal alavanca de crescimento e eficiência do setor em 2026.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/tendencia-da-saude-2026-deloitte/"
+      "titulo": "IA na saúde rural: transformação real ou promessa cara demais",
+      "resumo": "Hospitais rurais americanos temem que a tecnologia amplie a desigualdade em relação aos grandes centros.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/09/10/rural-health-care-ai-adoption-challenges-part-4-unraveled-series/"
     }
   ]
 }
