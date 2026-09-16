@@ -1,49 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-09-15",
-  "geradoEm": "2026-09-15T16:16:13-03:00",
+  "data": "2026-09-16",
+  "geradoEm": "2026-09-16T20:33:49-03:00",
   "itens": [
     {
-      "titulo": "FDA cria piloto que libera dispositivos de IA generativa antes da autorização",
-      "resumo": "Programa TEMPO aceitou quatro produtos, entre eles Cadence e Limbic, para uso monitorado no mundo real.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/"
-    },
-    {
-      "titulo": "FDA abre consulta pública sobre regulação de dispositivos com IA generativa",
-      "resumo": "Agência recebe contribuições até 19 de outubro para definir como avaliar modelos generativos em produtos médicos.",
-      "veiculo": "FDA",
-      "link": "https://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices"
-    },
-    {
-      "titulo": "Reino Unido divulga recomendações para regular IA na medicina",
-      "resumo": "Comissão britânica propõe novo arcabouço de supervisão para ferramentas clínicas baseadas em inteligência artificial.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/09/uk-unveils-recommendations-ai-regulation-medicine/"
-    },
-    {
-      "titulo": "Modelos de uso geral superam ferramentas clínicas especializadas em perguntas de médicos",
-      "resumo": "Comparação coloca LLMs de fronteira à frente de OpenEvidence e UpToDate Expert AI em dúvidas reais.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04457-9"
-    },
-    {
-      "titulo": "Avaliação prospectiva de LLM no pronto-socorro mostra adoção em queda",
-      "resumo": "Apoio à decisão foi integrado com segurança, mas o uso caiu ao longo de quatro semanas.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04601-5"
-    },
-    {
-      "titulo": "Qualified Health capta US$ 125 milhões para escalar IA em sistemas de saúde",
-      "resumo": "Empresa atende 400 mil usuários e cerca de 5% da receita hospitalar dos Estados Unidos.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/qualified-health-locks-125m-fresh-funding-scale-ai-health-systems"
-    },
-    {
-      "titulo": "Tandem Health capta US$ 100 milhões para expandir IA clínica na Europa",
-      "resumo": "Rodada eleva o total captado pela empresa e financia a entrada em novos mercados europeus.",
+      "titulo": "OpenAI conecta o ChatGPT aos prontuários do Epic",
+      "resumo": "Médicos podem levar o contexto do paciente para o chat ou usar o modelo dentro do prontuário, sem escrita no registro.",
       "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/tandem-health-raises-100m-expand-clinical-ai-across-europe"
+      "link": "https://www.mobihealthnews.com/news/openai-connects-chatgpt-epic-ehrs"
+    },
+    {
+      "titulo": "OpenEvidence lança nova família de modelos de IA para médicos",
+      "resumo": "Modelos Osler, Sackett e Snow oferecem desde respostas rápidas até revisões mais profundas de evidência.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/09/03/openevidence-launches-new-ai-models-clinicians-health-tech/"
+    },
+    {
+      "titulo": "Owkin licencia cientista de IA e dados de pacientes à Servier",
+      "resumo": "Farmacêutica francesa usará a plataforma K Pro em descoberta de alvos, biomarcadores e desenho de ensaios em oncologia.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/owkin-licenses-ai-scientist-patient-data-servier-oncology-research"
+    },
+    {
+      "titulo": "Inspiren capta US$ 70 milhões para IA física em moradias de idosos",
+      "resumo": "Sensores e visão computacional tentam prever quedas antes que aconteçam; avaliação passa de US$ 500 milhões.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/inspiren-raises-70m-ai-senior-care-platform"
+    },
+    {
+      "titulo": "GenHealth.ai levanta US$ 16,5 milhões para agentes de retaguarda",
+      "resumo": "Agentes executam ciclo de receita ponta a ponta entre prontuário e portais de operadoras, da elegibilidade às glosas.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/finance/genhealthai-secures-165m-series-back-office-ai-agents"
+    },
+    {
+      "titulo": "Agentes AMIE e MIRA ampliam a capacidade da IA médica",
+      "resumo": "Dois modelos agênticos apoiam diagnóstico, tratamento e internação, mas nenhum está pronto para uso clínico real.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/articles/d41591-026-00034-2"
+    },
+    {
+      "titulo": "Lições de um dos primeiros ensaios randomizados de IA na medicina",
+      "resumo": "Análise mostra a distância entre desempenho do algoritmo e desfecho clínico efetivo para o paciente.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/articles/s41591-026-04633-x"
     }
   ]
 }
