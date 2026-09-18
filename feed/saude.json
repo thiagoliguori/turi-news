@@ -1,49 +1,49 @@
 {
   "fonte": "A saúde em News",
   "data": "2026-09-18",
-  "geradoEm": "2026-09-18T09:46:29-03:00",
+  "geradoEm": "2026-09-18T13:57:41-03:00",
   "itens": [
     {
-      "titulo": "SUS ganha central que monitora UTIs inteligentes em seis capitais",
-      "resumo": "Central no HC-FMUSP acompanha 24 horas por dia 60 leitos conectados em Manaus, Recife, Brasília, BH, Rio e Porto Alegre.",
-      "veiculo": "Agência Gov",
-      "link": "https://agenciagov.ebc.com.br/noticias/202609/ministerio-da-saude-apresenta-central-de-comando-das-utis-inteligentes-do-sus"
+      "titulo": "Entidades da saúde pedem suspensão da resolução de IA do CFM",
+      "resumo": "Dez organizações querem revogar a Resolução 2.454 e construir nova norma com consulta pública e análise de impacto.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/16/09/2026/regulacao-da-ia-pelo-cfm-preocupa-empresas-e-entidades-da-saude/"
     },
     {
-      "titulo": "Governo aciona o Google contra 97 perfis de médicos falsos criados com IA",
-      "resumo": "Avatares simulam especialistas no YouTube e prometem curas sem comprovação científica, segundo força-tarefa federal.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/governo-identifica-97-medicos-falsos-de-ia-no-youtube-e-aciona-google"
+      "titulo": "Healthtech de Santa Catarina faz laudo neurológico em 60 segundos",
+      "resumo": "A QNeuroAI, de Joinville, analisa exames neurológicos em pouco mais de um minuto e quer atender o SUS.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/17/09/2026/healthtech-de-sc-faz-laudo-de-exames-neurologicos-em-60-segundos-e-quer-ser-aliada-do-sus/"
     },
     {
-      "titulo": "Dois em cada três médicos brasileiros já usam ferramentas de IA",
-      "resumo": "Pesquisa com 196 profissionais aponta apoio à decisão clínica como principal uso e custo como maior barreira.",
+      "titulo": "Hapvida passa de 600 mil consultas transcritas por IA no ano",
+      "resumo": "Sistema próprio de voz gerou 604 mil anamneses de janeiro a maio e avança para Minas Gerais e Bahia.",
       "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/medicos-ia-estudo/"
+      "link": "https://medicinasa.com.br/hapvida-ia/"
     },
     {
-      "titulo": "Estudo da Philips aponta que 51% viram ganho de capacidade com IA",
-      "resumo": "Profissionais brasileiros também relatam que a tecnologia ajudou a identificar ou evitar erros médicos.",
+      "titulo": "IA em hospitais latino-americanos migra para aplicações clínicas",
+      "resumo": "Entre os que adotam a tecnologia, 88% já têm ao menos um uso clínico, liderado pelo apoio ao diagnóstico.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/ia-hospitais-latino-americanos/"
+    },
+    {
+      "titulo": "IA reduz em até 50% as faltas em consultas na Bahia",
+      "resumo": "Parceria entre a healthtech Wellon e a UEFS prevê risco de absenteísmo e reorganiza a agenda das unidades.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/16/09/2026/51-dos-profissionais-de-saude-no-brasil-afirmam-que-a-ia-aumentou-sua-capacidade-de-atendimento-aponta-estudo-da-philips/"
+      "link": "https://saudedigitalnews.com.br/09/09/2026/parceria-entre-wellon-e-uefs-aplica-inteligencia-artificial-para-reduzir-faltas-em-consultas-em-ate-50/"
     },
     {
-      "titulo": "Voa Health amplia agente de IA para tarefas da rotina médica",
-      "resumo": "Modelo Charcot passa a calcular escores clínicos e preencher guias do SUS e de operadoras.",
+      "titulo": "Faculdade Sírio-Libanês firma acordo com Stanford sobre IA no ensino médico",
+      "resumo": "Colaboração inédita vai estudar como a inteligência artificial muda o ensino e a avaliação de estudantes de medicina.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/16/09/2026/voa-health-amplia-seu-agente-de-apoio-clinico-para-executar-tarefas-da-rotina-medica/"
+      "link": "https://saudedigitalnews.com.br/04/09/2026/faculdade-sirio-libanes-firma-acordo-de-colaboracao-inedito-com-stanford-para-estudar-ia-na-formacao-medica/"
     },
     {
-      "titulo": "Neurocalc une IA em imagens e gamificação na rotina médica",
-      "resumo": "Plataforma brasileira combina apoio ao diagnóstico por imagem com aprendizado para residentes e estudantes de medicina.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/15/09/2026/neurocalc-lanca-plataforma-e-aplicativo-ineditos-que-unem-ia-em-imagens-e-gamificacao-para-a-rotina-medica/"
-    },
-    {
-      "titulo": "IA multimodal supera biomarcadores para prever resposta à imunoterapia",
-      "resumo": "Estudo internacional em câncer de pulmão mostra ganho na decisão médica, mas generalização segue como desafio.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04488-2"
+      "titulo": "Avatares de IA para a saúde rural dividem gestores nos EUA",
+      "resumo": "Chefe do Medicare defende a tecnologia para o interior, mas lideranças locais temem ampliar desigualdades de acesso.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/09/10/health-news-oz-says-ai-based-avatars-can-help-rural-communities-despite-skepticism/"
     }
   ]
 }
