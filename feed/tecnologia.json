@@ -1,49 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-09-16",
-  "geradoEm": "2026-09-16T20:33:49-03:00",
+  "data": "2026-09-18",
+  "geradoEm": "2026-09-18T09:46:33-03:00",
   "itens": [
     {
-      "titulo": "OpenAI conecta o ChatGPT aos prontuários do Epic",
-      "resumo": "Médicos podem levar o contexto do paciente para o chat ou usar o modelo dentro do prontuário, sem escrita no registro.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/openai-connects-chatgpt-epic-ehrs"
+      "titulo": "FDA abre consulta pública sobre dispositivos médicos com IA generativa",
+      "resumo": "Agência quer contribuições sobre avaliação de risco e revisão pré-mercado até 19 de outubro.",
+      "veiculo": "FDA",
+      "link": "https://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices"
     },
     {
-      "titulo": "OpenEvidence lança nova família de modelos de IA para médicos",
-      "resumo": "Modelos Osler, Sackett e Snow oferecem desde respostas rápidas até revisões mais profundas de evidência.",
+      "titulo": "Documentos revelam falhas no piloto de pré-autorização com IA do Medicare",
+      "resumo": "Registros internos mostram lançamento apressado do programa que usa algoritmos para autorizar procedimentos.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/03/openevidence-launches-new-ai-models-clinicians-health-tech/"
+      "link": "https://www.statnews.com/2026/09/15/medicare-ai-prior-authorization-pilot-problems-health-tech/"
     },
     {
-      "titulo": "Owkin licencia cientista de IA e dados de pacientes à Servier",
-      "resumo": "Farmacêutica francesa usará a plataforma K Pro em descoberta de alvos, biomarcadores e desenho de ensaios em oncologia.",
+      "titulo": "IA autônoma pode superar até o médico assistido por IA, diz artigo",
+      "resumo": "Ezekiel Emanuel argumenta que modelos devem exceder humanos em cinco tarefas cognitivas centrais da medicina.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/09/09/ai-medicine-assisted-physicians-research-autonomy/"
+    },
+    {
+      "titulo": "Assort Health capta US$ 120 milhões e chega a US$ 1,2 bilhão de avaliação",
+      "resumo": "Rodada liderada pela Menlo Ventures expande agentes de voz para toda a jornada do paciente.",
       "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/owkin-licenses-ai-scientist-patient-data-servier-oncology-research"
+      "link": "https://www.mobihealthnews.com/news/assort-health-lands-120m-scale-patient-journey-ai-agents"
     },
     {
-      "titulo": "Inspiren capta US$ 70 milhões para IA física em moradias de idosos",
-      "resumo": "Sensores e visão computacional tentam prever quedas antes que aconteçam; avaliação passa de US$ 500 milhões.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/inspiren-raises-70m-ai-senior-care-platform"
+      "titulo": "Tandem Health levanta US$ 100 milhões para IA clínica na Europa",
+      "resumo": "Sueca usada por 10 mil organizações em 14 países quer virar sistema operacional da clínica.",
+      "veiculo": "The Next Web",
+      "link": "https://thenextweb.com/news/tandem-health-100m-series-b-scaleup-europe-fund"
     },
     {
-      "titulo": "GenHealth.ai levanta US$ 16,5 milhões para agentes de retaguarda",
-      "resumo": "Agentes executam ciclo de receita ponta a ponta entre prontuário e portais de operadoras, da elegibilidade às glosas.",
+      "titulo": "Oracle Health estende agente de IA clínica a enfermeiros de internação",
+      "resumo": "Primeiros adotantes relatam queda no tempo gasto com registros em prontuário durante os plantões.",
       "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/finance/genhealthai-secures-165m-series-back-office-ai-agents"
+      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/oracle-health-extends-clinical-ai-agent-inpatient-nurses"
     },
     {
-      "titulo": "Agentes AMIE e MIRA ampliam a capacidade da IA médica",
-      "resumo": "Dois modelos agênticos apoiam diagnóstico, tratamento e internação, mas nenhum está pronto para uso clínico real.",
+      "titulo": "Modelos de uso geral superam ferramentas clínicas especializadas",
+      "resumo": "Comparação da NYU Langone mostra LLMs generalistas com melhor desempenho em questões médicas de referência.",
       "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/d41591-026-00034-2"
-    },
-    {
-      "titulo": "Lições de um dos primeiros ensaios randomizados de IA na medicina",
-      "resumo": "Análise mostra a distância entre desempenho do algoritmo e desfecho clínico efetivo para o paciente.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04633-x"
+      "link": "https://www.nature.com/articles/s41591-026-04431-5"
     }
   ]
 }
