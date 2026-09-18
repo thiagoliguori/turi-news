@@ -1,49 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
   "data": "2026-09-18",
-  "geradoEm": "2026-09-18T09:46:33-03:00",
+  "geradoEm": "2026-09-18T13:57:46-03:00",
   "itens": [
     {
-      "titulo": "FDA abre consulta pública sobre dispositivos médicos com IA generativa",
-      "resumo": "Agência quer contribuições sobre avaliação de risco e revisão pré-mercado até 19 de outubro.",
-      "veiculo": "FDA",
-      "link": "https://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices"
-    },
-    {
-      "titulo": "Documentos revelam falhas no piloto de pré-autorização com IA do Medicare",
-      "resumo": "Registros internos mostram lançamento apressado do programa que usa algoritmos para autorizar procedimentos.",
+      "titulo": "ARPA-H investe US$ 62,7 milhões em agentes de IA para insuficiência cardíaca",
+      "resumo": "Programa ADVOCATE quer sistemas autorizados pelo FDA que ajustem medicação e acionem a equipe clínica quando necessário.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/15/medicare-ai-prior-authorization-pilot-problems-health-tech/"
+      "link": "https://www.statnews.com/2026/09/09/arpa-h-advocate-program-autonomous-ai-bots-for-heart-failure/"
     },
     {
-      "titulo": "IA autônoma pode superar até o médico assistido por IA, diz artigo",
-      "resumo": "Ezekiel Emanuel argumenta que modelos devem exceder humanos em cinco tarefas cognitivas centrais da medicina.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/09/ai-medicine-assisted-physicians-research-autonomy/"
-    },
-    {
-      "titulo": "Assort Health capta US$ 120 milhões e chega a US$ 1,2 bilhão de avaliação",
-      "resumo": "Rodada liderada pela Menlo Ventures expande agentes de voz para toda a jornada do paciente.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/assort-health-lands-120m-scale-patient-journey-ai-agents"
-    },
-    {
-      "titulo": "Tandem Health levanta US$ 100 milhões para IA clínica na Europa",
-      "resumo": "Sueca usada por 10 mil organizações em 14 países quer virar sistema operacional da clínica.",
-      "veiculo": "The Next Web",
-      "link": "https://thenextweb.com/news/tandem-health-100m-series-b-scaleup-europe-fund"
-    },
-    {
-      "titulo": "Oracle Health estende agente de IA clínica a enfermeiros de internação",
-      "resumo": "Primeiros adotantes relatam queda no tempo gasto com registros em prontuário durante os plantões.",
+      "titulo": "Knowtex cria laboratório de fronteira para IA clínica",
+      "resumo": "Iniciativa avalia precisão e auditabilidade de ferramentas usadas por hospitais, começando pela oncologia.",
       "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/oracle-health-extends-clinical-ai-agent-inpatient-nurses"
+      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/knowtex-launches-frontier-healthcare-ai-lab"
     },
     {
-      "titulo": "Modelos de uso geral superam ferramentas clínicas especializadas",
-      "resumo": "Comparação da NYU Langone mostra LLMs generalistas com melhor desempenho em questões médicas de referência.",
+      "titulo": "Adoção de IA agêntica na saúde avança mais rápido que a governança",
+      "resumo": "Pesquisa da Imprivata aponta que 72% das organizações rodam ferramentas de IA sem aprovação formal da área de TI.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://www.healthcaredive.com/news/healthcares-agentic-ai-boom-is-outpacing-security-governance-report/830697/"
+    },
+    {
+      "titulo": "OpenAI conecta o ChatGPT aos prontuários da Epic",
+      "resumo": "Integração deixa o médico importar dados do prontuário em modo somente leitura, com piloto na UCSF Health.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/openai-connects-chatgpt-epic-ehrs"
+    },
+    {
+      "titulo": "Nature Medicine cobra evidência prospectiva para IA conversacional",
+      "resumo": "Autores argumentam que confiança clínica não se constrói em benchmarks e exige estudos em ambiente real.",
       "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04431-5"
+      "link": "https://www.nature.com/articles/s41591-026-04639-5"
+    },
+    {
+      "titulo": "Zocdoc passa a agendar consultas a partir de chatbots",
+      "resumo": "Plataforma abre marcação por assistentes de IA e sites de operadoras, enquanto o Medicare amplia o modelo ACCESS.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/09/17/zocdoc-for-chatbots-and-medicares-access-healh-tech/"
+    },
+    {
+      "titulo": "Inspiren capta US$ 70 milhões para IA em moradias de idosos",
+      "resumo": "Série C leva a avaliação acima de US$ 500 milhões; sensores e visão computacional tentam prever quedas.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/inspiren-raises-70m-ai-senior-care-platform"
     }
   ]
 }
