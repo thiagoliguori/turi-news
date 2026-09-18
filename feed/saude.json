@@ -1,79 +1,49 @@
 {
   "fonte": "A saúde em News",
   "data": "2026-09-18",
-  "geradoEm": "2026-09-18T09:27:09-03:00",
+  "geradoEm": "2026-09-18T09:46:29-03:00",
   "itens": [
     {
-      "titulo": "Norma do CFM sobre IA enfrenta nova contestação de entidades de saúde",
-      "resumo": "Dez entidades da saúde pedem a suspensão da Resolução 2.454 do CFM sobre IA por falta de consulta pública.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/norma-do-cfm-sobre-ia-enfrenta-nova-contestacao-de-entidades-de-saude/"
+      "titulo": "SUS ganha central que monitora UTIs inteligentes em seis capitais",
+      "resumo": "Central no HC-FMUSP acompanha 24 horas por dia 60 leitos conectados em Manaus, Recife, Brasília, BH, Rio e Porto Alegre.",
+      "veiculo": "Agência Gov",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/ministerio-da-saude-apresenta-central-de-comando-das-utis-inteligentes-do-sus"
     },
     {
-      "titulo": "Planos de saúde fecham primeiro semestre com lucro líquido de R$ 12,1 bilhões",
-      "resumo": "Operadoras lucram R$ 12,1 bi no semestre, mas ganho vem do financeiro e sinistralidade médica chega a 81,9%.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/planos-de-saude-fecham-primeiro-semestre-com-lucro-liquido-de-r-121-bilhoes/"
+      "titulo": "Governo aciona o Google contra 97 perfis de médicos falsos criados com IA",
+      "resumo": "Avatares simulam especialistas no YouTube e prometem curas sem comprovação científica, segundo força-tarefa federal.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/governo-identifica-97-medicos-falsos-de-ia-no-youtube-e-aciona-google"
     },
     {
-      "titulo": "Mamografia digital ganha cobertura sem restrição de idade nos planos de saúde",
-      "resumo": "ANS retira faixa etária e mamografia digital passa a ter cobertura obrigatória sem limite de idade em outubro.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/mamografia-digital-cobertura-planos-de-saude/"
+      "titulo": "Dois em cada três médicos brasileiros já usam ferramentas de IA",
+      "resumo": "Pesquisa com 196 profissionais aponta apoio à decisão clínica como principal uso e custo como maior barreira.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/medicos-ia-estudo/"
     },
     {
-      "titulo": "Anvisa propõe novas regras para reutilização de dispositivos médicos",
-      "resumo": "Anvisa abre quatro consultas públicas para rever o reuso de dispositivos médicos de uso único.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/anvisa-regras-reutilizacao-dispositivos-medicos/"
+      "titulo": "Estudo da Philips aponta que 51% viram ganho de capacidade com IA",
+      "resumo": "Profissionais brasileiros também relatam que a tecnologia ajudou a identificar ou evitar erros médicos.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/16/09/2026/51-dos-profissionais-de-saude-no-brasil-afirmam-que-a-ia-aumentou-sua-capacidade-de-atendimento-aponta-estudo-da-philips/"
     },
     {
-      "titulo": "INPI propõe revisão das regras de patentes na Lei de Propriedade Industrial",
-      "resumo": "INPI quer rever 17 pontos da lei de patentes, incluindo prazos e licenciamento compulsório de medicamentos.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/inpi-revisao-regras-de-patentes-busca-mudancas-na-lei-de-propriedade-industrial/"
+      "titulo": "Voa Health amplia agente de IA para tarefas da rotina médica",
+      "resumo": "Modelo Charcot passa a calcular escores clínicos e preencher guias do SUS e de operadoras.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/16/09/2026/voa-health-amplia-seu-agente-de-apoio-clinico-para-executar-tarefas-da-rotina-medica/"
     },
     {
-      "titulo": "Ministério prepara decreto da Estratégia Nacional de Saúde",
-      "resumo": "Governo prepara decreto para regulamentar o Complexo Industrial da Saúde e reduzir dependência de importados.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/ministerio-regulamentacao-estrategia-nacional-de-saude-publicacao-decreto/"
+      "titulo": "Neurocalc une IA em imagens e gamificação na rotina médica",
+      "resumo": "Plataforma brasileira combina apoio ao diagnóstico por imagem com aprendizado para residentes e estudantes de medicina.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/15/09/2026/neurocalc-lanca-plataforma-e-aplicativo-ineditos-que-unem-ia-em-imagens-e-gamificacao-para-a-rotina-medica/"
     },
     {
-      "titulo": "Compras conjuntas de hospitais filantrópicos iniciam com oncológicos",
-      "resumo": "Cade autoriza hospitais filantrópicos da Ahfip a comprar juntos, com economia estimada de até 25%.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/compras-conjuntas-de-hospitais-filantropicos-privados/"
-    },
-    {
-      "titulo": "Tratamentos, negativas e reajustes lideram a judicialização da saúde suplementar",
-      "resumo": "Pedidos de tratamento, negativas de cobertura e reajustes lideram as ações judiciais contra planos de saúde.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/tratamentos-planos-de-saude-reajustes-judicializacao-saude-suplementar/"
-    },
-    {
-      "titulo": "Combate ao câncer passa por redes mais integradas e soluções locais",
-      "resumo": "Especialistas defendem redes integradas e soluções locais para acelerar a jornada do paciente com câncer.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/combate-ao-cancer-redes-integradas-solucoes-locais/"
-    },
-    {
-      "titulo": "Oncológicos devem estar no SUS em menos de seis meses, estima Ministério",
-      "resumo": "Ministério estima distribuir novos oncológicos pelo SUS a partir de outubro, com oferta completa em seis meses.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/oncologicos-no-sus-em-menos-de-seis-meses/"
-    },
-    {
-      "titulo": "IA aprende a 'pensar' como médicos e melhora busca por câncer, mostra estudo",
-      "resumo": "Estudo treina IA com os movimentos de patologistas na análise de lâminas e melhora a detecção de câncer.",
-      "veiculo": "Exame",
-      "link": "https://exame.com/ciencia/ia-aprende-a-pensar-como-medicos-e-melhora-busca-por-cancer-mostra-estudo/"
-    },
-    {
-      "titulo": "Medicamento criado com IA reduz em até 6 anos a idade biológica",
-      "resumo": "Composto desenhado por IA reduziu marcadores de envelhecimento equivalentes a até seis anos em estudo pequeno.",
-      "veiculo": "Exame",
-      "link": "https://exame.com/ciencia/medicamento-criado-com-ia-reduz-em-ate-6-anos-a-idade-biologica/"
+      "titulo": "IA multimodal supera biomarcadores para prever resposta à imunoterapia",
+      "resumo": "Estudo internacional em câncer de pulmão mostra ganho na decisão médica, mas generalização segue como desafio.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/articles/s41591-026-04488-2"
     }
   ]
 }
