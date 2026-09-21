@@ -1,79 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
   "data": "2026-09-21",
-  "geradoEm": "2026-09-21T09:51:15-03:00",
+  "geradoEm": "2026-09-21T10:00:22-03:00",
   "itens": [
     {
-      "titulo": "Novo Nordisk fecha parceria com a Anthropic para acelerar a descoberta de medicamentos com IA",
-      "resumo": "Novo Nordisk usará a plataforma Claude Science, da Anthropic, para acelerar pesquisa e desenvolvimento de novos medicamentos.",
+      "titulo": "Tandem Health capta US$ 100 milhões para IA clínica na Europa",
+      "resumo": "Sueca quer virar sistema operacional do consultório, já presente em 14 países e mais de 10 mil organizações de saúde.",
       "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/novo-nordisk-anthropic-partner-ai-drug-discovery"
+      "link": "https://www.mobihealthnews.com/news/tandem-health-raises-100m-expand-clinical-ai-across-europe"
     },
     {
-      "titulo": "Nvidia e Abridge se unem para criar um modelo de IA específico para a saúde",
-      "resumo": "Nvidia e Abridge vão desenvolver juntas um modelo de IA para documentação clínica e raciocínio médico.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/nvidia-abridge-collaborate-develop-healthcare-specific-ai-model"
-    },
-    {
-      "titulo": "Google DeepMind apresenta o AI co-clinician, uma IA que atua ao lado do médico",
-      "resumo": "IA colaborativa combina raciocínio diagnóstico e análise de vídeo em tempo real, sob supervisão médica.",
-      "veiculo": "Google DeepMind",
-      "link": "https://deepmind.google/blog/ai-co-clinician/"
-    },
-    {
-      "titulo": "Epic lança ferramentas de IA para ambulatório e autorização prévia no seu encontro anual",
-      "resumo": "No UGM 2026, a Epic apresentou IA que resume dados clínicos e automatiza pedidos de autorização prévia.",
-      "veiculo": "Modern Healthcare",
-      "link": "https://www.modernhealthcare.com/health-tech/mh-epic-ugm-prior-authorization-ai-tools/"
-    },
-    {
-      "titulo": "OpenEvidence, o ChatGPT dos médicos, dobra a avaliação para US$ 12 bilhões",
-      "resumo": "Plataforma de apoio à decisão clínica é usada diariamente por mais de 40% dos médicos dos EUA.",
-      "veiculo": "CNBC",
-      "link": "https://www.cnbc.com/2026/01/21/openevidence-chatgpt-for-doctors-doubles-valuation-to-12-billion.html"
-    },
-    {
-      "titulo": "FDA abre consulta pública sobre como regular dispositivos médicos com IA generativa",
-      "resumo": "Agência americana busca feedback sobre risco e monitoramento de dispositivos com IA generativa.",
+      "titulo": "FDA abre consulta sobre como regular dispositivos com IA generativa",
+      "resumo": "Agência quer contribuições sobre alucinação, limites de uso e monitoramento pós-mercado; prazo termina em 19 de outubro.",
       "veiculo": "FDA",
       "link": "https://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices"
     },
     {
-      "titulo": "Adoção de IA em sistemas de saúde dos EUA salta para 75% e retorno dobra",
-      "resumo": "75% dos sistemas de saúde já usam IA e metade relata retorno de duas vezes o investimento.",
+      "titulo": "Epic estreia checagem instantânea de autorização prévia em quatro redes",
+      "resumo": "API mostra dentro do prontuário se o procedimento exige autorização, dispensando telefonema, fax e portal da operadora.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://www.healthcaredive.com/news/epic-debuts-instant-prior-authorization-checks-at-4-health-systems/828156/"
+    },
+    {
+      "titulo": "Modelos de uso geral superam ferramentas clínicas especializadas",
+      "resumo": "Estudo comparou OpenEvidence e UpToDate Expert AI com modelos de fronteira em provas médicas e consultas reais de médicos.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/articles/s41591-026-04431-5"
+    },
+    {
+      "titulo": "Adoção de IA dispara nos sistemas de saúde dos EUA, com mais retorno",
+      "resumo": "Pesquisa mostra 75% das organizações usando ou planejando plataformas de IA e executivos relatando ganho financeiro maior.",
       "veiculo": "Fierce Healthcare",
       "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/75-us-healthcare-systems-use-plan-use-ai-platform-2026"
     },
     {
-      "titulo": "IA acelera a autorização prévia, mas eleva custos dos sistemas de saúde, aponta relatório",
-      "resumo": "Relatório do PHTI mostra que a IA agiliza tarefas administrativas, mas pode aumentar despesas.",
-      "veiculo": "Fierce Healthcare / PHTI",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/ai-speeding-prior-authorizations-while-driving-higher-costs-health-systems"
+      "titulo": "GenHealth.ai levanta US$ 16,5 milhões para agentes no back office médico",
+      "resumo": "Agentes rodam elegibilidade, autorização prévia, faturamento e glosas dentro do prontuário e dos portais já usados pela clínica.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/genhealthai-raises-165m-expand-healthcare-ai-agents"
     },
     {
-      "titulo": "Eric Topol: a IA agêntica chega à medicina",
-      "resumo": "Topol analisa como agentes de IA autônomos começam a atuar em fluxos clínicos e o que isso exige de evidência.",
-      "veiculo": "Ground Truths (Eric Topol)",
-      "link": "https://erictopol.substack.com/p/agentic-ai-comes-to-medicine"
-    },
-    {
-      "titulo": "Nova resolução do CFM cria marco regulatório para a IA na prática médica no Brasil",
-      "resumo": "A Resolução CFM nº 2.454/2026 regula o uso de IA na medicina, com foco em responsabilidade e valor clínico.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/14/09/2026/inteligencia-artificial-na-saude-o-desafio-ja-nao-e-adotar-a-tecnologia-mas-gerar-valor-com-ela/"
-    },
-    {
-      "titulo": "Panorama da Saúde Digital 2026 aponta avanço da inteligência artificial no Brasil",
-      "resumo": "Levantamento indica que a IA deixou de ser tendência e virou infraestrutura essencial na saúde brasileira.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/edicao34/"
-    },
-    {
-      "titulo": "IA e saúde digital dominam o debate sobre eficiência hospitalar no HIS 2026",
-      "resumo": "No Healthcare Innovation Show 2026, especialistas discutiram IA para reduzir custos e melhorar a gestão hospitalar.",
-      "veiculo": "Saúde Business",
-      "link": "https://www.saudebusiness.com/eventos-3/healthcare-innovation-show/ia-e-saude-digital-no-centro-do-debate-sobre-eficiencia-hospitalar-no-his-2026/"
+      "titulo": "Hospitais americanos passam a exigir resultado concreto da IA",
+      "resumo": "Executivos dizem que a fase de piloto acabou e cobram ganho medido em tempo, custo e qualidade assistencial.",
+      "veiculo": "Chief Healthcare Executive",
+      "link": "https://www.chiefhealthcareexecutive.com/view/hospitals-want-tangible-results-from-ai"
     }
   ]
 }
