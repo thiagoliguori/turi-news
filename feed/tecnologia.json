@@ -1,49 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
   "data": "2026-09-21",
-  "geradoEm": "2026-09-21T10:00:22-03:00",
+  "geradoEm": "2026-09-21T18:08:13-03:00",
   "itens": [
     {
-      "titulo": "Tandem Health capta US$ 100 milhões para IA clínica na Europa",
-      "resumo": "Sueca quer virar sistema operacional do consultório, já presente em 14 países e mais de 10 mil organizações de saúde.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/tandem-health-raises-100m-expand-clinical-ai-across-europe"
+      "titulo": "Novo Nordisk fecha parceria com a Anthropic para acelerar descoberta de fármacos",
+      "resumo": "Farmacêutica vai testar o Claude Science em fluxos de P&D, na terceira aliança com plataformas de IA em seis meses.",
+      "veiculo": "Pharmaceutical Executive",
+      "link": "https://www.pharmexec.com/view/novo-drug-discovery-collaboration-anthropic"
     },
     {
-      "titulo": "FDA abre consulta sobre como regular dispositivos com IA generativa",
-      "resumo": "Agência quer contribuições sobre alucinação, limites de uso e monitoramento pós-mercado; prazo termina em 19 de outubro.",
-      "veiculo": "FDA",
-      "link": "https://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices"
-    },
-    {
-      "titulo": "Epic estreia checagem instantânea de autorização prévia em quatro redes",
-      "resumo": "API mostra dentro do prontuário se o procedimento exige autorização, dispensando telefonema, fax e portal da operadora.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/epic-debuts-instant-prior-authorization-checks-at-4-health-systems/828156/"
-    },
-    {
-      "titulo": "Modelos de uso geral superam ferramentas clínicas especializadas",
-      "resumo": "Estudo comparou OpenEvidence e UpToDate Expert AI com modelos de fronteira em provas médicas e consultas reais de médicos.",
+      "titulo": "Revisão encontra 4.609 estudos de LLM em medicina, quase todos sem paciente real",
+      "resumo": "Só 1.048 usaram dados reais e apenas 19 foram ensaios randomizados prospectivos, expondo a fragilidade da evidência.",
       "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04431-5"
+      "link": "https://www.nature.com/articles/s41591-026-04229-5"
     },
     {
-      "titulo": "Adoção de IA dispara nos sistemas de saúde dos EUA, com mais retorno",
-      "resumo": "Pesquisa mostra 75% das organizações usando ou planejando plataformas de IA e executivos relatando ganho financeiro maior.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/75-us-healthcare-systems-use-plan-use-ai-platform-2026"
+      "titulo": "OpenEvidence lança nova família de modelos de IA para médicos",
+      "resumo": "Empresa quer competir com modelos de fronteira em consultas clínicas depois de estudo apontar desvantagem das ferramentas especializadas.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/09/03/openevidence-launches-new-ai-models-clinicians-health-tech/"
     },
     {
-      "titulo": "GenHealth.ai levanta US$ 16,5 milhões para agentes no back office médico",
-      "resumo": "Agentes rodam elegibilidade, autorização prévia, faturamento e glosas dentro do prontuário e dos portais já usados pela clínica.",
+      "titulo": "Inspiren capta US$ 70 milhões para IA física em moradias para idosos",
+      "resumo": "Sensores e IA monitoram residentes, previnem quedas e documentam o cuidado; avaliação passa de US$ 500 milhões.",
       "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/genhealthai-raises-165m-expand-healthcare-ai-agents"
+      "link": "https://www.mobihealthnews.com/news/inspiren-raises-70m-ai-senior-care-platform"
     },
     {
-      "titulo": "Hospitais americanos passam a exigir resultado concreto da IA",
-      "resumo": "Executivos dizem que a fase de piloto acabou e cobram ganho medido em tempo, custo e qualidade assistencial.",
+      "titulo": "Saúde digital capta US$ 7,4 bilhões no semestre com dinheiro concentrado em IA",
+      "resumo": "Investidores priorizam integração ao fluxo de trabalho e parcerias clínicas em vez de capacidade isolada de modelo.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/digital-health/digital-health-brought-74b-vc-funding-ai-powered-rebound-fuels-market"
+    },
+    {
+      "titulo": "MD Integration levanta US$ 77 milhões para infraestrutura clínica de telessaúde",
+      "resumo": "Rodada lidera a semana de aportes em saúde digital e reforça a aposta em camadas de back end para atendimento remoto.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/md-integration-scores-77m-and-more-digital-health-funding"
+    },
+    {
+      "titulo": "Quem vai definir os padrões de IA na saúde nos Estados Unidos",
+      "resumo": "Ordem executiva reacende a disputa entre governo, hospitais e fornecedores sobre quem audita e certifica os modelos.",
       "veiculo": "Chief Healthcare Executive",
-      "link": "https://www.chiefhealthcareexecutive.com/view/hospitals-want-tangible-results-from-ai"
+      "link": "https://www.chiefhealthcareexecutive.com/view/who-will-define-healthcare-s-ai-standards-an-executive-order-fuels-the-conversation-viewpoint"
     }
   ]
 }
