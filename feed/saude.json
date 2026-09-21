@@ -1,49 +1,49 @@
 {
   "fonte": "A saúde em News",
   "data": "2026-09-21",
-  "geradoEm": "2026-09-21T10:00:16-03:00",
+  "geradoEm": "2026-09-21T18:08:08-03:00",
   "itens": [
     {
-      "titulo": "SUS ganha central de comando que monitora UTIs inteligentes em tempo real",
-      "resumo": "Estrutura no HC-FMUSP acompanha sinais vitais de leitos em seis capitais e deve chegar a 280 leitos conectados.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/04/09/2026/ministerio-da-saude-apresenta-central-de-comando-das-utis-inteligentes-do-sus/"
-    },
-    {
-      "titulo": "Quase 70% dos médicos brasileiros já usam inteligência artificial",
-      "resumo": "Estudo da MV aponta 66,1% de adoção, com apoio à decisão clínica como principal uso entre os entrevistados.",
+      "titulo": "Hapvida passa de 600 mil consultas transcritas por inteligência artificial",
+      "resumo": "Operadora registra 94% de concordância médica com os códigos CID sugeridos e 56% mais informação no prontuário.",
       "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/medicos-ia-estudo/"
+      "link": "https://medicinasa.com.br/hapvida-ia/"
     },
     {
-      "titulo": "Resolução de IA do CFM entra em vigor, mas dúvidas permanecem",
-      "resumo": "Norma exige supervisão médica em toda decisão assistencial, porém juristas apontam lacunas sobre registro e uso de dados.",
-      "veiculo": "Conjur",
-      "link": "https://conjur.com.br/2026-set-14/ia-na-medicina-resolucao-do-cfm-entra-em-vigor-mas-duvidas-permanecem/"
+      "titulo": "Entidades de saúde voltam a contestar a resolução de IA do CFM",
+      "resumo": "Dez associações pedem suspensão integral da norma e nova regulamentação precedida de consulta pública e análise de impacto.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/norma-do-cfm-sobre-ia-enfrenta-nova-contestacao-de-entidades-de-saude/"
     },
     {
-      "titulo": "HIS 2026 coloca eficiência hospitalar no centro do debate sobre IA",
-      "resumo": "Caso da Santa Casa de São Paulo mostra prontuário cirúrgico por voz que corta até 80% do tempo de documentação.",
-      "veiculo": "Hospitais Brasil",
-      "link": "https://portalhospitaisbrasil.com.br/ia-e-saude-digital-entram-no-centro-do-debate-sobre-eficiencia-hospitalar-no-his-2026/"
-    },
-    {
-      "titulo": "Na saúde, o desafio já não é adotar IA e sim gerar valor com ela",
-      "resumo": "Análise defende medir desfecho clínico e retorno financeiro em vez de acumular pilotos sem integração ao fluxo assistencial.",
+      "titulo": "Uso de IA nos hospitais latino-americanos avança para aplicações clínicas",
+      "resumo": "Entre hospitais que já usam IA, 88% citam ao menos um uso clínico, como imagem, risco e apoio à decisão.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/14/09/2026/inteligencia-artificial-na-saude-o-desafio-ja-nao-e-adotar-a-tecnologia-mas-gerar-valor-com-ela/"
+      "link": "https://saudedigitalnews.com.br/04/09/2026/uso-de-ia-nos-hospitais-latino-americanos-avanca-para-aplicacoes-clinicas/"
     },
     {
-      "titulo": "Open Health e IA impulsionam medicina preventiva e personalizada",
-      "resumo": "Compartilhamento de dados com consentimento do paciente abre espaço para modelos de risco e acompanhamento fora do consultório.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/08/09/2026/open-health-e-ia-fortalecem-a-medicina-preventiva-e-personalizada/"
+      "titulo": "Unimed-BH mostra assistente conversacional que já soma 90 mil interações",
+      "resumo": "Caso apresentado no HIS 2026 orienta 1,6 milhão de clientes sobre onde buscar atendimento na rede assistencial.",
+      "veiculo": "Saúde Business",
+      "link": "https://www.saudebusiness.com/eventos-3/healthcare-innovation-show/governanca-e-centralidade-no-paciente-dao-o-tom-da-manha-do-segundo-dia-do-his-2026/"
     },
     {
-      "titulo": "Enfermagem cobra participação nas decisões sobre IA nos hospitais",
-      "resumo": "Lideranças defendem enfermeiros na escolha e no desenho das ferramentas, não apenas no uso depois de implantadas.",
-      "veiculo": "Chief Healthcare Executive",
-      "link": "https://www.chiefhealthcareexecutive.com/view/nurses-need-a-seat-at-the-table-in-using-ai"
+      "titulo": "TIC Saúde aponta avanço da IA no Brasil, mas trava na interoperabilidade",
+      "resumo": "Pesquisa com 3.270 gestores mostra 18% dos estabelecimentos usando IA e governança de dados como gargalo principal.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/reportagem-capa-edicao34/"
+    },
+    {
+      "titulo": "Hospitais rurais dos EUA apostam em IA para compensar cortes no Medicaid",
+      "resumo": "Reportagem investiga se a tecnologia sustenta o atendimento ou é só promessa cara diante do rombo financeiro.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/09/10/rural-health-care-ai-adoption-challenges-part-4-unraveled-series/"
+    },
+    {
+      "titulo": "Avatares de IA para comunidades rurais dividem gestores nos EUA",
+      "resumo": "Mehmet Oz defende a proposta, mas lideranças locais duvidam que ela resolva a falta de profissionais.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/09/10/health-news-oz-says-ai-based-avatars-can-help-rural-communities-despite-skepticism/"
     }
   ]
 }
