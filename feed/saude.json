@@ -1,49 +1,43 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-09-21",
-  "geradoEm": "2026-09-21T18:08:08-03:00",
+  "data": "2026-09-23",
+  "geradoEm": "2026-09-23T19:28:03-03:00",
   "itens": [
     {
-      "titulo": "Hapvida passa de 600 mil consultas transcritas por inteligência artificial",
-      "resumo": "Operadora registra 94% de concordância médica com os códigos CID sugeridos e 56% mais informação no prontuário.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/hapvida-ia/"
+      "titulo": "Médico brasileiro já usa mais IA para diagnosticar do que para burocracia",
+      "resumo": "Pesquisa da MV mostra 66% dos médicos usando IA e 56,6% deles como apoio à decisão clínica; custo é a maior barreira.",
+      "veiculo": "Exame",
+      "link": "https://exame.com/inteligencia-artificial/medico-brasileiro-ja-usa-mais-ia-para-diagnosticar-do-que-para-preencher-papelada-mostra-pesquisa/"
     },
     {
-      "titulo": "Entidades de saúde voltam a contestar a resolução de IA do CFM",
-      "resumo": "Dez associações pedem suspensão integral da norma e nova regulamentação precedida de consulta pública e análise de impacto.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/norma-do-cfm-sobre-ia-enfrenta-nova-contestacao-de-entidades-de-saude/"
+      "titulo": "Padilha quer telessaúde em 100% das unidades do SUS em quatro anos",
+      "resumo": "Mais de 80% da rede já tem a tecnologia, com 12 milhões de teleatendimentos coordenados pelo Ministério da Saúde.",
+      "veiculo": "Jornal de Brasília",
+      "link": "https://jornaldebrasilia.com.br/noticias/saude/governo-quer-levar-telessaude-a-100-das-unidades-do-sus-nos-proximos-4-anos-afirma-padilha/"
     },
     {
-      "titulo": "Uso de IA nos hospitais latino-americanos avança para aplicações clínicas",
-      "resumo": "Entre hospitais que já usam IA, 88% citam ao menos um uso clínico, como imagem, risco e apoio à decisão.",
+      "titulo": "Santa Casa de SP corta até 80% do tempo de documentação cirúrgica com IA",
+      "resumo": "Caso apresentado no HIS 2026 devolve cerca de 140 minutos diários às equipes e já apoiou mais de 600 cirurgias.",
+      "veiculo": "Portal Hospitais Brasil",
+      "link": "https://portalhospitaisbrasil.com.br/ia-e-saude-digital-entram-no-centro-do-debate-sobre-eficiencia-hospitalar-no-his-2026/"
+    },
+    {
+      "titulo": "IA na documentação clínica começa a devolver tempo aos pacientes",
+      "resumo": "Estudo no JAMA Network Open aponta queda de burnout de 51,9% para 38,8% após 30 dias de escriba com IA.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/04/09/2026/uso-de-ia-nos-hospitais-latino-americanos-avanca-para-aplicacoes-clinicas/"
+      "link": "https://saudedigitalnews.com.br/09/09/2026/inteligencia-artificial-comeca-a-tirar-medicos-das-telas-e-devolver-tempo-aos-pacientes/"
     },
     {
-      "titulo": "Unimed-BH mostra assistente conversacional que já soma 90 mil interações",
-      "resumo": "Caso apresentado no HIS 2026 orienta 1,6 milhão de clientes sobre onde buscar atendimento na rede assistencial.",
-      "veiculo": "Saúde Business",
-      "link": "https://www.saudebusiness.com/eventos-3/healthcare-innovation-show/governanca-e-centralidade-no-paciente-dao-o-tom-da-manha-do-segundo-dia-do-his-2026/"
+      "titulo": "Health Meeting 2026 discute IA e cuidado centrado nas pessoas",
+      "resumo": "Líderes de Rede D'Or, Hcor e Santa Casa de Porto Alegre defendem IA nas tarefas administrativas para liberar tempo assistencial.",
+      "veiculo": "Jornal do Comércio",
+      "link": "https://www.jornaldocomercio.com/geral/2026/09/1264171-uso-da-ia-na-area-saude-e-pauta-no-health-meeting-2026.html"
     },
     {
-      "titulo": "TIC Saúde aponta avanço da IA no Brasil, mas trava na interoperabilidade",
-      "resumo": "Pesquisa com 3.270 gestores mostra 18% dos estabelecimentos usando IA e governança de dados como gargalo principal.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/reportagem-capa-edicao34/"
-    },
-    {
-      "titulo": "Hospitais rurais dos EUA apostam em IA para compensar cortes no Medicaid",
-      "resumo": "Reportagem investiga se a tecnologia sustenta o atendimento ou é só promessa cara diante do rombo financeiro.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/10/rural-health-care-ai-adoption-challenges-part-4-unraveled-series/"
-    },
-    {
-      "titulo": "Avatares de IA para comunidades rurais dividem gestores nos EUA",
-      "resumo": "Mehmet Oz defende a proposta, mas lideranças locais duvidam que ela resolva a falta de profissionais.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/10/health-news-oz-says-ai-based-avatars-can-help-rural-communities-despite-skepticism/"
+      "titulo": "Com a resolução do CFM, o desafio da IA passa a ser gerar valor",
+      "resumo": "Radiologista argumenta que governança e evidência de impacto clínico importam mais que a simples adoção de algoritmos.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/14/09/2026/inteligencia-artificial-na-saude-o-desafio-ja-nao-e-adotar-a-tecnologia-mas-gerar-valor-com-ela/"
     }
   ]
 }
