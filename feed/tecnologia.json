@@ -1,49 +1,43 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-09-21",
-  "geradoEm": "2026-09-21T18:08:13-03:00",
+  "data": "2026-09-23",
+  "geradoEm": "2026-09-23T19:28:09-03:00",
   "itens": [
     {
-      "titulo": "Novo Nordisk fecha parceria com a Anthropic para acelerar descoberta de fármacos",
-      "resumo": "Farmacêutica vai testar o Claude Science em fluxos de P&D, na terceira aliança com plataformas de IA em seis meses.",
-      "veiculo": "Pharmaceutical Executive",
-      "link": "https://www.pharmexec.com/view/novo-drug-discovery-collaboration-anthropic"
-    },
-    {
-      "titulo": "Revisão encontra 4.609 estudos de LLM em medicina, quase todos sem paciente real",
-      "resumo": "Só 1.048 usaram dados reais e apenas 19 foram ensaios randomizados prospectivos, expondo a fragilidade da evidência.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04229-5"
-    },
-    {
-      "titulo": "OpenEvidence lança nova família de modelos de IA para médicos",
-      "resumo": "Empresa quer competir com modelos de fronteira em consultas clínicas depois de estudo apontar desvantagem das ferramentas especializadas.",
+      "titulo": "Piloto da FDA leva dispositivos de IA generativa a pacientes antes da autorização",
+      "resumo": "Programa TEMPO aceitou quatro produtos, entre eles Cadence e Limbic, ligados ao modelo ACCESS do Medicare para doenças crônicas.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/03/openevidence-launches-new-ai-models-clinicians-health-tech/"
+      "link": "https://www.statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/"
     },
     {
-      "titulo": "Inspiren capta US$ 70 milhões para IA física em moradias para idosos",
-      "resumo": "Sensores e IA monitoram residentes, previnem quedas e documentam o cuidado; avaliação passa de US$ 500 milhões.",
+      "titulo": "FDA recusa isentar IA de radiologia da revisão 510(k)",
+      "resumo": "Pedido feito em nome da Harrison.ai foi negado; agência aponta planos de mudança predeterminados como caminho preferido.",
+      "veiculo": "AuntMinnie",
+      "link": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15822031/fda-strikes-down-radiology-ai-510k-exemption-arguments"
+    },
+    {
+      "titulo": "Prazo para comentar a proposta da FDA sobre IA generativa vai até 19 de outubro",
+      "resumo": "Documento propõe risco por autonomia e consequência do erro, avaliação por competências e vigilância pós-mercado reforçada.",
+      "veiculo": "FDA Law Blog",
+      "link": "https://www.thefdalawblog.com/2026/09/regulating-a-moving-target-fda-seeks-comments-on-possible-framework-for-regulation-of-genai/"
+    },
+    {
+      "titulo": "Adesão a IA no pronto-socorro cai de 68% para 30% em quatro semanas",
+      "resumo": "Estudo prospectivo com 1.138 pacientes não viu eventos adversos, mas o engajamento médico despencou com a carga do plantão.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/articles/s41591-026-04601-5"
+    },
+    {
+      "titulo": "GenHealth.ai capta US$ 16,5 milhões para automatizar o back office médico",
+      "resumo": "Série A liderada pela Flare Capital financia agentes de IA para elegibilidade, autorização prévia, faturamento e recursos de glosas.",
+      "veiculo": "MedCity News",
+      "link": "https://medcitynews.com/2026/09/genhealth-ai-raises-16-5m-to-automate-healthcare-administrative-tasks/"
+    },
+    {
+      "titulo": "Hello Patient compra Converse Health para ampliar agentes de IA",
+      "resumo": "Aquisição leva a automação do atendimento telefônico para encaminhamentos, autorizações e prontuário em clínicas ambulatoriais.",
       "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/inspiren-raises-70m-ai-senior-care-platform"
-    },
-    {
-      "titulo": "Saúde digital capta US$ 7,4 bilhões no semestre com dinheiro concentrado em IA",
-      "resumo": "Investidores priorizam integração ao fluxo de trabalho e parcerias clínicas em vez de capacidade isolada de modelo.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/digital-health/digital-health-brought-74b-vc-funding-ai-powered-rebound-fuels-market"
-    },
-    {
-      "titulo": "MD Integration levanta US$ 77 milhões para infraestrutura clínica de telessaúde",
-      "resumo": "Rodada lidera a semana de aportes em saúde digital e reforça a aposta em camadas de back end para atendimento remoto.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/md-integration-scores-77m-and-more-digital-health-funding"
-    },
-    {
-      "titulo": "Quem vai definir os padrões de IA na saúde nos Estados Unidos",
-      "resumo": "Ordem executiva reacende a disputa entre governo, hospitais e fornecedores sobre quem audita e certifica os modelos.",
-      "veiculo": "Chief Healthcare Executive",
-      "link": "https://www.chiefhealthcareexecutive.com/view/who-will-define-healthcare-s-ai-standards-an-executive-order-fuels-the-conversation-viewpoint"
+      "link": "https://www.mobihealthnews.com/news/hello-patient-acquires-converse-health-broaden-workflow-automation"
     }
   ]
 }
