@@ -1,43 +1,37 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-09-23",
-  "geradoEm": "2026-09-23T19:28:03-03:00",
+  "data": "2026-09-24",
+  "geradoEm": "2026-09-24T12:54:21-03:00",
   "itens": [
     {
-      "titulo": "Médico brasileiro já usa mais IA para diagnosticar do que para burocracia",
-      "resumo": "Pesquisa da MV mostra 66% dos médicos usando IA e 56,6% deles como apoio à decisão clínica; custo é a maior barreira.",
-      "veiculo": "Exame",
-      "link": "https://exame.com/inteligencia-artificial/medico-brasileiro-ja-usa-mais-ia-para-diagnosticar-do-que-para-preencher-papelada-mostra-pesquisa/"
+      "titulo": "Ministério da Saúde identifica 97 perfis de falsos médicos criados por IA",
+      "resumo": "Perfis com credenciais falsas prometiam curas sem evidência; casos foram enviados à AGU, Polícia Federal e CFM.",
+      "veiculo": "Metrópoles",
+      "link": "https://www.metropoles.com/saude/grave-risco-a-saude-ms-alerta-para-falsos-medicos-feitos-com-ia"
     },
     {
-      "titulo": "Padilha quer telessaúde em 100% das unidades do SUS em quatro anos",
-      "resumo": "Mais de 80% da rede já tem a tecnologia, com 12 milhões de teleatendimentos coordenados pelo Ministério da Saúde.",
-      "veiculo": "Jornal de Brasília",
-      "link": "https://jornaldebrasilia.com.br/noticias/saude/governo-quer-levar-telessaude-a-100-das-unidades-do-sus-nos-proximos-4-anos-afirma-padilha/"
+      "titulo": "HIS 2026: Rede Américas reduz em 77% os chamados à enfermagem com IA de voz",
+      "resumo": "Primeiro dia do evento reuniu Rede D'Or e Ministério da Saúde, que defendeu telessaúde na atenção primária da Amazônia Legal.",
+      "veiculo": "Saúde Business",
+      "link": "https://www.saudebusiness.com/eventos-3/healthcare-innovation-show/futuro-da-medicina-e-avancos-na-saude-publica-marcam-o-primeiro-dia-do-his-2026/"
     },
     {
-      "titulo": "Santa Casa de SP corta até 80% do tempo de documentação cirúrgica com IA",
-      "resumo": "Caso apresentado no HIS 2026 devolve cerca de 140 minutos diários às equipes e já apoiou mais de 600 cirurgias.",
-      "veiculo": "Portal Hospitais Brasil",
-      "link": "https://portalhospitaisbrasil.com.br/ia-e-saude-digital-entram-no-centro-do-debate-sobre-eficiencia-hospitalar-no-his-2026/"
+      "titulo": "IA pode antecipar riscos antes da internação e reduzir custos",
+      "resumo": "Cardiologista mostra como padrões de acesso a medicamentos sinalizam risco; cada R$ 1 em subsídio evitaria R$ 2,70 em internações.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/ia-riscos-saude-ricardo-moraes/"
     },
     {
-      "titulo": "IA na documentação clínica começa a devolver tempo aos pacientes",
-      "resumo": "Estudo no JAMA Network Open aponta queda de burnout de 51,9% para 38,8% após 30 dias de escriba com IA.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/09/09/2026/inteligencia-artificial-comeca-a-tirar-medicos-das-telas-e-devolver-tempo-aos-pacientes/"
+      "titulo": "IA em uso na saúde, responsabilidade ainda em aberto",
+      "resumo": "CEO da Salux defende governança e cadeias claras de responsabilidade à medida que a IA entra na operação assistencial.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/inteligencia-artificial-responsabilidade-governanca-daniel-rocha/"
     },
     {
-      "titulo": "Health Meeting 2026 discute IA e cuidado centrado nas pessoas",
-      "resumo": "Líderes de Rede D'Or, Hcor e Santa Casa de Porto Alegre defendem IA nas tarefas administrativas para liberar tempo assistencial.",
-      "veiculo": "Jornal do Comércio",
-      "link": "https://www.jornaldocomercio.com/geral/2026/09/1264171-uso-da-ia-na-area-saude-e-pauta-no-health-meeting-2026.html"
-    },
-    {
-      "titulo": "Com a resolução do CFM, o desafio da IA passa a ser gerar valor",
-      "resumo": "Radiologista argumenta que governança e evidência de impacto clínico importam mais que a simples adoção de algoritmos.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/14/09/2026/inteligencia-artificial-na-saude-o-desafio-ja-nao-e-adotar-a-tecnologia-mas-gerar-valor-com-ela/"
+      "titulo": "Governo Trump aposta em IA para a saúde rural, mas gestores duvidam",
+      "resumo": "Escribas com IA aliviam médicos em hospitais rurais, mas não cortaram custos diante de cortes bilionários no Medicaid.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/09/10/rural-health-care-ai-adoption-challenges-part-4-unraveled-series/"
     }
   ]
 }
