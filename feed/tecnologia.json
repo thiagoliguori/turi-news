@@ -1,43 +1,37 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-09-23",
-  "geradoEm": "2026-09-23T19:28:09-03:00",
+  "data": "2026-09-24",
+  "geradoEm": "2026-09-24T12:54:24-03:00",
   "itens": [
     {
-      "titulo": "Piloto da FDA leva dispositivos de IA generativa a pacientes antes da autorização",
-      "resumo": "Programa TEMPO aceitou quatro produtos, entre eles Cadence e Limbic, ligados ao modelo ACCESS do Medicare para doenças crônicas.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/"
-    },
-    {
-      "titulo": "FDA recusa isentar IA de radiologia da revisão 510(k)",
-      "resumo": "Pedido feito em nome da Harrison.ai foi negado; agência aponta planos de mudança predeterminados como caminho preferido.",
-      "veiculo": "AuntMinnie",
-      "link": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15822031/fda-strikes-down-radiology-ai-510k-exemption-arguments"
-    },
-    {
-      "titulo": "Prazo para comentar a proposta da FDA sobre IA generativa vai até 19 de outubro",
-      "resumo": "Documento propõe risco por autonomia e consequência do erro, avaliação por competências e vigilância pós-mercado reforçada.",
-      "veiculo": "FDA Law Blog",
-      "link": "https://www.thefdalawblog.com/2026/09/regulating-a-moving-target-fda-seeks-comments-on-possible-framework-for-regulation-of-genai/"
-    },
-    {
-      "titulo": "Adesão a IA no pronto-socorro cai de 68% para 30% em quatro semanas",
-      "resumo": "Estudo prospectivo com 1.138 pacientes não viu eventos adversos, mas o engajamento médico despencou com a carga do plantão.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04601-5"
-    },
-    {
-      "titulo": "GenHealth.ai capta US$ 16,5 milhões para automatizar o back office médico",
-      "resumo": "Série A liderada pela Flare Capital financia agentes de IA para elegibilidade, autorização prévia, faturamento e recursos de glosas.",
-      "veiculo": "MedCity News",
-      "link": "https://medcitynews.com/2026/09/genhealth-ai-raises-16-5m-to-automate-healthcare-administrative-tasks/"
-    },
-    {
-      "titulo": "Hello Patient compra Converse Health para ampliar agentes de IA",
-      "resumo": "Aquisição leva a automação do atendimento telefônico para encaminhamentos, autorizações e prontuário em clínicas ambulatoriais.",
+      "titulo": "Heidi Health capta US$ 340 milhões e chega a US$ 900 milhões de valuation",
+      "resumo": "Série C de US$ 100 milhões liderada pela Blackbird soma US$ 240 milhões da General Catalyst para agentes de IA em hospitais.",
       "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/hello-patient-acquires-converse-health-broaden-workflow-automation"
+      "link": "https://www.mobihealthnews.com/news/heidi-health-garnered-340m-reaches-900m-valuation"
+    },
+    {
+      "titulo": "Tandem Health levanta US$ 100 milhões para um sistema operacional clínico com IA",
+      "resumo": "Startup sueca atende mais de 10 mil organizações em 14 países e vai além da documentação para codificação e suporte à decisão.",
+      "veiculo": "Tech Funding News",
+      "link": "https://techfundingnews.com/tandem-health-raises-100m-series-b-eqt-scaleup-europe-fund/"
+    },
+    {
+      "titulo": "FDA cria cargo de vice-comissário para tecnologia e IA",
+      "resumo": "Jared Seehafer assume a estratégia de software e IA de toda a agência, acima dos diretores de centro.",
+      "veiculo": "RAPS",
+      "link": "https://www.raps.org/resource/fda-names-permanent-cder-cber-directors-new-deputy-commissioner-for-ai.html"
+    },
+    {
+      "titulo": "IA supera biomarcadores ao prever resposta à imunoterapia no câncer de pulmão",
+      "resumo": "Estudo I3LUNG com 2.396 pacientes em seis países integrou dados clínicos, imagem e genômica; fase prospectiva já recruta.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/articles/s41591-026-04488-2"
+    },
+    {
+      "titulo": "ChatGPT for Healthcare passa a acessar prontuários do Epic",
+      "resumo": "Integração somente leitura permite a médicos autorizados resumir notas, exames e medicações dentro do fluxo do Epic.",
+      "veiculo": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/"
     }
   ]
 }
