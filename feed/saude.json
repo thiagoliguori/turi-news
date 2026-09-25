@@ -1,37 +1,73 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-09-24",
-  "geradoEm": "2026-09-24T12:54:21-03:00",
+  "data": "2026-09-25",
+  "geradoEm": "2026-09-25T09:28:05-03:00",
   "itens": [
     {
-      "titulo": "Ministério da Saúde identifica 97 perfis de falsos médicos criados por IA",
-      "resumo": "Perfis com credenciais falsas prometiam curas sem evidência; casos foram enviados à AGU, Polícia Federal e CFM.",
-      "veiculo": "Metrópoles",
-      "link": "https://www.metropoles.com/saude/grave-risco-a-saude-ms-alerta-para-falsos-medicos-feitos-com-ia"
+      "titulo": "Por que o Fleury sobe 50% este ano? O BTG tem uma hipótese",
+      "resumo": "Ação do Fleury sobe 50% em 2026; BTG credita a alta à expansão de múltiplos e ao re-rating do diagnóstico.",
+      "veiculo": "Brazil Journal",
+      "link": "https://braziljournal.com/por-que-o-fleury-sobe-50-este-ano-o-btg-tem-uma-hipotese/"
     },
     {
-      "titulo": "HIS 2026: Rede Américas reduz em 77% os chamados à enfermagem com IA de voz",
-      "resumo": "Primeiro dia do evento reuniu Rede D'Or e Ministério da Saúde, que defendeu telessaúde na atenção primária da Amazônia Legal.",
-      "veiculo": "Saúde Business",
-      "link": "https://www.saudebusiness.com/eventos-3/healthcare-innovation-show/futuro-da-medicina-e-avancos-na-saude-publica-marcam-o-primeiro-dia-do-his-2026/"
-    },
-    {
-      "titulo": "IA pode antecipar riscos antes da internação e reduzir custos",
-      "resumo": "Cardiologista mostra como padrões de acesso a medicamentos sinalizam risco; cada R$ 1 em subsídio evitaria R$ 2,70 em internações.",
+      "titulo": "Governo deve lançar edital de R$ 120 milhões para pesquisa clínica",
+      "resumo": "Governo prepara edital de R$ 120 milhões para financiar pesquisa clínica de estágio inicial, das fases pré-clínica a 1 e 2.",
       "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/ia-riscos-saude-ricardo-moraes/"
+      "link": "https://futurodasaude.com.br/governo-lancamento-edital-pesquisa-clinica/"
     },
     {
-      "titulo": "IA em uso na saúde, responsabilidade ainda em aberto",
-      "resumo": "CEO da Salux defende governança e cadeias claras de responsabilidade à medida que a IA entra na operação assistencial.",
+      "titulo": "SUS reformula política de câncer e reserva R$ 3,9 bi para ampliar tratamentos",
+      "resumo": "Ministério reserva R$ 3,9 bi para 2027 e reformula a assistência oncológica, com compra direta de remédios de alto custo.",
+      "veiculo": "O Tempo",
+      "link": "https://www.otempo.com.br/saude-e-bem-estar/2026/9/21/sus-reformula-politica-de-cancer-e-r-3-9-bi-sao-reservados-para-ampliar-tratamentos"
+    },
+    {
+      "titulo": "Operadoras lucram R$ 10,9 bi, mas hospitais convivem com ciclos longos de recebimento",
+      "resumo": "Operadoras lucram R$ 10,9 bi no semestre, mas hospitais seguem pressionados por ciclos longos de recebimento.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/22/09/2026/operadoras-lucram-r-109-bi-mas-hospitais-ainda-contam-com-ciclos-de-recebimento-longos/"
+    },
+    {
+      "titulo": "Ministério da Saúde pede incorporação de canetas emagrecedoras ao SUS",
+      "resumo": "Ministério pede à Conitec a incorporação de semaglutida e liraglutida ao SUS para tratar obesidade.",
+      "veiculo": "Diário do Grande ABC",
+      "link": "https://www.dgabc.com.br/Noticia/4348981/ministerio-da-saude-pede-incorporacao-de-canetas-emagrecedoras-ao-sus"
+    },
+    {
+      "titulo": "Transformação digital na saúde e a proteção do paciente",
+      "resumo": "Prontuário, telemedicina e IA só geram valor com LGPD, consentimento e governança de dados do paciente.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/24/09/2026/transformacao-digital-na-saude-e-a-protecao-do-paciente/"
+    },
+    {
+      "titulo": "Brasil avança na regulamentação da IA na medicina (Resolução CFM 2.454/2026)",
+      "resumo": "Resolução CFM 2.454/2026 regula IA na medicina: decisão final é do médico e o paciente pode recusar.",
+      "veiculo": "Portal Information Management",
+      "link": "https://docmanagement.com.br/09/25/2026/brasil-avanca-na-regulamentacao-da-ia-na-medicina-e-estabelece-novas-regras-para-uso-da-tecnologia/"
+    },
+    {
+      "titulo": "Em 30 anos, obesidade triplica no país e atinge um quarto da população",
+      "resumo": "Estudo mostra obesidade em adultos saltando de 7,8% para 27,7% entre 1990 e 2023 no Brasil.",
+      "veiculo": "Symplexia",
+      "link": "https://news.symplexia.com/pt-br/2026/09/noticias/ultima-hora/em-30-anos-obesidade-triplica-no-pais-e-atinge-1-4-da-populacao/"
+    },
+    {
+      "titulo": "Serviços premium de saúde avançam com demanda por conveniência e personalização",
+      "resumo": "Serviços de saúde premium crescem puxados por conveniência, personalização e menos burocracia.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/23/09/2026/servicos-premium-de-saude-avancam-com-demanda-por-conveniencia-personalizacao-e-menos-burocracia/"
+    },
+    {
+      "titulo": "Setor de saúde no 2T26: Rede D'Or e Fleury avançam; Oncoclínicas e Hapvida seguem pressionadas",
+      "resumo": "Balanço do 2T26 divide o setor: Rede D'Or e Fleury avançam; Oncoclínicas e Hapvida seguem pressionadas.",
       "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/inteligencia-artificial-responsabilidade-governanca-daniel-rocha/"
+      "link": "https://futurodasaude.com.br/mercado-resultados-segundo-trimestre-2026-recuperacao/"
     },
     {
-      "titulo": "Governo Trump aposta em IA para a saúde rural, mas gestores duvidam",
-      "resumo": "Escribas com IA aliviam médicos em hospitais rurais, mas não cortaram custos diante de cortes bilionários no Medicaid.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/10/rural-health-care-ai-adoption-challenges-part-4-unraveled-series/"
+      "titulo": "Brasil lidera casos de ansiedade e afastamentos por transtorno mental disparam no trabalho",
+      "resumo": "Afastamentos por transtorno mental saltam de 200 mil (2021) para 546 mil (2025); Brasil lidera ansiedade.",
+      "veiculo": "Agência Brasil / EBC",
+      "link": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-09/brasil-lidera-casos-de-ansiedade-e-transtornos-mentais-no-trabalho"
     }
   ]
 }
