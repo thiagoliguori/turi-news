@@ -1,37 +1,43 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-09-24",
-  "geradoEm": "2026-09-24T12:54:24-03:00",
+  "data": "2026-09-26",
+  "geradoEm": "2026-09-26T11:54:48-03:00",
   "itens": [
     {
-      "titulo": "Heidi Health capta US$ 340 milhões e chega a US$ 900 milhões de valuation",
-      "resumo": "Série C de US$ 100 milhões liderada pela Blackbird soma US$ 240 milhões da General Catalyst para agentes de IA em hospitais.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/heidi-health-garnered-340m-reaches-900m-valuation"
+      "titulo": "VA seleciona Abridge para escriba ambiental com IA em contrato de até US$ 775 milhões",
+      "resumo": "Contrato de cinco anos com vários fornecedores; Abridge já opera em mais de 75 centros médicos dos veteranos nos EUA.",
+      "veiculo": "Nextgov/FCW",
+      "link": "https://www.nextgov.com/artificial-intelligence/2026/09/va-selects-abridge-ambient-scribe-under-new-enterprise-contract/416140/"
     },
     {
-      "titulo": "Tandem Health levanta US$ 100 milhões para um sistema operacional clínico com IA",
-      "resumo": "Startup sueca atende mais de 10 mil organizações em 14 países e vai além da documentação para codificação e suporte à decisão.",
-      "veiculo": "Tech Funding News",
-      "link": "https://techfundingnews.com/tandem-health-raises-100m-series-b-eqt-scaleup-europe-fund/"
+      "titulo": "STAT: a ascensão das clínicas de radiologia nativas em IA",
+      "resumo": "Startups compram ou montam práticas de radiologia próprias e dizem que isso acelera o desenvolvimento de ferramentas de IA.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/09/24/the-rise-of-the-ai-native-radiology-practice-health-tech/"
     },
     {
-      "titulo": "FDA cria cargo de vice-comissário para tecnologia e IA",
-      "resumo": "Jared Seehafer assume a estratégia de software e IA de toda a agência, acima dos diretores de centro.",
-      "veiculo": "RAPS",
-      "link": "https://www.raps.org/resource/fda-names-permanent-cder-cber-directors-new-deputy-commissioner-for-ai.html"
+      "titulo": "FDA nega isenção de 510(k) para softwares de IA em radiologia",
+      "resumo": "Agência rejeita pedido da Harrison.ai para dispensar revisão prévia de ferramentas de detecção e triagem, citando lacunas de segurança.",
+      "veiculo": "Radiology Business",
+      "link": "https://radiologybusiness.com/topics/healthcare-management/healthcare-policy/fda-denies-petition-exempt-certain-radiology-ai-devices-pre-market-review"
     },
     {
-      "titulo": "IA supera biomarcadores ao prever resposta à imunoterapia no câncer de pulmão",
-      "resumo": "Estudo I3LUNG com 2.396 pacientes em seis países integrou dados clínicos, imagem e genômica; fase prospectiva já recruta.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04488-2"
+      "titulo": "Eric Topol: os buracos da variabilidade cardíaca e dos scores de prontidão dos wearables",
+      "resumo": "Após lançamento da Apple, Topol afirma que HRV óptico e scores de prontidão ainda não foram validados contra desfechos de saúde.",
+      "veiculo": "Ground Truths (Eric Topol)",
+      "link": "https://erictopol.substack.com/p/the-big-holes-in-wearable-heart-rate"
     },
     {
-      "titulo": "ChatGPT for Healthcare passa a acessar prontuários do Epic",
-      "resumo": "Integração somente leitura permite a médicos autorizados resumir notas, exames e medicações dentro do fluxo do Epic.",
-      "veiculo": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/"
+      "titulo": "Programa TEMPO da FDA abre caminho para IA generativa chegar a pacientes antes da autorização",
+      "resumo": "Dexcom, Cadence e Limbic estão entre os quatro aceitos no piloto, ligado ao modelo ACCESS do Medicare para doenças crônicas.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/"
+    },
+    {
+      "titulo": "Cleveland Clinic adota IA da Luminai e Apple Health passa a vender exames da Quest",
+      "resumo": "Cleveland Clinic automatiza fluxos administrativos com IA; app Saúde da Apple oferece painel de 50 biomarcadores por US$ 119.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-cleveland-clinic-taps-luminai-ai-automation-apple-expands-health-and"
     }
   ]
 }
