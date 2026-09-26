@@ -1,0 +1,608 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Turi Saúde: Guia do Claude Science</title>
+<link rel="stylesheet" href="turi-theme.css">
+<style>
+  /* Ajustes finos para este ebook */
+  .section-band{padding:18px 24px;}
+  .section-band .num{font-size:54px;}
+  .lead{font-size:18px;color:var(--gray-700);}
+  .mono{font-family:"SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace;
+    font-size:13px;background:var(--gray-100);border:1px solid var(--border);
+    border-radius:var(--radius-md);padding:2px 7px;color:var(--primary-900);}
+  .cmd{font-family:"SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace;
+    font-size:13px;background:#102822;color:#CEEAE1;border-radius:var(--radius-lg);
+    padding:14px 18px;margin:12px 0;line-height:1.6;white-space:pre-wrap;}
+  .cmd .c{color:#70B79F;}
+  .cards.trio .card{padding:16px 18px;}
+  .cards .card p{font-size:13.5px;line-height:1.5;}
+  ul.clean{margin:12px 0;padding-left:0;list-style:none;}
+  ul.clean li{position:relative;padding:7px 0 7px 26px;color:var(--gray-700);font-size:15px;}
+  ul.clean li::before{content:"";position:absolute;left:2px;top:14px;width:8px;height:8px;
+    border-radius:var(--radius-full);background:var(--primary-500);}
+  .toc-list{list-style:none;padding:0;margin:14px 0 0;}
+  .toc-list li{display:flex;align-items:baseline;gap:18px;padding:7px 0;border-bottom:1px solid var(--border);}
+  .toc-list .tn{font-size:22px;font-weight:700;color:var(--primary-300);width:42px;flex:none;}
+  .toc-list .tt{font-weight:600;color:var(--foreground);font-size:16px;}
+  .toc-list .td{color:var(--muted-foreground);font-size:13.5px;display:block;font-weight:400;margin-top:2px;}
+  h4.mini{font-size:16px;color:var(--primary-dark);font-weight:700;margin:22px 0 6px;}
+  .db-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px 20px;margin:14px 0;}
+  .db-grid .db{border:1px solid var(--border);border-radius:var(--radius-lg);padding:12px 14px;}
+  .db-grid .db b{color:var(--primary-dark);font-size:14px;}
+  .db-grid .db span{display:block;color:var(--muted-foreground);font-size:12.5px;margin-top:2px;}
+  .two-col{display:flex;gap:24px;}
+  .two-col>div{flex:1;}
+  .quote{font-size:19px;line-height:1.5;color:var(--primary-dark);font-weight:600;margin:18px 0;}
+  .close-band{background:var(--gradient-primary-dark);border-radius:var(--radius-lg);
+    padding:22px 28px;color:#fff;margin-top:16px;}
+  .steps li{padding:7px 0;}
+  #cap10 tbody td{padding:8px 14px;}
+  #cap10 table{margin:12px 0;}
+  .close-band .kicker{color:rgba(255,255,255,0.7);}
+  .close-band h3{color:#fff;font-size:26px;}
+  .close-band p{color:rgba(255,255,255,0.9);}
+</style>
+</head>
+<body>
+
+<!-- ================= CAPA ================= -->
+<section class="page cover">
+  <img class="logo" src="assets/logo-green.png" alt="Turi Saúde">
+  <img class="watermark" src="assets/symbol-watermark-light.png" alt="">
+  <div style="margin-top:auto;margin-bottom:auto;">
+    <p class="kicker">GUIA PRÁTICO DE INTELIGÊNCIA ARTIFICIAL PARA PESQUISA</p>
+    <h1>Claude Science<br>na prática</h1>
+    <div class="rule"></div>
+    <p class="subtitle">O manual direto para começar a usar a bancada de pesquisa com IA
+      da Anthropic: o que ela faz, como acessar e as dicas que fazem você tirar o
+      máximo da ferramenta no dia a dia da ciência.</p>
+  </div>
+  <div class="cover-footer">
+    <p class="kicker">MATERIAL EDUCATIVO</p>
+    <div class="name">Turi Saúde</div>
+    <div class="contact">Tecnologia e IA a serviço de quem cuida e de quem pesquisa</div>
+  </div>
+</section>
+
+<!-- ================= SUMÁRIO ================= -->
+<section class="page">
+  <div class="section-band">
+    <div class="num">00</div>
+    <div class="titles">
+      <p class="kicker kicker-on-dark">SUMÁRIO</p>
+      <h2>O que você vai encontrar</h2>
+    </div>
+    <img class="logo-white" src="assets/logo-white.png" alt="Turi Saúde">
+  </div>
+
+  <ul class="toc-list">
+    <li><span class="tn">01</span><span><span class="tt">O que é o Claude Science</span>
+      <span class="td">A bancada de pesquisa com IA e por que ela existe</span></span></li>
+    <li><span class="tn">02</span><span><span class="tt">Como acessar e instalar</span>
+      <span class="td">Planos, requisitos e onde a ferramenta roda</span></span></li>
+    <li><span class="tn">03</span><span><span class="tt">Como o Claude Science trabalha</span>
+      <span class="td">O agente coordenador e os mais de 60 especialistas</span></span></li>
+    <li><span class="tn">04</span><span><span class="tt">Bancos de dados e conexões</span>
+      <span class="td">As fontes científicas já integradas à ferramenta</span></span></li>
+    <li><span class="tn">05</span><span><span class="tt">Visualização e artefatos</span>
+      <span class="td">Estruturas 3D, gráficos e relatórios prontos para auditoria</span></span></li>
+    <li><span class="tn">06</span><span><span class="tt">Reprodutibilidade e revisão</span>
+      <span class="td">Como confiar no resultado e refazer o caminho</span></span></li>
+    <li><span class="tn">07</span><span><span class="tt">Como escrever bons pedidos</span>
+      <span class="td">Dicas de prompt para respostas úteis e precisas</span></span></li>
+    <li><span class="tn">08</span><span><span class="tt">Fluxos de trabalho na prática</span>
+      <span class="td">Exemplos reais de uso do início ao fim</span></span></li>
+    <li><span class="tn">09</span><span><span class="tt">Boas práticas e erros a evitar</span>
+      <span class="td">O que fazer e o que não fazer com a IA</span></span></li>
+    <li><span class="tn">10</span><span><span class="tt">Primeiros passos e comandos</span>
+      <span class="td">Seu roteiro para começar hoje</span></span></li>
+  </ul>
+
+  <div class="page-footer">
+    <span>02 / 13</span>
+    <img class="logo" src="assets/logo-green.png" alt="Turi Saúde">
+  </div>
+</section>
+
+<!-- ================= 01 ================= -->
+<section class="page">
+  <div class="section-band">
+    <div class="num">01</div>
+    <div class="titles">
+      <p class="kicker kicker-on-dark">O PONTO DE PARTIDA</p>
+      <h2>O que é o Claude Science</h2>
+    </div>
+    <img class="logo-white" src="assets/logo-white.png" alt="Turi Saúde">
+  </div>
+
+  <p class="lead" style="margin-top:24px;">O Claude Science é uma <strong>bancada de
+    pesquisa com inteligência artificial</strong> criada pela Anthropic. A ideia é simples:
+    reunir em um só ambiente as ferramentas, os bancos de dados e os fluxos que o
+    pesquisador usa todos os dias, para você parar de saltar entre dezenas de sites,
+    pipelines e programas diferentes.</p>
+
+  <p>Assim como o Claude Code faz com programação, o Claude Science recebe um pedido em
+    linguagem natural, entende o objetivo, planeja as etapas e executa boa parte do
+    trabalho sozinho. Ele é especialmente forte em biologia computacional e em
+    desenvolvimento de medicamentos, mas serve a qualquer pesquisa que dependa de dados.</p>
+
+  <div class="callout">
+    <p class="kicker">POR QUE ISSO IMPORTA</p>
+    <p>Em uma demonstração, uma pesquisadora pediu ao Claude para comparar dois desenhos
+      de estudo de um medicamento. A IA buscou os dados, montou os resumos e ajudou a
+      escrever um relatório completo em minutos. Um trabalho que costuma levar dias.</p>
+  </div>
+
+  <p class="kicker" style="margin-top:24px;">EM RESUMO</p>
+  <div class="cards">
+    <div class="card">
+      <p class="card-title">Um ambiente único</p>
+      <p>Dados, análise, visualização e escrita no mesmo lugar, sem trocar de ferramenta a cada passo.</p>
+    </div>
+    <div class="card">
+      <p class="card-title">Trabalho autônomo</p>
+      <p>Você descreve o objetivo em português; a IA planeja e executa as etapas técnicas.</p>
+    </div>
+    <div class="card">
+      <p class="card-title">Feito para ciência</p>
+      <p>Já vem conectado às bases e aos métodos usados em genômica, proteômica e química.</p>
+    </div>
+  </div>
+
+  <div class="page-footer">
+    <span>03 / 13</span>
+    <img class="logo" src="assets/logo-green.png" alt="Turi Saúde">
+  </div>
+</section>
+
+<!-- ================= 02 ================= -->
+<section class="page">
+  <div class="section-band">
+    <div class="num">02</div>
+    <div class="titles">
+      <p class="kicker kicker-on-dark">COLOCANDO PARA FUNCIONAR</p>
+      <h2>Como acessar e instalar</h2>
+    </div>
+    <img class="logo-white" src="assets/logo-white.png" alt="Turi Saúde">
+  </div>
+
+  <p style="margin-top:24px;">O Claude Science está disponível para <strong>todos os
+    assinantes pagos do Claude</strong>. Como pessoa física, você acessa a partir de uma
+    conta Pro ou Max. Times acessam pelo Claude for Work. A ferramenta está em fase beta,
+    então novos recursos chegam com frequência.</p>
+
+  <h4 class="mini">Onde ela roda</h4>
+  <ul class="clean">
+    <li>No seu computador, em <strong>macOS</strong> ou <strong>Linux</strong>.</li>
+    <li>Em uma <strong>máquina remota</strong>, via acesso SSH.</li>
+    <li>No <strong>nó de login de um cluster HPC</strong>, para cálculos pesados.</li>
+  </ul>
+
+  <p>Essa flexibilidade existe porque a pesquisa nem sempre cabe no laptop. Você pode
+    começar localmente e, quando precisar de mais capacidade, apontar a ferramenta para
+    um servidor ou cluster sem mudar seu jeito de trabalhar.</p>
+
+  <div class="callout warning">
+    <p class="kicker">ANTES DE COMEÇAR</p>
+    <p>Confirme três coisas: uma assinatura paga ativa, acesso ao terminal do sistema onde
+      a ferramenta vai rodar e permissão para conectar suas fontes de dados. Sem isso, a
+      instalação até funciona, mas a IA não consegue chegar aos seus dados.</p>
+  </div>
+
+  <p class="kicker" style="margin-top:22px;">O CAMINHO EM TRÊS PASSOS</p>
+  <ul class="steps">
+    <li><span class="n">1</span><span><span class="s-title">Garanta o acesso</span><br>
+      <span class="s-desc">Tenha uma conta Claude Pro, Max ou Work ativa.</span></span></li>
+    <li><span class="n">2</span><span><span class="s-title">Instale no ambiente certo</span><br>
+      <span class="s-desc">Escolha entre o seu computador, uma máquina remota ou o cluster HPC.</span></span></li>
+    <li><span class="n">3</span><span><span class="s-title">Conecte suas fontes</span><br>
+      <span class="s-desc">Ative os conectores das bases e plataformas que você já usa.</span></span></li>
+  </ul>
+
+  <div class="page-footer">
+    <span>04 / 13</span>
+    <img class="logo" src="assets/logo-green.png" alt="Turi Saúde">
+  </div>
+</section>
+
+<!-- ================= 03 ================= -->
+<section class="page">
+  <div class="section-band">
+    <div class="num">03</div>
+    <div class="titles">
+      <p class="kicker kicker-on-dark">POR DENTRO DA FERRAMENTA</p>
+      <h2>Como o Claude Science trabalha</h2>
+    </div>
+    <img class="logo-white" src="assets/logo-white.png" alt="Turi Saúde">
+  </div>
+
+  <p style="margin-top:24px;">Por trás da conversa simples existe uma equipe de agentes.
+    Um <strong>agente coordenador</strong> funciona como gerente de projeto: recebe o seu
+    pedido, quebra em tarefas menores e distribui cada uma para os agentes especializados
+    certos. São <strong>mais de 60 agentes</strong>, cada um pré-configurado para um domínio.</p>
+
+  <div class="two-col" style="margin-top:8px;">
+    <div>
+      <h4 class="mini">O coordenador</h4>
+      <p style="font-size:15px;">Entende a pergunta inteira, define a ordem das etapas e
+        junta os resultados parciais em uma resposta única. Você fala com ele; ele cuida
+        do resto.</p>
+    </div>
+    <div>
+      <h4 class="mini">Os especialistas</h4>
+      <p style="font-size:15px;">Cada agente domina uma área: genômica, análise de célula
+        única, proteômica, biologia estrutural, química de medicamentos e mais. Eles
+        consultam as fontes por você.</p>
+    </div>
+  </div>
+
+  <div class="callout">
+    <p class="kicker">O QUE MUDA PARA VOCÊ</p>
+    <p>Você não precisa saber qual base consultar nem qual método aplicar. Ao fazer uma
+      pergunta em linguagem simples, os agentes buscam e cruzam as informações em várias
+      fontes ao mesmo tempo, e entregam a síntese já pronta.</p>
+  </div>
+
+  <p>A ferramenta roda sobre a arquitetura Claude, incluindo o modelo <strong>Claude
+    Opus 4.8</strong>, com uma camada de especialistas construída sob medida para
+    pesquisa. É essa combinação que permite ir do pedido ao resultado com poucas
+    instruções de alto nível.</p>
+
+  <div class="stat" style="margin-top:18px;">
+    <div class="big">60+</div>
+    <div class="label">agentes especializados coordenados por um único gerente de projeto</div>
+  </div>
+
+  <div class="page-footer">
+    <span>05 / 13</span>
+    <img class="logo" src="assets/logo-green.png" alt="Turi Saúde">
+  </div>
+</section>
+
+<!-- ================= 04 ================= -->
+<section class="page">
+  <div class="section-band">
+    <div class="num">04</div>
+    <div class="titles">
+      <p class="kicker kicker-on-dark">DADOS NA PONTA DOS DEDOS</p>
+      <h2>Bancos de dados e conexões</h2>
+    </div>
+    <img class="logo-white" src="assets/logo-white.png" alt="Turi Saúde">
+  </div>
+
+  <p style="margin-top:24px;">O Claude Science já chega ligado a <strong>mais de 60
+    fontes</strong>, entre skills e conectores. Em vez de você abrir cada site e aprender
+    cada interface, a IA consulta essas bases diretamente e traz a resposta com
+    <strong>citação da origem</strong>.</p>
+
+  <div class="db-grid">
+    <div class="db"><b>UniProt</b><span>Informações sobre proteínas</span></div>
+    <div class="db"><b>PDB</b><span>Estruturas tridimensionais</span></div>
+    <div class="db"><b>Ensembl e ClinVar</b><span>Genômica e variantes clínicas</span></div>
+    <div class="db"><b>Reactome</b><span>Vias e processos biológicos</span></div>
+    <div class="db"><b>ChEMBL</b><span>Química farmacêutica</span></div>
+    <div class="db"><b>GEO</b><span>Dados de expressão gênica</span></div>
+  </div>
+
+  <h4 class="mini">Conectores às suas plataformas</h4>
+  <p>Além das bases públicas, a IA se liga às ferramentas do seu laboratório por meio de
+    conectores. Dois exemplos:</p>
+  <ul class="clean">
+    <li><strong>Benchling:</strong> pergunte sobre seus experimentos e receba resumos
+      claros, com links de volta para os cadernos e registros de origem.</li>
+    <li><strong>10x Genomics:</strong> transforme a análise de célula única e espacial em
+      uma conversa, analisando seus próprios dados de sequenciamento.</li>
+  </ul>
+
+  <div class="callout">
+    <p class="kicker">A GRANDE VANTAGEM</p>
+    <p>Cada resposta vem com a fonte citada. Isso significa que você pode verificar de
+      onde veio cada número e voltar ao registro original sempre que precisar conferir.</p>
+  </div>
+
+  <div class="page-footer">
+    <span>06 / 13</span>
+    <img class="logo" src="assets/logo-green.png" alt="Turi Saúde">
+  </div>
+</section>
+
+<!-- ================= 05 ================= -->
+<section class="page">
+  <div class="section-band">
+    <div class="num">05</div>
+    <div class="titles">
+      <p class="kicker kicker-on-dark">VER PARA ENTENDER</p>
+      <h2>Visualização e artefatos</h2>
+    </div>
+    <img class="logo-white" src="assets/logo-white.png" alt="Turi Saúde">
+  </div>
+
+  <p style="margin-top:24px;">Ciência não é só número: é enxergar a estrutura, o padrão,
+    a relação. O Claude Science <strong>renderiza artefatos científicos direto na tela</strong>,
+    sem exportar para outro programa.</p>
+
+  <p class="kicker" style="margin-top:20px;">O QUE ELE MOSTRA</p>
+  <div class="cards trio">
+    <div class="card">
+      <p class="card-title">Estruturas 3D</p>
+      <p>Proteínas e moléculas em três dimensões, prontas para girar e inspecionar.</p>
+    </div>
+    <div class="card">
+      <p class="card-title">Trilhas do genoma</p>
+      <p>Faixas de navegação genômica para acompanhar regiões de interesse.</p>
+    </div>
+    <div class="card">
+      <p class="card-title">Estruturas químicas</p>
+      <p>Representações de compostos para análise de química medicinal.</p>
+    </div>
+  </div>
+
+  <h4 class="mini">Modelos de predição embarcados</h4>
+  <p>Para tarefas de estrutura e sequência, a ferramenta usa a suíte NVIDIA BioNeMo, com
+    modelos como <strong>Evo 2</strong>, <strong>Boltz-2</strong> e <strong>OpenFold3</strong>.
+    Na prática, você pede uma predição em linguagem simples e recebe o resultado já
+    visualizado, sem montar o pipeline na mão.</p>
+
+  <div class="callout">
+    <p class="kicker">DICA DE USO</p>
+    <p>Quando estiver diante de uma estrutura 3D, peça à IA para destacar o que interessa:
+      um sítio de ligação, uma mutação, uma região conservada. Ela ajusta a visualização
+      e explica o que você está vendo.</p>
+  </div>
+
+  <div class="page-footer">
+    <span>07 / 13</span>
+    <img class="logo" src="assets/logo-green.png" alt="Turi Saúde">
+  </div>
+</section>
+
+<!-- ================= 06 ================= -->
+<section class="page">
+  <div class="section-band">
+    <div class="num">06</div>
+    <div class="titles">
+      <p class="kicker kicker-on-dark">CIÊNCIA QUE SE VERIFICA</p>
+      <h2>Reprodutibilidade e revisão</h2>
+    </div>
+    <img class="logo-white" src="assets/logo-white.png" alt="Turi Saúde">
+  </div>
+
+  <p style="margin-top:24px;">Uma resposta de IA só serve à ciência se puder ser
+    conferida e refeita. O Claude Science foi desenhado com isso no centro, em duas
+    camadas: um agente que revisa e um histórico que acompanha cada resultado.</p>
+
+  <h4 class="mini">O agente revisor</h4>
+  <p>Existe um agente dedicado a <strong>checar citações e cálculos</strong>. Ele sinaliza
+    e corrige erros antes de o resultado chegar até você. É uma segunda leitura automática,
+    feita para reduzir enganos que passariam despercebidos na pressa.</p>
+
+  <h4 class="mini">Todo artefato traz sua história</h4>
+  <p>Cada gráfico, tabela ou relatório é entregue junto com o caminho que o produziu:</p>
+  <ul class="clean">
+    <li>O <strong>código exato</strong> que gerou o resultado.</li>
+    <li>O <strong>ambiente computacional</strong> em que ele rodou.</li>
+    <li>A <strong>conversa completa</strong> que levou até ali.</li>
+  </ul>
+
+  <div class="callout">
+    <p class="kicker">POR QUE ISSO IMPORTA</p>
+    <p>Com o histórico anexado, qualquer colega consegue auditar o que foi feito e
+      reproduzir o resultado. É a diferença entre uma resposta bonita e uma resposta
+      científica de verdade.</p>
+  </div>
+
+  <p class="quote">"Cada artefato viaja com o registro completo de como foi produzido."</p>
+
+  <div class="page-footer">
+    <span>08 / 13</span>
+    <img class="logo" src="assets/logo-green.png" alt="Turi Saúde">
+  </div>
+</section>
+
+<!-- ================= 07 ================= -->
+<section class="page">
+  <div class="section-band">
+    <div class="num">07</div>
+    <div class="titles">
+      <p class="kicker kicker-on-dark">FALANDO COM A IA</p>
+      <h2>Como escrever bons pedidos</h2>
+    </div>
+    <img class="logo-white" src="assets/logo-white.png" alt="Turi Saúde">
+  </div>
+
+  <p style="margin-top:24px;">A qualidade da resposta acompanha a clareza do pedido. O
+    Claude Science trabalha melhor com <strong>instruções de alto nível e objetivas</strong>,
+    do mesmo jeito que você orientaria um colega competente. Estas dicas ajudam.</p>
+
+  <ul class="steps">
+    <li><span class="n">1</span><span><span class="s-title">Diga o objetivo, não só a tarefa</span><br>
+      <span class="s-desc">"Quero comparar a estabilidade destas duas variantes" rende mais do que "rode esta análise".</span></span></li>
+    <li><span class="n">2</span><span><span class="s-title">Dê o contexto essencial</span><br>
+      <span class="s-desc">Aponte o organismo, a base, o intervalo de dados ou o formato de saída que você espera.</span></span></li>
+    <li><span class="n">3</span><span><span class="s-title">Peça as fontes</span><br>
+      <span class="s-desc">Solicite que a IA cite de onde tirou cada dado. Ela já faz isso, e reforçar ajuda.</span></span></li>
+    <li><span class="n">4</span><span><span class="s-title">Trabalhe em rodadas</span><br>
+      <span class="s-desc">Comece amplo, veja o resultado e refine. Ajustar aos poucos é mais rápido que reescrever tudo.</span></span></li>
+    <li><span class="n">5</span><span><span class="s-title">Peça para explicar o raciocínio</span><br>
+      <span class="s-desc">Entender o caminho ajuda você a validar a conclusão e a confiar no resultado.</span></span></li>
+  </ul>
+
+  <div class="callout warning">
+    <p class="kicker">ATENÇÃO</p>
+    <p>A IA acelera o trabalho, mas a responsabilidade científica continua sua. Trate as
+      respostas como um rascunho competente a ser conferido, não como verdade final.</p>
+  </div>
+
+  <div class="page-footer">
+    <span>09 / 13</span>
+    <img class="logo" src="assets/logo-green.png" alt="Turi Saúde">
+  </div>
+</section>
+
+<!-- ================= 08 ================= -->
+<section class="page">
+  <div class="section-band">
+    <div class="num">08</div>
+    <div class="titles">
+      <p class="kicker kicker-on-dark">DO PEDIDO AO RESULTADO</p>
+      <h2>Fluxos de trabalho na prática</h2>
+    </div>
+    <img class="logo-white" src="assets/logo-white.png" alt="Turi Saúde">
+  </div>
+
+  <p style="margin-top:24px;">Para dar concretude, veja três fluxos que a ferramenta
+    resolve de ponta a ponta, cada um começando com uma frase em linguagem natural.</p>
+
+  <h4 class="mini">1. Comparar desenhos de estudo</h4>
+  <p style="font-size:15px;">Peça para comparar dois desenhos de estudo de um medicamento.
+    A IA busca os dados na plataforma conectada, monta os resumos e ajuda a escrever o
+    relatório final. O que levava dias sai em minutos.</p>
+
+  <h4 class="mini">2. Analisar dados de sequenciamento</h4>
+  <p style="font-size:15px;">Com o conector do 10x Genomics, converse com seus próprios
+    dados de célula única ou espaciais. A IA escreve e ajusta o código de bioinformática,
+    itera com você e mostra os gráficos, sem você sair da conversa.</p>
+
+  <h4 class="mini">3. Investigar uma proteína</h4>
+  <p style="font-size:15px;">Pergunte sobre uma proteína e a IA cruza UniProt, PDB e
+    Reactome, mostra a estrutura 3D, aponta vias associadas e resume tudo com as fontes
+    citadas para você conferir.</p>
+
+  <div class="callout">
+    <p class="kicker">O PADRÃO POR TRÁS</p>
+    <p>Em todos os casos o roteiro é o mesmo: você descreve o objetivo, os agentes buscam e
+      analisam, a visualização aparece na tela e o relatório sai com o histórico anexado.</p>
+  </div>
+
+  <div class="page-footer">
+    <span>10 / 13</span>
+    <img class="logo" src="assets/logo-green.png" alt="Turi Saúde">
+  </div>
+</section>
+
+<!-- ================= 09 ================= -->
+<section class="page">
+  <div class="section-band">
+    <div class="num">09</div>
+    <div class="titles">
+      <p class="kicker kicker-on-dark">USO CONSCIENTE</p>
+      <h2>Boas práticas e erros a evitar</h2>
+    </div>
+    <img class="logo-white" src="assets/logo-white.png" alt="Turi Saúde">
+  </div>
+
+  <p style="margin-top:24px;">Aproveitar bem a ferramenta é tanto sobre o que fazer quanto
+    sobre o que não fazer. Guarde estes hábitos.</p>
+
+  <div class="two-col" style="margin-top:12px;">
+    <div>
+      <p class="kicker" style="color:var(--success-dark);">FAÇA</p>
+      <ul class="clean">
+        <li>Confira as citações que a IA entrega.</li>
+        <li>Guarde o histórico de cada artefato importante.</li>
+        <li>Divida pedidos grandes em etapas menores.</li>
+        <li>Use o ambiente certo para o tamanho do cálculo.</li>
+        <li>Revise os cálculos críticos antes de publicar.</li>
+      </ul>
+    </div>
+    <div>
+      <p class="kicker" style="color:var(--destructive-dark);">EVITE</p>
+      <ul class="clean">
+        <li>Aceitar resultados sem entender o caminho.</li>
+        <li>Pedidos vagos, sem contexto ou objetivo.</li>
+        <li>Publicar sem checar números e fontes.</li>
+        <li>Ignorar os avisos do agente revisor.</li>
+        <li>Tratar a IA como autora, e não como assistente.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="callout">
+    <p class="kicker">O EQUILÍBRIO CERTO</p>
+    <p>O Claude Science tira de cima de você o trabalho repetitivo de buscar, cruzar e
+      formatar dados. Isso libera seu tempo para o que a máquina não faz: formular boas
+      perguntas, interpretar resultados e decidir os próximos passos.</p>
+  </div>
+
+  <div class="stat" style="margin-top:16px;">
+    <div class="big">De dias a minutos</div>
+    <div class="label">o ganho de tempo relatado em tarefas de busca, síntese e relatório</div>
+  </div>
+
+  <div class="page-footer">
+    <span>11 / 13</span>
+    <img class="logo" src="assets/logo-green.png" alt="Turi Saúde">
+  </div>
+</section>
+
+<!-- ================= 10 ================= -->
+<section class="page" id="cap10">
+  <div class="section-band">
+    <div class="num">10</div>
+    <div class="titles">
+      <p class="kicker kicker-on-dark">MÃO NA MASSA</p>
+      <h2>Primeiros passos e comandos</h2>
+    </div>
+    <img class="logo-white" src="assets/logo-white.png" alt="Turi Saúde">
+  </div>
+
+  <p style="margin-top:20px;">Se você quer começar hoje, este é o roteiro: a tabela reúne
+    o que você costuma querer fazer e o caminho para conseguir.</p>
+
+  <table>
+    <thead>
+      <tr><th>O que você quer fazer</th><th>Como conseguir</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Ter acesso à ferramenta</td><td>Assinar o Claude Pro ou Max, ou usar o Claude for Work do seu time</td></tr>
+      <tr><td>Rodar no seu computador</td><td>Instalar no macOS ou Linux e abrir no terminal</td></tr>
+      <tr><td>Usar mais capacidade</td><td>Conectar por SSH a uma máquina remota ou ao nó de login de um cluster HPC</td></tr>
+      <tr><td>Chegar aos seus dados</td><td>Ativar os conectores das suas plataformas, como Benchling e 10x Genomics</td></tr>
+      <tr><td>Consultar bases públicas</td><td>Pedir em linguagem natural; a IA acessa UniProt, PDB, Ensembl, ChEMBL e outras</td></tr>
+      <tr><td>Ver uma estrutura 3D</td><td>Pedir a visualização; ela é renderizada direto na tela</td></tr>
+      <tr><td>Garantir reprodutibilidade</td><td>Guardar o artefato com seu histórico de código, ambiente e conversa</td></tr>
+    </tbody>
+  </table>
+
+  <p class="kicker" style="margin-top:16px;">COMECE PEQUENO</p>
+  <p>Escolha uma tarefa real e pequena da sua semana, algo que hoje toma tempo em buscas e
+    formatação. Descreva o objetivo, veja o resultado e refine. É a forma mais rápida de
+    sentir onde a ferramenta ajuda você de verdade.</p>
+
+  <div class="close-band">
+    <p class="kicker">O CONVITE</p>
+    <h3>Menos ferramenta, mais ciência</h3>
+    <p style="margin:8px 0 0;">O Claude Science existe para você gastar menos energia
+      operando programas e mais energia fazendo perguntas que importam. Comece por uma
+      tarefa, ganhe confiança e deixe a IA cuidar do trabalho pesado de dados.</p>
+  </div>
+
+  <div class="page-footer">
+    <span>12 / 13</span>
+    <img class="logo" src="assets/logo-green.png" alt="Turi Saúde">
+  </div>
+</section>
+
+<!-- ================= ENCERRAMENTO ================= -->
+<section class="page cover">
+  <img class="logo" src="assets/logo-green.png" alt="Turi Saúde">
+  <img class="watermark" src="assets/symbol-watermark-light.png" alt="">
+  <div style="margin-top:auto;margin-bottom:auto;">
+    <p class="kicker">PARA LEVAR ADIANTE</p>
+    <h1>A pesquisa fica<br>com você</h1>
+    <div class="rule"></div>
+    <p class="subtitle">A inteligência artificial acelera a busca, a análise e a escrita.
+      As boas perguntas, o julgamento e a decisão continuam sendo seus. Essa é a parceria
+      que a Turi Saúde acredita e ajuda a construir.</p>
+  </div>
+  <div class="cover-footer">
+    <p class="kicker">TURI SAÚDE</p>
+    <div class="name">Tecnologia e IA a serviço de quem cuida</div>
+    <div class="contact">Este material é educativo e resume recursos públicos do Claude Science, da Anthropic.</div>
+  </div>
+</section>
+
+</body>
+</html>
