@@ -1,49 +1,43 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-09-26",
-  "geradoEm": "2026-09-26T11:54:44-03:00",
+  "data": "2026-09-28",
+  "geradoEm": "2026-09-28T09:26:42-03:00",
   "itens": [
     {
-      "titulo": "Grupo Fleury estrutura plataforma de IA com governança e interoperabilidade",
-      "resumo": "Fleury cria Data Hub central, governança corporativa e interoperabilidade para escalar IA; mais de 50% dos agendamentos da a+ já são digitais.",
+      "titulo": "Maturidade da IA na saúde divide lideranças: 36% entre C-levels e 18% entre gestores",
+      "resumo": "Estudo da Sinch com 2.527 decisores aponta a saúde como o setor que menos converte pilotos de IA em produção.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/25/09/2026/grupo-fleury-estrutura-plataforma-de-ia-com-governanca-e-interoperabilidade/"
+      "link": "https://saudedigitalnews.com.br/21/09/2026/maturidade-da-ia-na-saude-divide-liderancas-indice-e-de-36-entre-c-levels-e-cai-para-18-entre-gestores/"
     },
     {
-      "titulo": "51% dos profissionais de saúde no Brasil dizem que a IA aumentou sua capacidade de atendimento",
-      "resumo": "Future Health Index 2026 da Philips ouviu mais de 2 mil profissionais em 10 países; metade usou IA para evitar erro médico.",
+      "titulo": "Uso de IA nos hospitais latino-americanos avança para aplicações clínicas",
+      "resumo": "Levantamento da IntelLat com 105 hospitais, 42 brasileiros: 88% dos que usam IA já têm ao menos uma aplicação clínica.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/16/09/2026/51-dos-profissionais-de-saude-no-brasil-afirmam-que-a-ia-aumentou-sua-capacidade-de-atendimento-aponta-estudo-da-philips/"
+      "link": "https://saudedigitalnews.com.br/22/09/2026/uso-de-ia-nos-hospitais-latino-americanos-avanca-para-aplicacoes-clinicas-2/"
     },
     {
-      "titulo": "Saúde fará busca ativa de apostadores após fim das bets",
-      "resumo": "Após medida provisória que proíbe as bets, Ministério da Saúde amplia busca ativa de apostadores habituais na rede do SUS.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/saude-fara-busca-ativa-de-apostadores-apos-fim-das-bets"
+      "titulo": "Central de Comando do SUS monitora em tempo real UTIs inteligentes de seis hospitais",
+      "resumo": "Central no HC-FMUSP acompanha 60 leitos conectados em seis capitais; meta é chegar a 280 leitos inteligentes em 14 instituições.",
+      "veiculo": "Radioagência Nacional (Agência Brasil)",
+      "link": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-09/sus-central-de-comando-inteligente-une-utis-de-6-hospitais-do-pais"
     },
     {
-      "titulo": "Em 13 anos, doença inflamatória intestinal cresce 5 vezes no Brasil",
-      "resumo": "Dados do SUS mostram prevalência saltando de 30 para 158 casos por 100 mil habitantes entre 2012 e 2025.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/em-13-anos-doenca-inflamatoria-intestinal-cresce-5-vezes-no-brasil"
-    },
-    {
-      "titulo": "Planos de saúde terão que cobrir DIU hormonal em casos de endometriose",
-      "resumo": "Resolução Normativa 680 da ANS, de 18 de setembro, inclui o DIU hormonal para endometriose no rol de cobertura obrigatória.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/planos-de-saude-terao-que-cobrir-diu-hormonal-em-casos-de-endometriose"
-    },
-    {
-      "titulo": "Wellon e UEFS usam IA para reduzir faltas em consultas em até 50%",
-      "resumo": "Modelo preditivo estima risco de falta e reorganiza agendas; parceria validou até 50% menos ausências e 25% mais receita.",
+      "titulo": "A IA que importa chega antes da internação",
+      "resumo": "Artigo defende IA para detectar descontinuidade de tratamento; estudo associa cada R$ 1 em subsídio de remédios a R$ 2,70 evitados.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/14/09/2026/parceria-entre-wellon-e-uefs-aplica-inteligencia-artificial-para-reduzir-faltas-em-consultas-em-ate-50-2/"
+      "link": "https://saudedigitalnews.com.br/25/09/2026/a-inteligencia-artificial-que-importa-chega-antes-da-internacao/"
     },
     {
-      "titulo": "Brasileiros se sentem mais saudáveis do que são, diz pesquisa",
-      "resumo": "Pesquisa do A.C.Camargo: 59% avaliam a própria saúde como boa ou excelente, mas 63% têm excesso de peso.",
+      "titulo": "Philips lança no Brasil ultrassom com IA para ambientes de alto volume",
+      "resumo": "Sistema Alturion combina IA, recursos de imagem e conectividade para padronizar e agilizar exames de ultrassom.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/21/09/2026/philips-lanca-no-brasil-ultrassom-com-ia-para-aumentar-eficiencia-em-ambientes-de-alto-volume/"
+    },
+    {
+      "titulo": "Anvisa aprova genéricos de liraglutida contra diabetes e obesidade",
+      "resumo": "Agência registra dois genéricos de liraglutida em caneta, usados no tratamento da obesidade e do diabetes tipo 2.",
       "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/brasileiros-se-sentem-mais-saudaveis-do-que-sao-diz-pesquisa"
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/anvisa-aprova-genericos-de-medicamentos-contra-diabetes-e-obesidade"
     }
   ]
 }
