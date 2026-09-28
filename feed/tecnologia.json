@@ -1,37 +1,37 @@
 {
   "fonte": "A tecnologia em saúde",
   "data": "2026-09-28",
-  "geradoEm": "2026-09-28T09:26:45-03:00",
+  "geradoEm": "2026-09-28T13:47:58-03:00",
   "itens": [
     {
-      "titulo": "Nature Medicine: IA em tomografia sem contraste para rastrear câncer de esôfago em larga escala",
-      "resumo": "Modelo de deep learning detecta câncer de esôfago em TC sem contraste com alta sensibilidade e especificidade em diferentes cenários.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04656-4"
+      "titulo": "Piloto TEMPO da FDA libera dispositivos com IA generativa antes da autorização formal",
+      "resumo": "Quatro produtos, incluindo Cadence e Limbic, entram no piloto ligado ao modelo ACCESS do Medicare para doenças crônicas.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/"
     },
     {
-      "titulo": "Piloto de IA do Medicare para autorização prévia foi lançado às pressas, revelam documentos",
-      "resumo": "Mais de mil páginas obtidas via FOIA mostram falhas no WISeR, em seis estados, com atrasos no cuidado.",
+      "titulo": "OpenEvidence lança nova família de modelos de IA para médicos",
+      "resumo": "Plataforma de evidências clínicas amplia sua oferta com modelos próprios voltados ao apoio à decisão médica.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/15/medicare-wiser-ai-prior-authorization-pilot-rushed-launch-delayed-care/"
+      "link": "https://www.statnews.com/2026/09/03/openevidence-launches-new-ai-models-clinicians-health-tech/"
     },
     {
-      "titulo": "Medicare amplia modelo ACCESS que paga tecnologia por resultado em doenças crônicas",
-      "resumo": "A partir de 2027 entram insuficiência cardíaca, DPOC, tabagismo e uso de substâncias; três quartos dos beneficiários ficam elegíveis.",
+      "titulo": "UnitedHealth, CVS e Kaiser contestam regra do Medicare para monitoramento remoto",
+      "resumo": "Proposta exige monitoramento remoto feito por funcionários do prestador; edição também aborda clínicas de radiologia nativas em IA.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/15/medicare-access-chronic-care-management-tech-pilot-expanding/"
+      "link": "https://www.statnews.com/2026/09/24/the-rise-of-the-ai-native-radiology-practice-health-tech/"
     },
     {
-      "titulo": "Reino Unido apresenta 44 recomendações para regular IA na medicina",
-      "resumo": "Comissão propõe autorização em etapas e monitoramento contínuo do desempenho das ferramentas de IA após a aprovação.",
+      "titulo": "Governo Trump aposta em IA para a saúde rural nos Estados Unidos",
+      "resumo": "Autoridades do HHS defendem IA para hospitais rurais enquanto indicados passam por sabatinas no Senado.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/09/uk-unveils-recommendations-ai-regulation-medicine/"
+      "link": "https://www.statnews.com/2026/09/10/ai-rural-health-hospitals-chris-klomp-nicole-saphier-senate-hearings/"
     },
     {
-      "titulo": "STAT: o que o modelo de mortalidade da Epic diz sobre IA em geriatria",
-      "resumo": "Newsletter analisa o algoritmo de predição de mortalidade da Epic em idosos e os próximos produtos da Omada.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/22/epics-mortality-model-omadas-future-products-health-tech/"
+      "titulo": "GenHealth.ai capta US$ 16,5 milhões para agentes de IA administrativos",
+      "resumo": "Agentes fazem admissão, elegibilidade, autorização prévia e faturamento dentro do prontuário; empresa soma US$ 30 milhões captados.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/genhealthai-raises-165m-expand-healthcare-ai-agents"
     }
   ]
 }
