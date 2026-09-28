@@ -1,43 +1,73 @@
 {
   "fonte": "A saúde em News",
   "data": "2026-09-28",
-  "geradoEm": "2026-09-28T09:26:42-03:00",
+  "geradoEm": "2026-09-28T09:40:28-03:00",
   "itens": [
     {
-      "titulo": "Maturidade da IA na saúde divide lideranças: 36% entre C-levels e 18% entre gestores",
-      "resumo": "Estudo da Sinch com 2.527 decisores aponta a saúde como o setor que menos converte pilotos de IA em produção.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/21/09/2026/maturidade-da-ia-na-saude-divide-liderancas-indice-e-de-36-entre-c-levels-e-cai-para-18-entre-gestores/"
+      "titulo": "Anvisa investiga 13 casos de perda de visão associados a canetas emagrecedoras",
+      "resumo": "Anvisa apura 13 casos de perda de visão em usuários de GLP-1; ainda sem nexo causal confirmado.",
+      "veiculo": "O Tempo",
+      "link": "https://www.otempo.com.br/saude-e-bem-estar/2026/9/27/anvisa-investiga-13-notificacoes-de-perda-de-visao-associadas-a-canetas-emagrecedoras-diz-site"
     },
     {
-      "titulo": "Uso de IA nos hospitais latino-americanos avança para aplicações clínicas",
-      "resumo": "Levantamento da IntelLat com 105 hospitais, 42 brasileiros: 88% dos que usam IA já têm ao menos uma aplicação clínica.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/22/09/2026/uso-de-ia-nos-hospitais-latino-americanos-avanca-para-aplicacoes-clinicas-2/"
+      "titulo": "Depois das canetas, o 'kit Mounjaro' ganha espaço nas farmácias",
+      "resumo": "Canetas emagrecedoras impulsionam venda de proteínas e dermocosméticos, com alta de até 53% em algumas categorias.",
+      "veiculo": "NeoFeed",
+      "link": "https://neofeed.com.br/finde/depois-das-canetas-kit-mounjaro-comeca-a-ganhar-espaco-nas-farmacias/"
     },
     {
-      "titulo": "Central de Comando do SUS monitora em tempo real UTIs inteligentes de seis hospitais",
-      "resumo": "Central no HC-FMUSP acompanha 60 leitos conectados em seis capitais; meta é chegar a 280 leitos inteligentes em 14 instituições.",
-      "veiculo": "Radioagência Nacional (Agência Brasil)",
-      "link": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-09/sus-central-de-comando-inteligente-une-utis-de-6-hospitais-do-pais"
+      "titulo": "Ministério da Saúde entrega 137 veículos para reforçar o SUS em Minas Gerais",
+      "resumo": "Ministério entrega 137 veículos, incluindo ambulâncias, a 49 cidades mineiras para ampliar o atendimento do SUS.",
+      "veiculo": "O Tempo",
+      "link": "https://www.otempo.com.br/cidades/2026/9/26/ministerio-da-saude-entrega-137-ambulancias-a-municipios-de-mg"
     },
     {
-      "titulo": "A IA que importa chega antes da internação",
-      "resumo": "Artigo defende IA para detectar descontinuidade de tratamento; estudo associa cada R$ 1 em subsídio de remédios a R$ 2,70 evitados.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/25/09/2026/a-inteligencia-artificial-que-importa-chega-antes-da-internacao/"
+      "titulo": "Fundador da Beep Saúde mira nova aposta de R$ 300 milhões na BR MED",
+      "resumo": "Vander Corteze volta à BR MED e quer triplicar o faturamento para R$ 300 milhões até 2028.",
+      "veiculo": "Exame",
+      "link": "https://exame.com/negocios/depois-de-criar-uma-healthtech-de-r-12-bilhao-fundador-mira-nova-aposta-de-r-300-milhoes/"
     },
     {
-      "titulo": "Philips lança no Brasil ultrassom com IA para ambientes de alto volume",
-      "resumo": "Sistema Alturion combina IA, recursos de imagem e conectividade para padronizar e agilizar exames de ultrassom.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/21/09/2026/philips-lanca-no-brasil-ultrassom-com-ia-para-aumentar-eficiencia-em-ambientes-de-alto-volume/"
-    },
-    {
-      "titulo": "Anvisa aprova genéricos de liraglutida contra diabetes e obesidade",
-      "resumo": "Agência registra dois genéricos de liraglutida em caneta, usados no tratamento da obesidade e do diabetes tipo 2.",
+      "titulo": "Ministério da Saúde pede à Conitec análise para incluir canetas emagrecedoras no SUS",
+      "resumo": "Governo protocola pedido para avaliar semaglutida e liraglutida no SUS após queda de cerca de 70% nos preços.",
       "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/anvisa-aprova-genericos-de-medicamentos-contra-diabetes-e-obesidade"
+      "link": "https://jornaltaguacei.com.br/noticias/25/09/2026/ministerio-da-saude-pede-analise-para-incluir-canetas-emagrecedoras-no-sus/"
+    },
+    {
+      "titulo": "Mercado Livre entra na venda de remédios e ações de farmácias caem até 8%",
+      "resumo": "Anúncio de venda de medicamentos derruba RD, Pague Menos e Panvel, com queda de até 8%.",
+      "veiculo": "Exame",
+      "link": "https://exame.com/invest/mercados/farmacias-caem-ate-8-na-bolsa-apos-mercado-livre-anunciar-venda-de-remedios/"
+    },
+    {
+      "titulo": "Mounjaro concentra 76% do mercado de GLP-1 no Brasil",
+      "resumo": "Tirzepatida domina 76% da demanda por GLP-1; Ozempic cai de 73% em 2022 para 13%.",
+      "veiculo": "IQVIA / Guairá News",
+      "link": "https://www.guairanews.com/2026/09/24/mounjaro-concentra-76-mercado-glp-1-no-brasil/"
+    },
+    {
+      "titulo": "Bariátrica x canetas emagrecedoras: qual leva à maior perda de peso?",
+      "resumo": "Estudo com 51 mil pacientes: cirurgia leva a 26,5% de perda de peso contra 5,7% dos GLP-1.",
+      "veiculo": "O Tempo",
+      "link": "https://www.otempo.com.br/saude-e-bem-estar/2026/9/24/bariatrica-x-canetas-emagrecedoras-qual-tratamento-leva-a-maior-perda-de-peso"
+    },
+    {
+      "titulo": "Por que o Fleury sobe 50% este ano? O BTG tem uma hipótese",
+      "resumo": "Ação do Fleury sobe cerca de 48% no ano; BTG credita expansão de múltiplos e re-rating do diagnóstico.",
+      "veiculo": "Brazil Journal",
+      "link": "https://braziljournal.com/por-que-o-fleury-sobe-50-este-ano-o-btg-tem-uma-hipotese/"
+    },
+    {
+      "titulo": "Em 30 anos, obesidade triplica no Brasil e atinge 1/4 da população adulta",
+      "resumo": "Obesidade triplica em três décadas e atinge 27,7% dos adultos, cerca de 1 em cada 4.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/em-30-anos-obesidade-triplica-no-pais-e-atinge-14-da-populacao"
+    },
+    {
+      "titulo": "Anvisa proíbe lotes irregulares de medicamento para esclerose múltipla",
+      "resumo": "Anvisa manda apreender dois lotes irregulares do Ocrevus por distribuição sem autorização sanitária.",
+      "veiculo": "Forbes Brasil",
+      "link": "https://forbes.com.br/forbes-saude/2026/09/anvisa-proibe-lotes-irregulares-de-medicamento-para-esclerose-multipla/"
     }
   ]
 }
