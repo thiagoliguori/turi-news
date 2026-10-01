@@ -1,79 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
   "data": "2026-10-01",
-  "geradoEm": "2026-10-01T10:08:17-03:00",
+  "geradoEm": "2026-10-01T14:13:32-03:00",
   "itens": [
     {
-      "titulo": "Anthropic e OpenEvidence levam IA médica gratuita a cerca de 100 países",
-      "resumo": "OpenEvidence dará IA clínica gratuita a médicos de cerca de 100 países de baixa e média renda, rodando em modelos da Anthropic.",
-      "veiculo": "The Next Web",
-      "link": "https://thenextweb.com/news/anthropic-openevidence-free-medical-ai"
+      "titulo": "Anthropic entra no programa de IA clínica da ARPA-H e fará evento fechado de saúde",
+      "resumo": "Empresa acelera a entrada no setor de saúde ao aderir a iniciativa de IA clínica da agência americana de pesquisa.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/09/29/anthropic-joins-arpa-h-clinical-ai-moonshot-health-tech/"
     },
     {
-      "titulo": "Departamento de Veteranos dos EUA (VA) escolhe a Abridge para IA ambiental",
-      "resumo": "VA dos EUA escolhe a Abridge para levar escuta clínica por IA a centros de veteranos, em contrato de até US$ 776 milhões.",
-      "veiculo": "Abridge / BusinessWire",
-      "link": "https://www.businesswire.com/news/home/20260909133398/en/Abridge-Selected-to-Bring-Ambient-AI-to-Veteran-Care-Nationwide-Through-the-VA-Enterprise-Contract"
+      "titulo": "ARPA-H investe US$ 62,7 milhões em IA autônoma para tratar insuficiência cardíaca",
+      "resumo": "Programa ADVOCATE busca agentes autorizados pela FDA capazes de avaliar sintomas, prescrever medicamentos e pedir exames.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/09/09/arpa-h-advocate-program-autonomous-ai-bots-for-heart-failure/"
     },
     {
-      "titulo": "Ortet nasce como laboratório de IA de ponta para saúde, com US$ 500 milhões do Thoreau",
-      "resumo": "Ex-líderes de Genentech, Meta e AWS lançam a Ortet, laboratório de IA para saúde, com US$ 500 milhões do Thoreau.",
+      "titulo": "FDA cria cargo de vice-comissário para tecnologia e IA e nomeia Jared Seehafer",
+      "resumo": "Ex-CEO da Enzyme passa a definir a estratégia de software e IA da agência; CDER e CBER ganham diretores permanentes.",
+      "veiculo": "RAPS",
+      "link": "https://www.raps.org/resource/fda-names-permanent-cder-cber-directors-new-deputy-commissioner-for-ai.html"
+    },
+    {
+      "titulo": "Reino Unido publica 44 recomendações para regular IA na medicina",
+      "resumo": "Comissão propõe autorização em fases para modelos de IA e sistema de notificação de desempenho e falhas na prática clínica.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/09/09/uk-unveils-recommendations-ai-regulation-medicine/"
+    },
+    {
+      "titulo": "Documentos revelam problemas no piloto de autorização prévia com IA do Medicare",
+      "resumo": "Reportagem do STAT aponta falhas no programa do Medicare que usa IA para autorizar previamente procedimentos.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/09/15/medicare-ai-prior-authorization-pilot-problems-health-tech/"
+    },
+    {
+      "titulo": "Revisão de 4.609 estudos mostra evidência frágil de LLMs na prática clínica",
+      "resumo": "Só 1.048 estudos usaram dados reais de pacientes e apenas 19 eram ensaios randomizados prospectivos; modelos OpenAI dominam as avaliações.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/articles/s41591-026-04229-5"
+    },
+    {
+      "titulo": "Innovaccer e AWS fecham parceria para levar IA agêntica a hospitais e operadoras",
+      "resumo": "Acordo plurianual quer tirar agentes de IA do piloto e levá-los à escala com requisitos de segurança e conformidade.",
       "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/ex-genentech-meta-aws-ai-leaders-launch-health-ai-lab-500m-backing"
-    },
-    {
-      "titulo": "EliseAI capta US$ 350 milhões e chega a valuation de US$ 4 bilhões",
-      "resumo": "EliseAI capta US$ 350 milhões e atinge valuation de US$ 4 bilhões para expandir agentes de IA na operação da saúde.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/finance/eliseai-banks-350m-hits-4b-valuation-accelerated-new-product-development"
-    },
-    {
-      "titulo": "Heidi capta US$ 470 milhões, vira unicórnio e lança IA agêntica para fluxos clínicos",
-      "resumo": "Heidi capta US$ 470 milhões, chega a US$ 1,2 bilhão de valuation e avança de documentação para IA agêntica supervisionada por clínicos.",
-      "veiculo": "Forbes",
-      "link": "https://www.forbes.com.au/news/entrepreneurs/heidi-hits-1-2-billion-valuation-with-470-million-in-fresh-funding/"
-    },
-    {
-      "titulo": "Rede estadual na Carolina do Norte ajuda hospitais rurais a adotar IA",
-      "resumo": "UNC Health, Duke e parceiros criam rede estadual na Carolina do Norte para ajudar hospitais rurais a adotar IA, com US$ 4,4 milhões.",
-      "veiculo": "UNC / UNC Health",
-      "link": "https://www.unc.edu/posts/2026/09/22/statewide-network-launches-to-help-rural-and-critical-access-providers-harness-ai-for-better-patient-care/"
-    },
-    {
-      "titulo": "Médicos entram em greve na Allina Health pedindo mais controle sobre a IA",
-      "resumo": "Cerca de 150 médicos da Allina Health fazem greve pedindo mais controle sobre o uso de IA no cuidado, diagnóstico e cobrança.",
-      "veiculo": "KARE 11",
-      "link": "https://www.kare11.com/article/news/local/breaking-the-news/striking-allina-doctors-ai-growing-role-patient-care/89-e77989fa-f89a-42b8-ba17-804f353611a8"
-    },
-    {
-      "titulo": "Hackensack Meridian recebe a primeira certificação de IA da Joint Commission",
-      "resumo": "Hackensack Meridian recebe a primeira certificação de IA da Joint Commission, avaliando inventário, risco, monitoramento e proteção de dados.",
-      "veiculo": "TechTarget",
-      "link": "https://www.techtarget.com/healthtechanalytics/feature/Inside-Hackensack-Meridians-first-in-nation-Joint-Commission-AI-certification"
-    },
-    {
-      "titulo": "Counsel Health entra no modelo ACCESS do CMS com cuidado crônico nativo de IA",
-      "resumo": "Counsel Health entra no modelo ACCESS do CMS para cuidado crônico nativo de IA sem custo, em parceria com a Oura.",
-      "veiculo": "Counsel Health / BusinessWire",
-      "link": "https://www.businesswire.com/news/home/20260917750816/en/Counsel-Health-Joins-ACCESS-Model-to-Bring-AI-Native-Chronic-Care-to-Medicare-Beneficiaries"
-    },
-    {
-      "titulo": "Oracle Health lança recursos de IA para o ciclo de receita",
-      "resumo": "Oracle Health lança recursos de IA para o ciclo de receita: autorização prévia, codificação, captura de cobrança e gestão de recursos.",
-      "veiculo": "Oracle Health / PR Newswire",
-      "link": "https://www.prnewswire.com/news-releases/oracle-health-advances-revenue-cycle-management-with-ai-302887644.html"
-    },
-    {
-      "titulo": "Nature defende que dispositivos médicos com IA sejam testados no mundo real",
-      "resumo": "Artigo na Nature defende que dispositivos médicos com IA sejam testados em ambientes reais, não apenas em benchmarks de laboratório.",
-      "veiculo": "Nature",
-      "link": "https://www.nature.com/articles/d41586-026-03046-7"
-    },
-    {
-      "titulo": "Anvisa abre consulta pública para regulamentar sandbox regulatório na saúde",
-      "resumo": "Anvisa abre consulta pública para regulamentar sandbox regulatório que permitirá testar inovações em saúde em ambiente controlado.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/anvisa-sandbox-regulatorio-inovacoes-em-saude/"
+      "link": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-innovaccer-aws-ink-strategic-collab-invoca-launches-patient-engagement"
     }
   ]
 }
