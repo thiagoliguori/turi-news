@@ -1,37 +1,37 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-09-28",
-  "geradoEm": "2026-09-28T13:47:55-03:00",
+  "data": "2026-10-01",
+  "geradoEm": "2026-10-01T14:13:27-03:00",
   "itens": [
     {
-      "titulo": "Grupo Fleury estrutura plataforma corporativa de IA com governança e interoperabilidade",
-      "resumo": "Grupo cria Fleury Data Hub e plataforma de IA com controle de custo de tokens, indicadores de retorno e trilhas de auditoria.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/25/09/2026/grupo-fleury-estrutura-plataforma-de-ia-com-governanca-e-interoperabilidade/"
+      "titulo": "Inaep aprova guia para uso ético de inteligência artificial em pesquisas científicas",
+      "resumo": "Guia orienta comitês de ética sobre viés, proteção de dados e supervisão humana e traz a matriz de risco online MARIAH.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/inaep-aprova-guia-para-orientar-uso-de-inteligencia-artificial-em-estudos-cientificos"
     },
     {
-      "titulo": "51% dos profissionais de saúde no Brasil dizem que a IA ampliou sua capacidade de atendimento",
-      "resumo": "Estudo da Philips mostra 93% de otimismo com a IA, mas 71% relatam falta ou inadequação de treinamento nas organizações.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/16/09/2026/51-dos-profissionais-de-saude-no-brasil-afirmam-que-a-ia-aumentou-sua-capacidade-de-atendimento-aponta-estudo-da-philips/"
+      "titulo": "SUS inaugura Central de Comando que monitora UTIs inteligentes de seis hospitais",
+      "resumo": "Central sediada no HC-FMUSP acompanha em tempo real sinais vitais de 60 leitos; meta é chegar a 280 leitos em 14 instituições.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-09/sus-central-de-comando-inteligente-une-utis-de-6-hospitais-do-pais"
     },
     {
-      "titulo": "IA começa a tirar médicos das telas e devolver tempo às consultas",
-      "resumo": "Ferramentas de documentação clínica com IA reduzem tempo de registro; em estudo, burnout caiu de 51,9% para 38,8% em 30 dias.",
+      "titulo": "88% dos hospitais latino-americanos que usam IA já adotam aplicações clínicas",
+      "resumo": "Ranking IntelLat avaliou 105 hospitais de 10 países, 42 brasileiros; 61% usam IA em apoio diagnóstico e decisão clínica.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/09/09/2026/inteligencia-artificial-comeca-a-tirar-medicos-das-telas-e-devolver-tempo-aos-pacientes/"
+      "link": "https://saudedigitalnews.com.br/22/09/2026/uso-de-ia-nos-hospitais-latino-americanos-avanca-para-aplicacoes-clinicas-2/"
     },
     {
-      "titulo": "Biomm lança assistente de IA no WhatsApp para apoiar troca de insulina no SUS",
-      "resumo": "Glargina Pass orienta profissionais na transição da insulina NPH para glargina; meta é capacitar 8 mil profissionais neste ano.",
+      "titulo": "A IA que importa na saúde é a que age antes da internação",
+      "resumo": "Artigo defende cruzar dados de prescrição, dispensação e sinistros para detectar abandono de tratamento e evitar internações.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/24/09/2026/biomm-lanca-glargina-pass-assistente-virtual-com-inteligencia-artificial-para-apoiar-profissionais-de-saude/"
+      "link": "https://saudedigitalnews.com.br/25/09/2026/a-inteligencia-artificial-que-importa-chega-antes-da-internacao/"
     },
     {
-      "titulo": "Wellon conecta ChatGPT aos dados de gestão de clínicas e hospitais via protocolo MCP",
-      "resumo": "Gestores consultam indicadores operacionais em linguagem natural, respeitando permissões de acesso e a LGPD.",
+      "titulo": "Psiquiatras propõem rótulo de transparência para ferramentas de IA em saúde mental",
+      "resumo": "Comitê da Associação Americana de Psiquiatria sugere padronizar informações sobre riscos, dados de treino, desempenho e privacidade.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/25/09/2026/com-protocolo-inedito-no-setor-wellon-transforma-o-chatgpt-em-painel-de-controle-para-clinicas-e-hospitais/"
+      "link": "https://saudedigitalnews.com.br/09/09/2026/pesquisa-propoe-aumentar-transparencia-e-seguranca-de-ia-na-saude-mental/"
     }
   ]
 }
