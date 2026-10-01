@@ -1,37 +1,37 @@
 {
   "fonte": "A saúde em News",
   "data": "2026-10-01",
-  "geradoEm": "2026-10-01T14:13:27-03:00",
+  "geradoEm": "2026-10-01T17:38:46-03:00",
   "itens": [
     {
-      "titulo": "Inaep aprova guia para uso ético de inteligência artificial em pesquisas científicas",
-      "resumo": "Guia orienta comitês de ética sobre viés, proteção de dados e supervisão humana e traz a matriz de risco online MARIAH.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/inaep-aprova-guia-para-orientar-uso-de-inteligencia-artificial-em-estudos-cientificos"
-    },
-    {
-      "titulo": "SUS inaugura Central de Comando que monitora UTIs inteligentes de seis hospitais",
-      "resumo": "Central sediada no HC-FMUSP acompanha em tempo real sinais vitais de 60 leitos; meta é chegar a 280 leitos em 14 instituições.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-09/sus-central-de-comando-inteligente-une-utis-de-6-hospitais-do-pais"
-    },
-    {
-      "titulo": "88% dos hospitais latino-americanos que usam IA já adotam aplicações clínicas",
-      "resumo": "Ranking IntelLat avaliou 105 hospitais de 10 países, 42 brasileiros; 61% usam IA em apoio diagnóstico e decisão clínica.",
+      "titulo": "Dasa e Sauter Digital criam IA para anonimizar laudos radiológicos em português",
+      "resumo": "Sistema remove dados pessoais de laudos com base anotada manualmente para o português e será apresentado no congresso da RSNA.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/22/09/2026/uso-de-ia-nos-hospitais-latino-americanos-avanca-para-aplicacoes-clinicas-2/"
+      "link": "https://saudedigitalnews.com.br/28/09/2026/dasa-e-sauter-digital-desenvolvem-sistema-para-anonimizar-laudos-radiologicos-em-portugues/"
     },
     {
-      "titulo": "A IA que importa na saúde é a que age antes da internação",
-      "resumo": "Artigo defende cruzar dados de prescrição, dispensação e sinistros para detectar abandono de tratamento e evitar internações.",
+      "titulo": "Dez entidades do setor de saúde criticam resolução do CFM sobre IA",
+      "resumo": "Associações como ABIIS e ABRAIDI dizem que a norma 2.454 impõe obrigações a empresas de tecnologia e sobrepõe Anvisa e ANPD.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/25/09/2026/a-inteligencia-artificial-que-importa-chega-antes-da-internacao/"
+      "link": "https://saudedigitalnews.com.br/16/09/2026/regulacao-da-ia-pelo-cfm-preocupa-empresas-e-entidades-da-saude/"
     },
     {
-      "titulo": "Psiquiatras propõem rótulo de transparência para ferramentas de IA em saúde mental",
-      "resumo": "Comitê da Associação Americana de Psiquiatria sugere padronizar informações sobre riscos, dados de treino, desempenho e privacidade.",
+      "titulo": "Metade dos profissionais de saúde no Brasil diz atender mais pacientes com IA",
+      "resumo": "Future Health Index 2026 da Philips mostra que 51% usaram IA para evitar falhas clínicas e 93% esperam melhores desfechos.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/09/09/2026/pesquisa-propoe-aumentar-transparencia-e-seguranca-de-ia-na-saude-mental/"
+      "link": "https://saudedigitalnews.com.br/16/09/2026/51-dos-profissionais-de-saude-no-brasil-afirmam-que-a-ia-aumentou-sua-capacidade-de-atendimento-aponta-estudo-da-philips/"
+    },
+    {
+      "titulo": "IA identifica sinais de depressão na voz de áudios de WhatsApp, mostra estudo da Santa Casa de SP",
+      "resumo": "Pesquisa com 160 brasileiros publicada na PLOS Mental Health obteve acurácia acima de 91% em mulheres e perto de 75% em homens.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/18/09/2026/setembro-amarelo-pesquisa-da-fcmscsp-mostra-como-inteligencia-artificial-pode-contribuir-para-identificar-sinais-de-depressao/"
+    },
+    {
+      "titulo": "Parceria entre Wellon e UEFS valida IA que reduz faltas em consultas em até 50%",
+      "resumo": "Modelo de aprendizado de máquina prevê ausências e reagenda pacientes; ferramenta já atende mais de mil unidades de saúde.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/14/09/2026/parceria-entre-wellon-e-uefs-aplica-inteligencia-artificial-para-reduzir-faltas-em-consultas-em-ate-50-2/"
     }
   ]
 }
