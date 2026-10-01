@@ -1,49 +1,37 @@
 {
   "fonte": "A tecnologia em saúde",
   "data": "2026-10-01",
-  "geradoEm": "2026-10-01T14:13:32-03:00",
+  "geradoEm": "2026-10-01T17:38:49-03:00",
   "itens": [
     {
-      "titulo": "Anthropic entra no programa de IA clínica da ARPA-H e fará evento fechado de saúde",
-      "resumo": "Empresa acelera a entrada no setor de saúde ao aderir a iniciativa de IA clínica da agência americana de pesquisa.",
+      "titulo": "HHS lança programa SURPASS para acelerar ensaios clínicos com IA e simulação",
+      "resumo": "Iniciativa de cinco anos da ARPA-H usa modelos computacionais e plataformas adaptativas para reduzir tempo e custo de estudos clínicos.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/29/anthropic-joins-arpa-h-clinical-ai-moonshot-health-tech/"
+      "link": "https://www.statnews.com/2026/09/30/hhs-arpa-h-clinical-trials-artificial-intelligence-surpass-program/"
     },
     {
-      "titulo": "ARPA-H investe US$ 62,7 milhões em IA autônoma para tratar insuficiência cardíaca",
-      "resumo": "Programa ADVOCATE busca agentes autorizados pela FDA capazes de avaliar sintomas, prescrever medicamentos e pedir exames.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/09/arpa-h-advocate-program-autonomous-ai-bots-for-heart-failure/"
+      "titulo": "Seguradoras dizem que IA de faturamento pode somar bilhões aos custos da saúde",
+      "resumo": "Blue Cross estima US$ 942 milhões a mais em dois anos por codificação assistida por IA; empresas de faturamento contestam.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://www.healthcaredive.com/news/insurers-say-ai-could-add-billions-in-health-costs-billing-companies-disag/831497/"
     },
     {
-      "titulo": "FDA cria cargo de vice-comissário para tecnologia e IA e nomeia Jared Seehafer",
-      "resumo": "Ex-CEO da Enzyme passa a definir a estratégia de software e IA da agência; CDER e CBER ganham diretores permanentes.",
-      "veiculo": "RAPS",
-      "link": "https://www.raps.org/resource/fda-names-permanent-cder-cber-directors-new-deputy-commissioner-for-ai.html"
-    },
-    {
-      "titulo": "Reino Unido publica 44 recomendações para regular IA na medicina",
-      "resumo": "Comissão propõe autorização em fases para modelos de IA e sistema de notificação de desempenho e falhas na prática clínica.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/09/uk-unveils-recommendations-ai-regulation-medicine/"
-    },
-    {
-      "titulo": "Documentos revelam problemas no piloto de autorização prévia com IA do Medicare",
-      "resumo": "Reportagem do STAT aponta falhas no programa do Medicare que usa IA para autorizar previamente procedimentos.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/15/medicare-ai-prior-authorization-pilot-problems-health-tech/"
-    },
-    {
-      "titulo": "Revisão de 4.609 estudos mostra evidência frágil de LLMs na prática clínica",
-      "resumo": "Só 1.048 estudos usaram dados reais de pacientes e apenas 19 eram ensaios randomizados prospectivos; modelos OpenAI dominam as avaliações.",
-      "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04229-5"
-    },
-    {
-      "titulo": "Innovaccer e AWS fecham parceria para levar IA agêntica a hospitais e operadoras",
-      "resumo": "Acordo plurianual quer tirar agentes de IA do piloto e levá-los à escala com requisitos de segurança e conformidade.",
+      "titulo": "Heidi lança Heidi II com agentes de IA para tarefas administrativas clínicas",
+      "resumo": "Agentes preparam prontuários, encaminhamentos e retornos sob supervisão médica; empresa apoia 2,8 milhões de consultas por semana.",
       "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-innovaccer-aws-ink-strategic-collab-invoca-launches-patient-engagement"
+      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/heidi-launches-new-platform-tackle-administrative-work-ai-agents"
+    },
+    {
+      "titulo": "EliseAI capta US$ 350 milhões e chega a valuation de US$ 4 bilhões",
+      "resumo": "Rodada liderada por a16z e Bessemer financia assistente de IA que agenda, verifica convênio e integra registros ao prontuário.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/eliseai-raises-350m-4b-valuation-expand-healthcare-ai-automation"
+    },
+    {
+      "titulo": "Oz defende avatares de IA para saúde rural, mas líderes locais desconfiam",
+      "resumo": "Gestores rurais temem que a aposta em IA não compense os cortes no Medicaid e amplie a desigualdade entre cidade e campo.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/09/10/health-news-oz-says-ai-based-avatars-can-help-rural-communities-despite-skepticism/"
     }
   ]
 }
