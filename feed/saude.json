@@ -1,37 +1,37 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-10-01",
-  "geradoEm": "2026-10-01T17:38:46-03:00",
+  "data": "2026-10-02",
+  "geradoEm": "2026-10-02T10:54:40-03:00",
   "itens": [
     {
-      "titulo": "Dasa e Sauter Digital criam IA para anonimizar laudos radiológicos em português",
-      "resumo": "Sistema remove dados pessoais de laudos com base anotada manualmente para o português e será apresentado no congresso da RSNA.",
+      "titulo": "Na Unimed Campinas, IA passa a executar compras de suprimentos hospitalares",
+      "resumo": "Plataforma GTPLAN calcula demanda, repõe estoque e emite ordens de compra automaticamente, deixando à equipe as exceções e decisões estratégicas.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/28/09/2026/dasa-e-sauter-digital-desenvolvem-sistema-para-anonimizar-laudos-radiologicos-em-portugues/"
+      "link": "https://saudedigitalnews.com.br/01/10/2026/na-unimed-campinas-ia-deixa-de-apoiar-decisoes-e-passa-a-executa-las-na-gestao-hospitalar/"
     },
     {
-      "titulo": "Dez entidades do setor de saúde criticam resolução do CFM sobre IA",
-      "resumo": "Associações como ABIIS e ABRAIDI dizem que a norma 2.454 impõe obrigações a empresas de tecnologia e sobrepõe Anvisa e ANPD.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/16/09/2026/regulacao-da-ia-pelo-cfm-preocupa-empresas-e-entidades-da-saude/"
+      "titulo": "Inaep aprova guia para uso ético de IA em pesquisas com seres humanos",
+      "resumo": "Guia baseado em OMS e Unesco inclui a ferramenta MARIAH para comitês de ética avaliarem riscos e passa por seis meses de consulta.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/inaep-aprova-guia-para-orientar-uso-de-inteligencia-artificial-em-estudos-cientificos"
     },
     {
-      "titulo": "Metade dos profissionais de saúde no Brasil diz atender mais pacientes com IA",
-      "resumo": "Future Health Index 2026 da Philips mostra que 51% usaram IA para evitar falhas clínicas e 93% esperam melhores desfechos.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/16/09/2026/51-dos-profissionais-de-saude-no-brasil-afirmam-que-a-ia-aumentou-sua-capacidade-de-atendimento-aponta-estudo-da-philips/"
+      "titulo": "SUS lança central de comando que monitora UTIs inteligentes em tempo real",
+      "resumo": "Central no HC-FMUSP acompanha 60 leitos em seis hospitais; rede nacional deve chegar a 280 leitos inteligentes em 14 instituições.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/central-comando-utis-sus/"
     },
     {
-      "titulo": "IA identifica sinais de depressão na voz de áudios de WhatsApp, mostra estudo da Santa Casa de SP",
-      "resumo": "Pesquisa com 160 brasileiros publicada na PLOS Mental Health obteve acurácia acima de 91% em mulheres e perto de 75% em homens.",
+      "titulo": "Wellon conecta ChatGPT a dados de clínicas e hospitais via protocolo MCP",
+      "resumo": "Gestores consultam indicadores operacionais em linguagem natural; relatórios que levavam até dois dias por mês passam a ser automáticos.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/18/09/2026/setembro-amarelo-pesquisa-da-fcmscsp-mostra-como-inteligencia-artificial-pode-contribuir-para-identificar-sinais-de-depressao/"
+      "link": "https://saudedigitalnews.com.br/25/09/2026/com-protocolo-inedito-no-setor-wellon-transforma-o-chatgpt-em-painel-de-controle-para-clinicas-e-hospitais/"
     },
     {
-      "titulo": "Parceria entre Wellon e UEFS valida IA que reduz faltas em consultas em até 50%",
-      "resumo": "Modelo de aprendizado de máquina prevê ausências e reagenda pacientes; ferramenta já atende mais de mil unidades de saúde.",
+      "titulo": "IA em hospitais latino-americanos avança para aplicações clínicas",
+      "resumo": "Levantamento mostra que 88% dos hospitais que usam IA já têm ao menos uma aplicação clínica, com 61% em apoio ao diagnóstico.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/14/09/2026/parceria-entre-wellon-e-uefs-aplica-inteligencia-artificial-para-reduzir-faltas-em-consultas-em-ate-50-2/"
+      "link": "https://saudedigitalnews.com.br/04/09/2026/uso-de-ia-nos-hospitais-latino-americanos-avanca-para-aplicacoes-clinicas/"
     }
   ]
 }
