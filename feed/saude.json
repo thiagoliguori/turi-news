@@ -1,37 +1,37 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-10-02",
-  "geradoEm": "2026-10-02T10:54:40-03:00",
+  "data": "2026-10-03",
+  "geradoEm": "2026-10-03T16:15:07-03:00",
   "itens": [
     {
-      "titulo": "Na Unimed Campinas, IA passa a executar compras de suprimentos hospitalares",
-      "resumo": "Plataforma GTPLAN calcula demanda, repõe estoque e emite ordens de compra automaticamente, deixando à equipe as exceções e decisões estratégicas.",
+      "titulo": "Sword Health fecha acordo com o Ministério da Saúde para levar IA ao SUS",
+      "resumo": "Parceria anunciada por Padilha no CBIS prevê triagem por voz e texto, gestão de filas e apoio à decisão clínica a partir de 2027.",
+      "veiculo": "SAPO Tek",
+      "link": "https://tek.sapo.pt/noticias/negocios/artigos/sword-health-vai-desenvolver-solucoes-de-inteligencia-artificial-para-o-sistema-de-saude-brasileiro"
+    },
+    {
+      "titulo": "Quase 70% dos médicos brasileiros já usam IA, aponta estudo da MV",
+      "resumo": "Pesquisa mostra 66,1% de uso regular ou ocasional, mais da metade para apoio à decisão clínica; custo e integração são as barreiras.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/01/10/2026/na-unimed-campinas-ia-deixa-de-apoiar-decisoes-e-passa-a-executa-las-na-gestao-hospitalar/"
+      "link": "https://saudedigitalnews.com.br/18/09/2026/quase-70-dos-medicos-ja-usam-ia-aponta-estudo-da-mv/"
     },
     {
-      "titulo": "Inaep aprova guia para uso ético de IA em pesquisas com seres humanos",
-      "resumo": "Guia baseado em OMS e Unesco inclui a ferramenta MARIAH para comitês de ética avaliarem riscos e passa por seis meses de consulta.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/inaep-aprova-guia-para-orientar-uso-de-inteligencia-artificial-em-estudos-cientificos"
+      "titulo": "Philips: profissionais brasileiros dizem atender até 15 pacientes a mais por semana com IA",
+      "resumo": "Diretor da Philips na América Latina vê IA como via para ampliar acesso, desde que haja interoperabilidade e governança de dados.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/ia-na-saude-felipe-basso-futuro-talks-brd-yt-philips/"
     },
     {
-      "titulo": "SUS lança central de comando que monitora UTIs inteligentes em tempo real",
-      "resumo": "Central no HC-FMUSP acompanha 60 leitos em seis hospitais; rede nacional deve chegar a 280 leitos inteligentes em 14 instituições.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/central-comando-utis-sus/"
-    },
-    {
-      "titulo": "Wellon conecta ChatGPT a dados de clínicas e hospitais via protocolo MCP",
-      "resumo": "Gestores consultam indicadores operacionais em linguagem natural; relatórios que levavam até dois dias por mês passam a ser automáticos.",
+      "titulo": "Novo edital vai conectar mais 1.307 UBS à internet de alta velocidade",
+      "resumo": "Onze operadoras foram selecionadas com R$ 31,6 milhões do Fust para viabilizar prontuário eletrônico e telessaúde nas unidades básicas.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/25/09/2026/com-protocolo-inedito-no-setor-wellon-transforma-o-chatgpt-em-painel-de-controle-para-clinicas-e-hospitais/"
+      "link": "https://saudedigitalnews.com.br/24/09/2026/novo-edital-seleciona-empresas-para-conectar-mais-1-307-unidades-de-saude/"
     },
     {
-      "titulo": "IA em hospitais latino-americanos avança para aplicações clínicas",
-      "resumo": "Levantamento mostra que 88% dos hospitais que usam IA já têm ao menos uma aplicação clínica, com 61% em apoio ao diagnóstico.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/04/09/2026/uso-de-ia-nos-hospitais-latino-americanos-avanca-para-aplicacoes-clinicas/"
+      "titulo": "Resolução do CFM sobre IA na medicina entra em vigor, mas dúvidas permanecem",
+      "resumo": "Análise jurídica da Resolução CFM 2.454/2026 discute responsabilidade médica e a interface com as regras da Anvisa para software.",
+      "veiculo": "Conjur",
+      "link": "https://conjur.com.br/2026-set-14/ia-na-medicina-resolucao-do-cfm-entra-em-vigor-mas-duvidas-permanecem/"
     }
   ]
 }
