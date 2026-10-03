@@ -1,43 +1,43 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-10-02",
-  "geradoEm": "2026-10-02T10:54:45-03:00",
+  "data": "2026-10-03",
+  "geradoEm": "2026-10-03T16:15:10-03:00",
   "itens": [
     {
-      "titulo": "Ortet estreia como laboratório de IA de fronteira para saúde com US$ 500 milhões",
-      "resumo": "Liderada por Kyunghyun Cho, coautor do mecanismo de atenção, a empresa reúne ex-líderes de Genentech, Meta e AWS para treinar modelos de saúde.",
+      "titulo": "FDA prioriza guia final sobre ciclo de vida de dispositivos com IA para 2027",
+      "resumo": "Agenda do CDRH inclui ainda rascunho de guia para dispositivos conversacionais de IA generativa voltados a saúde mental.",
+      "veiculo": "RAPS",
+      "link": "https://www.raps.org/resource/fda-s-device-center-releases-guidance-agenda-for-fy-2027.html"
+    },
+    {
+      "titulo": "Califórnia sanciona três leis sobre IA na saúde e veta limite em saúde mental",
+      "resumo": "Newsom restringe IA a papel consultivo no cuidado clínico, exige transparência sobre viés e veta projeto considerado amplo demais.",
+      "veiculo": "Healthcare IT News",
+      "link": "https://www.healthcareitnews.com/news/california-gov-newsom-signs-3-bills-govern-healthcare-ai"
+    },
+    {
+      "titulo": "VA escolhe Abridge em contrato de escriba ambiental de até US$ 775 milhões",
+      "resumo": "Contrato multifornecedor de cinco anos amplia o uso de escribas com IA nos centros médicos dos veteranos; Knowtex também foi selecionada.",
+      "veiculo": "Nextgov",
+      "link": "https://nextgov.com/artificial-intelligence/2026/09/va-selects-abridge-ambient-scribe-under-new-enterprise-contract/416140"
+    },
+    {
+      "titulo": "Heidi capta US$ 340 milhões para ir além da documentação clínica",
+      "resumo": "Série C de US$ 100 milhões e aporte de crescimento da General Catalyst financiam agentes de IA para automatizar o fluxo do clínico.",
       "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/ex-genentech-meta-aws-ai-leaders-launch-health-ai-lab-500m-backing"
+      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/heidi-lands-340m-build-ai-care-partner-clinicians"
     },
     {
-      "titulo": "Anthropic entra no programa de IA clínica da ARPA-H",
-      "resumo": "Empresa que alerta para riscos da IA amplia presença na saúde e se junta à iniciativa federal americana enquanto a regulação segue indefinida.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/29/anthropic-joins-arpa-h-clinical-ai-moonshot-health-tech/"
+      "titulo": "EliseAI levanta US$ 350 milhões e chega a valuation de US$ 4 bilhões",
+      "resumo": "Rodada liderada por a16z e Bessemer acelera automação de operações em provedores de saúde e imobiliárias.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/finance/eliseai-banks-350m-hits-4b-valuation-accelerated-new-product-development"
     },
     {
-      "titulo": "Dispositivos com designação breakthrough da FDA perdem pagamento especial do Medicare",
-      "resumo": "A partir de outubro, novos dispositivos, incluindo algoritmos de triagem em tomografia, precisam provar melhora clínica substancial para receber pagamento extra.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/29/fda-breakthrough-medical-devices-special-treatment-medicare/"
-    },
-    {
-      "titulo": "Documentos mostram que piloto de autorização prévia com IA do Medicare foi apressado",
-      "resumo": "Mais de mil páginas obtidas pela EFF revelam que fornecedores avisaram que o prazo do WISeR era irrealista, com atrasos no cuidado.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/15/medicare-wiser-ai-prior-authorization-pilot-rushed-launch-delayed-care/"
-    },
-    {
-      "titulo": "FDA abre piloto TEMPO para dispositivos de IA generativa chegarem antes da autorização",
-      "resumo": "Quatro produtos, incluindo Cadence e Limbic, foram aceitos e poderão ser usados no modelo ACCESS do Medicare para doenças crônicas.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/"
-    },
-    {
-      "titulo": "Ezekiel Emanuel defende que IA autônoma superará médicos assistidos por IA até 2030",
-      "resumo": "Artigo de opinião cita estudos em que modelos superam médicos em diagnóstico diferencial e recomendações de tratamento, inclusive em consultas reais.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/09/ai-medicine-assisted-physicians-research-autonomy/"
+      "titulo": "Atlantic Health e K Health lançam PatientGPT integrado ao MyChart",
+      "resumo": "Pacientes fazem perguntas em linguagem comum e recebem respostas personalizadas com base nos dados do próprio prontuário.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/atlantic-health-k-health-launch-patientgpt-integrated-mychart"
     }
   ]
 }
