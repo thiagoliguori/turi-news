@@ -1,43 +1,37 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-10-03",
-  "geradoEm": "2026-10-03T16:15:10-03:00",
+  "data": "2026-10-04",
+  "geradoEm": "2026-10-04T17:47:28-03:00",
   "itens": [
     {
-      "titulo": "FDA prioriza guia final sobre ciclo de vida de dispositivos com IA para 2027",
-      "resumo": "Agenda do CDRH inclui ainda rascunho de guia para dispositivos conversacionais de IA generativa voltados a saúde mental.",
-      "veiculo": "RAPS",
-      "link": "https://www.raps.org/resource/fda-s-device-center-releases-guidance-agenda-for-fy-2027.html"
+      "titulo": "ChatGPT for Healthcare ganha integração com o prontuário Epic",
+      "resumo": "Clínicos autorizados passam a reunir notas, exames, medicamentos e laudos do paciente dentro do ChatGPT ou direto no fluxo do Epic.",
+      "veiculo": "Becker's Hospital Review",
+      "link": "https://www.beckershospitalreview.com/healthcare-information-technology/innovation/chatgpt-for-healthcare-adds-epic-integration/"
     },
     {
-      "titulo": "Califórnia sanciona três leis sobre IA na saúde e veta limite em saúde mental",
-      "resumo": "Newsom restringe IA a papel consultivo no cuidado clínico, exige transparência sobre viés e veta projeto considerado amplo demais.",
-      "veiculo": "Healthcare IT News",
-      "link": "https://www.healthcareitnews.com/news/california-gov-newsom-signs-3-bills-govern-healthcare-ai"
-    },
-    {
-      "titulo": "VA escolhe Abridge em contrato de escriba ambiental de até US$ 775 milhões",
-      "resumo": "Contrato multifornecedor de cinco anos amplia o uso de escribas com IA nos centros médicos dos veteranos; Knowtex também foi selecionada.",
-      "veiculo": "Nextgov",
-      "link": "https://nextgov.com/artificial-intelligence/2026/09/va-selects-abridge-ambient-scribe-under-new-enterprise-contract/416140"
-    },
-    {
-      "titulo": "Heidi capta US$ 340 milhões para ir além da documentação clínica",
-      "resumo": "Série C de US$ 100 milhões e aporte de crescimento da General Catalyst financiam agentes de IA para automatizar o fluxo do clínico.",
+      "titulo": "Epic desacelera desenvolvimento de produtos para priorizar cibersegurança",
+      "resumo": "Judy Faulkner anunciou seis semanas de foco em segurança; empresa diz que agenda de IA e interoperabilidade segue mantida.",
       "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/heidi-lands-340m-build-ai-care-partner-clinicians"
+      "link": "https://www.fiercehealthcare.com/health-tech/epic-shifts-focus-cybersecurity-while-ai-and-interoperability-agenda-still-track"
     },
     {
-      "titulo": "EliseAI levanta US$ 350 milhões e chega a valuation de US$ 4 bilhões",
-      "resumo": "Rodada liderada por a16z e Bessemer acelera automação de operações em provedores de saúde e imobiliárias.",
+      "titulo": "Cigna e OpenAI firmam parceria para cuidado de condições complexas, começando pelo câncer",
+      "resumo": "Modelos da OpenAI darão a enfermeiras oncológicas uma visão integrada de dados clínicos, farmácia e benefícios para agir entre consultas.",
       "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/finance/eliseai-banks-350m-hits-4b-valuation-accelerated-new-product-development"
+      "link": "https://www.fiercehealthcare.com/payers/cigna-group-openai-team-support-patients-complex-conditions"
     },
     {
-      "titulo": "Atlantic Health e K Health lançam PatientGPT integrado ao MyChart",
-      "resumo": "Pacientes fazem perguntas em linguagem comum e recebem respostas personalizadas com base nos dados do próprio prontuário.",
+      "titulo": "Oura lança modelo de linguagem próprio para saúde da mulher",
+      "resumo": "Primeiro LLM da empresa combina dados biométricos do anel com conhecimento revisado por médicos e entra em teste no Oura Labs.",
       "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/atlantic-health-k-health-launch-patientgpt-integrated-mychart"
+      "link": "https://www.mobihealthnews.com/news/oura-launches-womens-health-ai-model-powered-biometric-data"
+    },
+    {
+      "titulo": "AKASA lança IA autônoma para codificação de internações e documentação clínica",
+      "resumo": "Plataforma codifica a internação cerca de 90 segundos após a alta e igualou codificadores humanos em avaliações independentes.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/akasa-debuts-autonomous-ai-platform-inpatient-medical-coding-cdi"
     }
   ]
 }
