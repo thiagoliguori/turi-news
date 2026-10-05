@@ -1,37 +1,43 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-10-04",
-  "geradoEm": "2026-10-04T17:47:28-03:00",
+  "data": "2026-10-05",
+  "geradoEm": "2026-10-05T08:24:34-03:00",
   "itens": [
     {
-      "titulo": "ChatGPT for Healthcare ganha integração com o prontuário Epic",
-      "resumo": "Clínicos autorizados passam a reunir notas, exames, medicamentos e laudos do paciente dentro do ChatGPT ou direto no fluxo do Epic.",
-      "veiculo": "Becker's Hospital Review",
-      "link": "https://www.beckershospitalreview.com/healthcare-information-technology/innovation/chatgpt-for-healthcare-adds-epic-integration/"
+      "titulo": "Claude analisou um genoma em 30 minutos; agora faltam padrões para os resultados",
+      "resumo": "Euan Ashley, de Stanford, diz que tarefa que exigia 30 especialistas por um ano custa US$ 5 e pede padrões clínicos.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/10/01/claude-ai-genome-analysis-standards-ethics/"
     },
     {
-      "titulo": "Epic desacelera desenvolvimento de produtos para priorizar cibersegurança",
-      "resumo": "Judy Faulkner anunciou seis semanas de foco em segurança; empresa diz que agenda de IA e interoperabilidade segue mantida.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/health-tech/epic-shifts-focus-cybersecurity-while-ai-and-interoperability-agenda-still-track"
+      "titulo": "RFK Jr. diz que IA dá segunda opinião melhor que qualquer médico dos EUA",
+      "resumo": "No MAHA Summit, patrocinado por OpenAI e Anthropic, o secretário de Saúde defendeu chatbots como contraponto à orientação de especialistas.",
+      "veiculo": "Futurism",
+      "link": "https://futurism.com/artificial-intelligence/rfk-announces-ai-better-doctors"
     },
     {
-      "titulo": "Cigna e OpenAI firmam parceria para cuidado de condições complexas, começando pelo câncer",
-      "resumo": "Modelos da OpenAI darão a enfermeiras oncológicas uma visão integrada de dados clínicos, farmácia e benefícios para agir entre consultas.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/payers/cigna-group-openai-team-support-patients-complex-conditions"
+      "titulo": "Privacidade de dados freia uso de IA pelos pacientes, mostra pesquisa Ipsos",
+      "resumo": "Mais de 70% temem pela proteção dos dados de saúde e menos de um terço usaria IA para escolher médico ou plano.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://www.healthcaredive.com/news/data-privacy-concerns-could-hold-patients-back-from-using-ai/831902/"
     },
     {
-      "titulo": "Oura lança modelo de linguagem próprio para saúde da mulher",
-      "resumo": "Primeiro LLM da empresa combina dados biométricos do anel com conhecimento revisado por médicos e entra em teste no Oura Labs.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/oura-launches-womens-health-ai-model-powered-biometric-data"
+      "titulo": "Nature: dispositivos médicos com IA precisam de testes no mundo real",
+      "resumo": "Texto defende para IA clínica exigência de evidência comparável à de medicamentos, já que a maioria não tem estudos prospectivos.",
+      "veiculo": "Nature",
+      "link": "https://www.nature.com/articles/d41586-026-03046-7"
     },
     {
-      "titulo": "AKASA lança IA autônoma para codificação de internações e documentação clínica",
-      "resumo": "Plataforma codifica a internação cerca de 90 segundos após a alta e igualou codificadores humanos em avaliações independentes.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/akasa-debuts-autonomous-ai-platform-inpatient-medical-coding-cdi"
+      "titulo": "Eric Topol aponta lacunas nos escores de VFC e prontidão dos wearables",
+      "resumo": "Escores proprietários de variabilidade da frequência cardíaca não foram validados contra desfechos de saúde, segundo Topol.",
+      "veiculo": "Ground Truths (Eric Topol)",
+      "link": "https://erictopol.substack.com/p/the-big-holes-in-wearable-heart-rate"
+    },
+    {
+      "titulo": "A IA poderia ganhar um Nobel de Medicina?",
+      "resumo": "Jeffrey Flier, ex-reitor de Harvard Medical School, diz que descobertas feitas por IA vão forçar a ciência a repensar o crédito acadêmico.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/10/05/could-ai-win-nobel-prize-medicine/"
     }
   ]
 }
