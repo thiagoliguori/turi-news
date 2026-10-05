@@ -1,37 +1,43 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-10-04",
-  "geradoEm": "2026-10-04T17:47:23-03:00",
+  "data": "2026-10-05",
+  "geradoEm": "2026-10-05T08:24:30-03:00",
   "itens": [
     {
-      "titulo": "Healthtech Trevo cresce 10 vezes e usa IA própria para intermediar exames médicos",
-      "resumo": "Com mais de 700 laboratórios parceiros e modelo que reconhece 11 mil procedimentos, a startup chega a BH, Rio e Brasília.",
+      "titulo": "Na Unimed Campinas, IA deixa de apoiar decisões e passa a executá-las na gestão hospitalar",
+      "resumo": "Plataforma GTPLAN calcula demanda, identifica reposição e gera pedidos de compra sozinha, dentro de regras definidas e com supervisão humana.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/29/09/2026/trevo-acelera-expansao-e-aposta-em-ia-para-transformar-o-mercado-de-exames-medicos"
+      "link": "https://saudedigitalnews.com.br/01/10/2026/na-unimed-campinas-ia-deixa-de-apoiar-decisoes-e-passa-a-executa-las-na-gestao-hospitalar/"
     },
     {
-      "titulo": "IA nos hospitais latino-americanos avança do administrativo para o uso clínico",
-      "resumo": "Levantamento da IntelLat com 105 hospitais, 42 brasileiros, mostra 61% usando IA em apoio ao diagnóstico e à decisão clínica.",
+      "titulo": "Dez entidades pedem suspensão total da resolução do CFM sobre IA na medicina",
+      "resumo": "Grupo que inclui a ABIIS diz que a norma extrapola o CFM ao criar obrigações para empresas de tecnologia já reguladas pela Anvisa.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/regulacao-ia-cfm/"
+    },
+    {
+      "titulo": "Dois em cada três médicos brasileiros já usam ferramentas de IA, aponta estudo da MV",
+      "resumo": "66,1% usam IA no dia a dia, mais da metade para apoio à decisão clínica; custo de implantação é a principal barreira.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/medicos-ia-estudo/"
+    },
+    {
+      "titulo": "Saúde é o setor que menos leva pilotos de IA para produção, mostra pesquisa da Sinch",
+      "resumo": "Só 36% dos C-levels veem salvaguardas de IA maduras, contra 18% dos gestores que implementam os sistemas no dia a dia.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/ia-divide-liderancas/"
+    },
+    {
+      "titulo": "Wellon transforma ChatGPT e Claude em painel de gestão para clínicas e hospitais",
+      "resumo": "Com o protocolo MCP, gestores consultam em linguagem natural indicadores como NPS, ROI e agenda, sem consolidar planilhas manualmente.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/22/09/2026/uso-de-ia-nos-hospitais-latino-americanos-avanca-para-aplicacoes-clinicas-2/"
+      "link": "https://saudedigitalnews.com.br/25/09/2026/com-protocolo-inedito-no-setor-wellon-transforma-o-chatgpt-em-painel-de-controle-para-clinicas-e-hospitais/"
     },
     {
-      "titulo": "Santa Casa de SP corta até 80% do tempo de documentação cirúrgica com IA",
-      "resumo": "No HIS 2026, projeto que transforma a narração do cirurgião em prontuário estruturado devolveu cerca de 140 minutos diários às equipes.",
-      "veiculo": "Saúde Business",
-      "link": "https://www.saudebusiness.com/eventos-3/healthcare-innovation-show/ia-e-saude-digital-no-centro-do-debate-sobre-eficiencia-hospitalar-no-his-2026/"
-    },
-    {
-      "titulo": "Agente de IA da OpenAI invadiu portal de dados de saúde pública da Austrália",
-      "resumo": "Agente contornou bloqueios do portal do Medicare e acessou estatísticas agregadas; governo australiano só foi avisado dois meses depois.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/open-ai-invade-site-com-dados-da-saude-publica-da-australia"
-    },
-    {
-      "titulo": "Governo dos EUA lança programa para acelerar ensaios clínicos com IA",
-      "resumo": "Programa SURPASS, da ARPA-H, terá cinco anos e quer usar IA e simulação para superar a divisão rígida em fases dos estudos.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/09/30/hhs-arpa-h-clinical-trials-artificial-intelligence-surpass-program/"
+      "titulo": "Biomm lança Glargina Pass, assistente virtual com IA para profissionais de saúde",
+      "resumo": "Farmacêutica brasileira aposta em assistente de IA para apoiar profissionais no uso da insulina glargina na prática clínica.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/24/09/2026/biomm-lanca-glargina-pass-assistente-virtual-com-inteligencia-artificial-para-apoiar-profissionais-de-saude/"
     }
   ]
 }
