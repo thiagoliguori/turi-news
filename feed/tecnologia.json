@@ -1,43 +1,79 @@
 {
   "fonte": "A tecnologia em saúde",
   "data": "2026-10-05",
-  "geradoEm": "2026-10-05T08:24:34-03:00",
+  "geradoEm": "2026-10-05T09:58:34-03:00",
   "itens": [
     {
-      "titulo": "Claude analisou um genoma em 30 minutos; agora faltam padrões para os resultados",
-      "resumo": "Euan Ashley, de Stanford, diz que tarefa que exigia 30 especialistas por um ano custa US$ 5 e pede padrões clínicos.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/10/01/claude-ai-genome-analysis-standards-ethics/"
+      "titulo": "Cigna e OpenAI se unem para apoiar pacientes com condições complexas",
+      "resumo": "Operadora Cigna e OpenAI levam modelos de raciocínio da IA ao cuidado de pacientes oncológicos complexos.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/payers/cigna-group-openai-team-support-patients-complex-conditions"
     },
     {
-      "titulo": "RFK Jr. diz que IA dá segunda opinião melhor que qualquer médico dos EUA",
-      "resumo": "No MAHA Summit, patrocinado por OpenAI e Anthropic, o secretário de Saúde defendeu chatbots como contraponto à orientação de especialistas.",
-      "veiculo": "Futurism",
-      "link": "https://futurism.com/artificial-intelligence/rfk-announces-ai-better-doctors"
+      "titulo": "RFK Jr. acende o debate sobre o papel da IA na medicina",
+      "resumo": "Médicos reagem após o secretário de Saúde dos EUA intensificar o debate sobre o papel da IA na medicina.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/doctors-push-back-after-rfk-jr-turns-heat-debate-over-ais-role-medicine"
     },
     {
-      "titulo": "Privacidade de dados freia uso de IA pelos pacientes, mostra pesquisa Ipsos",
-      "resumo": "Mais de 70% temem pela proteção dos dados de saúde e menos de um terço usaria IA para escolher médico ou plano.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/data-privacy-concerns-could-hold-patients-back-from-using-ai/831902/"
+      "titulo": "Estudo da Blue Cross: IA de codificação custou US$ 942 milhões a mais",
+      "resumo": "Estudo da Blue Cross aponta que ferramentas de IA de codificação custaram quase US$ 1 bilhão a mais aos planos.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/finance/hospitals-use-ai-coding-tools-cost-bcbsa-plans-942m-more-similar-care-analysis"
     },
     {
-      "titulo": "Nature: dispositivos médicos com IA precisam de testes no mundo real",
-      "resumo": "Texto defende para IA clínica exigência de evidência comparável à de medicamentos, já que a maioria não tem estudos prospectivos.",
-      "veiculo": "Nature",
-      "link": "https://www.nature.com/articles/d41586-026-03046-7"
+      "titulo": "AKASA lança plataforma autônoma de IA para codificação hospitalar",
+      "resumo": "AKASA lança plataforma de IA autônoma para codificação de internação e documentação clínica em hospitais.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/akasa-debuts-autonomous-ai-platform-inpatient-medical-coding-cdi"
     },
     {
-      "titulo": "Eric Topol aponta lacunas nos escores de VFC e prontidão dos wearables",
-      "resumo": "Escores proprietários de variabilidade da frequência cardíaca não foram validados contra desfechos de saúde, segundo Topol.",
-      "veiculo": "Ground Truths (Eric Topol)",
-      "link": "https://erictopol.substack.com/p/the-big-holes-in-wearable-heart-rate"
+      "titulo": "Ex-líderes de Genentech, Meta e AWS lançam laboratório de IA em saúde com US$ 500 milhões",
+      "resumo": "Ex-líderes de Genentech, Meta e AWS fundam a Ortet, laboratório de IA em saúde, com US$ 500 milhões.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/ortet-launches-health-ai-lab-500m-commitment-thoreau"
     },
     {
-      "titulo": "A IA poderia ganhar um Nobel de Medicina?",
-      "resumo": "Jeffrey Flier, ex-reitor de Harvard Medical School, diz que descobertas feitas por IA vão forçar a ciência a repensar o crédito acadêmico.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/10/05/could-ai-win-nobel-prize-medicine/"
+      "titulo": "OpenAI conecta o ChatGPT a prontuários eletrônicos e fontes de saúde",
+      "resumo": "OpenAI conecta o ChatGPT a prontuários eletrônicos (incluindo o Epic) e a fontes públicas de saúde.",
+      "veiculo": "OpenAI",
+      "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources/"
+    },
+    {
+      "titulo": "IA explicável melhora a previsão de controle da doença no câncer de pulmão",
+      "resumo": "No estudo I3LUNG, a IA explicável elevou de 57% para 65% o acerto médico no câncer de pulmão.",
+      "veiculo": "Nature Medicine",
+      "link": "https://www.nature.com/articles/s41591-026-04488-2"
+    },
+    {
+      "titulo": "ARPA-H lança o ADVOCATE, IA agêntica autorizada pela FDA para cardiologia",
+      "resumo": "ARPA-H lança o ADVOCATE, programa de US$ 62,7 milhões para IA agêntica autorizada pela FDA na cardiologia.",
+      "veiculo": "ARPA-H",
+      "link": "https://arpa-h.gov/news-and-events/arpa-h-launches-worlds-first-bid-build-fda-authorized-clinical-ai-cardiovascular"
+    },
+    {
+      "titulo": "ElevenLabs atinge valuation de US$ 22 bilhões e avança em voz com IA",
+      "resumo": "ElevenLabs atinge valuation de US$ 22 bilhões e amplia o uso de voz com IA na saúde.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/elevenlabs-hits-22b-valuation-employee-tender"
+    },
+    {
+      "titulo": "Payerset lança assistente de IA baseado em dados de transparência de preços",
+      "resumo": "Payerset lança assistente de IA que transforma dados de transparência de preços hospitalares em respostas úteis.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/payerset-launches-ai-powered-research-assistant-turn-price-transparency"
+    },
+    {
+      "titulo": "Heidi lança agentes de IA para automatizar tarefas clínicas",
+      "resumo": "Heidi lança agentes de IA que vão além da documentação e executam tarefas clínicas e administrativas.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/anz/heidi-rolls-out-ai-agents-and-more-briefs"
+    },
+    {
+      "titulo": "Anvisa abre consulta pública para regulamentar sandbox de inovação",
+      "resumo": "Anvisa abre consulta pública para criar sandbox regulatório para inovações em saúde, incluindo IA.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/anvisa-sandbox-regulatorio-inovacoes-em-saude/"
     }
   ]
 }
