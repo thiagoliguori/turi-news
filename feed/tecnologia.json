@@ -1,79 +1,43 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-10-05",
-  "geradoEm": "2026-10-05T09:58:34-03:00",
+  "data": "2026-10-06",
+  "geradoEm": "2026-10-06T17:31:55-03:00",
   "itens": [
     {
-      "titulo": "Cigna e OpenAI se unem para apoiar pacientes com condições complexas",
-      "resumo": "Operadora Cigna e OpenAI levam modelos de raciocínio da IA ao cuidado de pacientes oncológicos complexos.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/payers/cigna-group-openai-team-support-patients-complex-conditions"
+      "titulo": "Utah amplia sandbox de IA e permite pilotos de prescrição por IA",
+      "resumo": "Nolla Health poderá prescrever tratamento para acne com IA; estado passa a exigir auditoria independente das empresas.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/10/05/utah-expands-health-ai-sandbox-picks-third-party-auditors/"
     },
     {
-      "titulo": "RFK Jr. acende o debate sobre o papel da IA na medicina",
-      "resumo": "Médicos reagem após o secretário de Saúde dos EUA intensificar o debate sobre o papel da IA na medicina.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/doctors-push-back-after-rfk-jr-turns-heat-debate-over-ais-role-medicine"
+      "titulo": "Alertas personalizados por algoritmo aumentam a vacinação contra gripe",
+      "resumo": "Três ensaios randomizados com mais de 90 mil pacientes: avisar o alto risco elevou a vacinação em até 3,5 pontos percentuais.",
+      "veiculo": "Nature Human Behaviour",
+      "link": "https://www.nature.com/articles/s41562-026-02603-4"
     },
     {
-      "titulo": "Estudo da Blue Cross: IA de codificação custou US$ 942 milhões a mais",
-      "resumo": "Estudo da Blue Cross aponta que ferramentas de IA de codificação custaram quase US$ 1 bilhão a mais aos planos.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/finance/hospitals-use-ai-coding-tools-cost-bcbsa-plans-942m-more-similar-care-analysis"
-    },
-    {
-      "titulo": "AKASA lança plataforma autônoma de IA para codificação hospitalar",
-      "resumo": "AKASA lança plataforma de IA autônoma para codificação de internação e documentação clínica em hospitais.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/akasa-debuts-autonomous-ai-platform-inpatient-medical-coding-cdi"
-    },
-    {
-      "titulo": "Ex-líderes de Genentech, Meta e AWS lançam laboratório de IA em saúde com US$ 500 milhões",
-      "resumo": "Ex-líderes de Genentech, Meta e AWS fundam a Ortet, laboratório de IA em saúde, com US$ 500 milhões.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/ortet-launches-health-ai-lab-500m-commitment-thoreau"
-    },
-    {
-      "titulo": "OpenAI conecta o ChatGPT a prontuários eletrônicos e fontes de saúde",
-      "resumo": "OpenAI conecta o ChatGPT a prontuários eletrônicos (incluindo o Epic) e a fontes públicas de saúde.",
-      "veiculo": "OpenAI",
-      "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources/"
-    },
-    {
-      "titulo": "IA explicável melhora a previsão de controle da doença no câncer de pulmão",
-      "resumo": "No estudo I3LUNG, a IA explicável elevou de 57% para 65% o acerto médico no câncer de pulmão.",
+      "titulo": "Agentes de IA rodando no próprio hospital chegam perto de modelos de nuvem no diagnóstico",
+      "resumo": "Modelo aberto local atingiu 90% de acerto, contra 90,7% do GPT-5.2, e sinaliza casos que exigem revisão humana.",
       "veiculo": "Nature Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04488-2"
+      "link": "https://www.nature.com/articles/s41591-026-04609-x"
     },
     {
-      "titulo": "ARPA-H lança o ADVOCATE, IA agêntica autorizada pela FDA para cardiologia",
-      "resumo": "ARPA-H lança o ADVOCATE, programa de US$ 62,7 milhões para IA agêntica autorizada pela FDA na cardiologia.",
-      "veiculo": "ARPA-H",
-      "link": "https://arpa-h.gov/news-and-events/arpa-h-launches-worlds-first-bid-build-fda-authorized-clinical-ai-cardiovascular"
+      "titulo": "GE HealthCare contrata ex-Medtronic como novo chefe global de IA",
+      "resumo": "Rodolphe Katra assume a estratégia de IA da empresa, que lidera o setor com 134 dispositivos com IA autorizados pela FDA.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://www.healthcaredive.com/news/ge-healthcare-hires-new-global-chief-ai-officer/831864/"
     },
     {
-      "titulo": "ElevenLabs atinge valuation de US$ 22 bilhões e avança em voz com IA",
-      "resumo": "ElevenLabs atinge valuation de US$ 22 bilhões e amplia o uso de voz com IA na saúde.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/elevenlabs-hits-22b-valuation-employee-tender"
-    },
-    {
-      "titulo": "Payerset lança assistente de IA baseado em dados de transparência de preços",
-      "resumo": "Payerset lança assistente de IA que transforma dados de transparência de preços hospitalares em respostas úteis.",
+      "titulo": "EliseAI capta US$ 350 milhões e chega a valuation de US$ 4 bilhões",
+      "resumo": "Rodada liderada por a16z e Bessemer financia assistente de IA para agendamento, elegibilidade e cadastro de pacientes.",
       "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/payerset-launches-ai-powered-research-assistant-turn-price-transparency"
+      "link": "https://www.fiercehealthcare.com/finance/eliseai-banks-350m-hits-4b-valuation-accelerated-new-product-development"
     },
     {
-      "titulo": "Heidi lança agentes de IA para automatizar tarefas clínicas",
-      "resumo": "Heidi lança agentes de IA que vão além da documentação e executam tarefas clínicas e administrativas.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/anz/heidi-rolls-out-ai-agents-and-more-briefs"
-    },
-    {
-      "titulo": "Anvisa abre consulta pública para regulamentar sandbox de inovação",
-      "resumo": "Anvisa abre consulta pública para criar sandbox regulatório para inovações em saúde, incluindo IA.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/anvisa-sandbox-regulatorio-inovacoes-em-saude/"
+      "titulo": "Parakeet Health levanta US$ 10 milhões para agentes de IA no atendimento ao paciente",
+      "resumo": "Plataforma automatiza ligações, fax e agendamento e já atende seis dos dez maiores grupos de dermatologia dos EUA.",
+      "veiculo": "MedCity News",
+      "link": "https://medcitynews.com/2026/10/parakeet-health-secures-10m-for-conversational-agentic-platform/"
     }
   ]
 }
