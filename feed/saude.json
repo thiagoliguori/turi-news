@@ -1,43 +1,73 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-10-06",
-  "geradoEm": "2026-10-06T17:31:43-03:00",
+  "data": "2026-10-07",
+  "geradoEm": "2026-10-07T09:11:43-04:00",
   "itens": [
     {
-      "titulo": "dr.consulta recebe investimento da IFC, do Banco Mundial, para ampliar acesso à saúde",
-      "resumo": "Rede de 32 clínicas, com assistente de IA no WhatsApp, quer atender 10 milhões de brasileiros até 2030.",
+      "titulo": "Nobel de Medicina 2026 premia descobertas em optogenética",
+      "resumo": "Deisseroth, Hegemann e Nagel vencem o Nobel de Medicina 2026 por descobertas em optogenética e canais iônicos ativados pela luz.",
+      "veiculo": "Exame",
+      "link": "https://exame.com/ciencia/nobel-de-medicina-2026-premia-karl-deisseroth-peter-hegemann-e-georg-nagel"
+    },
+    {
+      "titulo": "Emeis sai da América Latina e Opalus compra home care no Brasil",
+      "resumo": "Francesa Emeis deixa a América Latina e vende home care no Brasil ao grupo Opalus por cerca de R$ 80 milhões.",
+      "veiculo": "Brazil Journal",
+      "link": "https://braziljournal.com/emeis-sai-da-america-latina-opalus-compra-ativos-de-home-care-no-brasil"
+    },
+    {
+      "titulo": "Healthtechs ganham escala com telemedicina e retomada dos investimentos",
+      "resumo": "Healthtechs brasileiras voltam a ganhar escala com o avanço da telemedicina e a retomada dos investimentos no setor.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/05/10/2026/dr-consulta-recebe-investimento-da-ifc-grupo-banco-mundial-para-acelerar-expansao-e-ampliar-acesso-a-saude-de-qualidade-no-brasil-2/"
+      "link": "https://saudedigitalnews.com.br/06/10/2026/healthtechs-ganham-escala-no-brasil-com-avanco-da-telemedicina-e-retomada-dos-investimentos/"
     },
     {
-      "titulo": "Adriana Ventura quer integração dos dados de saúde como prioridade da próxima legislatura",
-      "resumo": "Projeto de interoperabilidade via RNDS prevê sandbox regulatório para testar aplicações de IA em saúde e proíbe venda de dados.",
+      "titulo": "Dados de saúde viram infraestrutura crítica no Brasil",
+      "resumo": "Dados de saúde viram infraestrutura crítica e o Brasil ainda precisa amadurecer sua governança e proteção.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/05/10/2026/integracao-dos-dados-de-saude-precisa-ser-prioridade-da-proxima-legislatura-afirma-deputada-adriana-ventura/"
+      "link": "https://saudedigitalnews.com.br/05/10/2026/dados-de-saude-estao-virando-infraestrutura-critica-e-o-brasil-ainda-precisa-aprender-a-governa-los"
     },
     {
-      "titulo": "Dados de saúde viram infraestrutura crítica e o Brasil ainda precisa aprender a governá-los",
-      "resumo": "Instituições brasileiras sofrem 3.167 ataques cibernéticos por semana, 37% acima da média global do setor, aponta artigo.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/05/10/2026/dados-de-saude-estao-virando-infraestrutura-critica-e-o-brasil-ainda-precisa-aprender-a-governa-los/"
+      "titulo": "Rivio estrutura conselho com hospitais e big techs para acelerar IA na saúde",
+      "resumo": "Rivio monta conselho com líderes hospitalares e especialistas de big techs para acelerar IA na gestão da saúde.",
+      "veiculo": "Brasil Inovador",
+      "link": "https://brasilinovador.com.br/rivio-estrutura-conselho-com-liderancas-hospitalares-e-especialistas-de-big-techs-para-acelerar-ia-na-saude"
     },
     {
-      "titulo": "IA nos hospitais latino-americanos avança para aplicações clínicas",
-      "resumo": "Entre 105 hospitais analisados pela IntelLat, 88% dos que usam IA já têm ao menos uma aplicação clínica.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/ia-hospitais-latino-americanos/"
+      "titulo": "Indústria de dispositivos médicos debate déficit comercial no Conahp 2026",
+      "resumo": "ABIMO leva empresas ao Conahp 2026 para mostrar inovação e debater déficit comercial de quase US$ 10 bilhões.",
+      "veiculo": "Brasil Inovador",
+      "link": "https://brasilinovador.com.br/industria-brasileira-de-dispositivos-medicos-projeta-expansao-tecnologica-e-debate-deficit-comercial-no-conahp-2026"
     },
     {
-      "titulo": "SUS cria central de comando inteligente que conecta UTIs de seis hospitais",
-      "resumo": "Sala no HC-FMUSP monitora 60 leitos em tempo real; meta é chegar a 280 leitos inteligentes em 14 instituições.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-09/sus-central-de-comando-inteligente-une-utis-de-6-hospitais-do-pais"
+      "titulo": "82% dos pacientes oncológicos recorrem à IA para tirar dúvidas",
+      "resumo": "Pesquisa do Oncoguia mostra que 82% dos pacientes oncológicos usam IA para entender exames, diagnósticos e tratamentos.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/82-pacientes-oncologicos-ia-duvidas-oncoguia/"
     },
     {
-      "titulo": "Siemens Healthineers lança Accela, solução de radioterapia com planejamento apoiado por IA",
-      "resumo": "Sistema usa algoritmos de IA no planejamento para equilibrar qualidade do plano e velocidade de entrega do tratamento.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/05/10/2026/siemens-healthineers-lanca-solucao-de-radioterapia-accela/"
+      "titulo": "Agentes de IA na saúde: sete perguntas antes de contratar",
+      "resumo": "Artigo lista sete perguntas essenciais que gestores devem fazer antes de contratar agentes de IA na saúde.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/agentes-de-ia-na-saude-sete-perguntas-antes-de-contratar-por-fabricio-campolina/"
+    },
+    {
+      "titulo": "TOTVS aposta em profissionais 50+ diante do desafio da longevidade",
+      "resumo": "TOTVS cria frente para atrair e reter profissionais 50+ diante do desafio da longevidade no mercado.",
+      "veiculo": "Exame",
+      "link": "https://exame.com/esg/totvs-aposta-em-profissionais-50-diante-dos-desafios-da-longevidade-no-setor-de-tecnologia/"
+    },
+    {
+      "titulo": "Adium investe US$ 25 milhões no Brasil para dobrar a produção",
+      "resumo": "Farmacêutica Adium investe US$ 25 milhões para ampliar fábrica em Pindamonhangaba e dobrar a produção.",
+      "veiculo": "Business Moment",
+      "link": "https://businessmoment.com.br/adium-25-milhoes-brasil-dobrar-producao/"
+    },
+    {
+      "titulo": "Excelenza capta R$ 2 milhões em negócios na HospitalMed",
+      "resumo": "Clínica de Recife investe R$ 2 milhões em equipamentos na HospitalMed para montar novo bloco cirúrgico.",
+      "veiculo": "Movimento Econômico",
+      "link": "https://movimentoeconomico.com.br/eventos/2026/10/06/excelenza-viabiliza-investimento-de-r-2-mi-a-partir-de-negociacoes-na-hospitalmed"
     }
   ]
 }
