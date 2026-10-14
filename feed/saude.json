@@ -1,73 +1,79 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-10-07",
-  "geradoEm": "2026-10-07T09:11:43-04:00",
+  "data": "2026-10-14",
+  "geradoEm": "2026-10-14T10:04:24-04:00",
   "itens": [
     {
-      "titulo": "Nobel de Medicina 2026 premia descobertas em optogenética",
-      "resumo": "Deisseroth, Hegemann e Nagel vencem o Nobel de Medicina 2026 por descobertas em optogenética e canais iônicos ativados pela luz.",
-      "veiculo": "Exame",
-      "link": "https://exame.com/ciencia/nobel-de-medicina-2026-premia-karl-deisseroth-peter-hegemann-e-georg-nagel"
+      "titulo": "Einstein sofre ataque cibernético que atinge base de dados de pacientes",
+      "resumo": "Einstein confirma ataque cibernético com acesso a dados de pacientes; caso foi à ANPD e à Polícia Federal.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/einstein-e-alvo-de-ataque-cibernetico-que-atinge-base-de-dados-de-pacientes/"
     },
     {
-      "titulo": "Emeis sai da América Latina e Opalus compra home care no Brasil",
-      "resumo": "Francesa Emeis deixa a América Latina e vende home care no Brasil ao grupo Opalus por cerca de R$ 80 milhões.",
+      "titulo": "Anvisa proíbe e manda apreender lote de tirzepatida de manipulação",
+      "resumo": "Anvisa proibiu venda e uso e mandou apreender lote de tirzepatida em pó para manipulação da FarmaUSA.",
+      "veiculo": "ND Mais",
+      "link": "https://ndmais.com.br/seguranca/anvisa-proibe-lote-tirzepatida-diabetes-farmausa/"
+    },
+    {
+      "titulo": "Anvisa aprova Niktimvo (axatilimabe) para enxerto contra o hospedeiro",
+      "resumo": "Anvisa aprovou o axatilimabe (Niktimvo) para doença crônica do enxerto contra o hospedeiro após falha de duas terapias.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-aprova-novo-tratamento-para-doenca-do-enxerto-contra-hospedeiro"
+    },
+    {
+      "titulo": "Fleury e Einstein lançam teste de sangue que rastreia mais de 50 cânceres",
+      "resumo": "Genesis Genomics (Fleury e Einstein) oferece o teste Galleri por R$ 6.990, exame de sangue para mais de 50 tipos de câncer.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/fleury-e-einstein-oferta-teste-biopsia-liquida-cancer/"
+    },
+    {
+      "titulo": "Anvisa muda regras e amplia a coleta domiciliar de exames",
+      "resumo": "Resolução 1.043/2026 permite que postos de coleta façam serviço itinerante próprio, sem laboratório intermediário.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/coleta-domiciliar-de-exames-anvisa-muda-regras-e-amplia-possibilidade/"
+    },
+    {
+      "titulo": "Brasil prepara lista de insumos farmacêuticos prioritários para produção nacional",
+      "resumo": "Ministério da Saúde, com a OPAS, chegou a lista preliminar de cerca de 140 insumos prioritários para reduzir importação.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/brasil-prepara-lista-de-ifas-prioritarios-para-producao-nacional/"
+    },
+    {
+      "titulo": "Operadoras e hospitais se unem em compras conjuntas para cortar custos",
+      "resumo": "Diante de R$ 22,6 bi gastos com medicamentos em 2024, operadoras e hospitais centralizam compras para ganhar escala.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/compra-conjunta-operadoras-e-hospitais/"
+    },
+    {
+      "titulo": "Gilmar Mendes pede celeridade em processos sobre a revisão da Tabela SUS",
+      "resumo": "Ministro do STF alerta para impacto de cerca de R$ 24 bi e pede julgamento rápido das ações sobre a Tabela SUS.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/ministro-gilmar-mendes-tabela-sus/"
+    },
+    {
+      "titulo": "FenaSaúde apresenta agenda 2027-2030 para a saúde suplementar",
+      "resumo": "FenaSaúde propõe rever reajuste de planos individuais, ampliar coberturas segmentadas e integrar prontuário com o SUS.",
+      "veiculo": "Revista Apólice",
+      "link": "https://revistaapolice.com.br/2026/10/fenasaude-apresenta-propostas-para-a-saude-ate-2030"
+    },
+    {
+      "titulo": "Emeis sai da América Latina e Opalus compra ativos de home care no Brasil",
+      "resumo": "Francesa Emeis vende ativos na região por cerca de R$ 800 mi; Opalus leva hospitais de transição e home care no Brasil.",
       "veiculo": "Brazil Journal",
       "link": "https://braziljournal.com/emeis-sai-da-america-latina-opalus-compra-ativos-de-home-care-no-brasil"
     },
     {
-      "titulo": "Healthtechs ganham escala com telemedicina e retomada dos investimentos",
-      "resumo": "Healthtechs brasileiras voltam a ganhar escala com o avanço da telemedicina e a retomada dos investimentos no setor.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/06/10/2026/healthtechs-ganham-escala-no-brasil-com-avanco-da-telemedicina-e-retomada-dos-investimentos/"
-    },
-    {
-      "titulo": "Dados de saúde viram infraestrutura crítica no Brasil",
-      "resumo": "Dados de saúde viram infraestrutura crítica e o Brasil ainda precisa amadurecer sua governança e proteção.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/05/10/2026/dados-de-saude-estao-virando-infraestrutura-critica-e-o-brasil-ainda-precisa-aprender-a-governa-los"
-    },
-    {
-      "titulo": "Rivio estrutura conselho com hospitais e big techs para acelerar IA na saúde",
-      "resumo": "Rivio monta conselho com líderes hospitalares e especialistas de big techs para acelerar IA na gestão da saúde.",
-      "veiculo": "Brasil Inovador",
-      "link": "https://brasilinovador.com.br/rivio-estrutura-conselho-com-liderancas-hospitalares-e-especialistas-de-big-techs-para-acelerar-ia-na-saude"
-    },
-    {
-      "titulo": "Indústria de dispositivos médicos debate déficit comercial no Conahp 2026",
-      "resumo": "ABIMO leva empresas ao Conahp 2026 para mostrar inovação e debater déficit comercial de quase US$ 10 bilhões.",
-      "veiculo": "Brasil Inovador",
-      "link": "https://brasilinovador.com.br/industria-brasileira-de-dispositivos-medicos-projeta-expansao-tecnologica-e-debate-deficit-comercial-no-conahp-2026"
-    },
-    {
-      "titulo": "82% dos pacientes oncológicos recorrem à IA para tirar dúvidas",
-      "resumo": "Pesquisa do Oncoguia mostra que 82% dos pacientes oncológicos usam IA para entender exames, diagnósticos e tratamentos.",
+      "titulo": "Burnout entre oncologistas cresce e Einstein lança programa de saúde mental",
+      "resumo": "Burnout entre oncologistas subiu de 45% (2013) para 59% (2023); Einstein lança o LideBEM para as equipes.",
       "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/82-pacientes-oncologicos-ia-duvidas-oncoguia/"
+      "link": "https://futurodasaude.com.br/saude-mental-profissionais-oncologia-brd-einstein/"
     },
     {
-      "titulo": "Agentes de IA na saúde: sete perguntas antes de contratar",
-      "resumo": "Artigo lista sete perguntas essenciais que gestores devem fazer antes de contratar agentes de IA na saúde.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/agentes-de-ia-na-saude-sete-perguntas-antes-de-contratar-por-fabricio-campolina/"
-    },
-    {
-      "titulo": "TOTVS aposta em profissionais 50+ diante do desafio da longevidade",
-      "resumo": "TOTVS cria frente para atrair e reter profissionais 50+ diante do desafio da longevidade no mercado.",
-      "veiculo": "Exame",
-      "link": "https://exame.com/esg/totvs-aposta-em-profissionais-50-diante-dos-desafios-da-longevidade-no-setor-de-tecnologia/"
-    },
-    {
-      "titulo": "Adium investe US$ 25 milhões no Brasil para dobrar a produção",
-      "resumo": "Farmacêutica Adium investe US$ 25 milhões para ampliar fábrica em Pindamonhangaba e dobrar a produção.",
-      "veiculo": "Business Moment",
-      "link": "https://businessmoment.com.br/adium-25-milhoes-brasil-dobrar-producao/"
-    },
-    {
-      "titulo": "Excelenza capta R$ 2 milhões em negócios na HospitalMed",
-      "resumo": "Clínica de Recife investe R$ 2 milhões em equipamentos na HospitalMed para montar novo bloco cirúrgico.",
-      "veiculo": "Movimento Econômico",
-      "link": "https://movimentoeconomico.com.br/eventos/2026/10/06/excelenza-viabiliza-investimento-de-r-2-mi-a-partir-de-negociacoes-na-hospitalmed"
+      "titulo": "Nobel de Medicina 2026 premia a optogenética",
+      "resumo": "Deisseroth, Hegemann e Nagel levam o Nobel de Medicina pela optogenética, que usa luz para estudar neurônios.",
+      "veiculo": "Brazil Journal",
+      "link": "https://braziljournal.com/nobel-de-medicina-premia-pesquisa-sobre-funcionamento-do-cerebro"
     }
   ]
 }
