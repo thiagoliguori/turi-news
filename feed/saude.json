@@ -1,79 +1,79 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-10-14",
-  "geradoEm": "2026-10-14T10:04:24-04:00",
+  "data": "2026-10-15",
+  "geradoEm": "2026-10-15T10:02:58-04:00",
   "itens": [
     {
-      "titulo": "Einstein sofre ataque cibernético que atinge base de dados de pacientes",
-      "resumo": "Einstein confirma ataque cibernético com acesso a dados de pacientes; caso foi à ANPD e à Polícia Federal.",
+      "titulo": "Quase 70% dos médicos já usam Inteligência Artificial, aponta estudo da MV",
+      "resumo": "Pesquisa da MV mostra que 66,1% dos médicos já usam IA; custo e integração ao prontuário são as maiores barreiras.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/15/10/2026/quase-70-dos-medicos-ja-usam-inteligencia-artificial-aponta-estudo-da-mv/"
+    },
+    {
+      "titulo": "Chiesi investe R$ 124 milhões para ampliar fábrica no país e mira novos inaladores",
+      "resumo": "Chiesi investe R$ 124 milhões para ampliar fábrica em SP, dobrar produção e priorizar inaladores de asma e DPOC no SUS.",
       "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/einstein-e-alvo-de-ataque-cibernetico-que-atinge-base-de-dados-de-pacientes/"
+      "link": "https://futurodasaude.com.br/chiesi-investe-r124-milhoes-fabrica-nacional-nova-geracao-de-inaladores/"
     },
     {
-      "titulo": "Anvisa proíbe e manda apreender lote de tirzepatida de manipulação",
-      "resumo": "Anvisa proibiu venda e uso e mandou apreender lote de tirzepatida em pó para manipulação da FarmaUSA.",
-      "veiculo": "ND Mais",
-      "link": "https://ndmais.com.br/seguranca/anvisa-proibe-lote-tirzepatida-diabetes-farmausa/"
+      "titulo": "Brasil ultrapassa 138 mil autorizações da Anvisa para cannabis medicinal",
+      "resumo": "Brasil passa de 138 mil autorizações da Anvisa para cannabis medicinal de janeiro a julho, alta de 29,5% sobre 2025.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/importacoes-cannabis-medicinal/"
     },
     {
-      "titulo": "Anvisa aprova Niktimvo (axatilimabe) para enxerto contra o hospedeiro",
-      "resumo": "Anvisa aprovou o axatilimabe (Niktimvo) para doença crônica do enxerto contra o hospedeiro após falha de duas terapias.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-aprova-novo-tratamento-para-doenca-do-enxerto-contra-hospedeiro"
+      "titulo": "Burnout atinge 68,9% dos médicos de UTI no Brasil; IA no prontuário pode ajudar",
+      "resumo": "Estudo da Amib e do CFM aponta burnout em 68,9% dos médicos de UTI; IA no prontuário surge como alívio da sobrecarga.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/13/10/2026/burnout-atinge-689-dos-medicos-de-uti-no-brasil-ia-no-prontuario-pode-ajudar-a-reduzir-a-sobrecarga/"
     },
     {
-      "titulo": "Fleury e Einstein lançam teste de sangue que rastreia mais de 50 cânceres",
-      "resumo": "Genesis Genomics (Fleury e Einstein) oferece o teste Galleri por R$ 6.990, exame de sangue para mais de 50 tipos de câncer.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/fleury-e-einstein-oferta-teste-biopsia-liquida-cancer/"
+      "titulo": "IA amplia precisão de lentes intraoculares para cirurgias de catarata",
+      "resumo": "Fórmulas de IA melhoram o cálculo de lentes intraoculares em olhos difíceis, mas a decisão segue com o cirurgião.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/13/10/2026/ia-amplia-precisao-de-lentes-intraoculares-para-cirurgias-de-catarata/"
     },
     {
-      "titulo": "Anvisa muda regras e amplia a coleta domiciliar de exames",
-      "resumo": "Resolução 1.043/2026 permite que postos de coleta façam serviço itinerante próprio, sem laboratório intermediário.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/coleta-domiciliar-de-exames-anvisa-muda-regras-e-amplia-possibilidade/"
+      "titulo": "AstraZeneca e UNICEF ampliam parceria pelo Programa Adolescente Saudável",
+      "resumo": "AstraZeneca e UNICEF investem mais de US$ 100 milhões até 2030 na saúde do adolescente, com planos em 2.227 municípios.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/14/10/2026/astrazeneca-e-unicef-ampliam-parceria-por-meio-do-programa-adolescente-saudavel-para-promover-a-equidade-em-saude-no-brasil/"
     },
     {
-      "titulo": "Brasil prepara lista de insumos farmacêuticos prioritários para produção nacional",
-      "resumo": "Ministério da Saúde, com a OPAS, chegou a lista preliminar de cerca de 140 insumos prioritários para reduzir importação.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/brasil-prepara-lista-de-ifas-prioritarios-para-producao-nacional/"
+      "titulo": "Hospital Santa Rita recebe Selo Excelência Anahp ESG por cuidado inclusivo",
+      "resumo": "No Conahp, a Anahp dá Selo Excelência ESG ao Hospital Santa Rita por cuidado inclusivo à comunidade LGBTQIA+.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/15/10/2026/hospital-santa-rita-recebe-selo-excelencia-anahp-esg-por-modelo-de-cuidado-integral-e-inclusivo-a-comunidade-lgbtqia/"
     },
     {
-      "titulo": "Operadoras e hospitais se unem em compras conjuntas para cortar custos",
-      "resumo": "Diante de R$ 22,6 bi gastos com medicamentos em 2024, operadoras e hospitais centralizam compras para ganhar escala.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/compra-conjunta-operadoras-e-hospitais/"
+      "titulo": "O boom das canetas emagrecedoras e o uso sem prescrição",
+      "resumo": "Artigo defende tratar o uso de canetas emagrecedoras sem prescrição como saúde pública, diante de vendas ilegais e efeitos adversos.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/13/10/2026/o-boom-das-canetas-e-o-avanco-do-uso-sem-prescricao-porque-o-brasil-precisa-discutir-o-tema-como-saude-publica/"
     },
     {
-      "titulo": "Gilmar Mendes pede celeridade em processos sobre a revisão da Tabela SUS",
-      "resumo": "Ministro do STF alerta para impacto de cerca de R$ 24 bi e pede julgamento rápido das ações sobre a Tabela SUS.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/ministro-gilmar-mendes-tabela-sus/"
+      "titulo": "O maior perigo da IA na saúde não é ela errar, é o profissional deixar de conferir",
+      "resumo": "CEO da Sofya alerta: o maior risco da IA na saúde é o excesso de confiança do profissional que deixa de conferir.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/14/10/2026/o-maior-perigo-da-ia-na-saude-nao-e-ela-errar-e-o-profissional-deixar-de-conferir/"
     },
     {
-      "titulo": "FenaSaúde apresenta agenda 2027-2030 para a saúde suplementar",
-      "resumo": "FenaSaúde propõe rever reajuste de planos individuais, ampliar coberturas segmentadas e integrar prontuário com o SUS.",
-      "veiculo": "Revista Apólice",
-      "link": "https://revistaapolice.com.br/2026/10/fenasaude-apresenta-propostas-para-a-saude-ate-2030"
+      "titulo": "A próxima revolução tecnológica da ressonância magnética será humana",
+      "resumo": "Artigo da Philips defende IA que automatiza tarefas da ressonância para devolver tempo de cuidado a técnicos e radiologistas.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/14/10/2026/a-proxima-revolucao-tecnologica-da-ressonancia-magnetica-sera-humana/"
     },
     {
-      "titulo": "Emeis sai da América Latina e Opalus compra ativos de home care no Brasil",
-      "resumo": "Francesa Emeis vende ativos na região por cerca de R$ 800 mi; Opalus leva hospitais de transição e home care no Brasil.",
-      "veiculo": "Brazil Journal",
-      "link": "https://braziljournal.com/emeis-sai-da-america-latina-opalus-compra-ativos-de-home-care-no-brasil"
+      "titulo": "Inteligência artificial é aliada na jornada do paciente",
+      "resumo": "IA e autoatendimento avançam na jornada do paciente; app da Odontoprev resolve 90% das solicitações e teve 16 milhões de protocolos.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/14/10/2026/inteligencia-artificial-e-aliada-na-jornada-do-paciente-que-busca-autonomia-agilidade-e-seguranca/"
     },
     {
-      "titulo": "Burnout entre oncologistas cresce e Einstein lança programa de saúde mental",
-      "resumo": "Burnout entre oncologistas subiu de 45% (2013) para 59% (2023); Einstein lança o LideBEM para as equipes.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/saude-mental-profissionais-oncologia-brd-einstein/"
-    },
-    {
-      "titulo": "Nobel de Medicina 2026 premia a optogenética",
-      "resumo": "Deisseroth, Hegemann e Nagel levam o Nobel de Medicina pela optogenética, que usa luz para estudar neurônios.",
-      "veiculo": "Brazil Journal",
-      "link": "https://braziljournal.com/nobel-de-medicina-premia-pesquisa-sobre-funcionamento-do-cerebro"
+      "titulo": "Lucas Marqueto Passos assume Diretoria de Novos Negócios da Biolab & Co",
+      "resumo": "Biolab & Co promove Lucas Marqueto a diretor de novos negócios para diversificar portfólio em meio à expansão internacional.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/biolab-lucas-marqueto/"
     }
   ]
 }
