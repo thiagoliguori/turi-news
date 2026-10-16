@@ -1,79 +1,79 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-10-15",
-  "geradoEm": "2026-10-15T10:02:58-04:00",
+  "data": "2026-10-16",
+  "geradoEm": "2026-10-16T09:27:03-04:00",
   "itens": [
     {
-      "titulo": "Quase 70% dos médicos já usam Inteligência Artificial, aponta estudo da MV",
-      "resumo": "Pesquisa da MV mostra que 66,1% dos médicos já usam IA; custo e integração ao prontuário são as maiores barreiras.",
+      "titulo": "Filippo Fontana assume a presidência da AstraZeneca no Brasil",
+      "resumo": "Executivo com nove anos de casa assume o comando da AstraZeneca no país com foco em acesso em oncologia e doenças raras.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/filippo-fontana-assume-como-novo-presidente-da-astrazeneca-no-brasil/"
+    },
+    {
+      "titulo": "dr.consulta quer virar plataforma de acesso à saúde",
+      "resumo": "Após aporte da IFC, dr.consulta aposta em tecnologia, aquisições e B2B e mira 10 milhões de pacientes únicos até 2030.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/dr-consulta-quer-se-tornar-plataforma-que-une-elos-da-saude/"
+    },
+    {
+      "titulo": "Anvisa aprova remédio de câncer (obinutuzumabe) para tratar lúpus",
+      "resumo": "Anvisa libera o Gazyva para lúpus ativo moderado a grave, com promessa de menos crises e menor uso de corticoide.",
+      "veiculo": "Poder360",
+      "link": "https://www.poder360.com.br/poder-saude/anvisa-aprova-uso-de-medicamento-contra-cancer-para-tratar-lupus/"
+    },
+    {
+      "titulo": "Saúde suplementar debate como superar a estagnação em 25% da população",
+      "resumo": "No Conahp 2026, setor e ANS defendem mais diálogo para ampliar cobertura e enfrentar sinistralidade de operadoras menores.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/dialogo-do-setor-desafios-saude-suplementar-2027/"
+    },
+    {
+      "titulo": "Fiocruz terá segundo laboratório de CAR-T com R$ 330 milhões",
+      "resumo": "Ministério da Saúde planeja novo centro de terapias CAR-T para cânceres do sangue, mas especialistas pedem cautela.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/novo-laboratorio-de-car-t-da-fiocruz-ministerio-da-saude/"
+    },
+    {
+      "titulo": "Einstein e Siemens Healthineers criam centro de inovação em medicina de precisão",
+      "resumo": "Parceria de cinco anos vai validar tecnologias; primeiro projeto usa IA e radiômica no câncer de pulmão.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/15/10/2026/einstein-e-siemens-healthineers-anunciam-centro-colaborativo-de-inovacao-com-foco-em-medicina-de-precisao/"
+    },
+    {
+      "titulo": "Estudo da MV aponta que 66% dos médicos já usam inteligência artificial",
+      "resumo": "Pesquisa MV Insights mostra que 66% dos médicos usam IA; custo e integração ao prontuário são as maiores barreiras.",
       "veiculo": "Saúde Digital News",
       "link": "https://saudedigitalnews.com.br/15/10/2026/quase-70-dos-medicos-ja-usam-inteligencia-artificial-aponta-estudo-da-mv/"
     },
     {
-      "titulo": "Chiesi investe R$ 124 milhões para ampliar fábrica no país e mira novos inaladores",
-      "resumo": "Chiesi investe R$ 124 milhões para ampliar fábrica em SP, dobrar produção e priorizar inaladores de asma e DPOC no SUS.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/chiesi-investe-r124-milhoes-fabrica-nacional-nova-geracao-de-inaladores/"
-    },
-    {
-      "titulo": "Brasil ultrapassa 138 mil autorizações da Anvisa para cannabis medicinal",
-      "resumo": "Brasil passa de 138 mil autorizações da Anvisa para cannabis medicinal de janeiro a julho, alta de 29,5% sobre 2025.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/importacoes-cannabis-medicinal/"
-    },
-    {
-      "titulo": "Burnout atinge 68,9% dos médicos de UTI no Brasil; IA no prontuário pode ajudar",
-      "resumo": "Estudo da Amib e do CFM aponta burnout em 68,9% dos médicos de UTI; IA no prontuário surge como alívio da sobrecarga.",
+      "titulo": "Aliança Nacional de Dados em Saúde cria rede de pesquisa em filantrópicos",
+      "resumo": "Aliansa, com apoio de Nelson Teich, reúne mais de 40 instituições para criar rede nacional de pesquisa clínica.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/13/10/2026/burnout-atinge-689-dos-medicos-de-uti-no-brasil-ia-no-prontuario-pode-ajudar-a-reduzir-a-sobrecarga/"
+      "link": "https://saudedigitalnews.com.br/15/10/2026/alianca-de-dados-em-saude-cria-rede-de-pesquisas-em-hospitais-filantropicos/"
     },
     {
-      "titulo": "IA amplia precisão de lentes intraoculares para cirurgias de catarata",
-      "resumo": "Fórmulas de IA melhoram o cálculo de lentes intraoculares em olhos difíceis, mas a decisão segue com o cirurgião.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/13/10/2026/ia-amplia-precisao-de-lentes-intraoculares-para-cirurgias-de-catarata/"
-    },
-    {
-      "titulo": "AstraZeneca e UNICEF ampliam parceria pelo Programa Adolescente Saudável",
-      "resumo": "AstraZeneca e UNICEF investem mais de US$ 100 milhões até 2030 na saúde do adolescente, com planos em 2.227 municípios.",
+      "titulo": "AstraZeneca e UNICEF ampliam o Programa Adolescente Saudável no Brasil",
+      "resumo": "Parceria amplia prevenção e cuidado para adolescentes, com foco em equidade e populações mais vulneráveis.",
       "veiculo": "Saúde Digital News",
       "link": "https://saudedigitalnews.com.br/14/10/2026/astrazeneca-e-unicef-ampliam-parceria-por-meio-do-programa-adolescente-saudavel-para-promover-a-equidade-em-saude-no-brasil/"
     },
     {
-      "titulo": "Hospital Santa Rita recebe Selo Excelência Anahp ESG por cuidado inclusivo",
-      "resumo": "No Conahp, a Anahp dá Selo Excelência ESG ao Hospital Santa Rita por cuidado inclusivo à comunidade LGBTQIA+.",
+      "titulo": "Illumina lança a BioInsight Platform para acelerar genômica e multiômica",
+      "resumo": "Primeiro software unificado da Illumina reúne análise, IA e dados curados para transformar sequenciamento em conclusão científica.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/15/10/2026/hospital-santa-rita-recebe-selo-excelencia-anahp-esg-por-modelo-de-cuidado-integral-e-inclusivo-a-comunidade-lgbtqia/"
+      "link": "https://saudedigitalnews.com.br/15/10/2026/illumina-lanca-a-bioinsight-platform-seu-primeiro-ambiente-de-software-unificado-para-ajudar-a-acelerar-avancos-em-genomica-e-multiomica/"
     },
     {
-      "titulo": "O boom das canetas emagrecedoras e o uso sem prescrição",
-      "resumo": "Artigo defende tratar o uso de canetas emagrecedoras sem prescrição como saúde pública, diante de vendas ilegais e efeitos adversos.",
+      "titulo": "Algar e Grupo Decio levam telemedicina a caminhoneiros",
+      "resumo": "Parceria leva atendimento médico a distância para caminhoneiros, aproximando o cuidado de quem vive na estrada.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/13/10/2026/o-boom-das-canetas-e-o-avanco-do-uso-sem-prescricao-porque-o-brasil-precisa-discutir-o-tema-como-saude-publica/"
+      "link": "https://saudedigitalnews.com.br/15/10/2026/algar-e-grupo-decio-firmam-parceria-para-disponibilizar-telemedicina-a-caminhoneiros/"
     },
     {
-      "titulo": "O maior perigo da IA na saúde não é ela errar, é o profissional deixar de conferir",
-      "resumo": "CEO da Sofya alerta: o maior risco da IA na saúde é o excesso de confiança do profissional que deixa de conferir.",
+      "titulo": "Burnout atinge 68,9% dos médicos de UTI no Brasil; IA no prontuário pode ajudar",
+      "resumo": "Levantamento mostra sobrecarga grave entre intensivistas e aponta a IA no prontuário como aliada contra a burocracia.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/14/10/2026/o-maior-perigo-da-ia-na-saude-nao-e-ela-errar-e-o-profissional-deixar-de-conferir/"
-    },
-    {
-      "titulo": "A próxima revolução tecnológica da ressonância magnética será humana",
-      "resumo": "Artigo da Philips defende IA que automatiza tarefas da ressonância para devolver tempo de cuidado a técnicos e radiologistas.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/14/10/2026/a-proxima-revolucao-tecnologica-da-ressonancia-magnetica-sera-humana/"
-    },
-    {
-      "titulo": "Inteligência artificial é aliada na jornada do paciente",
-      "resumo": "IA e autoatendimento avançam na jornada do paciente; app da Odontoprev resolve 90% das solicitações e teve 16 milhões de protocolos.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/14/10/2026/inteligencia-artificial-e-aliada-na-jornada-do-paciente-que-busca-autonomia-agilidade-e-seguranca/"
-    },
-    {
-      "titulo": "Lucas Marqueto Passos assume Diretoria de Novos Negócios da Biolab & Co",
-      "resumo": "Biolab & Co promove Lucas Marqueto a diretor de novos negócios para diversificar portfólio em meio à expansão internacional.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/biolab-lucas-marqueto/"
+      "link": "https://saudedigitalnews.com.br/13/10/2026/burnout-atinge-689-dos-medicos-de-uti-no-brasil-ia-no-prontuario-pode-ajudar-a-reduzir-a-sobrecarga/"
     }
   ]
 }
