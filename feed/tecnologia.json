@@ -1,79 +1,79 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-10-15",
-  "geradoEm": "2026-10-15T09:56:29-04:00",
+  "data": "2026-10-19",
+  "geradoEm": "2026-10-19T09:29:45-03:00",
   "itens": [
     {
-      "titulo": "FDA libera IA que prevê o risco de recidiva do câncer de mama antes da cirurgia",
-      "resumo": "FDA libera o TumorSight Risk, da SimBioSys, que usa IA na ressonância do diagnóstico para estimar o risco de recidiva do câncer de mama antes da cirurgia.",
-      "veiculo": "Good Morning America / ABC News",
-      "link": "https://www.goodmorningamerica.com/wellness/story/new-fda-cleared-ai-tool-predict-breast-cancer-137268417"
+      "titulo": "HHS e ARPA-H lançam quatro iniciativas de IA para acelerar ensaios clínicos",
+      "resumo": "Governo dos EUA usa IA para desenhar estudos, analisar dados em tempo real e melhorar o recrutamento de pacientes.",
+      "veiculo": "HIStalk",
+      "link": "https://histalk2.com/2026/10/07/healthcare-ai-news-10-7-26/"
     },
     {
-      "titulo": "Suki capta US$ 90 milhões para expandir IA em fluxos de trabalho clínicos",
-      "resumo": "A Suki levantou US$ 90 milhões para ampliar suas ferramentas de IA que apoiam o trabalho diário do médico, da documentação à coordenação.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/suki-raises-90m-ai-clinical-workflows"
+      "titulo": "Reino Unido adota 44 recomendações para regular IA na saúde",
+      "resumo": "Reino Unido troca a aprovação única por monitoramento contínuo dos dispositivos de IA ao longo do ciclo de vida.",
+      "veiculo": "HIStalk",
+      "link": "https://histalk2.com/2026/10/07/healthcare-ai-news-10-7-26/"
     },
     {
-      "titulo": "Zocdoc compra a Sohar Health para automatizar a verificação de convênios com IA",
-      "resumo": "A Zocdoc anunciou a compra da Sohar Health, sua primeira aquisição em quase 20 anos, para automatizar a verificação de elegibilidade e benefícios do paciente.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/zodoc-acquires-health-tech-company-sohar-health-automated-benefits"
+      "titulo": "Teladoc adiciona escriba de IA e sinais vitais por câmera de celular",
+      "resumo": "Teladoc passa a documentar a consulta com escriba de IA e a medir sinais vitais pela câmera do celular.",
+      "veiculo": "HIStalk",
+      "link": "https://histalk2.com/2026/10/07/healthcare-ai-news-10-7-26/"
     },
     {
-      "titulo": "Big techs ganham acesso direto à agenda de IA em saúde do governo Trump",
-      "resumo": "Reportagem mostra empresas de tecnologia influenciando de perto as autoridades de saúde dos EUA na definição da política de IA do governo Trump.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/ai-tech-leaders-are-lobbying-trump-health-officials-government-run-chat"
+      "titulo": "Utah inicia piloto de prescrição de acne gerada por IA",
+      "resumo": "Utah autoriza por um ano prescrições de tópicos para acne geradas por IA, com revisão médica no início.",
+      "veiculo": "HIStalk",
+      "link": "https://histalk2.com/2026/10/07/healthcare-ai-news-10-7-26/"
     },
     {
-      "titulo": "Confido capta US$ 12,5 milhões para plataforma de IA agêntica em consultórios",
-      "resumo": "A Confido captou US$ 12,5 milhões para ir além da IA de voz e oferecer uma plataforma de agentes de IA que operam tarefas em consultórios médicos.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/confido-health-expands-beyond-voice-ai-agentic-platform-medical-practices"
+      "titulo": "IA estima sobrevida de cânceres raros que nunca viu antes",
+      "resumo": "Modelo de IA estima a sobrevida até de cânceres raros que nunca apareceram em sua base de treino.",
+      "veiculo": "The Health AI Brief",
+      "link": "https://yesilscience.com/the-brief-2026-10-12/"
     },
     {
-      "titulo": "Readily capta US$ 11 milhões para IA de compliance regulatório em saúde",
-      "resumo": "A Readily levantou US$ 11 milhões em série A para construir uma plataforma de IA voltada a compliance e supervisão regulatória em saúde.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/readily-raises-11m-healthcare-compliance-ai"
+      "titulo": "IA ajuda ultrassonografistas a detectar defeitos cerebrais fetais",
+      "resumo": "IA em tempo real ajuda a detectar mais anomalias cerebrais fetais, sem aumentar os alarmes falsos.",
+      "veiculo": "The Health AI Brief",
+      "link": "https://yesilscience.com/the-brief-2026-10-12/"
     },
     {
-      "titulo": "Mark Cuban defende IA e medicina personalizada em summit de saúde",
-      "resumo": "Em evento da Verizon, Mark Cuban falou sobre cuidado personalizado com IA e sobre os planos de fabricação da Cost Plus Drugs.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/event-mark-cuban-talks-healthcare-ai-personalized-medicine"
+      "titulo": "IA devolve 16 dias de trabalho ao médico, mas cria o risco da shadow AI",
+      "resumo": "IA poupa quase 16 dias de trabalho administrativo por ano, mas o uso de ferramentas pessoais acende alerta.",
+      "veiculo": "The Health AI Brief",
+      "link": "https://yesilscience.com/the-brief-2026-10-12/"
     },
     {
-      "titulo": "Google amplia monitoramento de saúde e firma parceria com a Flo Health",
-      "resumo": "O Google ampliou o recurso Health Guardian para tendências de resistência à insulina, lançou o wearable Fitbit Edge e firmou parceria com a Flo Health.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/google-expands-health-tracking-partners-flo-health"
+      "titulo": "DeepSeek supera o ChatGPT em prova de urologia",
+      "resumo": "Modelo DeepSeek R1 superou o ChatGPT (o3-mini) em questões complexas de urologia.",
+      "veiculo": "The Health AI Brief",
+      "link": "https://yesilscience.com/the-brief-2026-10-12/"
     },
     {
-      "titulo": "Senado analisa projeto que cria diretrizes para o uso de IA na saúde (PL 931/2026)",
-      "resumo": "O PL 931/2026 define princípios para IA na saúde: proteção do paciente, transparência, supervisão humana e direito de saber quando a IA é usada no cuidado.",
+      "titulo": "FDA aprova imagem de AVC dentro da sala de angiografia",
+      "resumo": "FDA libera imagem de AVC agudo na própria sala de angiografia, evitando transferências e ganhando tempo.",
+      "veiculo": "The Health AI Brief",
+      "link": "https://yesilscience.com/the-brief-2026-10-12/"
+    },
+    {
+      "titulo": "Senado analisa projeto com diretrizes para IA na saúde",
+      "resumo": "PL 931/2026 define supervisão humana, transparência e o direito do paciente à informação sobre IA no atendimento.",
       "veiculo": "Agência Senado",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/10/14/projeto-na-cas-cria-diretrizes-para-uso-da-inteligencia-artificial-na-saude"
     },
     {
-      "titulo": "Philips: IA tem grande potencial de expandir o acesso à saúde na América Latina",
-      "resumo": "Em entrevista, Felipe Basso, da Philips, defende que a inteligência artificial pode ampliar o acesso à saúde na América Latina, não só a eficiência.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/ia-na-saude-felipe-basso-futuro-talks-brd-yt-philips/"
+      "titulo": "Dr.consulta recebe US$ 30 milhões do IFC para chegar a 10 milhões de pacientes",
+      "resumo": "Dr.consulta recebe US$ 30 milhões do IFC e mira 10 milhões de pacientes com apoio de IA no WhatsApp.",
+      "veiculo": "Inovação em Saúde",
+      "link": "https://inovacaoemsaude.substack.com/p/as-cinco-principais-noticias-em-inovacao-d1f"
     },
     {
-      "titulo": "Estudo: buscas em plataforma clínica podem antecipar internações por dengue",
-      "resumo": "Estudo aponta que padrões de busca em uma plataforma clínica podem sinalizar, com antecedência, o aumento de internações por dengue.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/buscas-em-plataforma-clinica-podem-antecipar-internacoes-por-dengue-aponta-estudo/"
-    },
-    {
-      "titulo": "Commure e Compassus se unem para automatizar encaminhamentos de home care",
-      "resumo": "Commure e Compassus firmaram parceria para automatizar os encaminhamentos de cuidado domiciliar, reduzindo atrito na transição entre hospital e casa.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/commure-and-compassus-join-automate-home-care-referrals"
+      "titulo": "App Nerivio prevê risco de enxaqueca do dia seguinte com dados de 53 mil usuários",
+      "resumo": "App Nerivio, da Theranica, prevê o risco de enxaqueca do dia seguinte usando padrões de dor de 53 mil usuários.",
+      "veiculo": "LQ Ventures",
+      "link": "https://www.lqventures.com/ai-in-healthcare-trends-strategic-roundup-oct-2026/"
     }
   ]
 }
