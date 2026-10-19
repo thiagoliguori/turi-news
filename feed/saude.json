@@ -1,79 +1,73 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-10-16",
-  "geradoEm": "2026-10-16T09:27:03-04:00",
+  "data": "2026-10-19",
+  "geradoEm": "2026-10-19T09:28:19-03:00",
   "itens": [
     {
-      "titulo": "Filippo Fontana assume a presidência da AstraZeneca no Brasil",
-      "resumo": "Executivo com nove anos de casa assume o comando da AstraZeneca no país com foco em acesso em oncologia e doenças raras.",
+      "titulo": "Chiesi investe R$ 124 milhões para ampliar fábrica no país e mira nova geração de inaladores",
+      "resumo": "Chiesi investirá R$ 124 milhões para ampliar fábrica em SP e fazer nova geração de inaladores para asma e DPOC.",
       "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/filippo-fontana-assume-como-novo-presidente-da-astrazeneca-no-brasil/"
+      "link": "https://futurodasaude.com.br/chiesi-investe-r124-milhoes-fabrica-nacional-nova-geracao-de-inaladores/"
     },
     {
-      "titulo": "dr.consulta quer virar plataforma de acesso à saúde",
-      "resumo": "Após aporte da IFC, dr.consulta aposta em tecnologia, aquisições e B2B e mira 10 milhões de pacientes únicos até 2030.",
+      "titulo": "Filippo Fontana assume como novo presidente da AstraZeneca no Brasil",
+      "resumo": "Filippo Fontana, há nove anos na empresa, assume a presidência da AstraZeneca no Brasil após comandar a operação na Áustria.",
       "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/dr-consulta-quer-se-tornar-plataforma-que-une-elos-da-saude/"
+      "link": "https://futurodasaude.com.br/?p=51853"
     },
     {
-      "titulo": "Anvisa aprova remédio de câncer (obinutuzumabe) para tratar lúpus",
-      "resumo": "Anvisa libera o Gazyva para lúpus ativo moderado a grave, com promessa de menos crises e menor uso de corticoide.",
-      "veiculo": "Poder360",
-      "link": "https://www.poder360.com.br/poder-saude/anvisa-aprova-uso-de-medicamento-contra-cancer-para-tratar-lupus/"
+      "titulo": "Planos de saúde somam 15,4 milhões de cancelamentos em um ano, aponta ANS",
+      "resumo": "Saúde suplementar teve 15,4 milhões de cancelamentos e 16,1 milhões de adesões em um ano, somando mais de 53 milhões de vínculos.",
+      "veiculo": "Estado de Minas",
+      "link": "https://www.em.com.br/mundo-corporativo/2026/10/7522328-planos-de-saude-somam-154-milhoes-de-cancelamentos-em-1-ano.html"
     },
     {
-      "titulo": "Saúde suplementar debate como superar a estagnação em 25% da população",
-      "resumo": "No Conahp 2026, setor e ANS defendem mais diálogo para ampliar cobertura e enfrentar sinistralidade de operadoras menores.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/dialogo-do-setor-desafios-saude-suplementar-2027/"
+      "titulo": "MP torna obrigatória a aprovação em exame para exercer a medicina",
+      "resumo": "Câmara aprova MP que condiciona o registro de médicos à aprovação no Enamed, aplicado três vezes na graduação; falta o Senado.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/exame-obrigatorio-medicina/"
     },
     {
-      "titulo": "Fiocruz terá segundo laboratório de CAR-T com R$ 330 milhões",
-      "resumo": "Ministério da Saúde planeja novo centro de terapias CAR-T para cânceres do sangue, mas especialistas pedem cautela.",
+      "titulo": "Catherine Jennings assume presidência da Beckman Coulter",
+      "resumo": "Catherine Jennings, ex-Boston Scientific, assume a presidência da Beckman Coulter Diagnostics, do grupo Danaher.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/beckman-catherine-jennings/"
+    },
+    {
+      "titulo": "Ministério da Saúde aprova protocolo para tratar crianças com hemofilia A",
+      "resumo": "Ministério da Saúde aprova protocolo com emicizumabe subcutâneo para crianças de até 6 anos com hemofilia A sem inibidores.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/protocolo-criancas-hemofilia/"
+    },
+    {
+      "titulo": "Novo laboratório de CAR-T da Fiocruz pode descentralizar produção, mas gera cautela",
+      "resumo": "Ministério da Saúde e Fiocruz terão segundo centro de CAR-T com R$ 330 milhões; especialistas pedem cautela por falta de dados.",
       "veiculo": "Futuro da Saúde",
       "link": "https://futurodasaude.com.br/novo-laboratorio-de-car-t-da-fiocruz-ministerio-da-saude/"
     },
     {
-      "titulo": "Einstein e Siemens Healthineers criam centro de inovação em medicina de precisão",
-      "resumo": "Parceria de cinco anos vai validar tecnologias; primeiro projeto usa IA e radiômica no câncer de pulmão.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/15/10/2026/einstein-e-siemens-healthineers-anunciam-centro-colaborativo-de-inovacao-com-foco-em-medicina-de-precisao/"
+      "titulo": "Novas resoluções mudam metodologia de repasses para OSS do estado de SP",
+      "resumo": "SP troca repasse automático às OSS por orçamento atrelado a produção, complexidade e desempenho dos hospitais, a partir de julho de 2027.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/novas-resolucoes-orcamento-repasses-oss-sp/"
     },
     {
-      "titulo": "Estudo da MV aponta que 66% dos médicos já usam inteligência artificial",
-      "resumo": "Pesquisa MV Insights mostra que 66% dos médicos usam IA; custo e integração ao prontuário são as maiores barreiras.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/15/10/2026/quase-70-dos-medicos-ja-usam-inteligencia-artificial-aponta-estudo-da-mv/"
+      "titulo": "Anvisa proíbe lote de tirzepatida após empresa descumprir ordem de destruição",
+      "resumo": "Anvisa proíbe e manda recolher lote de tirzepatida da FarmaUSA após a empresa descumprir ordem de destruição.",
+      "veiculo": "Exame",
+      "link": "https://exame.com/ciencia/anvisa-proibe-lote-de-tirzepatida-apos-empresa-descumprir-ordem-de-destruicao/"
     },
     {
-      "titulo": "Aliança Nacional de Dados em Saúde cria rede de pesquisa em filantrópicos",
-      "resumo": "Aliansa, com apoio de Nelson Teich, reúne mais de 40 instituições para criar rede nacional de pesquisa clínica.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/15/10/2026/alianca-de-dados-em-saude-cria-rede-de-pesquisas-em-hospitais-filantropicos/"
+      "titulo": "Com 18 mil cuidadores, Acuidar prepara profissionais para a economia prateada",
+      "resumo": "Acuidar chega a 375 unidades e 18 mil cuidadores, surfando a economia prateada e a alta demanda por cuidado profissional.",
+      "veiculo": "Exame",
+      "link": "https://exame.com/esg/com-18-mil-cuidadores-acuidar-prepara-profissionais-para-a-economia-prateada/"
     },
     {
-      "titulo": "AstraZeneca e UNICEF ampliam o Programa Adolescente Saudável no Brasil",
-      "resumo": "Parceria amplia prevenção e cuidado para adolescentes, com foco em equidade e populações mais vulneráveis.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/14/10/2026/astrazeneca-e-unicef-ampliam-parceria-por-meio-do-programa-adolescente-saudavel-para-promover-a-equidade-em-saude-no-brasil/"
-    },
-    {
-      "titulo": "Illumina lança a BioInsight Platform para acelerar genômica e multiômica",
-      "resumo": "Primeiro software unificado da Illumina reúne análise, IA e dados curados para transformar sequenciamento em conclusão científica.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/15/10/2026/illumina-lanca-a-bioinsight-platform-seu-primeiro-ambiente-de-software-unificado-para-ajudar-a-acelerar-avancos-em-genomica-e-multiomica/"
-    },
-    {
-      "titulo": "Algar e Grupo Decio levam telemedicina a caminhoneiros",
-      "resumo": "Parceria leva atendimento médico a distância para caminhoneiros, aproximando o cuidado de quem vive na estrada.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/15/10/2026/algar-e-grupo-decio-firmam-parceria-para-disponibilizar-telemedicina-a-caminhoneiros/"
-    },
-    {
-      "titulo": "Burnout atinge 68,9% dos médicos de UTI no Brasil; IA no prontuário pode ajudar",
-      "resumo": "Levantamento mostra sobrecarga grave entre intensivistas e aponta a IA no prontuário como aliada contra a burocracia.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/13/10/2026/burnout-atinge-689-dos-medicos-de-uti-no-brasil-ia-no-prontuario-pode-ajudar-a-reduzir-a-sobrecarga/"
+      "titulo": "Fundo de impacto Archimed compra a Genetica, biotech de Chapecó",
+      "resumo": "Archimed, gestora de impacto europeia, compra o controle da biotech catarinense Genetica em seu primeiro investimento na América Latina.",
+      "veiculo": "Brazil Journal",
+      "link": "https://braziljournal.com/fundo-de-impacto-compra-a-genetica-biotech-de-chapeco"
     }
   ]
 }
