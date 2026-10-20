@@ -1,79 +1,79 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-10-19",
-  "geradoEm": "2026-10-19T09:29:45-03:00",
+  "data": "2026-10-20",
+  "geradoEm": "2026-10-20T10:08:06-03:00",
   "itens": [
     {
-      "titulo": "HHS e ARPA-H lançam quatro iniciativas de IA para acelerar ensaios clínicos",
-      "resumo": "Governo dos EUA usa IA para desenhar estudos, analisar dados em tempo real e melhorar o recrutamento de pacientes.",
-      "veiculo": "HIStalk",
-      "link": "https://histalk2.com/2026/10/07/healthcare-ai-news-10-7-26/"
+      "titulo": "AstraZeneca e Oracle firmam parceria global de IA para ensaios clínicos",
+      "resumo": "AstraZeneca e Oracle usam dados reais e IA para acelerar ensaios clínicos e diagnóstico precoce, com piloto de hipertensão em Abu Dhabi.",
+      "veiculo": "EuropaWire",
+      "link": "https://news.europawire.eu/astrazeneca-and-oracle-partner-on-ai-driven-clinical-trial-optimisation-and-patient-care/eu-press-release/2026/10/20/14/00/04/183571/"
     },
     {
-      "titulo": "Reino Unido adota 44 recomendações para regular IA na saúde",
-      "resumo": "Reino Unido troca a aprovação única por monitoramento contínuo dos dispositivos de IA ao longo do ciclo de vida.",
-      "veiculo": "HIStalk",
-      "link": "https://histalk2.com/2026/10/07/healthcare-ai-news-10-7-26/"
+      "titulo": "AMA lança marco de governança para IA agêntica na clínica",
+      "resumo": "Associação Médica Americana cria regras por nível de risco para IA que age sozinha, com foco em supervisão e responsabilidade médica.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/regulatory/american-medical-association-rolls-out-governance-framework-agentic-ai-solutions"
     },
     {
-      "titulo": "Teladoc adiciona escriba de IA e sinais vitais por câmera de celular",
-      "resumo": "Teladoc passa a documentar a consulta com escriba de IA e a medir sinais vitais pela câmera do celular.",
-      "veiculo": "HIStalk",
-      "link": "https://histalk2.com/2026/10/07/healthcare-ai-news-10-7-26/"
+      "titulo": "Suki capta US$ 90 milhões para expandir agentes de IA clínica",
+      "resumo": "Assistente de voz Suki levanta US$ 90 milhões para ampliar agentes de IA que reduzem documentação e burocracia do médico.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/finance/suki-secures-90m-series-e-funding-accelerate-growth-expand-ai-capabilities"
     },
     {
-      "titulo": "Utah inicia piloto de prescrição de acne gerada por IA",
-      "resumo": "Utah autoriza por um ano prescrições de tópicos para acne geradas por IA, com revisão médica no início.",
-      "veiculo": "HIStalk",
-      "link": "https://histalk2.com/2026/10/07/healthcare-ai-news-10-7-26/"
+      "titulo": "Zocdoc compra a Sohar Health para automatizar verificação de convênio",
+      "resumo": "Zocdoc faz sua primeira aquisição em quase 20 anos e usa IA para checar convênio e elegibilidade de forma automática.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/zocdoc-acquires-sohar-health-insurance-verification"
     },
     {
-      "titulo": "IA estima sobrevida de cânceres raros que nunca viu antes",
-      "resumo": "Modelo de IA estima a sobrevida até de cânceres raros que nunca apareceram em sua base de treino.",
-      "veiculo": "The Health AI Brief",
-      "link": "https://yesilscience.com/the-brief-2026-10-12/"
+      "titulo": "Houston Methodist leva IA ambiental ao centro cirúrgico",
+      "resumo": "Hospital adota IA ambiental na sala de cirurgia; estudos revisados por pares associam a tecnologia a mais cirurgias por sala.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/houston-methodist-tackles-ambient-ai-surgery"
     },
     {
-      "titulo": "IA ajuda ultrassonografistas a detectar defeitos cerebrais fetais",
-      "resumo": "IA em tempo real ajuda a detectar mais anomalias cerebrais fetais, sem aumentar os alarmes falsos.",
-      "veiculo": "The Health AI Brief",
-      "link": "https://yesilscience.com/the-brief-2026-10-12/"
+      "titulo": "FDA sinaliza mais rigor com software médico de IA",
+      "resumo": "Em carta à O.N. Diagnostics, o FDA avisa que reentrenar um algoritmo de IA pode exigir nova autorização regulatória.",
+      "veiculo": "MD+DI",
+      "link": "https://www.mddionline.com/regulatory-quality/fda-warning-letter-signals-new-scrutiny-for-ai-powered-medical-software"
     },
     {
-      "titulo": "IA devolve 16 dias de trabalho ao médico, mas cria o risco da shadow AI",
-      "resumo": "IA poupa quase 16 dias de trabalho administrativo por ano, mas o uso de ferramentas pessoais acende alerta.",
-      "veiculo": "The Health AI Brief",
-      "link": "https://yesilscience.com/the-brief-2026-10-12/"
+      "titulo": "Google lança o Fitbit Edge com sensores avançados e IA Gemini",
+      "resumo": "Novo wearable ultrafino do Google reúne sensores de saúde avançados e IA Gemini para monitoramento contínuo.",
+      "veiculo": "MD+DI",
+      "link": "https://www.mddionline.com/wearable-medical-devices/google-s-fitbit-edge-packs-advanced-health-sensors-in-ultra-slim-design"
     },
     {
-      "titulo": "DeepSeek supera o ChatGPT em prova de urologia",
-      "resumo": "Modelo DeepSeek R1 superou o ChatGPT (o3-mini) em questões complexas de urologia.",
-      "veiculo": "The Health AI Brief",
-      "link": "https://yesilscience.com/the-brief-2026-10-12/"
+      "titulo": "XRlabs faz primeiro uso em humano de IA física em neurocirurgia",
+      "resumo": "XRlabs acopla IA física ao exoscópio Orbeye e registra o primeiro uso em humano dentro de uma neurocirurgia.",
+      "veiculo": "NeuroNews International",
+      "link": "https://neuronewsinternational.com/xrlabs-achieves-first-in-human-neurosurgical-use-of-physical-ai-on-orbeye-exoscope/"
     },
     {
-      "titulo": "FDA aprova imagem de AVC dentro da sala de angiografia",
-      "resumo": "FDA libera imagem de AVC agudo na própria sala de angiografia, evitando transferências e ganhando tempo.",
-      "veiculo": "The Health AI Brief",
-      "link": "https://yesilscience.com/the-brief-2026-10-12/"
+      "titulo": "Com surto de sarampo, IA é usada para prever focos da doença",
+      "resumo": "Diante do avanço do sarampo, modelos de IA passam a prever regiões de maior risco de surto para guiar a vacinação.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/video/measles-outbreak-surges-ai-can-forecast-hotspots"
     },
     {
-      "titulo": "Senado analisa projeto com diretrizes para IA na saúde",
-      "resumo": "PL 931/2026 define supervisão humana, transparência e o direito do paciente à informação sobre IA no atendimento.",
+      "titulo": "Utah autoriza IA para renovação de receitas de rotina em sandbox",
+      "resumo": "Em ambiente regulatório controlado, Utah passa a permitir que algoritmos renovem receitas de rotina e aliviem a falta de profissionais.",
+      "veiculo": "Yesil Science",
+      "link": "https://yesilscience.com/utah-sandbox-approves-ai-prescription-refills/"
+    },
+    {
+      "titulo": "Senado avança projeto que cria diretrizes de IA na saúde no Brasil",
+      "resumo": "PL 931/2026 estabelece salvaguardas para IA na saúde, com foco em segurança do paciente, transparência e supervisão humana.",
       "veiculo": "Agência Senado",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/10/14/projeto-na-cas-cria-diretrizes-para-uso-da-inteligencia-artificial-na-saude"
     },
     {
-      "titulo": "Dr.consulta recebe US$ 30 milhões do IFC para chegar a 10 milhões de pacientes",
-      "resumo": "Dr.consulta recebe US$ 30 milhões do IFC e mira 10 milhões de pacientes com apoio de IA no WhatsApp.",
-      "veiculo": "Inovação em Saúde",
-      "link": "https://inovacaoemsaude.substack.com/p/as-cinco-principais-noticias-em-inovacao-d1f"
-    },
-    {
-      "titulo": "App Nerivio prevê risco de enxaqueca do dia seguinte com dados de 53 mil usuários",
-      "resumo": "App Nerivio, da Theranica, prevê o risco de enxaqueca do dia seguinte usando padrões de dor de 53 mil usuários.",
-      "veiculo": "LQ Ventures",
-      "link": "https://www.lqventures.com/ai-in-healthcare-trends-strategic-roundup-oct-2026/"
+      "titulo": "Eyonis é finalista em premiação de IA por detecção precoce de câncer",
+      "resumo": "Startup Eyonis é finalista do 2026 Digital Health & AI Awards por solução de IA para rastreamento e detecção precoce de câncer.",
+      "veiculo": "GlobeNewswire",
+      "link": "https://www.globenewswire.com/news-release/2026/10/20/3384292/0/en/eyonis-named-finalist-in-2026-digital-health-ai-awards-for-cancer-screening-and-early-detection.html"
     }
   ]
 }
