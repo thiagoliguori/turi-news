@@ -1,79 +1,79 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-10-20",
-  "geradoEm": "2026-10-20T10:08:06-03:00",
+  "data": "2026-10-21",
+  "geradoEm": "2026-10-21T09:11:58-03:00",
   "itens": [
     {
-      "titulo": "AstraZeneca e Oracle firmam parceria global de IA para ensaios clínicos",
-      "resumo": "AstraZeneca e Oracle usam dados reais e IA para acelerar ensaios clínicos e diagnóstico precoce, com piloto de hipertensão em Abu Dhabi.",
-      "veiculo": "EuropaWire",
-      "link": "https://news.europawire.eu/astrazeneca-and-oracle-partner-on-ai-driven-clinical-trial-optimisation-and-patient-care/eu-press-release/2026/10/20/14/00/04/183571/"
+      "titulo": "NVIDIA amplia parcerias de IA na saúde e lança modelo aberto de desenho de proteínas",
+      "resumo": "NVIDIA lança modelo aberto de desenho de proteínas com a Universidade de Washington e aposta em radioterapia adaptativa com a Siemens Healthineers.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/nvidia-unveils-partnerships-expand-healthcare-ai-protein-design-tools"
+    },
+    {
+      "titulo": "FDA libera IA que estima risco de recidiva no câncer de mama pela ressonância",
+      "resumo": "FDA libera a TumorSight Risk, da SimBioSys, que estima pela ressonância o risco de recidiva do câncer de mama em 5 e 10 anos.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/simbiosys-gets-fda-clearance-ai-breast-cancer-recurrence-risk-tool"
+    },
+    {
+      "titulo": "Doximity integra o UpToDate ao seu assistente de IA para médicos",
+      "resumo": "Doximity integra o UpToDate ao seu assistente de IA Ask, unindo resposta da IA e fonte clínica no mesmo lugar.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/doximity-integrates-uptodate-ai-clinical-support-tool"
+    },
+    {
+      "titulo": "IA de Singapura detecta risco de psicose em jovens a partir da fala",
+      "resumo": "IA de Singapura rastreia risco de psicose em jovens a partir de 45 segundos de fala, com até 93% de sensibilidade.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/asia/singapore-ai-detects-early-psychosis-youth"
+    },
+    {
+      "titulo": "XRlabs capta US$ 8,4 milhões para copiloto de IA no centro cirúrgico",
+      "resumo": "XRlabs capta US$ 8,4 milhões para o SurgicalOS, copiloto de IA que une vídeo, navegação e imagem do paciente na cirurgia.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/xrlabs-raises-84m-ai-surgical-platform"
+    },
+    {
+      "titulo": "OpenEvidence e Doximity encerram em acordo disputa sobre IA médica",
+      "resumo": "OpenEvidence e Doximity encerram em acordo a disputa judicial sobre acesso indevido a plataforma de IA médica.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/openevidence-doximity-reach-settlement-contentious-ai-lawsuit"
     },
     {
       "titulo": "AMA lança marco de governança para IA agêntica na clínica",
-      "resumo": "Associação Médica Americana cria regras por nível de risco para IA que age sozinha, com foco em supervisão e responsabilidade médica.",
+      "resumo": "AMA lança marco de governança para IA agêntica, definindo papel clínico, validação, limites de autoridade e responsabilização.",
       "veiculo": "Fierce Healthcare",
       "link": "https://www.fiercehealthcare.com/regulatory/american-medical-association-rolls-out-governance-framework-agentic-ai-solutions"
     },
     {
-      "titulo": "Suki capta US$ 90 milhões para expandir agentes de IA clínica",
-      "resumo": "Assistente de voz Suki levanta US$ 90 milhões para ampliar agentes de IA que reduzem documentação e burocracia do médico.",
+      "titulo": "JAMA Network anuncia o JAMA+ AI, periódico dedicado à IA em saúde",
+      "resumo": "JAMA Network anuncia o JAMA+ AI, periódico dedicado à inteligência artificial em saúde, com lançamento previsto para 2027.",
       "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/finance/suki-secures-90m-series-e-funding-accelerate-growth-expand-ai-capabilities"
+      "link": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-97-healthcare-orgs-experienced-cyberattack-past-12-months-proofpoint-inc"
     },
     {
-      "titulo": "Zocdoc compra a Sohar Health para automatizar verificação de convênio",
-      "resumo": "Zocdoc faz sua primeira aquisição em quase 20 anos e usa IA para checar convênio e elegibilidade de forma automática.",
+      "titulo": "Eric Topol conecta o envelhecimento do sistema imune ao healthspan",
+      "resumo": "Eric Topol destaca estudo que conecta o envelhecimento das células de defesa ao healthspan, o tempo vivido com saúde.",
+      "veiculo": "Ground Truths (Eric Topol)",
+      "link": "https://erictopol.substack.com/p/a-tale-of-two-t-cells"
+    },
+    {
+      "titulo": "Eric Topol questiona os escores de prontidão e HRV dos wearables",
+      "resumo": "Eric Topol aponta a falta de evidência de que escores de prontidão e HRV dos wearables realmente melhorem a saúde.",
+      "veiculo": "Ground Truths (Eric Topol)",
+      "link": "https://erictopol.substack.com/p/the-big-holes-in-wearable-heart-rate"
+    },
+    {
+      "titulo": "Precision Neuroscience levanta US$ 250 milhões para interface cérebro-computador",
+      "resumo": "Precision Neuroscience levanta US$ 250 milhões para interface que lê sinais na superfície do cérebro sem penetrar o tecido.",
       "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/zocdoc-acquires-sohar-health-insurance-verification"
+      "link": "https://www.mobihealthnews.com/news/precision-neuroscience-raises-250m-brain-computer-interface"
     },
     {
-      "titulo": "Houston Methodist leva IA ambiental ao centro cirúrgico",
-      "resumo": "Hospital adota IA ambiental na sala de cirurgia; estudos revisados por pares associam a tecnologia a mais cirurgias por sala.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/houston-methodist-tackles-ambient-ai-surgery"
-    },
-    {
-      "titulo": "FDA sinaliza mais rigor com software médico de IA",
-      "resumo": "Em carta à O.N. Diagnostics, o FDA avisa que reentrenar um algoritmo de IA pode exigir nova autorização regulatória.",
-      "veiculo": "MD+DI",
-      "link": "https://www.mddionline.com/regulatory-quality/fda-warning-letter-signals-new-scrutiny-for-ai-powered-medical-software"
-    },
-    {
-      "titulo": "Google lança o Fitbit Edge com sensores avançados e IA Gemini",
-      "resumo": "Novo wearable ultrafino do Google reúne sensores de saúde avançados e IA Gemini para monitoramento contínuo.",
-      "veiculo": "MD+DI",
-      "link": "https://www.mddionline.com/wearable-medical-devices/google-s-fitbit-edge-packs-advanced-health-sensors-in-ultra-slim-design"
-    },
-    {
-      "titulo": "XRlabs faz primeiro uso em humano de IA física em neurocirurgia",
-      "resumo": "XRlabs acopla IA física ao exoscópio Orbeye e registra o primeiro uso em humano dentro de uma neurocirurgia.",
-      "veiculo": "NeuroNews International",
-      "link": "https://neuronewsinternational.com/xrlabs-achieves-first-in-human-neurosurgical-use-of-physical-ai-on-orbeye-exoscope/"
-    },
-    {
-      "titulo": "Com surto de sarampo, IA é usada para prever focos da doença",
-      "resumo": "Diante do avanço do sarampo, modelos de IA passam a prever regiões de maior risco de surto para guiar a vacinação.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/video/measles-outbreak-surges-ai-can-forecast-hotspots"
-    },
-    {
-      "titulo": "Utah autoriza IA para renovação de receitas de rotina em sandbox",
-      "resumo": "Em ambiente regulatório controlado, Utah passa a permitir que algoritmos renovem receitas de rotina e aliviem a falta de profissionais.",
-      "veiculo": "Yesil Science",
-      "link": "https://yesilscience.com/utah-sandbox-approves-ai-prescription-refills/"
-    },
-    {
-      "titulo": "Senado avança projeto que cria diretrizes de IA na saúde no Brasil",
-      "resumo": "PL 931/2026 estabelece salvaguardas para IA na saúde, com foco em segurança do paciente, transparência e supervisão humana.",
-      "veiculo": "Agência Senado",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/14/projeto-na-cas-cria-diretrizes-para-uso-da-inteligencia-artificial-na-saude"
-    },
-    {
-      "titulo": "Eyonis é finalista em premiação de IA por detecção precoce de câncer",
-      "resumo": "Startup Eyonis é finalista do 2026 Digital Health & AI Awards por solução de IA para rastreamento e detecção precoce de câncer.",
-      "veiculo": "GlobeNewswire",
-      "link": "https://www.globenewswire.com/news-release/2026/10/20/3384292/0/en/eyonis-named-finalist-in-2026-digital-health-ai-awards-for-cancer-screening-and-early-detection.html"
+      "titulo": "Philips: IA tem grande potencial de ampliar o acesso à saúde na América Latina",
+      "resumo": "Felipe Basso, da Philips, defende que a IA tem grande potencial para ampliar o acesso à saúde na América Latina.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/ia-na-saude-felipe-basso-futuro-talks-brd-yt-philips/"
     }
   ]
 }
