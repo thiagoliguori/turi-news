@@ -1,79 +1,79 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-10-21",
-  "geradoEm": "2026-10-21T09:11:58-03:00",
+  "data": "2026-10-22",
+  "geradoEm": "2026-10-22T12:44:24-03:00",
   "itens": [
     {
-      "titulo": "NVIDIA amplia parcerias de IA na saúde e lança modelo aberto de desenho de proteínas",
-      "resumo": "NVIDIA lança modelo aberto de desenho de proteínas com a Universidade de Washington e aposta em radioterapia adaptativa com a Siemens Healthineers.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/nvidia-unveils-partnerships-expand-healthcare-ai-protein-design-tools"
+      "titulo": "Califórnia sanciona três leis que regulam a IA na saúde",
+      "resumo": "Governador da Califórnia sanciona três leis que exigem supervisão humana e transparência no uso de IA na saúde.",
+      "veiculo": "California Health Care Foundation",
+      "link": "https://chcf.org/blog/2026/10/08/newsom-approves-3-health-care-ai-bills-vetoes-2"
     },
     {
-      "titulo": "FDA libera IA que estima risco de recidiva no câncer de mama pela ressonância",
-      "resumo": "FDA libera a TumorSight Risk, da SimBioSys, que estima pela ressonância o risco de recidiva do câncer de mama em 5 e 10 anos.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/simbiosys-gets-fda-clearance-ai-breast-cancer-recurrence-risk-tool"
+      "titulo": "Abridge lança assistente de IA para a saúde com fontes citadas",
+      "resumo": "Abridge lança assistente de IA por voz e texto que redige notas e respostas clínicas citando as fontes.",
+      "veiculo": "Abridge",
+      "link": "https://www.abridge.com/blog/abridge-assistant-is-the-ai-assistant-for-healthcare"
     },
     {
-      "titulo": "Doximity integra o UpToDate ao seu assistente de IA para médicos",
-      "resumo": "Doximity integra o UpToDate ao seu assistente de IA Ask, unindo resposta da IA e fonte clínica no mesmo lugar.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/doximity-integrates-uptodate-ai-clinical-support-tool"
+      "titulo": "AMA anuncia novo periódico revisado por pares sobre IA clínica",
+      "resumo": "AMA anuncia periódico revisado por pares dedicado à IA clínica e às tecnologias emergentes em saúde.",
+      "veiculo": "American Medical Association",
+      "link": "https://media-prod.ama-assn.org/media-releases/10.1001/jama.2026.22425"
     },
     {
-      "titulo": "IA de Singapura detecta risco de psicose em jovens a partir da fala",
-      "resumo": "IA de Singapura rastreia risco de psicose em jovens a partir de 45 segundos de fala, com até 93% de sensibilidade.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/asia/singapore-ai-detects-early-psychosis-youth"
+      "titulo": "Mass General Brigham cria IA que lê idade biológica e risco em câncer pela foto do rosto",
+      "resumo": "Mass General Brigham cria o FAHR-Face, IA que estima idade biológica e risco em câncer por uma foto do rosto.",
+      "veiculo": "Mass General Brigham / Lancet Digital Health",
+      "link": "https://news.massgeneralbrigham.org/en/ai-facial-recognition-tools-assess-age-cancer-survival-risk"
     },
     {
-      "titulo": "XRlabs capta US$ 8,4 milhões para copiloto de IA no centro cirúrgico",
-      "resumo": "XRlabs capta US$ 8,4 milhões para o SurgicalOS, copiloto de IA que une vídeo, navegação e imagem do paciente na cirurgia.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/xrlabs-raises-84m-ai-surgical-platform"
+      "titulo": "Baba capta US$ 40 milhões em Série A para melhorar o Medicare com IA",
+      "resumo": "Startup Baba capta US$ 40 milhões para unir IA e equipes humanas na navegação do Medicare.",
+      "veiculo": "GlobeNewswire",
+      "link": "https://www.globenewswire.com/news-release/2026/10/20/3384598/0/en/applied-ai-company-baba-raises-40-million-series-a-to-improve-the-medicare-experience.html"
     },
     {
-      "titulo": "OpenEvidence e Doximity encerram em acordo disputa sobre IA médica",
-      "resumo": "OpenEvidence e Doximity encerram em acordo a disputa judicial sobre acesso indevido a plataforma de IA médica.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/openevidence-doximity-reach-settlement-contentious-ai-lawsuit"
+      "titulo": "Epic lança Connectors para integrar seus assistentes de IA a outros aplicativos",
+      "resumo": "Epic lança Connectors para que seus assistentes de IA troquem dados e executem tarefas em outros aplicativos.",
+      "veiculo": "Epic",
+      "link": "https://www.epic.com/epic/post/introducing-connectors-a-new-way-for-apps-to-communicate-with-epic/"
     },
     {
-      "titulo": "AMA lança marco de governança para IA agêntica na clínica",
-      "resumo": "AMA lança marco de governança para IA agêntica, definindo papel clínico, validação, limites de autoridade e responsabilização.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/regulatory/american-medical-association-rolls-out-governance-framework-agentic-ai-solutions"
+      "titulo": "OpenEvidence e Doximity encerram disputa judicial em acordo",
+      "resumo": "OpenEvidence e Doximity encerram em acordo a disputa judicial sobre acesso indevido e difamação.",
+      "veiculo": "CourtListener",
+      "link": "https://www.courtlistener.com/docket/70596804/161/openevidence-inc-v-doximity-inc/"
     },
     {
-      "titulo": "JAMA Network anuncia o JAMA+ AI, periódico dedicado à IA em saúde",
-      "resumo": "JAMA Network anuncia o JAMA+ AI, periódico dedicado à inteligência artificial em saúde, com lançamento previsto para 2027.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-97-healthcare-orgs-experienced-cyberattack-past-12-months-proofpoint-inc"
+      "titulo": "IA analisa 150 mil posts do Reddit sobre remédio de emagrecimento não aprovado",
+      "resumo": "IA lê 150 mil posts do Reddit e aponta aumento de apetite como efeito mais citado da retatrutida não aprovada.",
+      "veiculo": "JAMA Network Open",
+      "link": "https://sciencedaily.com/releases/2026/10/261020085018.htm"
     },
     {
-      "titulo": "Eric Topol conecta o envelhecimento do sistema imune ao healthspan",
-      "resumo": "Eric Topol destaca estudo que conecta o envelhecimento das células de defesa ao healthspan, o tempo vivido com saúde.",
-      "veiculo": "Ground Truths (Eric Topol)",
-      "link": "https://erictopol.substack.com/p/a-tale-of-two-t-cells"
+      "titulo": "FDA abre consulta pública sobre dispositivos médicos com IA generativa",
+      "resumo": "FDA abre consulta pública para definir como regular dispositivos médicos baseados em IA generativa.",
+      "veiculo": "FDA",
+      "link": "https://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices"
     },
     {
-      "titulo": "Eric Topol questiona os escores de prontidão e HRV dos wearables",
-      "resumo": "Eric Topol aponta a falta de evidência de que escores de prontidão e HRV dos wearables realmente melhorem a saúde.",
-      "veiculo": "Ground Truths (Eric Topol)",
-      "link": "https://erictopol.substack.com/p/the-big-holes-in-wearable-heart-rate"
+      "titulo": "AHA pede à FDA supervisão flexível e baseada em risco para IA generativa",
+      "resumo": "AHA pede à FDA supervisão flexível e baseada em risco para dispositivos com IA generativa.",
+      "veiculo": "American Hospital Association",
+      "link": "https://www.aha.org/news/headline/2026-10-19-aha-details-recommendations-fda-regulatory-frameworks-genai-enabled-medical-devices"
     },
     {
-      "titulo": "Precision Neuroscience levanta US$ 250 milhões para interface cérebro-computador",
-      "resumo": "Precision Neuroscience levanta US$ 250 milhões para interface que lê sinais na superfície do cérebro sem penetrar o tecido.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/precision-neuroscience-raises-250m-brain-computer-interface"
+      "titulo": "Investimento em IA na saúde digital chega a US$ 7,4 bilhões no primeiro semestre de 2026",
+      "resumo": "Investimento em IA na saúde digital atinge US$ 7,4 bilhões no primeiro semestre de 2026, com pagadores e hospitais acelerando.",
+      "veiculo": "MarketScale",
+      "link": "https://www.marketscale.com/industries/healthcare/digital-health-ai-investment-hits-74b-in-h1-2026-as-cms-hospitals-and-startups-all-accelerate-adoption"
     },
     {
-      "titulo": "Philips: IA tem grande potencial de ampliar o acesso à saúde na América Latina",
-      "resumo": "Felipe Basso, da Philips, defende que a IA tem grande potencial para ampliar o acesso à saúde na América Latina.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/ia-na-saude-felipe-basso-futuro-talks-brd-yt-philips/"
+      "titulo": "OpenEvidence leva sua IA clínica para os fluxos da Northwestern e da Johns Hopkins",
+      "resumo": "OpenEvidence integra sua IA clínica aos fluxos de trabalho da Northwestern Medicine e da Johns Hopkins Medicine.",
+      "veiculo": "BankInfoSecurity",
+      "link": "https://bankinfosecurity.com/openevidence-ai-moves-deeper-into-clinical-workflows-a-33132"
     }
   ]
 }
