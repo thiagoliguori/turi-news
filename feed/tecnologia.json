@@ -1,79 +1,79 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-10-22",
-  "geradoEm": "2026-10-22T12:44:24-03:00",
+  "data": "2026-10-26",
+  "geradoEm": "2026-10-26T10:04:20-03:00",
   "itens": [
     {
-      "titulo": "Califórnia sanciona três leis que regulam a IA na saúde",
-      "resumo": "Governador da Califórnia sanciona três leis que exigem supervisão humana e transparência no uso de IA na saúde.",
-      "veiculo": "California Health Care Foundation",
-      "link": "https://chcf.org/blog/2026/10/08/newsom-approves-3-health-care-ai-bills-vetoes-2"
+      "titulo": "NVIDIA detalha como a IA está acelerando a detecção do câncer de mama",
+      "resumo": "NVIDIA mostra como apoia startups que usam IA para detectar o câncer de mama mais cedo e com mais precisão.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/qa-nvidia-ai-and-breast-cancer"
     },
     {
-      "titulo": "Abridge lança assistente de IA para a saúde com fontes citadas",
-      "resumo": "Abridge lança assistente de IA por voz e texto que redige notas e respostas clínicas citando as fontes.",
-      "veiculo": "Abridge",
-      "link": "https://www.abridge.com/blog/abridge-assistant-is-the-ai-assistant-for-healthcare"
+      "titulo": "EliseAI capta US$ 350 milhões a um valuation de US$ 4 bilhões para agentes de IA em saúde",
+      "resumo": "EliseAI capta US$ 350 milhões, a valuation de US$ 4 bilhões, para expandir agentes de IA na operação da saúde.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/eliseai-raises-350m-4b-valuation-expand-healthcare-ai-automation"
     },
     {
-      "titulo": "AMA anuncia novo periódico revisado por pares sobre IA clínica",
-      "resumo": "AMA anuncia periódico revisado por pares dedicado à IA clínica e às tecnologias emergentes em saúde.",
-      "veiculo": "American Medical Association",
-      "link": "https://media-prod.ama-assn.org/media-releases/10.1001/jama.2026.22425"
+      "titulo": "Coherence Neuro capta US$ 45 milhões para tecnologia implantável contra o câncer",
+      "resumo": "Coherence Neuro capta US$ 45 milhões para desenvolver tecnologia implantável voltada ao tratamento do câncer.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/coherence-neuro-raises-45m-implantable-cancer-technology"
     },
     {
-      "titulo": "Mass General Brigham cria IA que lê idade biológica e risco em câncer pela foto do rosto",
-      "resumo": "Mass General Brigham cria o FAHR-Face, IA que estima idade biológica e risco em câncer por uma foto do rosto.",
-      "veiculo": "Mass General Brigham / Lancet Digital Health",
-      "link": "https://news.massgeneralbrigham.org/en/ai-facial-recognition-tools-assess-age-cancer-survival-risk"
+      "titulo": "Sentara Health adota ferramenta de IA para gestão de casos clínicos",
+      "resumo": "Sentara Health passa a usar ferramenta de IA criada com a Regard para apoiar a gestão de casos clínicos.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/sentara-health-deploys-new-ai-case-management-tool-co-developed-regard"
     },
     {
-      "titulo": "Baba capta US$ 40 milhões em Série A para melhorar o Medicare com IA",
-      "resumo": "Startup Baba capta US$ 40 milhões para unir IA e equipes humanas na navegação do Medicare.",
-      "veiculo": "GlobeNewswire",
-      "link": "https://www.globenewswire.com/news-release/2026/10/20/3384598/0/en/applied-ai-company-baba-raises-40-million-series-a-to-improve-the-medicare-experience.html"
+      "titulo": "Microsoft e Opella criam plataforma de IA agêntica para verificar conteúdo de saúde",
+      "resumo": "Microsoft e Opella criam plataforma de IA agêntica para verificar conteúdo de saúde antes de chegar ao consumidor.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/microsoft-opella-partner-agentic-ai-content-verification-platform"
     },
     {
-      "titulo": "Epic lança Connectors para integrar seus assistentes de IA a outros aplicativos",
-      "resumo": "Epic lança Connectors para que seus assistentes de IA troquem dados e executem tarefas em outros aplicativos.",
-      "veiculo": "Epic",
-      "link": "https://www.epic.com/epic/post/introducing-connectors-a-new-way-for-apps-to-communicate-with-epic/"
+      "titulo": "IA já transforma toda a saúde, a começar pela força de trabalho clínica",
+      "resumo": "Pesquisa da HIMSS mostra líderes clínicos divididos entre ganho de produtividade e receio com a adoção de IA.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/ai-impacting-all-corners-healthcare-not-least-clinical-workforce"
     },
     {
-      "titulo": "OpenEvidence e Doximity encerram disputa judicial em acordo",
-      "resumo": "OpenEvidence e Doximity encerram em acordo a disputa judicial sobre acesso indevido e difamação.",
-      "veiculo": "CourtListener",
-      "link": "https://www.courtlistener.com/docket/70596804/161/openevidence-inc-v-doximity-inc/"
+      "titulo": "Kaiser Permanente defende investir no human stack para gerar confiança na IA em saúde",
+      "resumo": "Executivo da Kaiser Permanente defende investir em pessoas, processos e políticas para provar o retorno da IA em saúde.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/time-invest-human-stack-foster-trust-health-ai-0"
     },
     {
-      "titulo": "IA analisa 150 mil posts do Reddit sobre remédio de emagrecimento não aprovado",
-      "resumo": "IA lê 150 mil posts do Reddit e aponta aumento de apetite como efeito mais citado da retatrutida não aprovada.",
-      "veiculo": "JAMA Network Open",
-      "link": "https://sciencedaily.com/releases/2026/10/261020085018.htm"
+      "titulo": "Redesign Health e ARC Global se fundem em acordo de US$ 2 bilhões e miram a AVIA",
+      "resumo": "Redesign Health e ARC Global anunciam fusão de US$ 2 bilhões e planejam adquirir a AVIA.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/health-tech/redesign-health-arc-global-merge-2b-deal-accelerate-health-system-innovation"
     },
     {
-      "titulo": "FDA abre consulta pública sobre dispositivos médicos com IA generativa",
-      "resumo": "FDA abre consulta pública para definir como regular dispositivos médicos baseados em IA generativa.",
-      "veiculo": "FDA",
-      "link": "https://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices"
+      "titulo": "Quest Diagnostics relata nova violação de cibersegurança",
+      "resumo": "Quest Diagnostics relata nova violação de cibersegurança e reacende o alerta sobre proteção de dados em saúde.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-quest-diagnostics-reports-cybersecurity-breach-novant-health-launches"
     },
     {
-      "titulo": "AHA pede à FDA supervisão flexível e baseada em risco para IA generativa",
-      "resumo": "AHA pede à FDA supervisão flexível e baseada em risco para dispositivos com IA generativa.",
-      "veiculo": "American Hospital Association",
-      "link": "https://www.aha.org/news/headline/2026-10-19-aha-details-recommendations-fda-regulatory-frameworks-genai-enabled-medical-devices"
+      "titulo": "Talkiatry leva terapia a todos os EUA ao ampliar plataforma de saúde mental",
+      "resumo": "Talkiatry leva a terapia a todos os EUA e amplia sua plataforma de saúde mental além da psiquiatria.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/health-tech/talkiatry-takes-therapy-nationwide-it-builds-out-behavioral-health-platform"
     },
     {
-      "titulo": "Investimento em IA na saúde digital chega a US$ 7,4 bilhões no primeiro semestre de 2026",
-      "resumo": "Investimento em IA na saúde digital atinge US$ 7,4 bilhões no primeiro semestre de 2026, com pagadores e hospitais acelerando.",
-      "veiculo": "MarketScale",
-      "link": "https://www.marketscale.com/industries/healthcare/digital-health-ai-investment-hits-74b-in-h1-2026-as-cms-hospitals-and-startups-all-accelerate-adoption"
+      "titulo": "Eric Topol: estudo histórico liga o envelhecimento das células imunes à longevidade",
+      "resumo": "Eric Topol destaca estudo que liga o envelhecimento das células imunes ao nosso tempo de vida saudável.",
+      "veiculo": "Ground Truths",
+      "link": "https://erictopol.substack.com/p/a-tale-of-two-t-cells"
     },
     {
-      "titulo": "OpenEvidence leva sua IA clínica para os fluxos da Northwestern e da Johns Hopkins",
-      "resumo": "OpenEvidence integra sua IA clínica aos fluxos de trabalho da Northwestern Medicine e da Johns Hopkins Medicine.",
-      "veiculo": "BankInfoSecurity",
-      "link": "https://bankinfosecurity.com/openevidence-ai-moves-deeper-into-clinical-workflows-a-33132"
+      "titulo": "Resolução do CFM responsabiliza o médico pelo uso de IA e enfrenta ação na Justiça",
+      "resumo": "Resolução CFM 2.454/2026, em vigor desde agosto, responsabiliza o médico pelo uso de IA e é contestada na Justiça.",
+      "veiculo": "Migalhas / CFM",
+      "link": "https://www.migalhas.com.br/depeso/450948/cfm-regulamenta-ia-na-medicina-resolucao-2-454-26"
     }
   ]
 }
