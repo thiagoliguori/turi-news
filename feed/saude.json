@@ -1,73 +1,73 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-10-19",
-  "geradoEm": "2026-10-19T09:28:19-03:00",
+  "data": "2026-10-26",
+  "geradoEm": "2026-10-26T09:35:09-03:00",
   "itens": [
     {
-      "titulo": "Chiesi investe R$ 124 milhões para ampliar fábrica no país e mira nova geração de inaladores",
-      "resumo": "Chiesi investirá R$ 124 milhões para ampliar fábrica em SP e fazer nova geração de inaladores para asma e DPOC.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/chiesi-investe-r124-milhoes-fabrica-nacional-nova-geracao-de-inaladores/"
+      "titulo": "Ministério da Saúde amplia contrato com a Organon e adiciona 301,7 mil implantes contraceptivos",
+      "resumo": "O Ministério da Saúde adicionou 301.756 implantes de Etonogestrel ao contrato com a Organon, elevando o total a R$ 285,9 milhões.",
+      "veiculo": "Atlas Público",
+      "link": "https://atlaspublico.com.br/noticias/ministerio-da-saude-acresce-301-756-implantes-de-94572"
     },
     {
-      "titulo": "Filippo Fontana assume como novo presidente da AstraZeneca no Brasil",
-      "resumo": "Filippo Fontana, há nove anos na empresa, assume a presidência da AstraZeneca no Brasil após comandar a operação na Áustria.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/?p=51853"
-    },
-    {
-      "titulo": "Planos de saúde somam 15,4 milhões de cancelamentos em um ano, aponta ANS",
-      "resumo": "Saúde suplementar teve 15,4 milhões de cancelamentos e 16,1 milhões de adesões em um ano, somando mais de 53 milhões de vínculos.",
-      "veiculo": "Estado de Minas",
-      "link": "https://www.em.com.br/mundo-corporativo/2026/10/7522328-planos-de-saude-somam-154-milhoes-de-cancelamentos-em-1-ano.html"
-    },
-    {
-      "titulo": "MP torna obrigatória a aprovação em exame para exercer a medicina",
-      "resumo": "Câmara aprova MP que condiciona o registro de médicos à aprovação no Enamed, aplicado três vezes na graduação; falta o Senado.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/exame-obrigatorio-medicina/"
-    },
-    {
-      "titulo": "Catherine Jennings assume presidência da Beckman Coulter",
-      "resumo": "Catherine Jennings, ex-Boston Scientific, assume a presidência da Beckman Coulter Diagnostics, do grupo Danaher.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/beckman-catherine-jennings/"
-    },
-    {
-      "titulo": "Ministério da Saúde aprova protocolo para tratar crianças com hemofilia A",
-      "resumo": "Ministério da Saúde aprova protocolo com emicizumabe subcutâneo para crianças de até 6 anos com hemofilia A sem inibidores.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/protocolo-criancas-hemofilia/"
-    },
-    {
-      "titulo": "Novo laboratório de CAR-T da Fiocruz pode descentralizar produção, mas gera cautela",
-      "resumo": "Ministério da Saúde e Fiocruz terão segundo centro de CAR-T com R$ 330 milhões; especialistas pedem cautela por falta de dados.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/novo-laboratorio-de-car-t-da-fiocruz-ministerio-da-saude/"
-    },
-    {
-      "titulo": "Novas resoluções mudam metodologia de repasses para OSS do estado de SP",
-      "resumo": "SP troca repasse automático às OSS por orçamento atrelado a produção, complexidade e desempenho dos hospitais, a partir de julho de 2027.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/novas-resolucoes-orcamento-repasses-oss-sp/"
-    },
-    {
-      "titulo": "Anvisa proíbe lote de tirzepatida após empresa descumprir ordem de destruição",
-      "resumo": "Anvisa proíbe e manda recolher lote de tirzepatida da FarmaUSA após a empresa descumprir ordem de destruição.",
+      "titulo": "Anvisa proíbe produtos de limpeza de duas empresas por irregularidades sanitárias",
+      "resumo": "A Anvisa proibiu a venda de saneantes de duas empresas por falta de registro e determinou o recolhimento dos produtos.",
       "veiculo": "Exame",
-      "link": "https://exame.com/ciencia/anvisa-proibe-lote-de-tirzepatida-apos-empresa-descumprir-ordem-de-destruicao/"
+      "link": "https://exame.com/brasil/anvisa-proibe-produtos-de-limpeza-de-duas-empresas-veja-o-que-fazer/"
     },
     {
-      "titulo": "Com 18 mil cuidadores, Acuidar prepara profissionais para a economia prateada",
-      "resumo": "Acuidar chega a 375 unidades e 18 mil cuidadores, surfando a economia prateada e a alta demanda por cuidado profissional.",
+      "titulo": "SUS inicia oferta de nove medicamentos contra o câncer e prevê atender mais de 116 mil pessoas",
+      "resumo": "O SUS iniciou a oferta de nove medicamentos oncológicos, com previsão de atender mais de 116 mil pessoas por ano.",
+      "veiculo": "FDR",
+      "link": "https://fdr.com.br/2026/10/23/sus-inicia-oferta-de-9-medicamentos-contra-o-cancer-e-preve-atender-mais-de-116-mil-pessoas/"
+    },
+    {
+      "titulo": "Clínica SiM entra no programa Agora Tem Especialistas; clínicas populares podem ofertar 24,5 mil vagas por mês",
+      "resumo": "O Ministério aprovou a Clínica SiM no Agora Tem Especialistas; clínicas populares podem ofertar 24,5 mil vagas mensais em oito estados.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/clinica-sim-entra-no-programa-agora-tem-especialistas/"
+    },
+    {
+      "titulo": "IA da Microsoft tem mais que o dobro da precisão de médicos em casos clínicos difíceis",
+      "resumo": "Estudo na Science mostrou que uma IA da Microsoft teve mais que o dobro da precisão de médicos em casos difíceis.",
       "veiculo": "Exame",
-      "link": "https://exame.com/esg/com-18-mil-cuidadores-acuidar-prepara-profissionais-para-a-economia-prateada/"
+      "link": "https://exame.com/ciencia/ia-da-microsoft-apresenta-mais-que-o-dobro-da-precisao-de-medicos-em-teste/"
     },
     {
-      "titulo": "Fundo de impacto Archimed compra a Genetica, biotech de Chapecó",
-      "resumo": "Archimed, gestora de impacto europeia, compra o controle da biotech catarinense Genetica em seu primeiro investimento na América Latina.",
+      "titulo": "Unimed promove a Semana da Transformação em Saúde, com IA e medicina baseada em valor na pauta",
+      "resumo": "A Unimed realiza de 27 a 30/10, em Ribeirão Preto, a Semana da Transformação em Saúde, com IA e valor na pauta.",
+      "veiculo": "UAI",
+      "link": "https://www.uai.com.br/networking-e-negocios/2026/10/23/semana-da-transformacao-em-saude-coloca-futuro-da-medicina-em-debate/"
+    },
+    {
+      "titulo": "Bradsaúde lucra R$ 1,1 bi no 3T26, controla sinistralidade e anuncia R$ 1 bi em dividendos",
+      "resumo": "A Bradsaúde lucrou R$ 1,1 bilhão no 3º trimestre, controlou a sinistralidade em 84,5% e anunciou R$ 1 bilhão em dividendos.",
       "veiculo": "Brazil Journal",
-      "link": "https://braziljournal.com/fundo-de-impacto-compra-a-genetica-biotech-de-chapeco"
+      "link": "https://braziljournal.com/bradsaude-controla-sinistralidade-e-bate-consenso-acao-sobe-4"
+    },
+    {
+      "titulo": "Balanços do 3T26: XP e BTG divergem sobre o setor de saúde",
+      "resumo": "XP e BTG divergem sobre o 3T26 da saúde; Fleury e Mater Dei seguem como destaques entre os analistas.",
+      "veiculo": "InfoMoney",
+      "link": "https://www.infomoney.com.br/mercados/temporada-balanco-3t26-saude-flry3-rdor3/"
+    },
+    {
+      "titulo": "Inspirali fecha acordo de 20 anos e R$ 150 milhões com o Einstein para 15 cursos de medicina",
+      "resumo": "A Inspirali firmou acordo de 20 anos e R$ 150 milhões com o Einstein para aprimorar 15 cursos de medicina.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/inspirali-fecha-acordo-com-einstein-para-aperfeicoar-formacao-em-15-cursos-de-medicina/"
+    },
+    {
+      "titulo": "Câmara aprova projeto que obriga o SUS a aceitar exames feitos na rede privada",
+      "resumo": "A Câmara aprovou projeto que obriga o SUS a aceitar exames feitos na rede privada; o texto segue ao Senado.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/camara-aprova-projeto-de-lei-exames-rede-privada/"
+    },
+    {
+      "titulo": "Healo lança CRM com IA para consultórios médicos e já conversa sobre rodada de capital",
+      "resumo": "A healthtech Healo lançou um CRM com IA para consultórios e já negocia rodada; tem 21 clientes pagantes.",
+      "veiculo": "Brazil Journal",
+      "link": "https://braziljournal.com/a-maioria-dos-medicos-mal-usa-um-crm-a-healo-quer-mudar-isso"
     }
   ]
 }
