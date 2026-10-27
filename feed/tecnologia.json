@@ -1,79 +1,79 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-10-26",
-  "geradoEm": "2026-10-26T10:04:20-03:00",
+  "data": "2026-10-27",
+  "geradoEm": "2026-10-27T09:13:31-03:00",
   "itens": [
     {
-      "titulo": "NVIDIA detalha como a IA está acelerando a detecção do câncer de mama",
-      "resumo": "NVIDIA mostra como apoia startups que usam IA para detectar o câncer de mama mais cedo e com mais precisão.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/qa-nvidia-ai-and-breast-cancer"
+      "titulo": "JAMA mapeia o uso real do OpenEvidence pelos médicos",
+      "resumo": "Estudo na JAMA mapeia 38,8 milhões de consultas de quase 952 mil médicos ao OpenEvidence: busca clínica com IA virou rotina.",
+      "veiculo": "JAMA",
+      "link": "https://doi.org/10.1001/jama.2026.21868"
     },
     {
-      "titulo": "EliseAI capta US$ 350 milhões a um valuation de US$ 4 bilhões para agentes de IA em saúde",
-      "resumo": "EliseAI capta US$ 350 milhões, a valuation de US$ 4 bilhões, para expandir agentes de IA na operação da saúde.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/eliseai-raises-350m-4b-valuation-expand-healthcare-ai-automation"
+      "titulo": "FDA libera ferramenta de IA que estima recidiva do câncer de mama",
+      "resumo": "FDA autoriza ferramenta de IA que estima a recidiva do câncer de mama em horas, usando ressonância de rotina no lugar de análise de tecido.",
+      "veiculo": "Yesil Science",
+      "link": "https://yesilscience.com/fda-clears-ai-breast-cancer-recurrence-tool/"
     },
     {
-      "titulo": "Coherence Neuro capta US$ 45 milhões para tecnologia implantável contra o câncer",
-      "resumo": "Coherence Neuro capta US$ 45 milhões para desenvolver tecnologia implantável voltada ao tratamento do câncer.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/coherence-neuro-raises-45m-implantable-cancer-technology"
+      "titulo": "IA detecta disfunção cardíaca silenciosa no raio-X de tórax",
+      "resumo": "IA detecta insuficiência cardíaca silenciosa no raio-X de tórax e pode reduzir em até 85% os pedidos de ecocardiograma.",
+      "veiculo": "Yesil Science",
+      "link": "https://yesilscience.com/ai-finds-heart-dysfunction-in-standard-chest-x-rays/"
     },
     {
-      "titulo": "Sentara Health adota ferramenta de IA para gestão de casos clínicos",
-      "resumo": "Sentara Health passa a usar ferramenta de IA criada com a Regard para apoiar a gestão de casos clínicos.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/sentara-health-deploys-new-ai-case-management-tool-co-developed-regard"
+      "titulo": "Suki capta US$ 90 milhões para agentes de IA de pós-consulta",
+      "resumo": "Suki capta US$ 90 milhões para criar agentes de IA que resolvem o pós-consulta, como encaminhamentos e autorizações prévias.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://www.healthcaredive.com/news/suki-raises-90m-in-series-e-round-to-create-ai-agents/832862/"
     },
     {
-      "titulo": "Microsoft e Opella criam plataforma de IA agêntica para verificar conteúdo de saúde",
-      "resumo": "Microsoft e Opella criam plataforma de IA agêntica para verificar conteúdo de saúde antes de chegar ao consumidor.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/microsoft-opella-partner-agentic-ai-content-verification-platform"
+      "titulo": "Agilent compra a Proscia por até US$ 270 milhões",
+      "resumo": "Agilent compra a Proscia, de patologia digital com IA, em negócio que pode chegar a US$ 270 milhões.",
+      "veiculo": "HIT Consultant",
+      "link": "https://hitconsultant.net/2026/10/13/agilent-to-acquire-proscia-270m-digital-pathology-concentriq-ai-scientific-intelligence/"
     },
     {
-      "titulo": "IA já transforma toda a saúde, a começar pela força de trabalho clínica",
-      "resumo": "Pesquisa da HIMSS mostra líderes clínicos divididos entre ganho de produtividade e receio com a adoção de IA.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/ai-impacting-all-corners-healthcare-not-least-clinical-workforce"
+      "titulo": "Pesquisa da MV: dois em cada três médicos brasileiros já usam IA",
+      "resumo": "Pesquisa da MV aponta que dois em cada três médicos brasileiros já usam IA; custo e integração com o prontuário são as barreiras.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/15/10/2026/quase-70-dos-medicos-ja-usam-inteligencia-artificial-aponta-estudo-da-mv/"
     },
     {
-      "titulo": "Kaiser Permanente defende investir no human stack para gerar confiança na IA em saúde",
-      "resumo": "Executivo da Kaiser Permanente defende investir em pessoas, processos e políticas para provar o retorno da IA em saúde.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/time-invest-human-stack-foster-trust-health-ai-0"
+      "titulo": "Estudo alerta que modelos de IA recomendam cuidados mais caros",
+      "resumo": "Estudo alerta que modelos de IA tendem a recomendar condutas defensivas e mais caras, elevando o gasto em saúde.",
+      "veiculo": "Yesil Science",
+      "link": "https://yesilscience.com/ai-models-recommend-triple-the-medical-costs/"
     },
     {
-      "titulo": "Redesign Health e ARC Global se fundem em acordo de US$ 2 bilhões e miram a AVIA",
-      "resumo": "Redesign Health e ARC Global anunciam fusão de US$ 2 bilhões e planejam adquirir a AVIA.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/health-tech/redesign-health-arc-global-merge-2b-deal-accelerate-health-system-innovation"
+      "titulo": "IA estima risco de sobrevida no câncer a partir de uma foto do rosto",
+      "resumo": "IA estima risco de sobrevida no câncer a partir de uma única foto do rosto, que reflete o envelhecimento biológico.",
+      "veiculo": "Yesil Science",
+      "link": "https://yesilscience.com/ai-face-scans-predict-cancer-patient-survival-risk/"
     },
     {
-      "titulo": "Quest Diagnostics relata nova violação de cibersegurança",
-      "resumo": "Quest Diagnostics relata nova violação de cibersegurança e reacende o alerta sobre proteção de dados em saúde.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-quest-diagnostics-reports-cybersecurity-breach-novant-health-launches"
+      "titulo": "FDA libera a bomba de insulina Twiist para diabetes tipo 2",
+      "resumo": "FDA libera a bomba de insulina Twiist para diabetes tipo 2, levando a entrega automatizada de insulina a mais pacientes.",
+      "veiculo": "Yesil Science",
+      "link": "https://yesilscience.com/fda-clears-twiist-insulin-pump-for-type-2/"
     },
     {
-      "titulo": "Talkiatry leva terapia a todos os EUA ao ampliar plataforma de saúde mental",
-      "resumo": "Talkiatry leva a terapia a todos os EUA e amplia sua plataforma de saúde mental além da psiquiatria.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/health-tech/talkiatry-takes-therapy-nationwide-it-builds-out-behavioral-health-platform"
+      "titulo": "Falsificações por IA generativa enganam especialistas em biomedicina",
+      "resumo": "Imagens biomédicas falsas feitas por IA já enganam revisores e detectores, acendendo alerta para a integridade científica.",
+      "veiculo": "Yesil Science",
+      "link": "https://yesilscience.com/generative-ai-forgeries-fool-experts-and-automated-detectors/"
     },
     {
-      "titulo": "Eric Topol: estudo histórico liga o envelhecimento das células imunes à longevidade",
-      "resumo": "Eric Topol destaca estudo que liga o envelhecimento das células imunes ao nosso tempo de vida saudável.",
-      "veiculo": "Ground Truths",
-      "link": "https://erictopol.substack.com/p/a-tale-of-two-t-cells"
+      "titulo": "Healthleap capta US$ 38 milhões para triagem de IA no prontuário",
+      "resumo": "Healthleap capta US$ 38 milhões para ampliar a triagem por IA no prontuário e achar condições pouco diagnosticadas.",
+      "veiculo": "MedCity News",
+      "link": "https://medcitynews.com/2026/10/healthleap-raises-38m-to-expand-ai-screening-for-overlooked-conditions-in-hospitalized-patients/"
     },
     {
-      "titulo": "Resolução do CFM responsabiliza o médico pelo uso de IA e enfrenta ação na Justiça",
-      "resumo": "Resolução CFM 2.454/2026, em vigor desde agosto, responsabiliza o médico pelo uso de IA e é contestada na Justiça.",
-      "veiculo": "Migalhas / CFM",
-      "link": "https://www.migalhas.com.br/depeso/450948/cfm-regulamenta-ia-na-medicina-resolucao-2-454-26"
+      "titulo": "Público prefere revisão humana para dúvidas clínicas, aponta survey",
+      "resumo": "Survey nos EUA mostra que a maioria quer revisão humana para dúvida clínica, mas aceita IA para tarefas logísticas.",
+      "veiculo": "JAMA Network Open",
+      "link": "https://doi.org/10.1001/jamanetworkopen.2026.39048"
     }
   ]
 }
