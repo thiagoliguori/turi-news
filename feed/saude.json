@@ -1,73 +1,73 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-10-26",
-  "geradoEm": "2026-10-26T09:35:09-03:00",
+  "data": "2026-10-29",
+  "geradoEm": "2026-10-29T09:17:28-03:00",
   "itens": [
     {
-      "titulo": "Ministério da Saúde amplia contrato com a Organon e adiciona 301,7 mil implantes contraceptivos",
-      "resumo": "O Ministério da Saúde adicionou 301.756 implantes de Etonogestrel ao contrato com a Organon, elevando o total a R$ 285,9 milhões.",
-      "veiculo": "Atlas Público",
-      "link": "https://atlaspublico.com.br/noticias/ministerio-da-saude-acresce-301-756-implantes-de-94572"
+      "titulo": "Dasa se une ao Ministério da Saúde e ao IBGE para a Pesquisa Nacional de Saúde",
+      "resumo": "Dasa, via Alvaro Apoio, assume a operação laboratorial da PNS 2026, com 15 mil coletas em 58 laboratórios parceiros.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/27/10/2026/dasa-se-une-com-ministerio-da-saude-e-ibge-para-pesquisa-nacional-de-saude/"
     },
     {
-      "titulo": "Anvisa proíbe produtos de limpeza de duas empresas por irregularidades sanitárias",
-      "resumo": "A Anvisa proibiu a venda de saneantes de duas empresas por falta de registro e determinou o recolhimento dos produtos.",
-      "veiculo": "Exame",
-      "link": "https://exame.com/brasil/anvisa-proibe-produtos-de-limpeza-de-duas-empresas-veja-o-que-fazer/"
+      "titulo": "Healthtech atinge 98% de acerto em 700 mil casos e supera teste de validação médica",
+      "resumo": "Doutor.AI usa IA no fluxo hospitalar, com 98% de acurácia em 700 mil atendimentos e PS de 5,4 para 2 horas.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/27/10/2026/healthtech-atinge-98-de-acerto-em-700-mil-casos-e-supera-teste-de-validacao-medica"
     },
     {
-      "titulo": "SUS inicia oferta de nove medicamentos contra o câncer e prevê atender mais de 116 mil pessoas",
-      "resumo": "O SUS iniciou a oferta de nove medicamentos oncológicos, com previsão de atender mais de 116 mil pessoas por ano.",
-      "veiculo": "FDR",
-      "link": "https://fdr.com.br/2026/10/23/sus-inicia-oferta-de-9-medicamentos-contra-o-cancer-e-preve-atender-mais-de-116-mil-pessoas/"
+      "titulo": "IA reduz em 81% o tempo operacional no acompanhamento de gestantes da Seguros Unimed",
+      "resumo": "IA da StaryaAI corta 81% do tempo no acompanhamento de gestantes da Seguros Unimed, com mais de 2.500 conectadas.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/27/10/2026/ia-reduz-em-81-tempo-operacional-no-acompanhamento-de-gestantes-da-seguros-unimed"
     },
     {
-      "titulo": "Clínica SiM entra no programa Agora Tem Especialistas; clínicas populares podem ofertar 24,5 mil vagas por mês",
-      "resumo": "O Ministério aprovou a Clínica SiM no Agora Tem Especialistas; clínicas populares podem ofertar 24,5 mil vagas mensais em oito estados.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/clinica-sim-entra-no-programa-agora-tem-especialistas/"
+      "titulo": "85% dos sistemas de saúde no mundo estão priorizando IA por agentes, diz estudo da Deloitte",
+      "resumo": "Estudo da Deloitte aponta que 80% dos sistemas de saúde já priorizam IA agêntica e 61% implementam agentes autônomos.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/27/10/2026/85-dos-sistemas-de-saude-no-mundo-estao-priorizando-ia-por-agentes-diz-estudo-da-deloitte"
     },
     {
-      "titulo": "IA da Microsoft tem mais que o dobro da precisão de médicos em casos clínicos difíceis",
-      "resumo": "Estudo na Science mostrou que uma IA da Microsoft teve mais que o dobro da precisão de médicos em casos difíceis.",
-      "veiculo": "Exame",
-      "link": "https://exame.com/ciencia/ia-da-microsoft-apresenta-mais-que-o-dobro-da-precisao-de-medicos-em-teste/"
+      "titulo": "Accrua aposta em IA para acelerar receitas hospitalares e reduzir pressão sobre o caixa",
+      "resumo": "Accrua, de ex-VTEX, assume o faturamento de hospitais com IA para enfrentar 78,5 dias de prazo e 18% de glosa.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/28/10/2026/accrua-aposta-em-ia-para-acelerar-receitas-hospitalares-e-reduzir-pressao-sobre-o-caixa"
     },
     {
-      "titulo": "Unimed promove a Semana da Transformação em Saúde, com IA e medicina baseada em valor na pauta",
-      "resumo": "A Unimed realiza de 27 a 30/10, em Ribeirão Preto, a Semana da Transformação em Saúde, com IA e valor na pauta.",
-      "veiculo": "UAI",
-      "link": "https://www.uai.com.br/networking-e-negocios/2026/10/23/semana-da-transformacao-em-saude-coloca-futuro-da-medicina-em-debate/"
+      "titulo": "ANPD estabelece medidas corretivas à Prefeitura de Feira de Santana por vazamento de dados médicos",
+      "resumo": "ANPD pune Feira de Santana por expor no Diário Oficial diagnósticos de 1.241 pessoas, caso emblemático de LGPD na saúde.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/28/10/2026/anpd-estabelece-medidas-corretivas-a-prefeitura-de-feira-de-santana-pelo-vazamento-de-dados-medicos-de-1-200-pessoas/"
     },
     {
-      "titulo": "Bradsaúde lucra R$ 1,1 bi no 3T26, controla sinistralidade e anuncia R$ 1 bi em dividendos",
-      "resumo": "A Bradsaúde lucrou R$ 1,1 bilhão no 3º trimestre, controlou a sinistralidade em 84,5% e anunciou R$ 1 bilhão em dividendos.",
-      "veiculo": "Brazil Journal",
-      "link": "https://braziljournal.com/bradsaude-controla-sinistralidade-e-bate-consenso-acao-sobe-4"
+      "titulo": "IA analisa mamografias em até 5 minutos e reduz reconvocações",
+      "resumo": "IA da HarpiAI integrada à Pixeon lê mamografias em 5 minutos e reduz reconvocações em até 95% em estudo interno.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/28/10/2026/ia-analisa-mamografias-em-ate-5-minutos-e-reduz-reconvocacoes/"
     },
     {
-      "titulo": "Balanços do 3T26: XP e BTG divergem sobre o setor de saúde",
-      "resumo": "XP e BTG divergem sobre o 3T26 da saúde; Fleury e Mater Dei seguem como destaques entre os analistas.",
-      "veiculo": "InfoMoney",
-      "link": "https://www.infomoney.com.br/mercados/temporada-balanco-3t26-saude-flry3-rdor3/"
+      "titulo": "EGO Tecnologia vence o 4º Sabará Pediatric Innovation Day com monitoramento emocional por IA",
+      "resumo": "EGO Tecnologia vence o Sabará Pediatric Innovation Day com IA que lê microexpressões e acompanha a saúde mental infantil.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/28/10/2026/ego-tecnologia-vence-4o-sabara-pediatric-innovation-day-com-sistema-de-monitoramento-emocional-por-inteligencia-artificial/"
     },
     {
-      "titulo": "Inspirali fecha acordo de 20 anos e R$ 150 milhões com o Einstein para 15 cursos de medicina",
-      "resumo": "A Inspirali firmou acordo de 20 anos e R$ 150 milhões com o Einstein para aprimorar 15 cursos de medicina.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/inspirali-fecha-acordo-com-einstein-para-aperfeicoar-formacao-em-15-cursos-de-medicina/"
+      "titulo": "Realidade virtual e IA ajudam a detectar declínio cognitivo em idosos",
+      "resumo": "Projeto do ICMC-USP usa realidade virtual, EEG e IA para detectar precocemente declínio cognitivo em idosos, com apoio da FAPESP.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/rv-ia-declinio-cognitivo-idosos/"
     },
     {
-      "titulo": "Câmara aprova projeto que obriga o SUS a aceitar exames feitos na rede privada",
-      "resumo": "A Câmara aprovou projeto que obriga o SUS a aceitar exames feitos na rede privada; o texto segue ao Senado.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/camara-aprova-projeto-de-lei-exames-rede-privada/"
+      "titulo": "Internações por AVC caem 54% em distritos de SP atendidos por projeto de controle da hipertensão",
+      "resumo": "Estudo da Fundação Novartis mostra queda de 54% nas internações por AVC em distritos de SP com controle da hipertensão.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/internacao-avc-cai/"
     },
     {
-      "titulo": "Healo lança CRM com IA para consultórios médicos e já conversa sobre rodada de capital",
-      "resumo": "A healthtech Healo lançou um CRM com IA para consultórios e já negocia rodada; tem 21 clientes pagantes.",
-      "veiculo": "Brazil Journal",
-      "link": "https://braziljournal.com/a-maioria-dos-medicos-mal-usa-um-crm-a-healo-quer-mudar-isso"
+      "titulo": "Santa Joana lança residência médica gratuita em Ginecologia e Obstetrícia em parceria com o MEC",
+      "resumo": "Grupo Santa Joana estreia na educação médica com residência gratuita em Ginecologia e Obstetrícia, em parceria com o MEC.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/santa-joana-residencia/"
     }
   ]
 }
