@@ -1,79 +1,73 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-10-29",
-  "geradoEm": "2026-10-29T09:28:04-03:00",
+  "data": "2026-10-30",
+  "geradoEm": "2026-10-30T09:39:30-03:00",
   "itens": [
     {
-      "titulo": "Microsoft persegue 'superinteligência médica' e diz que IA supera médicos em casos difíceis",
-      "resumo": "Sistema MAI-DxO acertou 83% dos casos complexos do NEJM contra 36% de médicos sozinhos, em estudo na Science.",
+      "titulo": "OMS Europa adota o primeiro roteiro de IA na saúde (2026 a 2033)",
+      "resumo": "Os 53 países da Região Europeia da OMS aprovaram, por unanimidade, o primeiro roteiro de IA na saúde para 2026 a 2033.",
+      "veiculo": "OMS Europa",
+      "link": "https://who.int/europe/news/item/29-10-2026-governments-across-europe-and-central-asia-unanimously-adopt-new-vision-for-ai-in-health-care"
+    },
+    {
+      "titulo": "Estudo da Doximity: modelos de IA erram doses de remédios, alguns de forma letal",
+      "resumo": "Teste com 9 modelos achou erros graves ou letais de dose; a Doximity lançou o DoseCheck, que acertou 99,9%.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://healthcaredive.com/news/popular-ai-models-get-medication-doses-wrong-some-dangerously-doximity/873207"
+    },
+    {
+      "titulo": "Microsoft diz que sua IA supera médicos em casos difíceis",
+      "resumo": "O sistema MAI-DxO acertou 83% dos casos complexos do NEJM, contra 36% de médicos generalistas, em simulação.",
       "veiculo": "TechCrunch",
       "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/"
     },
     {
-      "titulo": "Estudo da Deloitte: 85% dos sistemas de saúde priorizam a IA por agentes",
-      "resumo": "Pesquisa com 100 executivos mostra a IA virando agente autônomo; 61% das organizações já implementam iniciativas.",
+      "titulo": "IA detecta sinais de câncer de pâncreas meses antes do diagnóstico",
+      "resumo": "O modelo REDMOD identificou câncer de pâncreas em tomografias cerca de 15 meses antes do diagnóstico, superando radiologistas.",
+      "veiculo": "Revista Gut (BMJ)",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261024222031.htm"
+    },
+    {
+      "titulo": "Google e DeepMind ampliam o uso de IA para entender e tratar doenças",
+      "resumo": "AlphaFold, DeepSomatic e um sistema de mamografia aceleram pesquisa e diagnóstico, com 90 artigos revisados em 5 anos.",
+      "veiculo": "Google",
+      "link": "https://blog.google/innovation-and-ai/technology/health/ai-health-research/"
+    },
+    {
+      "titulo": "AstraZeneca e insitro fecham acordo de IA de até US$ 1,5 bilhão",
+      "resumo": "A AstraZeneca pagará até US$ 1,5 bilhão para usar a IA da insitro em doenças do fígado e do coração.",
+      "veiculo": "pharmaphorum",
+      "link": "https://pharmaphorum.com/news/ai-drug-discovery-development-news-watch-october-2026"
+    },
+    {
+      "titulo": "GSK firma parceria plena com a Chai Discovery, que levanta US$ 400 milhões",
+      "resumo": "A GSK amplia a parceria em design de proteínas por IA; a startup Chai captou US$ 400 milhões.",
+      "veiculo": "pharmaphorum",
+      "link": "https://pharmaphorum.com/news/ai-drug-discovery-development-news-watch-october-2026"
+    },
+    {
+      "titulo": "Danaher e NVIDIA vão construir laboratórios autônomos com IA",
+      "resumo": "As empresas vão criar laboratórios autônomos com IA, com o primeiro operando em escala no início de 2027.",
+      "veiculo": "pharmaphorum",
+      "link": "https://pharmaphorum.com/news/ai-drug-discovery-development-news-watch-october-2026"
+    },
+    {
+      "titulo": "DaltonTx e Fundação Gates usam IA contra a tuberculose",
+      "resumo": "DaltonTx recebe apoio da Fundação Gates para usar IA contra a tuberculose e abrir modelos a laboratórios de baixa renda.",
+      "veiculo": "pharmaphorum",
+      "link": "https://pharmaphorum.com/news/ai-drug-discovery-development-news-watch-october-2026"
+    },
+    {
+      "titulo": "Brasil: PL 931/2026 cria regras para IA na saúde e avança no Senado",
+      "resumo": "O PL 931/2026 avança no Senado e cria regras de segurança, transparência e supervisão humana para IA na saúde.",
+      "veiculo": "Agência Senado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/14/projeto-na-cas-cria-diretrizes-para-uso-da-inteligencia-artificial-na-saude"
+    },
+    {
+      "titulo": "IA na saúde: menos pressa, mais alinhamento",
+      "resumo": "Saúde é o setor que menos leva pilotos de IA à produção; 74% já pausaram agentes por falha de governança.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/27/10/2026/85-dos-sistemas-de-saude-no-mundo-estao-priorizando-ia-por-agentes-diz-estudo-da-deloitte/"
-    },
-    {
-      "titulo": "Doutor.AI: healthtech brasileira relata 98% de acurácia em 700 mil atendimentos",
-      "resumo": "Plataforma brasileira de IA afirma reduzir o tempo de pronto-socorro de 5,4 para 2 horas em 35 hospitais.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/27/10/2026/healthtech-atinge-98-de-acerto-em-700-mil-casos-e-supera-teste-de-validacao-medica/"
-    },
-    {
-      "titulo": "Na saúde, a IA precisa conquistar confiança, não só eficiência",
-      "resumo": "Artigo da Sofya aponta que 63% dos pacientes não aceitariam resposta médica de IA sem revisão humana.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/28/10/2026/na-saude-a-inteligencia-artificial-precisa-conquistar-algo-alem-da-eficiencia-a-confianca/"
-    },
-    {
-      "titulo": "FDA aprova primeiro software de IA por ressonância para risco de recidiva no câncer de mama",
-      "resumo": "TumorSight Risk estima o risco de recidiva em 5 e 10 anos em pacientes HR+ e HER2-negativo.",
-      "veiculo": "Diagnostic Imaging",
-      "link": "https://www.diagnosticimaging.com/view/advances-in-ai-october-2026"
-    },
-    {
-      "titulo": "FDA libera IA que prevê a progressão do declínio cognitivo para Alzheimer",
-      "resumo": "NEXT-Cue analisa a ressonância cerebral e prevê, em até cinco anos, a evolução para Alzheimer.",
-      "veiculo": "Diagnostic Imaging",
-      "link": "https://www.diagnosticimaging.com/view/advances-in-ai-october-2026"
-    },
-    {
-      "titulo": "IA estima reserva de fluxo coronariano sem cateterismo, com 92% de sensibilidade",
-      "resumo": "FFR-IQ, aprovado pela FDA, estima a reserva de fluxo coronariano pela angiotomografia, evitando exames invasivos.",
-      "veiculo": "Diagnostic Imaging",
-      "link": "https://www.diagnosticimaging.com/view/advances-in-ai-october-2026"
-    },
-    {
-      "titulo": "FDA aprova IA que mede e classifica a aorta em tomografia de tórax",
-      "resumo": "Aview Aorta Metrics segmenta automaticamente as regiões da aorta e classifica suas zonas na tomografia de tórax.",
-      "veiculo": "Diagnostic Imaging",
-      "link": "https://www.diagnosticimaging.com/view/advances-in-ai-october-2026"
-    },
-    {
-      "titulo": "IA detecta disfunção cardíaca silenciosa em raio-X de tórax comum",
-      "resumo": "Modelo de deep learning sinaliza insuficiência cardíaca no raio-X e pode reduzir ecocardiogramas em até 85%.",
-      "veiculo": "Yesil Science",
-      "link": "https://yesilscience.com/ai-finds-heart-dysfunction-in-standard-chest-x-rays/"
-    },
-    {
-      "titulo": "IA estima risco de sobrevida em pacientes com câncer a partir de uma foto do rosto",
-      "resumo": "Uma única foto facial pode refletir o envelhecimento biológico e o risco de mortalidade em pacientes oncológicos.",
-      "veiculo": "Yesil Science",
-      "link": "https://yesilscience.com/ai-face-scans-predict-cancer-patient-survival-risk/"
-    },
-    {
-      "titulo": "IA de triagem detecta pacientes graves melhor que o padrão, mas gera excesso de alarmes",
-      "resumo": "Na emergência, a IA identifica a deterioração clínica melhor que a triagem padrão, ao custo de muitos alertas.",
-      "veiculo": "Yesil Science",
-      "link": "https://yesilscience.com/ai-triage-catches-deterioration-but-triggers-false-alarms/"
-    },
-    {
-      "titulo": "Desinformação sobre saúde ganha força com a inteligência artificial",
-      "resumo": "Levantamento da Agência Lupa aponta que 87,3% de 764 alegações de saúde checadas eram falsas.",
-      "veiculo": "TV Brasil / Repórter Brasil",
-      "link": "https://tvbrasil.ebc.com.br/reporter-brasil/2026/10/desinformacao-sobre-saude-ganha-forca-com-inteligencia-artificial"
+      "link": "https://saudedigitalnews.com.br/29/10/2026/ia-na-saude-menos-pressa-mais-alinhamento/"
     }
   ]
 }
