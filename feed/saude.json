@@ -1,73 +1,79 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-10-29",
-  "geradoEm": "2026-10-29T09:17:28-03:00",
+  "data": "2026-11-02",
+  "geradoEm": "2026-11-02T09:40:45-03:00",
   "itens": [
     {
-      "titulo": "Dasa se une ao Ministério da Saúde e ao IBGE para a Pesquisa Nacional de Saúde",
-      "resumo": "Dasa, via Alvaro Apoio, assume a operação laboratorial da PNS 2026, com 15 mil coletas em 58 laboratórios parceiros.",
+      "titulo": "Anvisa prorroga transição do SNCR para março de 2027",
+      "resumo": "Anvisa adia para março de 2027 a obrigatoriedade da numeração eletrônica em receitas de controle especial.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/anvisa-prorroga-prazo-transicao-sistema-nacional-de-controle-de-receituarios/"
+    },
+    {
+      "titulo": "Canetas emagrecedoras no SUS e nos planos dividem especialistas",
+      "resumo": "Especialistas defendem acesso às canetas pelo SUS e planos, mas alertam para o custo; Conitec avalia incorporação.",
+      "veiculo": "Agência GBC",
+      "link": "https://agenciagbc.com/2026/11/01/canetas-emagrecedoras-no-sus-e-nos-planos-de-saude-especialistas-defendem-acesso-mas-custo-preocupa/"
+    },
+    {
+      "titulo": "Healthtech Bio gera R$ 4 milhões de economia a operadora",
+      "resumo": "Atenção primária digital da Bio corta 68% do custo assistencial e evita idas ao pronto-socorro.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/27/10/2026/dasa-se-une-com-ministerio-da-saude-e-ibge-para-pesquisa-nacional-de-saude/"
+      "link": "https://saudedigitalnews.com.br/30/10/2026/com-tecnologia-proprietaria-healthtech-bio-gera-economia-de-r-4-milhoes-para-operadora-de-saude/"
     },
     {
-      "titulo": "Healthtech atinge 98% de acerto em 700 mil casos e supera teste de validação médica",
-      "resumo": "Doutor.AI usa IA no fluxo hospitalar, com 98% de acurácia em 700 mil atendimentos e PS de 5,4 para 2 horas.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/27/10/2026/healthtech-atinge-98-de-acerto-em-700-mil-casos-e-supera-teste-de-validacao-medica"
+      "titulo": "PL propõe regras para auditoria médica e IA nos planos",
+      "resumo": "Projeto na Câmara proíbe negativa de cobertura totalmente automatizada e blinda a decisão do auditor médico.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/projeto-de-lei-propoe-novas-regras-para-auditorias-medicas-e-uso-de-ia-nos-planos-de-saude/"
     },
     {
-      "titulo": "IA reduz em 81% o tempo operacional no acompanhamento de gestantes da Seguros Unimed",
-      "resumo": "IA da StaryaAI corta 81% do tempo no acompanhamento de gestantes da Seguros Unimed, com mais de 2.500 conectadas.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/27/10/2026/ia-reduz-em-81-tempo-operacional-no-acompanhamento-de-gestantes-da-seguros-unimed"
+      "titulo": "CNJ fará mutirão para conciliar 5 mil ações contra planos",
+      "resumo": "De 9 a 13 de novembro, força-tarefa do CNJ tentará conciliar mais de 5 mil processos contra planos de saúde.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/justica-realiza-forca-tarefa-para-buscar-acordos-em-mais-de-5-mil-processos-contra-planos-de-saude/"
     },
     {
-      "titulo": "85% dos sistemas de saúde no mundo estão priorizando IA por agentes, diz estudo da Deloitte",
-      "resumo": "Estudo da Deloitte aponta que 80% dos sistemas de saúde já priorizam IA agêntica e 61% implementam agentes autônomos.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/27/10/2026/85-dos-sistemas-de-saude-no-mundo-estao-priorizando-ia-por-agentes-diz-estudo-da-deloitte"
+      "titulo": "Governo publica 16 novos PCDTs de câncer no SUS",
+      "resumo": "Ministério da Saúde publica 16 protocolos clínicos para diversos tipos de câncer no SUS.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/governo-publica-14-novos-pcdts-cancer-no-sus/"
     },
     {
-      "titulo": "Accrua aposta em IA para acelerar receitas hospitalares e reduzir pressão sobre o caixa",
-      "resumo": "Accrua, de ex-VTEX, assume o faturamento de hospitais com IA para enfrentar 78,5 dias de prazo e 18% de glosa.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/28/10/2026/accrua-aposta-em-ia-para-acelerar-receitas-hospitalares-e-reduzir-pressao-sobre-o-caixa"
+      "titulo": "Emerson Gasparetto é o novo VP Executivo da Inspirali",
+      "resumo": "Inspirali traz Emerson Gasparetto, ex-Dasa, como VP Executivo, em meio a parceria de 20 anos com o Einstein.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/emerson-gasparetto-e-o-novo-vice-presidente-executivo-da-inspirali/"
     },
     {
-      "titulo": "ANPD estabelece medidas corretivas à Prefeitura de Feira de Santana por vazamento de dados médicos",
-      "resumo": "ANPD pune Feira de Santana por expor no Diário Oficial diagnósticos de 1.241 pessoas, caso emblemático de LGPD na saúde.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/28/10/2026/anpd-estabelece-medidas-corretivas-a-prefeitura-de-feira-de-santana-pelo-vazamento-de-dados-medicos-de-1-200-pessoas/"
+      "titulo": "Movimentações da saúde: executivos trocam de cadeira em outubro",
+      "resumo": "Balanço de outubro mostra novos líderes em healthtechs e farmacêuticas, da Rivio à Astellas.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/movimentacoes-da-saude-outubro-de-2026/"
     },
     {
-      "titulo": "IA analisa mamografias em até 5 minutos e reduz reconvocações",
-      "resumo": "IA da HarpiAI integrada à Pixeon lê mamografias em 5 minutos e reduz reconvocações em até 95% em estudo interno.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/28/10/2026/ia-analisa-mamografias-em-ate-5-minutos-e-reduz-reconvocacoes/"
+      "titulo": "Biópsia líquida para rastreio de câncer começa a chegar ao Brasil",
+      "resumo": "Exame de sangue que detecta DNA tumoral avança como ferramenta de rastreio precoce do câncer no país.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/biopsia-liquida-oncologia-brd-einstein/"
     },
     {
-      "titulo": "EGO Tecnologia vence o 4º Sabará Pediatric Innovation Day com monitoramento emocional por IA",
-      "resumo": "EGO Tecnologia vence o Sabará Pediatric Innovation Day com IA que lê microexpressões e acompanha a saúde mental infantil.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/28/10/2026/ego-tecnologia-vence-4o-sabara-pediatric-innovation-day-com-sistema-de-monitoramento-emocional-por-inteligencia-artificial/"
+      "titulo": "GLP-1 expõe desafio de regular novas moléculas no Brasil",
+      "resumo": "Demanda por GLP-1 abre mercado paralelo de versões manipuladas e pressiona a resposta regulatória da Anvisa.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/desafio-regulatorio-novas-moleculas-experimentais-caminho-dos-medicamentos/"
     },
     {
-      "titulo": "Realidade virtual e IA ajudam a detectar declínio cognitivo em idosos",
-      "resumo": "Projeto do ICMC-USP usa realidade virtual, EEG e IA para detectar precocemente declínio cognitivo em idosos, com apoio da FAPESP.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/rv-ia-declinio-cognitivo-idosos/"
+      "titulo": "SBR quer medicamentos orais no rol da saúde suplementar",
+      "resumo": "Nova presidência da Reumatologia defende incluir medicamentos orais nos planos, buscando equidade com o SUS.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/valderilio-azevedo-sbr-entrevista/"
     },
     {
-      "titulo": "Internações por AVC caem 54% em distritos de SP atendidos por projeto de controle da hipertensão",
-      "resumo": "Estudo da Fundação Novartis mostra queda de 54% nas internações por AVC em distritos de SP com controle da hipertensão.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/internacao-avc-cai/"
-    },
-    {
-      "titulo": "Santa Joana lança residência médica gratuita em Ginecologia e Obstetrícia em parceria com o MEC",
-      "resumo": "Grupo Santa Joana estreia na educação médica com residência gratuita em Ginecologia e Obstetrícia, em parceria com o MEC.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/santa-joana-residencia/"
+      "titulo": "Obesidade atinge 1 em cada 4 adultos nas capitais, diz Vigitel",
+      "resumo": "Vigitel 2025 mostra obesidade em 25,7% dos adultos das capitais; campanha da Lilly mira o estigma.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/obesidade-sem-julgamento-nova-campanha-lilly/"
     }
   ]
 }
