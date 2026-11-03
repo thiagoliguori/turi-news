@@ -1,79 +1,73 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-11-02",
-  "geradoEm": "2026-11-02T09:40:45-03:00",
+  "data": "2026-11-03",
+  "geradoEm": "2026-11-03T09:22:01-03:00",
   "itens": [
     {
-      "titulo": "Anvisa prorroga transição do SNCR para março de 2027",
-      "resumo": "Anvisa adia para março de 2027 a obrigatoriedade da numeração eletrônica em receitas de controle especial.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/anvisa-prorroga-prazo-transicao-sistema-nacional-de-controle-de-receituarios/"
+      "titulo": "Anvisa aprova cinco novas canetas GLP-1 para diabetes e obesidade",
+      "resumo": "Anvisa registra mais cinco canetas GLP-1 e chega a 20 aprovadas em 2026, ampliando opções para diabetes e obesidade.",
+      "veiculo": "Portal Itapipoca",
+      "link": "https://www.portalitapipoca.com.br/saude/2026/11/01/anvisa-aprova-registro-de-cinco-novas-canetas-injetaveis-para-diabetes-e-obesidade.html"
+    },
+    {
+      "titulo": "BNDES aprova R$ 298 milhões para a Althaia desenvolver 31 medicamentos",
+      "resumo": "BNDES libera R$ 298 milhões para a farmacêutica Althaia criar 31 medicamentos e pesquisar novas moléculas no Brasil.",
+      "veiculo": "Agência GBC",
+      "link": "https://agenciagbc.com/2026/11/01/bndes-aprova-r-298-milhoes-para-desenvolver-31-medicamentos-e-ampliar-pesquisas-no-brasil/"
     },
     {
       "titulo": "Canetas emagrecedoras no SUS e nos planos dividem especialistas",
-      "resumo": "Especialistas defendem acesso às canetas pelo SUS e planos, mas alertam para o custo; Conitec avalia incorporação.",
+      "resumo": "Especialistas defendem acesso às canetas pelo SUS e planos, mas alertam para o custo e o acompanhamento de longo prazo.",
       "veiculo": "Agência GBC",
       "link": "https://agenciagbc.com/2026/11/01/canetas-emagrecedoras-no-sus-e-nos-planos-de-saude-especialistas-defendem-acesso-mas-custo-preocupa/"
     },
     {
-      "titulo": "Healthtech Bio gera R$ 4 milhões de economia a operadora",
-      "resumo": "Atenção primária digital da Bio corta 68% do custo assistencial e evita idas ao pronto-socorro.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/30/10/2026/com-tecnologia-proprietaria-healthtech-bio-gera-economia-de-r-4-milhoes-para-operadora-de-saude/"
+      "titulo": "TJ-PE valida reajuste de 103,96% por faixa etária em plano de saúde",
+      "resumo": "TJ-PE valida reajuste de 103,96% ao tratar a variação entre faixas de idade como composta, e não soma simples.",
+      "veiculo": "Conjur",
+      "link": "https://conjur.com.br/2026-nov-02/variacao-cumulada-de-reajuste-por-idade-e-composta-e-nao-soma-simples/"
     },
     {
-      "titulo": "PL propõe regras para auditoria médica e IA nos planos",
-      "resumo": "Projeto na Câmara proíbe negativa de cobertura totalmente automatizada e blinda a decisão do auditor médico.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/projeto-de-lei-propoe-novas-regras-para-auditorias-medicas-e-uso-de-ia-nos-planos-de-saude/"
+      "titulo": "ANS fixa teto de 5,11% para planos individuais em 2026/2027",
+      "resumo": "ANS mantém em 5,11% o teto de reajuste dos planos individuais e familiares de maio de 2026 a abril de 2027.",
+      "veiculo": "Mixvale",
+      "link": "https://www.mixvale.com.br/2026/11/02/ans-fixa-teto-de-511-para-planos-individuais-de-maio-de-2026-a-abril/"
     },
     {
-      "titulo": "CNJ fará mutirão para conciliar 5 mil ações contra planos",
-      "resumo": "De 9 a 13 de novembro, força-tarefa do CNJ tentará conciliar mais de 5 mil processos contra planos de saúde.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/justica-realiza-forca-tarefa-para-buscar-acordos-em-mais-de-5-mil-processos-contra-planos-de-saude/"
+      "titulo": "Ministério da Saúde avança na atualização dos protocolos de câncer no SUS",
+      "resumo": "Ministério da Saúde revisa protocolos clínicos de oncologia do SUS para atualizar condutas e incorporar tecnologias.",
+      "veiculo": "Atual MT",
+      "link": "https://atualmt.com.br/2026/10/29/ministerio-da-saude-avanca-na-atualizacao-de-protocolos-de-tratamento-do-cancer-no-sus"
     },
     {
-      "titulo": "Governo publica 16 novos PCDTs de câncer no SUS",
-      "resumo": "Ministério da Saúde publica 16 protocolos clínicos para diversos tipos de câncer no SUS.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/governo-publica-14-novos-pcdts-cancer-no-sus/"
+      "titulo": "Semaglutida genérica amplia a disputa por canetas no Brasil",
+      "resumo": "Com o fim da patente, genéricos de semaglutida multiplicam concorrentes e derrubam os preços das canetas no Brasil.",
+      "veiculo": "Panorama Farmacêutico",
+      "link": "https://panoramafarmaceutico.com.br/semaglutida-generica-amplia-disputa-por-canetas-no-brasil"
     },
     {
-      "titulo": "Emerson Gasparetto é o novo VP Executivo da Inspirali",
-      "resumo": "Inspirali traz Emerson Gasparetto, ex-Dasa, como VP Executivo, em meio a parceria de 20 anos com o Einstein.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/emerson-gasparetto-e-o-novo-vice-presidente-executivo-da-inspirali/"
+      "titulo": "Oncoclínicas apresenta novo plano para renegociar R$ 5,7 bilhões em dívidas",
+      "resumo": "Oncoclínicas aprova novo plano de recuperação extrajudicial para renegociar cerca de R$ 5,7 bilhões em dívidas.",
+      "veiculo": "Seu Dinheiro",
+      "link": "https://www.seudinheiro.com/2026/empresas/oncoclinicas-avanca-em-reestruturacao-e-apresenta-novo-plano-para-renegociar-r-57-bilhoes-em-dividas-rnda/"
     },
     {
-      "titulo": "Movimentações da saúde: executivos trocam de cadeira em outubro",
-      "resumo": "Balanço de outubro mostra novos líderes em healthtechs e farmacêuticas, da Rivio à Astellas.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/movimentacoes-da-saude-outubro-de-2026/"
+      "titulo": "Prévia do 3T26 da saúde: operadoras em destaque e Fleury forte",
+      "resumo": "XP e BTG divergem sobre o 3T26: operadoras seguem em destaque e Fleury é visto como forte no setor de saúde.",
+      "veiculo": "InfoMoney",
+      "link": "https://www.infomoney.com.br/mercados/temporada-balanco-3t26-saude-flry3-rdor3/"
     },
     {
-      "titulo": "Biópsia líquida para rastreio de câncer começa a chegar ao Brasil",
-      "resumo": "Exame de sangue que detecta DNA tumoral avança como ferramenta de rastreio precoce do câncer no país.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/biopsia-liquida-oncologia-brd-einstein/"
+      "titulo": "Alice capta US$ 40 milhões liderados pelo IFC para ser healthtech de IA",
+      "resumo": "Alice capta US$ 40 milhões liderados pelo IFC para colocar inteligência artificial no núcleo da operação do plano.",
+      "veiculo": "Startups.com.br",
+      "link": "https://startups.com.br/negocios/rodada-de-investimento/alice-capta-us-40m-para-ser-healthtech-ai-first/"
     },
     {
-      "titulo": "GLP-1 expõe desafio de regular novas moléculas no Brasil",
-      "resumo": "Demanda por GLP-1 abre mercado paralelo de versões manipuladas e pressiona a resposta regulatória da Anvisa.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/desafio-regulatorio-novas-moleculas-experimentais-caminho-dos-medicamentos/"
-    },
-    {
-      "titulo": "SBR quer medicamentos orais no rol da saúde suplementar",
-      "resumo": "Nova presidência da Reumatologia defende incluir medicamentos orais nos planos, buscando equidade com o SUS.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/valderilio-azevedo-sbr-entrevista/"
-    },
-    {
-      "titulo": "Obesidade atinge 1 em cada 4 adultos nas capitais, diz Vigitel",
-      "resumo": "Vigitel 2025 mostra obesidade em 25,7% dos adultos das capitais; campanha da Lilly mira o estigma.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/obesidade-sem-julgamento-nova-campanha-lilly/"
+      "titulo": "Editorial: a obesidade precisa ser melhor tratada",
+      "resumo": "Editorial defende tratar a obesidade como doença crônica, com acesso ampliado e cuidado multiprofissional além das canetas.",
+      "veiculo": "O Tempo",
+      "link": "https://www.otempo.com.br/opiniao/editorial/2026/11/3/a-obesidade-precisa-ser-melhor-tratada"
     }
   ]
 }
