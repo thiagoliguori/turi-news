@@ -1,73 +1,73 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-11-03",
-  "geradoEm": "2026-11-03T09:22:01-03:00",
+  "data": "2026-11-06",
+  "geradoEm": "2026-11-06T09:17:42-03:00",
   "itens": [
     {
-      "titulo": "Anvisa aprova cinco novas canetas GLP-1 para diabetes e obesidade",
-      "resumo": "Anvisa registra mais cinco canetas GLP-1 e chega a 20 aprovadas em 2026, ampliando opções para diabetes e obesidade.",
-      "veiculo": "Portal Itapipoca",
-      "link": "https://www.portalitapipoca.com.br/saude/2026/11/01/anvisa-aprova-registro-de-cinco-novas-canetas-injetaveis-para-diabetes-e-obesidade.html"
+      "titulo": "Anvisa aprova o primeiro GLP-1 oral para obesidade (Wegovy em comprimido)",
+      "resumo": "Anvisa aprova a semaglutida oral, primeiro GLP-1 em comprimido no Brasil, com perda de peso acima de 13% em 64 semanas.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/anvisa-aprova-primeiro-medicamento-de-glp-1-oral-para-obesidade"
     },
     {
-      "titulo": "BNDES aprova R$ 298 milhões para a Althaia desenvolver 31 medicamentos",
-      "resumo": "BNDES libera R$ 298 milhões para a farmacêutica Althaia criar 31 medicamentos e pesquisar novas moléculas no Brasil.",
-      "veiculo": "Agência GBC",
-      "link": "https://agenciagbc.com/2026/11/01/bndes-aprova-r-298-milhoes-para-desenvolver-31-medicamentos-e-ampliar-pesquisas-no-brasil/"
+      "titulo": "Rivio capta R$ 180 milhões e passa a valer mais de R$ 1 bilhão",
+      "resumo": "Healthtech Rivio, de IA para eficiência hospitalar, capta R$ 180 milhões e passa a valer mais de R$ 1 bilhão.",
+      "veiculo": "Startupz",
+      "link": "https://www.startupz.com.br/artigo/rivio-ia-que-opera-hospitais-como-einstein-e-sirio-levanta-r-180-milhoes-e-passa-a-valer-mais-de-r-1-bilhao"
     },
     {
-      "titulo": "Canetas emagrecedoras no SUS e nos planos dividem especialistas",
-      "resumo": "Especialistas defendem acesso às canetas pelo SUS e planos, mas alertam para o custo e o acompanhamento de longo prazo.",
-      "veiculo": "Agência GBC",
-      "link": "https://agenciagbc.com/2026/11/01/canetas-emagrecedoras-no-sus-e-nos-planos-de-saude-especialistas-defendem-acesso-mas-custo-preocupa/"
+      "titulo": "Planos de saúde chegam a 53,1 milhões de beneficiários",
+      "resumo": "Planos de saúde chegam a 53,1 milhões de beneficiários em setembro, alta de 0,83% em 12 meses, segundo a ANS.",
+      "veiculo": "ANS",
+      "link": "https://www.gov.br/ans/pt-br/assuntos/noticias/numeros-do-setor/ans-divulga-numeros-de-beneficiarios-de-setembro"
     },
     {
-      "titulo": "TJ-PE valida reajuste de 103,96% por faixa etária em plano de saúde",
-      "resumo": "TJ-PE valida reajuste de 103,96% ao tratar a variação entre faixas de idade como composta, e não soma simples.",
-      "veiculo": "Conjur",
-      "link": "https://conjur.com.br/2026-nov-02/variacao-cumulada-de-reajuste-por-idade-e-composta-e-nao-soma-simples/"
+      "titulo": "Cirurgia de próstata com robô vira direito nos planos de saúde",
+      "resumo": "Cirurgia de próstata com robô entra no rol obrigatório da ANS, a primeira cirurgia robótica com cobertura obrigatória no país.",
+      "veiculo": "Estado de Minas",
+      "link": "https://www.em.com.br/mundo-corporativo/2026/11/7533997-novembro-azul-cirurgia-de-prostata-com-robo-agora-e-direito.html"
     },
     {
-      "titulo": "ANS fixa teto de 5,11% para planos individuais em 2026/2027",
-      "resumo": "ANS mantém em 5,11% o teto de reajuste dos planos individuais e familiares de maio de 2026 a abril de 2027.",
-      "veiculo": "Mixvale",
-      "link": "https://www.mixvale.com.br/2026/11/02/ans-fixa-teto-de-511-para-planos-individuais-de-maio-de-2026-a-abril/"
+      "titulo": "Ministério da Saúde projeta alta da dengue em 2027",
+      "resumo": "Ministério da Saúde prevê alta de 20% a 40% na dengue em 2027 por causa do El Niño e estuda retomar a vacina do Butantan.",
+      "veiculo": "ES Hoje",
+      "link": "https://eshoje.com.br/saude/2026/11/ministerio-da-saude-dengue"
     },
     {
-      "titulo": "Ministério da Saúde avança na atualização dos protocolos de câncer no SUS",
-      "resumo": "Ministério da Saúde revisa protocolos clínicos de oncologia do SUS para atualizar condutas e incorporar tecnologias.",
-      "veiculo": "Atual MT",
-      "link": "https://atualmt.com.br/2026/10/29/ministerio-da-saude-avanca-na-atualizacao-de-protocolos-de-tratamento-do-cancer-no-sus"
+      "titulo": "Saúde autoriza a compra de 20 mil doses de vacina contra mpox",
+      "resumo": "Ministério da Saúde autoriza comprar até 20 mil doses da vacina Jynneos contra mpox para reabastecer o SUS.",
+      "veiculo": "TV Sim Brasil",
+      "link": "https://tvsimbrasil.com.br/brasil/saude/noticia/2026/11/05/saude-autoriza-compra-20-mil-doses-vacina-mpox"
     },
     {
-      "titulo": "Semaglutida genérica amplia a disputa por canetas no Brasil",
-      "resumo": "Com o fim da patente, genéricos de semaglutida multiplicam concorrentes e derrubam os preços das canetas no Brasil.",
-      "veiculo": "Panorama Farmacêutico",
-      "link": "https://panoramafarmaceutico.com.br/semaglutida-generica-amplia-disputa-por-canetas-no-brasil"
-    },
-    {
-      "titulo": "Oncoclínicas apresenta novo plano para renegociar R$ 5,7 bilhões em dívidas",
-      "resumo": "Oncoclínicas aprova novo plano de recuperação extrajudicial para renegociar cerca de R$ 5,7 bilhões em dívidas.",
-      "veiculo": "Seu Dinheiro",
-      "link": "https://www.seudinheiro.com/2026/empresas/oncoclinicas-avanca-em-reestruturacao-e-apresenta-novo-plano-para-renegociar-r-57-bilhoes-em-dividas-rnda/"
-    },
-    {
-      "titulo": "Prévia do 3T26 da saúde: operadoras em destaque e Fleury forte",
-      "resumo": "XP e BTG divergem sobre o 3T26: operadoras seguem em destaque e Fleury é visto como forte no setor de saúde.",
-      "veiculo": "InfoMoney",
-      "link": "https://www.infomoney.com.br/mercados/temporada-balanco-3t26-saude-flry3-rdor3/"
-    },
-    {
-      "titulo": "Alice capta US$ 40 milhões liderados pelo IFC para ser healthtech de IA",
-      "resumo": "Alice capta US$ 40 milhões liderados pelo IFC para colocar inteligência artificial no núcleo da operação do plano.",
-      "veiculo": "Startups.com.br",
-      "link": "https://startups.com.br/negocios/rodada-de-investimento/alice-capta-us-40m-para-ser-healthtech-ai-first/"
-    },
-    {
-      "titulo": "Editorial: a obesidade precisa ser melhor tratada",
-      "resumo": "Editorial defende tratar a obesidade como doença crônica, com acesso ampliado e cuidado multiprofissional além das canetas.",
+      "titulo": "Justiça suspende a 'Bolsa Mounjaro' que dava remédio gratuito no SUS",
+      "resumo": "Justiça de SP suspende a Bolsa Mounjaro, que dava tirzepatida manipulada gratuita no SUS, após ação da Eli Lilly por patente.",
       "veiculo": "O Tempo",
-      "link": "https://www.otempo.com.br/opiniao/editorial/2026/11/3/a-obesidade-precisa-ser-melhor-tratada"
+      "link": "https://www.otempo.com.br/saude-e-bem-estar/2026/11/6/justica-suspende-bolsa-mounjaro-que-oferecia-medicamento-gratuito-a-pacientes-do-sus-em-sp"
+    },
+    {
+      "titulo": "Healthtech Lucca capta R$ 2 milhões para cuidar de pessoas autistas",
+      "resumo": "Healthtech Lucca capta R$ 2 milhões para expandir plataforma de IA que organiza o cuidado de pessoas autistas no SUS.",
+      "veiculo": "Portal Papo Aberto",
+      "link": "https://portalpapoaberto.com.br/2026/11/healthtech-capta-r-2-milhoes-para-atender-20-mil-autistas/"
+    },
+    {
+      "titulo": "Cientistas criam implante que usa eletricidade para controlar o diabetes",
+      "resumo": "Pesquisadores da ETH Zurique criam implante que usa eletricidade para controlar o diabetes, sem remédios, em testes com camundongos.",
+      "veiculo": "Exame",
+      "link": "https://exame.com/ciencia/cientistas-criam-implante-que-usa-eletricidade-para-controlar-diabetes/"
+    },
+    {
+      "titulo": "Após as midterms nos EUA, ações de saúde sobem na bolsa",
+      "resumo": "Após as midterms nos EUA, ações de saúde como Molina e Centene sobem, com expectativa de reverter cortes no Medicaid.",
+      "veiculo": "Exame",
+      "link": "https://exame.com/invest/mercados/acoes-de-saude-sobem-empresas-de-elon-musk-caem-como-as-midterms-chegam-a-bolsa/"
+    },
+    {
+      "titulo": "EUA aprovam genérico de medicamento que previne HIV por US$ 40 ao ano",
+      "resumo": "FDA aprova o primeiro genérico do lenacapavir, injeção semestral que previne o HIV, a US$ 40 por paciente ao ano.",
+      "veiculo": "Exame",
+      "link": "https://exame.com/ciencia/eua-aprovam-generico-de-medicamento-que-previne-hiv-e-custa-us-40-por-ano/"
     }
   ]
 }
