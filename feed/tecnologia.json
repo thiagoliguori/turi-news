@@ -1,73 +1,79 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-10-30",
-  "geradoEm": "2026-10-30T09:39:30-03:00",
+  "data": "2026-11-10",
+  "geradoEm": "2026-11-10T09:12:48-03:00",
   "itens": [
     {
-      "titulo": "OMS Europa adota o primeiro roteiro de IA na saúde (2026 a 2033)",
-      "resumo": "Os 53 países da Região Europeia da OMS aprovaram, por unanimidade, o primeiro roteiro de IA na saúde para 2026 a 2033.",
-      "veiculo": "OMS Europa",
-      "link": "https://who.int/europe/news/item/29-10-2026-governments-across-europe-and-central-asia-unanimously-adopt-new-vision-for-ai-in-health-care"
+      "titulo": "Einstein e Ministério da Saúde criam IA que diagnostica doenças de pele no SUS",
+      "resumo": "A CUTIS-AI identifica doenças de pele por imagem com 95,8% de precisão e funciona offline, apoiando a triagem no SUS.",
+      "veiculo": "CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br/saude/saude-e-einstein-desenvolvem-ia-para-identificar-doencas-de-pele-no-sus/"
     },
     {
-      "titulo": "Estudo da Doximity: modelos de IA erram doses de remédios, alguns de forma letal",
-      "resumo": "Teste com 9 modelos achou erros graves ou letais de dose; a Doximity lançou o DoseCheck, que acertou 99,9%.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://healthcaredive.com/news/popular-ai-models-get-medication-doses-wrong-some-dangerously-doximity/873207"
-    },
-    {
-      "titulo": "Microsoft diz que sua IA supera médicos em casos difíceis",
-      "resumo": "O sistema MAI-DxO acertou 83% dos casos complexos do NEJM, contra 36% de médicos generalistas, em simulação.",
-      "veiculo": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/"
-    },
-    {
-      "titulo": "IA detecta sinais de câncer de pâncreas meses antes do diagnóstico",
-      "resumo": "O modelo REDMOD identificou câncer de pâncreas em tomografias cerca de 15 meses antes do diagnóstico, superando radiologistas.",
-      "veiculo": "Revista Gut (BMJ)",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261024222031.htm"
-    },
-    {
-      "titulo": "Google e DeepMind ampliam o uso de IA para entender e tratar doenças",
-      "resumo": "AlphaFold, DeepSomatic e um sistema de mamografia aceleram pesquisa e diagnóstico, com 90 artigos revisados em 5 anos.",
-      "veiculo": "Google",
-      "link": "https://blog.google/innovation-and-ai/technology/health/ai-health-research/"
-    },
-    {
-      "titulo": "AstraZeneca e insitro fecham acordo de IA de até US$ 1,5 bilhão",
-      "resumo": "A AstraZeneca pagará até US$ 1,5 bilhão para usar a IA da insitro em doenças do fígado e do coração.",
-      "veiculo": "pharmaphorum",
-      "link": "https://pharmaphorum.com/news/ai-drug-discovery-development-news-watch-october-2026"
-    },
-    {
-      "titulo": "GSK firma parceria plena com a Chai Discovery, que levanta US$ 400 milhões",
-      "resumo": "A GSK amplia a parceria em design de proteínas por IA; a startup Chai captou US$ 400 milhões.",
-      "veiculo": "pharmaphorum",
-      "link": "https://pharmaphorum.com/news/ai-drug-discovery-development-news-watch-october-2026"
-    },
-    {
-      "titulo": "Danaher e NVIDIA vão construir laboratórios autônomos com IA",
-      "resumo": "As empresas vão criar laboratórios autônomos com IA, com o primeiro operando em escala no início de 2027.",
-      "veiculo": "pharmaphorum",
-      "link": "https://pharmaphorum.com/news/ai-drug-discovery-development-news-watch-october-2026"
-    },
-    {
-      "titulo": "DaltonTx e Fundação Gates usam IA contra a tuberculose",
-      "resumo": "DaltonTx recebe apoio da Fundação Gates para usar IA contra a tuberculose e abrir modelos a laboratórios de baixa renda.",
-      "veiculo": "pharmaphorum",
-      "link": "https://pharmaphorum.com/news/ai-drug-discovery-development-news-watch-october-2026"
-    },
-    {
-      "titulo": "Brasil: PL 931/2026 cria regras para IA na saúde e avança no Senado",
-      "resumo": "O PL 931/2026 avança no Senado e cria regras de segurança, transparência e supervisão humana para IA na saúde.",
-      "veiculo": "Agência Senado",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/14/projeto-na-cas-cria-diretrizes-para-uso-da-inteligencia-artificial-na-saude"
-    },
-    {
-      "titulo": "IA na saúde: menos pressa, mais alinhamento",
-      "resumo": "Saúde é o setor que menos leva pilotos de IA à produção; 74% já pausaram agentes por falha de governança.",
+      "titulo": "Hospitais autônomos: agentes de IA avançam sobre compras e operações",
+      "resumo": "Agentes de IA já executam reposição, cotações e compras hospitalares, com supervisão humana nas decisões de maior risco.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/29/10/2026/ia-na-saude-menos-pressa-mais-alinhamento/"
+      "link": "https://saudedigitalnews.com.br/09/11/2026/hospitais-autonomos-agentes-de-ia-avancam-sobre-compras-e-operacoes-na-saude"
+    },
+    {
+      "titulo": "IA em ressonância cardíaca prevê sobrevida melhor que cardiologistas",
+      "resumo": "Em 27 mil pacientes, a fração de ejeção medida por IA previu o risco de morte melhor, em segundos por exame.",
+      "veiculo": "News-Medical (Lancet Digital Health)",
+      "link": "https://www.news-medical.net/news/20261102/AI-powered-heart-MRI-measurements-better-predict-patients-survival.aspx"
+    },
+    {
+      "titulo": "Google.org doa US$ 2 milhões à Clalit para IA de voz na saúde",
+      "resumo": "Assistente de voz faz triagem e agendamento por telefone comum, sem internet, no idioma nativo do paciente.",
+      "veiculo": "AI News",
+      "link": "https://www.artificialintelligence-news.com/news/google-org-grants-clalit-2m-for-voice-ai-in-healthcare/"
+    },
+    {
+      "titulo": "Software de IA para AVC falha em detectar metade das oclusões distais",
+      "resumo": "Ferramentas comerciais de triagem de AVC deixaram de identificar até 50% das oclusões de vasos distais no pronto-socorro.",
+      "veiculo": "Yesil Science",
+      "link": "https://yesilscience.com/ai-stroke-tools-miss-half-of-distal-occlusions/"
+    },
+    {
+      "titulo": "IA mapeia o envelhecimento normal da coluna em 22.979 adultos",
+      "resumo": "Análise de quase 23 mil ressonâncias de adultos sem sintomas cria referência do normal e reduz o sobrediagnóstico.",
+      "veiculo": "Yesil Science",
+      "link": "https://yesilscience.com/ai-maps-normal-spine-aging-across-22979-adults/"
+    },
+    {
+      "titulo": "Reanálise por IA não acha benefício da hipotermia após parada cardíaca",
+      "resumo": "Resfriar o paciente a 33°C não superou o controle padrão de febre, segundo reanálise de ensaio de referência.",
+      "veiculo": "Yesil Science",
+      "link": "https://yesilscience.com/machine-learning-finds-no-hypothermia-benefit-after-cardiac-arrest/"
+    },
+    {
+      "titulo": "Piloto de negação automatizada do Medicare gera mais de 50% de rejeições",
+      "resumo": "Autorização prévia por IA produziu rejeições iniciais acima de 50% e acendeu o debate sobre acesso ao cuidado.",
+      "veiculo": "Yesil Science",
+      "link": "https://yesilscience.com/medicare-automated-denial-pilot-triggers-high-rejections/"
+    },
+    {
+      "titulo": "IA prevê desfechos de úlcera do pé diabético e melhora a conduta médica",
+      "resumo": "Ensaio com 200 pacientes mostrou recomendações clínicas melhores quando os médicos usaram a IA como apoio.",
+      "veiculo": "Yesil Science",
+      "link": "https://yesilscience.com/ai-predicts-diabetic-foot-ulcer-care-outcomes/"
+    },
+    {
+      "titulo": "Anel inteligente da Samsung monitora a fragmentação do sono hora a hora",
+      "resumo": "Wearable de consumo passa a medir a fragmentação do sono de forma contínua, aproximando-se da triagem clínica.",
+      "veiculo": "Yesil Science",
+      "link": "https://yesilscience.com/samsung-smart-ring-tracks-hourly-sleep-disruption/"
+    },
+    {
+      "titulo": "PATIENT AI Act: nova proposta para a revisão de software de IA pela FDA",
+      "resumo": "Rascunho do senador Cassidy cria revisão por terceiros e vigilância pós-mercado, mas pode duplicar vias já existentes.",
+      "veiculo": "FDA Law Blog",
+      "link": "https://www.thefdalawblog.com/2026/11/the-patient-ai-act-a-new-prescription-for-fda-software-review-or-more-of-the-same/"
+    },
+    {
+      "titulo": "Regra de IA do HHS transfere o risco de validação para os hospitais",
+      "resumo": "Desregulamentação reduz a carga dos desenvolvedores e deixa a validação clínica da IA sob responsabilidade dos hospitais.",
+      "veiculo": "Yesil Science",
+      "link": "https://yesilscience.com/hhs-ai-rule-shifts-evaluation-risk-to-hospitals/"
     }
   ]
 }
