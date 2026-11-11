@@ -1,73 +1,73 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-11-06",
-  "geradoEm": "2026-11-06T09:17:42-03:00",
+  "data": "2026-11-11",
+  "geradoEm": "2026-11-11T09:20:50-03:00",
   "itens": [
     {
-      "titulo": "Anvisa aprova o primeiro GLP-1 oral para obesidade (Wegovy em comprimido)",
-      "resumo": "Anvisa aprova a semaglutida oral, primeiro GLP-1 em comprimido no Brasil, com perda de peso acima de 13% em 64 semanas.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/anvisa-aprova-primeiro-medicamento-de-glp-1-oral-para-obesidade"
+      "titulo": "Anvisa aprova mais duas canetas de semaglutida e Brasil chega a 22 registros de GLP-1 em 2026",
+      "resumo": "Anvisa registra mais dois injetáveis de semaglutida para diabetes e o Brasil chega a 22 canetas de GLP-1 em 2026.",
+      "veiculo": "Diário Carioca",
+      "link": "https://diariocarioca.com/2026/11/10/saude/anvisa-aprova-novos-medicamentos-semaglutida"
     },
     {
-      "titulo": "Rivio capta R$ 180 milhões e passa a valer mais de R$ 1 bilhão",
-      "resumo": "Healthtech Rivio, de IA para eficiência hospitalar, capta R$ 180 milhões e passa a valer mais de R$ 1 bilhão.",
-      "veiculo": "Startupz",
-      "link": "https://www.startupz.com.br/artigo/rivio-ia-que-opera-hospitais-como-einstein-e-sirio-levanta-r-180-milhoes-e-passa-a-valer-mais-de-r-1-bilhao"
+      "titulo": "Sinconecta leva a plataforma SINC.CARE para a Oracle Cloud e corta a latência em 88%",
+      "resumo": "Sinconecta migra o SINC.CARE para a Oracle Cloud, reduz a latência em 88% e prepara recursos de IA.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/11/11/2026/sinconecta-amplia-o-desempenho-de-sua-plataforma-de-gestao-de-saude-com-a-oracle-cloud-infrastructure/"
     },
     {
-      "titulo": "Planos de saúde chegam a 53,1 milhões de beneficiários",
-      "resumo": "Planos de saúde chegam a 53,1 milhões de beneficiários em setembro, alta de 0,83% em 12 meses, segundo a ANS.",
-      "veiculo": "ANS",
-      "link": "https://www.gov.br/ans/pt-br/assuntos/noticias/numeros-do-setor/ans-divulga-numeros-de-beneficiarios-de-setembro"
+      "titulo": "Swisslog Healthcare amplia a automação da farmácia do Hospital Albert Einstein",
+      "resumo": "Swisslog amplia a automação da farmácia do Einstein, que receberá dispensários e carrinhos inteligentes em 2027.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/10/11/2026/swisslog-healthcare-impulsiona-a-automacao-da-farmacia-do-hospital-israelita-albert-einstein/"
     },
     {
-      "titulo": "Cirurgia de próstata com robô vira direito nos planos de saúde",
-      "resumo": "Cirurgia de próstata com robô entra no rol obrigatório da ANS, a primeira cirurgia robótica com cobertura obrigatória no país.",
-      "veiculo": "Estado de Minas",
-      "link": "https://www.em.com.br/mundo-corporativo/2026/11/7533997-novembro-azul-cirurgia-de-prostata-com-robo-agora-e-direito.html"
+      "titulo": "Tomografia por contagem de fótons promete transformar o diagnóstico por imagem no Brasil",
+      "resumo": "Tomografia por contagem de fótons reduz a radiação em cerca de 30% e promete diagnósticos mais precisos.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/10/11/2026/alem-da-imagem-o-que-o-avanco-da-tomografia-computadorizada-pode-mudar-no-diagnostico-brasileiro/"
     },
     {
-      "titulo": "Ministério da Saúde projeta alta da dengue em 2027",
-      "resumo": "Ministério da Saúde prevê alta de 20% a 40% na dengue em 2027 por causa do El Niño e estuda retomar a vacina do Butantan.",
-      "veiculo": "ES Hoje",
-      "link": "https://eshoje.com.br/saude/2026/11/ministerio-da-saude-dengue"
+      "titulo": "Falsos coletivos: 84% dos beneficiários de planos ficam fora do teto de reajuste da ANS",
+      "resumo": "Artigo alerta que 84% dos beneficiários estão em planos coletivos sem teto de reajuste e cobra fiscalização da ANS.",
+      "veiculo": "Diário do Grande ABC",
+      "link": "https://www.dgabc.com.br/Noticia/4367862/planos-de-saude-coletivos-e-reajustes"
     },
     {
-      "titulo": "Saúde autoriza a compra de 20 mil doses de vacina contra mpox",
-      "resumo": "Ministério da Saúde autoriza comprar até 20 mil doses da vacina Jynneos contra mpox para reabastecer o SUS.",
-      "veiculo": "TV Sim Brasil",
-      "link": "https://tvsimbrasil.com.br/brasil/saude/noticia/2026/11/05/saude-autoriza-compra-20-mil-doses-vacina-mpox"
+      "titulo": "Dasa dispara na bolsa após lucro de R$ 173 milhões no 3T26",
+      "resumo": "Dasa dispara na bolsa após lucro de R$ 173 milhões no 3T26, alta de 79%, com queda da dívida.",
+      "veiculo": "InfoMoney",
+      "link": "https://www.infomoney.com.br/mercados/dasa-dasa3-dispara-20-apos-balanco-com-geracao-de-caixa-acima-das-expectativas/"
     },
     {
-      "titulo": "Justiça suspende a 'Bolsa Mounjaro' que dava remédio gratuito no SUS",
-      "resumo": "Justiça de SP suspende a Bolsa Mounjaro, que dava tirzepatida manipulada gratuita no SUS, após ação da Eli Lilly por patente.",
-      "veiculo": "O Tempo",
-      "link": "https://www.otempo.com.br/saude-e-bem-estar/2026/11/6/justica-suspende-bolsa-mounjaro-que-oferecia-medicamento-gratuito-a-pacientes-do-sus-em-sp"
+      "titulo": "Fleury tem lucro de R$ 264,3 milhões no 3T26, alta de 42,9%",
+      "resumo": "Fleury tem lucro de R$ 264,3 milhões no 3T26, alta de 42,9%, com volume de exames 14,3% maior.",
+      "veiculo": "Eu Quero Investir",
+      "link": "https://euqueroinvestir.com/acoes/fleury-flry3-lucro-3t26-receita-27-bilhoes"
     },
     {
-      "titulo": "Healthtech Lucca capta R$ 2 milhões para cuidar de pessoas autistas",
-      "resumo": "Healthtech Lucca capta R$ 2 milhões para expandir plataforma de IA que organiza o cuidado de pessoas autistas no SUS.",
-      "veiculo": "Portal Papo Aberto",
-      "link": "https://portalpapoaberto.com.br/2026/11/healthtech-capta-r-2-milhoes-para-atender-20-mil-autistas/"
+      "titulo": "Oncoclínicas reúne 74,6% dos credores em plano de recuperação extrajudicial de R$ 4,3 bilhões",
+      "resumo": "Oncoclínicas reúne 74,6% dos credores em plano de recuperação extrajudicial de R$ 4,3 bilhões.",
+      "veiculo": "Times Brasil",
+      "link": "https://timesbrasil.com.br/empresas-e-negocios/oncoclinicas-obtem-apoio-de-credores-com-r-43-bilhoes-em-creditos-para-recuperacao-extrajudicial/"
     },
     {
-      "titulo": "Cientistas criam implante que usa eletricidade para controlar o diabetes",
-      "resumo": "Pesquisadores da ETH Zurique criam implante que usa eletricidade para controlar o diabetes, sem remédios, em testes com camundongos.",
-      "veiculo": "Exame",
-      "link": "https://exame.com/ciencia/cientistas-criam-implante-que-usa-eletricidade-para-controlar-diabetes/"
+      "titulo": "Rivio capta R$ 80 milhões e passa de R$ 1 bilhão de valuation",
+      "resumo": "Healthtech Rivio capta R$ 80 milhões, passa de R$ 1 bilhão de valuation e já atende 13 grupos hospitalares.",
+      "veiculo": "Bloomberg Línea",
+      "link": "https://www.bloomberglinea.com.br/startups/rodadas-da-semana-rivio-capta-r-80-milhoes-e-a-goiana-vereda-recebe-r-35-milhoes/"
     },
     {
-      "titulo": "Após as midterms nos EUA, ações de saúde sobem na bolsa",
-      "resumo": "Após as midterms nos EUA, ações de saúde como Molina e Centene sobem, com expectativa de reverter cortes no Medicaid.",
-      "veiculo": "Exame",
-      "link": "https://exame.com/invest/mercados/acoes-de-saude-sobem-empresas-de-elon-musk-caem-como-as-midterms-chegam-a-bolsa/"
+      "titulo": "Glosas e prazos travam R$ 5,8 bilhões dos hospitais e aquecem as healthtechs de receita",
+      "resumo": "Observatório Anahp aponta glosa de quase 16% e R$ 5,8 bilhões retidos de hospitais por operadoras.",
+      "veiculo": "Tech & Health",
+      "link": "https://rafaelkellermann.substack.com/p/tech-and-health-edicao-27-9-de-novembro"
     },
     {
-      "titulo": "EUA aprovam genérico de medicamento que previne HIV por US$ 40 ao ano",
-      "resumo": "FDA aprova o primeiro genérico do lenacapavir, injeção semestral que previne o HIV, a US$ 40 por paciente ao ano.",
-      "veiculo": "Exame",
-      "link": "https://exame.com/ciencia/eua-aprovam-generico-de-medicamento-que-previne-hiv-e-custa-us-40-por-ano/"
+      "titulo": "Brasil leva à COP31 o modelo do SUS de resposta às mudanças climáticas",
+      "resumo": "Brasil leva à COP31 o AdaptaSUS, com R$ 9,8 bilhões até 2035 para unidades de saúde resilientes ao clima.",
+      "veiculo": "Acessa / Agência Gov",
+      "link": "https://www.acessa.com/noticias/2026/11/343594-modelo-do-sus-de-resposta-as-mudancas-climaticas-sera-levado-a-cop31.html"
     }
   ]
 }
