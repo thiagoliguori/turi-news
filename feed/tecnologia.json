@@ -1,79 +1,79 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-11-10",
-  "geradoEm": "2026-11-10T09:12:48-03:00",
+  "data": "2026-11-11",
+  "geradoEm": "2026-11-11T09:12:27-03:00",
   "itens": [
     {
-      "titulo": "Einstein e Ministério da Saúde criam IA que diagnostica doenças de pele no SUS",
-      "resumo": "A CUTIS-AI identifica doenças de pele por imagem com 95,8% de precisão e funciona offline, apoiando a triagem no SUS.",
-      "veiculo": "CNN Brasil",
-      "link": "https://www.cnnbrasil.com.br/saude/saude-e-einstein-desenvolvem-ia-para-identificar-doencas-de-pele-no-sus/"
+      "titulo": "Google lança o \"Gemini for healthcare\" em prévia nos EUA",
+      "resumo": "Plataforma conecta o Gemini ao Epic e ao Oracle Health para preparar consultas e apoiar autorizações, com acesso somente leitura e auditoria.",
+      "veiculo": "Google Cloud / HIStalk",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare"
     },
     {
-      "titulo": "Hospitais autônomos: agentes de IA avançam sobre compras e operações",
-      "resumo": "Agentes de IA já executam reposição, cotações e compras hospitalares, com supervisão humana nas decisões de maior risco.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/09/11/2026/hospitais-autonomos-agentes-de-ia-avancam-sobre-compras-e-operacoes-na-saude"
+      "titulo": "Oura compra a Counsel Health por US$ 625 milhões",
+      "resumo": "Fabricante do anel inteligente une dados biométricos a um chatbot de atenção primária supervisionado por médicos, em negócio de US$ 625 milhões.",
+      "veiculo": "Business Wire",
+      "link": "https://www.businesswire.com/news/home/20261110737835/en/Oura-to-Acquire-Counsel-Health-Advancing-Vision-for-More-Connected-Personalized-Healthcare"
     },
     {
-      "titulo": "IA em ressonância cardíaca prevê sobrevida melhor que cardiologistas",
-      "resumo": "Em 27 mil pacientes, a fração de ejeção medida por IA previu o risco de morte melhor, em segundos por exame.",
-      "veiculo": "News-Medical (Lancet Digital Health)",
-      "link": "https://www.news-medical.net/news/20261102/AI-powered-heart-MRI-measurements-better-predict-patients-survival.aspx"
+      "titulo": "FDA libera IA da PulseAI que quase zera ECGs inconclusivos em smartwatch",
+      "resumo": "Autorização 510(k) para IA que reduz resultados inconclusivos de ECG de smartwatch de cerca de 20% para menos de 1%.",
+      "veiculo": "Tech Times / Heart Rhythm",
+      "link": "https://www.techtimes.com/articles/330140/20261105/fda-clears-belfast-ai-that-cuts-smartwatch-ecg-inconclusives-20-near-zero.htm"
     },
     {
-      "titulo": "Google.org doa US$ 2 milhões à Clalit para IA de voz na saúde",
-      "resumo": "Assistente de voz faz triagem e agendamento por telefone comum, sem internet, no idioma nativo do paciente.",
-      "veiculo": "AI News",
-      "link": "https://www.artificialintelligence-news.com/news/google-org-grants-clalit-2m-for-voice-ai-in-healthcare/"
+      "titulo": "PREVIA, da NYU Langone, prevê estresse pós-traumático em pacientes de trauma",
+      "resumo": "Em 145 pacientes, a IA leu relatos do trauma e identificou 95,4% dos que desenvolveram estresse pós-traumático um mês depois.",
+      "veiculo": "NYU Langone / EurekAlert",
+      "link": "https://www.eurekalert.org/news-releases/1150072"
     },
     {
-      "titulo": "Software de IA para AVC falha em detectar metade das oclusões distais",
-      "resumo": "Ferramentas comerciais de triagem de AVC deixaram de identificar até 50% das oclusões de vasos distais no pronto-socorro.",
-      "veiculo": "Yesil Science",
-      "link": "https://yesilscience.com/ai-stroke-tools-miss-half-of-distal-occlusions/"
+      "titulo": "Programa BRAINIAC investe £20 milhões em IA para diagnóstico precoce de demência",
+      "resumo": "Consórcio britânico de 11 universidades e 10 unidades do NHS quer cortar o tempo de diagnóstico de demência em 30% a 50%.",
+      "veiculo": "EuropaWire",
+      "link": "https://news.europawire.eu/newcastle-university-joins-20-million-brainiac-programme-to-advance-ai-assisted-dementia-diagnosis/eu-press-release/2026/11/09/11/23/09/186710/"
     },
     {
-      "titulo": "IA mapeia o envelhecimento normal da coluna em 22.979 adultos",
-      "resumo": "Análise de quase 23 mil ressonâncias de adultos sem sintomas cria referência do normal e reduz o sobrediagnóstico.",
-      "veiculo": "Yesil Science",
-      "link": "https://yesilscience.com/ai-maps-normal-spine-aging-across-22979-adults/"
+      "titulo": "AWS cria programa de US$ 100 milhões em IA e nuvem para saúde de populações vulneráveis",
+      "resumo": "Iniciativa de cinco anos oferece créditos de IA e nuvem para projetos de acesso à saúde, saúde materno-infantil e nutrição.",
+      "veiculo": "AWS / About Amazon",
+      "link": "https://www.aboutamazon.com/news/aws/aws-health-impact-initiative-100-million-ai-cloud"
     },
     {
-      "titulo": "Reanálise por IA não acha benefício da hipotermia após parada cardíaca",
-      "resumo": "Resfriar o paciente a 33°C não superou o controle padrão de febre, segundo reanálise de ensaio de referência.",
-      "veiculo": "Yesil Science",
-      "link": "https://yesilscience.com/machine-learning-finds-no-hypothermia-benefit-after-cardiac-arrest/"
+      "titulo": "SUS e Einstein desenvolvem a CUTIS-AI para identificar doenças de pele",
+      "resumo": "App offline criado com o Ministério da Saúde identifica doenças de pele negligenciadas com cerca de 80% de acerto, para apoiar a triagem no SUS.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/sus-e-einstein-desenvolvem-ia-para-identificacao-de-doencas-de-pele"
     },
     {
-      "titulo": "Piloto de negação automatizada do Medicare gera mais de 50% de rejeições",
-      "resumo": "Autorização prévia por IA produziu rejeições iniciais acima de 50% e acendeu o debate sobre acesso ao cuidado.",
-      "veiculo": "Yesil Science",
-      "link": "https://yesilscience.com/medicare-automated-denial-pilot-triggers-high-rejections/"
+      "titulo": "Raras Health entra no programa Accelerate da Mayo Clinic",
+      "resumo": "Startup paulista de diagnóstico de doenças raras, com IA no WhatsApp para pacientes, é selecionada para o programa de aceleração da Mayo Clinic.",
+      "veiculo": "Mayo Clinic Platform / Inovação em Saúde",
+      "link": "https://inovacaoemsaude.substack.com/p/as-cinco-principais-noticias-em-inovacao-8ae"
     },
     {
-      "titulo": "IA prevê desfechos de úlcera do pé diabético e melhora a conduta médica",
-      "resumo": "Ensaio com 200 pacientes mostrou recomendações clínicas melhores quando os médicos usaram a IA como apoio.",
-      "veiculo": "Yesil Science",
-      "link": "https://yesilscience.com/ai-predicts-diabetic-foot-ulcer-care-outcomes/"
+      "titulo": "Charta Health capta US$ 55 milhões para IA de revisão de prontuário e cobrança",
+      "resumo": "Série B de US$ 55 milhões para IA que revisa a documentação clínica antes do faturamento e reduz disputas de cobrança.",
+      "veiculo": "PR Newswire",
+      "link": "https://www.prnewswire.com/news-releases/charta-health-raises-55-million-series-b-to-establish-a-shared-standard-of-accuracy-in-healthcare-billing-302934401.html"
     },
     {
-      "titulo": "Anel inteligente da Samsung monitora a fragmentação do sono hora a hora",
-      "resumo": "Wearable de consumo passa a medir a fragmentação do sono de forma contínua, aproximando-se da triagem clínica.",
-      "veiculo": "Yesil Science",
-      "link": "https://yesilscience.com/samsung-smart-ring-tracks-hourly-sleep-disruption/"
+      "titulo": "Golpe com IA de US$ 129 milhões usa vozes e imagens falsas e atinge hospitais",
+      "resumo": "Promotores acusam três pessoas de usar voz e imagem geradas por IA para fraudar US$ 129 milhões; dois sistemas hospitalares foram vítimas.",
+      "veiculo": "SFGate",
+      "link": "https://www.sfgate.com/bayarea/article/california-hospital-ai-scheme-22521469.php"
     },
     {
-      "titulo": "PATIENT AI Act: nova proposta para a revisão de software de IA pela FDA",
-      "resumo": "Rascunho do senador Cassidy cria revisão por terceiros e vigilância pós-mercado, mas pode duplicar vias já existentes.",
-      "veiculo": "FDA Law Blog",
-      "link": "https://www.thefdalawblog.com/2026/11/the-patient-ai-act-a-new-prescription-for-fda-software-review-or-more-of-the-same/"
+      "titulo": "Weill Cornell apura dados de radiologia inseridos em ferramentas de IA sem autorização",
+      "resumo": "Instituição suspendeu um estudo após informações de radiologia de pacientes serem inseridas em ferramentas de IA sem autorização.",
+      "veiculo": "HIStalk",
+      "link": "https://histalk2.com/2026/11/11/healthcare-ai-news-11-11-26/"
     },
     {
-      "titulo": "Regra de IA do HHS transfere o risco de validação para os hospitais",
-      "resumo": "Desregulamentação reduz a carga dos desenvolvedores e deixa a validação clínica da IA sob responsabilidade dos hospitais.",
-      "veiculo": "Yesil Science",
-      "link": "https://yesilscience.com/hhs-ai-rule-shifts-evaluation-risk-to-hospitals/"
+      "titulo": "Farmacêuticas da China migram para apps de IA voltados a médicos",
+      "resumo": "Com o cerco anticorrupção ao marketing hospitalar, farmacêuticas chinesas passam a alcançar médicos por apps de IA com conteúdo clínico.",
+      "veiculo": "The Straits Times",
+      "link": "https://www.straitstimes.com/asia/east-asia/chinas-graft-crackdown-sends-drugmakers-to-doctors-ai-apps"
     }
   ]
 }
