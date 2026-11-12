@@ -1,73 +1,79 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-11-11",
-  "geradoEm": "2026-11-11T09:20:50-03:00",
+  "data": "2026-11-12",
+  "geradoEm": "2026-11-12T09:22:17-03:00",
   "itens": [
     {
-      "titulo": "Anvisa aprova mais duas canetas de semaglutida e Brasil chega a 22 registros de GLP-1 em 2026",
-      "resumo": "Anvisa registra mais dois injetáveis de semaglutida para diabetes e o Brasil chega a 22 canetas de GLP-1 em 2026.",
-      "veiculo": "Diário Carioca",
-      "link": "https://diariocarioca.com/2026/11/10/saude/anvisa-aprova-novos-medicamentos-semaglutida"
+      "titulo": "Fleury e Bradsaúde criam a FleuryOnco, rede de clínicas de oncologia",
+      "resumo": "Fleury e Atlântica Hospitais (Bradsaúde) criam a FleuryOnco, empresa de oncologia ambulatorial para atender beneficiários de planos de saúde.",
+      "veiculo": "Brazil Journal",
+      "link": "https://braziljournal.com/fleury-e-bradsaude-criam-rede-de-clinicas-oncologicas/"
     },
     {
-      "titulo": "Sinconecta leva a plataforma SINC.CARE para a Oracle Cloud e corta a latência em 88%",
-      "resumo": "Sinconecta migra o SINC.CARE para a Oracle Cloud, reduz a latência em 88% e prepara recursos de IA.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/11/11/2026/sinconecta-amplia-o-desempenho-de-sua-plataforma-de-gestao-de-saude-com-a-oracle-cloud-infrastructure/"
+      "titulo": "Oura compra startup de atenção primária com IA por US$ 625 milhões",
+      "resumo": "A finlandesa Oura, dos anéis inteligentes, compra a americana Counsel Health, de atenção primária com IA, por US$ 625 milhões.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/oura-compra-startup-de-atencao-primaria-com-ia-por-us-625-milhoes/"
     },
     {
-      "titulo": "Swisslog Healthcare amplia a automação da farmácia do Hospital Albert Einstein",
-      "resumo": "Swisslog amplia a automação da farmácia do Einstein, que receberá dispensários e carrinhos inteligentes em 2027.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/10/11/2026/swisslog-healthcare-impulsiona-a-automacao-da-farmacia-do-hospital-israelita-albert-einstein/"
+      "titulo": "Memed e Bionexo Tasy integram a prescrição digital à rotina dos hospitais",
+      "resumo": "Memed e Bionexo Tasy integram a prescrição digital ao sistema de gestão hospitalar, sem o médico trocar de tela no atendimento.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/memed-bionexo-tasy-parceria-integrar-prescricao-digital-a-rotina-hospitalar/"
     },
     {
-      "titulo": "Tomografia por contagem de fótons promete transformar o diagnóstico por imagem no Brasil",
-      "resumo": "Tomografia por contagem de fótons reduz a radiação em cerca de 30% e promete diagnósticos mais precisos.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/10/11/2026/alem-da-imagem-o-que-o-avanco-da-tomografia-computadorizada-pode-mudar-no-diagnostico-brasileiro/"
+      "titulo": "App do dr.consulta passa a reunir exames de outros laboratórios",
+      "resumo": "O dr.consulta reúne exames feitos fora da rede, compara resultados em gráficos e lança um Plano de Cuidado no app.",
+      "veiculo": "Exame",
+      "link": "https://exame.com/tecnologia/dr-consulta-app-reune-exames-outros-laboratorios/"
     },
     {
-      "titulo": "Falsos coletivos: 84% dos beneficiários de planos ficam fora do teto de reajuste da ANS",
-      "resumo": "Artigo alerta que 84% dos beneficiários estão em planos coletivos sem teto de reajuste e cobra fiscalização da ANS.",
-      "veiculo": "Diário do Grande ABC",
-      "link": "https://www.dgabc.com.br/Noticia/4367862/planos-de-saude-coletivos-e-reajustes"
+      "titulo": "Gilmar Mendes suspende os processos sobre a Tabela SUS",
+      "resumo": "Gilmar Mendes suspende nacionalmente os processos sobre a Tabela SUS, e o STJ deixa de analisar o tema, que fica no STF.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/gilmar-mendes-suspende-processos-sobre-tabela-sus-e-stj-deixa-de-analisar-tema/"
     },
     {
-      "titulo": "Dasa dispara na bolsa após lucro de R$ 173 milhões no 3T26",
-      "resumo": "Dasa dispara na bolsa após lucro de R$ 173 milhões no 3T26, alta de 79%, com queda da dívida.",
-      "veiculo": "InfoMoney",
-      "link": "https://www.infomoney.com.br/mercados/dasa-dasa3-dispara-20-apos-balanco-com-geracao-de-caixa-acima-das-expectativas/"
+      "titulo": "ANS abre consulta pública sobre cobertura de medicamento contra o câncer",
+      "resumo": "ANS abre consulta pública, até 25 de novembro, sobre incluir o tibsovo na cobertura dos planos para câncer de vias biliares.",
+      "veiculo": "O Povo",
+      "link": "https://opovo.com.br/noticias/brasil/2026/11/09/consulta-publica-avalia-inclusao-de-medicamento-contra-o-cancer.html"
     },
     {
-      "titulo": "Fleury tem lucro de R$ 264,3 milhões no 3T26, alta de 42,9%",
-      "resumo": "Fleury tem lucro de R$ 264,3 milhões no 3T26, alta de 42,9%, com volume de exames 14,3% maior.",
-      "veiculo": "Eu Quero Investir",
-      "link": "https://euqueroinvestir.com/acoes/fleury-flry3-lucro-3t26-receita-27-bilhoes"
+      "titulo": "Anvisa aprova genérico de semaglutida e novo similar ao Ozempic",
+      "resumo": "Anvisa aprova um genérico de semaglutida e um novo similar ao Ozempic para diabetes tipo 2, somando 22 registros de canetas em 2026.",
+      "veiculo": "Exame",
+      "link": "https://exame.com/ciencia/conheca-o-generico-de-semaglutida-e-o-novo-similar-ao-ozempic-aprovados-pela-anvisa/"
     },
     {
-      "titulo": "Oncoclínicas reúne 74,6% dos credores em plano de recuperação extrajudicial de R$ 4,3 bilhões",
-      "resumo": "Oncoclínicas reúne 74,6% dos credores em plano de recuperação extrajudicial de R$ 4,3 bilhões.",
-      "veiculo": "Times Brasil",
-      "link": "https://timesbrasil.com.br/empresas-e-negocios/oncoclinicas-obtem-apoio-de-credores-com-r-43-bilhoes-em-creditos-para-recuperacao-extrajudicial/"
+      "titulo": "Anvisa proíbe a fabricação de suplementos de quatro marcas",
+      "resumo": "Anvisa proíbe suplementos de quatro marcas por falta de notificação, promessas de saúde não autorizadas e produtos não reconhecidos.",
+      "veiculo": "Exame",
+      "link": "https://exame.com/brasil/anvisa-proibe-fabricacao-de-suplementos-de-quatro-marcas-veja-os-produtos-afetados/"
     },
     {
-      "titulo": "Rivio capta R$ 80 milhões e passa de R$ 1 bilhão de valuation",
-      "resumo": "Healthtech Rivio capta R$ 80 milhões, passa de R$ 1 bilhão de valuation e já atende 13 grupos hospitalares.",
-      "veiculo": "Bloomberg Línea",
-      "link": "https://www.bloomberglinea.com.br/startups/rodadas-da-semana-rivio-capta-r-80-milhoes-e-a-goiana-vereda-recebe-r-35-milhoes/"
+      "titulo": "Censo revela dependência de 72,6% de insumos farmacêuticos importados",
+      "resumo": "1º Censo do Sindusfarma com o Datafolha mostra que a indústria farmacêutica no Brasil depende, em média, de 72,6% de insumos importados.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/industria-farmaceutica-no-brasil-censo-sindusfarma/"
     },
     {
-      "titulo": "Glosas e prazos travam R$ 5,8 bilhões dos hospitais e aquecem as healthtechs de receita",
-      "resumo": "Observatório Anahp aponta glosa de quase 16% e R$ 5,8 bilhões retidos de hospitais por operadoras.",
-      "veiculo": "Tech & Health",
-      "link": "https://rafaelkellermann.substack.com/p/tech-and-health-edicao-27-9-de-novembro"
+      "titulo": "Governo sanciona lei que torna o Enamed requisito para exercer a medicina",
+      "resumo": "Nova lei cria o Enamed, com três provas na graduação, e condiciona o registro do médico a um desempenho mínimo.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/governo-sanciona-lei-que-torna-enamed-requisito-para-exercicio-da-medicina/"
     },
     {
-      "titulo": "Brasil leva à COP31 o modelo do SUS de resposta às mudanças climáticas",
-      "resumo": "Brasil leva à COP31 o AdaptaSUS, com R$ 9,8 bilhões até 2035 para unidades de saúde resilientes ao clima.",
-      "veiculo": "Acessa / Agência Gov",
-      "link": "https://www.acessa.com/noticias/2026/11/343594-modelo-do-sus-de-resposta-as-mudancas-climaticas-sera-levado-a-cop31.html"
+      "titulo": "Estudo do Einstein mostra que controlar a pressão reduz eventos cardiovasculares",
+      "resumo": "Ensaio do Einstein no Proadi-SUS mostra que o controle intensivo da pressão arterial reduz o risco de novos eventos cardiovasculares graves.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/eventos-cardiovasculares-reducao-risco-estudo-inedito-brd-einstein/"
+    },
+    {
+      "titulo": "Parlamentares cobram análise da MP das bets e firmam pacto legislativo",
+      "resumo": "Parlamentares se mobilizam para acelerar a MP das bets e firmam pacto para restringir publicidade e patrocínio das apostas.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/parlamentares-mp-proibicao-bets-pacto-legislativo-contra-apostas/"
     }
   ]
 }
