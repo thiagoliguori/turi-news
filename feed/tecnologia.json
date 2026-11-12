@@ -1,79 +1,79 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-11-11",
-  "geradoEm": "2026-11-11T09:12:27-03:00",
+  "data": "2026-11-12",
+  "geradoEm": "2026-11-12T09:14:32-03:00",
   "itens": [
     {
       "titulo": "Google lança o \"Gemini for healthcare\" em prévia nos EUA",
-      "resumo": "Plataforma conecta o Gemini ao Epic e ao Oracle Health para preparar consultas e apoiar autorizações, com acesso somente leitura e auditoria.",
-      "veiculo": "Google Cloud / HIStalk",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare"
+      "resumo": "Google lança o Gemini for healthcare em prévia nos EUA, conectado a Epic e Oracle para preparar consultas e organizar autorizações.",
+      "veiculo": "Tech-ish / Google",
+      "link": "https://tech-ish.com/2026/11/11/gemini-for-healthcare-ai-agent-us-hospitals/"
     },
     {
-      "titulo": "Oura compra a Counsel Health por US$ 625 milhões",
-      "resumo": "Fabricante do anel inteligente une dados biométricos a um chatbot de atenção primária supervisionado por médicos, em negócio de US$ 625 milhões.",
-      "veiculo": "Business Wire",
-      "link": "https://www.businesswire.com/news/home/20261110737835/en/Oura-to-Acquire-Counsel-Health-Advancing-Vision-for-More-Connected-Personalized-Healthcare"
+      "titulo": "Mayo Clinic Platform lança IA de apoio à decisão clínica",
+      "resumo": "Mayo Clinic Platform lança IA de apoio à decisão que cobre mais de 35 especialidades e traz 22 calculadoras clínicas por voz.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://www.healthcaredive.com/news/mayo-clinic-platform-launches-ai-tool-to-streamline-clinical-decision-makin/873901/"
     },
     {
-      "titulo": "FDA libera IA da PulseAI que quase zera ECGs inconclusivos em smartwatch",
-      "resumo": "Autorização 510(k) para IA que reduz resultados inconclusivos de ECG de smartwatch de cerca de 20% para menos de 1%.",
-      "veiculo": "Tech Times / Heart Rhythm",
-      "link": "https://www.techtimes.com/articles/330140/20261105/fda-clears-belfast-ai-that-cuts-smartwatch-ecg-inconclusives-20-near-zero.htm"
+      "titulo": "Ohio State e Microsoft firmam parceria de hospital inteligente",
+      "resumo": "Ohio State e Microsoft firmam parceria de cinco anos para um hospital inteligente com IA, nuvem e previsão de centro cirúrgico.",
+      "veiculo": "DistilINFO",
+      "link": "https://distilinfo.com/2026/11/12/smart-hospital-technology/"
     },
     {
-      "titulo": "PREVIA, da NYU Langone, prevê estresse pós-traumático em pacientes de trauma",
-      "resumo": "Em 145 pacientes, a IA leu relatos do trauma e identificou 95,4% dos que desenvolveram estresse pós-traumático um mês depois.",
-      "veiculo": "NYU Langone / EurekAlert",
-      "link": "https://www.eurekalert.org/news-releases/1150072"
+      "titulo": "Google DeepMind leva IA de descoberta de fármacos ao Antigravity",
+      "resumo": "Google DeepMind leva IA de descoberta de fármacos ao Antigravity e faz em cerca de 1 hora o que levaria dias.",
+      "veiculo": "HLTH / DeepMind",
+      "link": "https://hlth.com/insights/news/google-deepmind-expands-antigravity-with-ai-drug-discovery-tools"
     },
     {
-      "titulo": "Programa BRAINIAC investe £20 milhões em IA para diagnóstico precoce de demência",
-      "resumo": "Consórcio britânico de 11 universidades e 10 unidades do NHS quer cortar o tempo de diagnóstico de demência em 30% a 50%.",
-      "veiculo": "EuropaWire",
-      "link": "https://news.europawire.eu/newcastle-university-joins-20-million-brainiac-programme-to-advance-ai-assisted-dementia-diagnosis/eu-press-release/2026/11/09/11/23/09/186710/"
+      "titulo": "Akara capta US$ 5,5 milhões para IA que preserva privacidade em hospitais",
+      "resumo": "Akara capta US$ 5,5 milhões para sensores térmicos que leem o uso das salas no hospital sem filmar pacientes.",
+      "veiculo": "GlobeNewswire",
+      "link": "https://www.manilatimes.net/2026/11/11/tmt-newswire/globenewswire/akara-raises-55m-to-bring-privacy-preserving-ai-to-hospitals/2467684"
     },
     {
-      "titulo": "AWS cria programa de US$ 100 milhões em IA e nuvem para saúde de populações vulneráveis",
-      "resumo": "Iniciativa de cinco anos oferece créditos de IA e nuvem para projetos de acesso à saúde, saúde materno-infantil e nutrição.",
-      "veiculo": "AWS / About Amazon",
-      "link": "https://www.aboutamazon.com/news/aws/aws-health-impact-initiative-100-million-ai-cloud"
+      "titulo": "Brasil institui a Política Nacional de Informação e Saúde Digital",
+      "resumo": "Brasil institui a Política Nacional de Saúde Digital, com a RNDS como base de interoperabilidade e o CPF como identificador do cidadão.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/?p=50393"
     },
     {
-      "titulo": "SUS e Einstein desenvolvem a CUTIS-AI para identificar doenças de pele",
-      "resumo": "App offline criado com o Ministério da Saúde identifica doenças de pele negligenciadas com cerca de 80% de acerto, para apoiar a triagem no SUS.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/sus-e-einstein-desenvolvem-ia-para-identificacao-de-doencas-de-pele"
+      "titulo": "Einstein e Sírio-Libanês são alvos de ataques cibernéticos",
+      "resumo": "Einstein e Sírio-Libanês confirmam ataques cibernéticos com acesso a dados de pacientes; casos vão à ANPD e à Polícia Federal.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/?p=51633"
     },
     {
-      "titulo": "Raras Health entra no programa Accelerate da Mayo Clinic",
-      "resumo": "Startup paulista de diagnóstico de doenças raras, com IA no WhatsApp para pacientes, é selecionada para o programa de aceleração da Mayo Clinic.",
-      "veiculo": "Mayo Clinic Platform / Inovação em Saúde",
+      "titulo": "Anvisa bate recorde de análises de registro com apoio de IA",
+      "resumo": "Anvisa bate recorde de registros de medicamentos com apoio de IA que localiza análises anteriores e evita retrabalho.",
+      "veiculo": "Inovação em Saúde",
       "link": "https://inovacaoemsaude.substack.com/p/as-cinco-principais-noticias-em-inovacao-8ae"
     },
     {
-      "titulo": "Charta Health capta US$ 55 milhões para IA de revisão de prontuário e cobrança",
-      "resumo": "Série B de US$ 55 milhões para IA que revisa a documentação clínica antes do faturamento e reduz disputas de cobrança.",
-      "veiculo": "PR Newswire",
-      "link": "https://www.prnewswire.com/news-releases/charta-health-raises-55-million-series-b-to-establish-a-shared-standard-of-accuracy-in-healthcare-billing-302934401.html"
+      "titulo": "Startup brasileira Raras Health entra no Accelerate da Mayo Clinic Platform",
+      "resumo": "Startup brasileira Raras Health, de diagnóstico de doenças raras, entra no programa Accelerate da Mayo Clinic Platform.",
+      "veiculo": "Inovação em Saúde",
+      "link": "https://inovacaoemsaude.substack.com/p/as-cinco-principais-noticias-em-inovacao-8ae"
     },
     {
-      "titulo": "Golpe com IA de US$ 129 milhões usa vozes e imagens falsas e atinge hospitais",
-      "resumo": "Promotores acusam três pessoas de usar voz e imagem geradas por IA para fraudar US$ 129 milhões; dois sistemas hospitalares foram vítimas.",
-      "veiculo": "SFGate",
-      "link": "https://www.sfgate.com/bayarea/article/california-hospital-ai-scheme-22521469.php"
+      "titulo": "Ellipsis Health adquire a Kouper Health",
+      "resumo": "Ellipsis Health compra a Kouper para unir agente de voz com IA à navegação de cuidado no prontuário.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/ellipsis-health-acquires-kouper-health"
     },
     {
-      "titulo": "Weill Cornell apura dados de radiologia inseridos em ferramentas de IA sem autorização",
-      "resumo": "Instituição suspendeu um estudo após informações de radiologia de pacientes serem inseridas em ferramentas de IA sem autorização.",
-      "veiculo": "HIStalk",
-      "link": "https://histalk2.com/2026/11/11/healthcare-ai-news-11-11-26/"
+      "titulo": "Heidi Health corta 18% da força de trabalho global",
+      "resumo": "Mesmo após captar cerca de US$ 47,5 milhões, a escriba de IA Heidi Health corta 18% do quadro e perde dois cofundadores.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/heidi-health-announces-18-reduction-global-workforce"
     },
     {
-      "titulo": "Farmacêuticas da China migram para apps de IA voltados a médicos",
-      "resumo": "Com o cerco anticorrupção ao marketing hospitalar, farmacêuticas chinesas passam a alcançar médicos por apps de IA com conteúdo clínico.",
-      "veiculo": "The Straits Times",
-      "link": "https://www.straitstimes.com/asia/east-asia/chinas-graft-crackdown-sends-drugmakers-to-doctors-ai-apps"
+      "titulo": "Aprovada pela FDA, a IA ainda precisa ser vigiada na vida real",
+      "resumo": "Com mais de 1.600 dispositivos de IA aprovados pela FDA, cresce o alerta: algoritmos perdem acurácia na vida real sem monitoramento.",
+      "veiculo": "DistilINFO",
+      "link": "https://distilinfo.com/2026/11/10/healthcare-ai-monitoring/"
     }
   ]
 }
