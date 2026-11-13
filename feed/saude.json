@@ -1,79 +1,67 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-11-12",
-  "geradoEm": "2026-11-12T09:22:17-03:00",
+  "data": "2026-11-13",
+  "geradoEm": "2026-11-13T09:22:14-03:00",
   "itens": [
     {
-      "titulo": "Fleury e Bradsaúde criam a FleuryOnco, rede de clínicas de oncologia",
-      "resumo": "Fleury e Atlântica Hospitais (Bradsaúde) criam a FleuryOnco, empresa de oncologia ambulatorial para atender beneficiários de planos de saúde.",
-      "veiculo": "Brazil Journal",
-      "link": "https://braziljournal.com/fleury-e-bradsaude-criam-rede-de-clinicas-oncologicas/"
+      "titulo": "STF trava R$ 243 bilhões em ações sobre a Tabela SUS",
+      "resumo": "Gilmar Mendes suspende 7.738 ações sobre valores pagos pelo SUS a hospitais privados, com risco de R$ 243 bilhões.",
+      "veiculo": "TV SIM Brasil",
+      "link": "https://tvsimbrasil.com.br/brasil/saude/noticia/2026/11/13/por-que-stf-travou-243-bi-tabela-sus"
+    },
+    {
+      "titulo": "Hapvida reporta R$ 8,1 bilhões de receita e reduz dívida no 3T26",
+      "resumo": "Hapvida soma R$ 8,08 bi de receita (+3,9%) e reduz dívida líquida, mas sinistralidade sobe para 77,2% no 3T26.",
+      "veiculo": "Brasil Inovador",
+      "link": "https://brasilinovador.com.br/hapvida-reporta-receita-de-r-81-bilhoes-e-contracao-da-divida-liquida-no-terceiro-trimestre-de-2026/"
+    },
+    {
+      "titulo": "MV mira R$ 1 bilhão em 2027 ao virar plataforma de IA na saúde",
+      "resumo": "Healthtech MV projeta mais de R$ 850 milhões em 2026 e mira R$ 1 bilhão em 2027 apostando em inteligência artificial.",
+      "veiculo": "iMasters/Exame",
+      "link": "https://imasters.com.br/tecnologia/mv-mira-r-1-bilhao-em-2027-ao-transformar-saas-hospitalar-em-plataforma-de-ia"
+    },
+    {
+      "titulo": "Eficiência hospitalar começa por medir o centro cirúrgico",
+      "resumo": "Hora de sala cirúrgica custa R$ 2.267 e produtividade fica em 2,8 cirurgias por dia, abaixo do ponto de equilíbrio.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/12/11/2026/eficiencia-hospitalar-comeca-por-medir-o-que-acontece-no-centro-cirurgico/"
+    },
+    {
+      "titulo": "Plano de saúde empresarial fica mais caro e funcionários dividem a conta",
+      "resumo": "Custo dos planos empresariais deve subir 11,1% em 2027, contra inflação de 3,4%, e empresas ampliam a coparticipação.",
+      "veiculo": "InfoMoney",
+      "link": "https://www.infomoney.com.br/minhas-financas/plano-de-saude-empresarial-custos-medicos-sobem-e-funcionarios-dividem-mais-a-conta/"
+    },
+    {
+      "titulo": "Ministério da Saúde defende integração público-privada no Rio Health Forum 2026",
+      "resumo": "No Rio Health Forum 2026, o ministério defende parcerias público-privadas e cita o programa Agora Tem Especialistas.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/ministerio-da-saude-defende-integracao-entre-setores-publico-e-privado-para-fortalecer-o-sus-durante-o-rio-health-forum-2026"
     },
     {
       "titulo": "Oura compra startup de atenção primária com IA por US$ 625 milhões",
-      "resumo": "A finlandesa Oura, dos anéis inteligentes, compra a americana Counsel Health, de atenção primária com IA, por US$ 625 milhões.",
+      "resumo": "Dona do anel inteligente, a Oura compra a Counsel Health por US$ 625 milhões e entra na atenção primária com IA.",
       "veiculo": "Futuro da Saúde",
       "link": "https://futurodasaude.com.br/oura-compra-startup-de-atencao-primaria-com-ia-por-us-625-milhoes/"
     },
     {
-      "titulo": "Memed e Bionexo Tasy integram a prescrição digital à rotina dos hospitais",
-      "resumo": "Memed e Bionexo Tasy integram a prescrição digital ao sistema de gestão hospitalar, sem o médico trocar de tela no atendimento.",
+      "titulo": "Memed e Bionexo Tasy integram prescrição digital à rotina hospitalar",
+      "resumo": "Memed integra a prescrição digital ao sistema Tasy, permitindo receita eletrônica sem o médico trocar de sistema.",
       "veiculo": "Futuro da Saúde",
       "link": "https://futurodasaude.com.br/memed-bionexo-tasy-parceria-integrar-prescricao-digital-a-rotina-hospitalar/"
     },
     {
-      "titulo": "App do dr.consulta passa a reunir exames de outros laboratórios",
-      "resumo": "O dr.consulta reúne exames feitos fora da rede, compara resultados em gráficos e lança um Plano de Cuidado no app.",
-      "veiculo": "Exame",
-      "link": "https://exame.com/tecnologia/dr-consulta-app-reune-exames-outros-laboratorios/"
-    },
-    {
-      "titulo": "Gilmar Mendes suspende os processos sobre a Tabela SUS",
-      "resumo": "Gilmar Mendes suspende nacionalmente os processos sobre a Tabela SUS, e o STJ deixa de analisar o tema, que fica no STF.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/gilmar-mendes-suspende-processos-sobre-tabela-sus-e-stj-deixa-de-analisar-tema/"
-    },
-    {
-      "titulo": "ANS abre consulta pública sobre cobertura de medicamento contra o câncer",
-      "resumo": "ANS abre consulta pública, até 25 de novembro, sobre incluir o tibsovo na cobertura dos planos para câncer de vias biliares.",
-      "veiculo": "O Povo",
-      "link": "https://opovo.com.br/noticias/brasil/2026/11/09/consulta-publica-avalia-inclusao-de-medicamento-contra-o-cancer.html"
-    },
-    {
-      "titulo": "Anvisa aprova genérico de semaglutida e novo similar ao Ozempic",
-      "resumo": "Anvisa aprova um genérico de semaglutida e um novo similar ao Ozempic para diabetes tipo 2, somando 22 registros de canetas em 2026.",
-      "veiculo": "Exame",
-      "link": "https://exame.com/ciencia/conheca-o-generico-de-semaglutida-e-o-novo-similar-ao-ozempic-aprovados-pela-anvisa/"
-    },
-    {
-      "titulo": "Anvisa proíbe a fabricação de suplementos de quatro marcas",
-      "resumo": "Anvisa proíbe suplementos de quatro marcas por falta de notificação, promessas de saúde não autorizadas e produtos não reconhecidos.",
-      "veiculo": "Exame",
-      "link": "https://exame.com/brasil/anvisa-proibe-fabricacao-de-suplementos-de-quatro-marcas-veja-os-produtos-afetados/"
-    },
-    {
-      "titulo": "Censo revela dependência de 72,6% de insumos farmacêuticos importados",
-      "resumo": "1º Censo do Sindusfarma com o Datafolha mostra que a indústria farmacêutica no Brasil depende, em média, de 72,6% de insumos importados.",
+      "titulo": "Indústria farmacêutica tem 72,6% de dependência de insumos importados, diz censo",
+      "resumo": "1º Censo da Indústria Farmacêutica (Sindusfarma/Datafolha) revela 72,6% de dependência média de insumos importados.",
       "veiculo": "Futuro da Saúde",
       "link": "https://futurodasaude.com.br/industria-farmaceutica-no-brasil-censo-sindusfarma/"
     },
     {
-      "titulo": "Governo sanciona lei que torna o Enamed requisito para exercer a medicina",
-      "resumo": "Nova lei cria o Enamed, com três provas na graduação, e condiciona o registro do médico a um desempenho mínimo.",
+      "titulo": "Fleury e Bradsaúde criam a FleuryOnco com R$ 72 milhões para oncologia",
+      "resumo": "Fleury e Atlântica (Bradsaúde) lançam a FleuryOnco, rede de clínicas oncológicas com R$ 72 milhões e 7 unidades até 2027.",
       "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/governo-sanciona-lei-que-torna-enamed-requisito-para-exercicio-da-medicina/"
-    },
-    {
-      "titulo": "Estudo do Einstein mostra que controlar a pressão reduz eventos cardiovasculares",
-      "resumo": "Ensaio do Einstein no Proadi-SUS mostra que o controle intensivo da pressão arterial reduz o risco de novos eventos cardiovasculares graves.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/eventos-cardiovasculares-reducao-risco-estudo-inedito-brd-einstein/"
-    },
-    {
-      "titulo": "Parlamentares cobram análise da MP das bets e firmam pacto legislativo",
-      "resumo": "Parlamentares se mobilizam para acelerar a MP das bets e firmam pacto para restringir publicidade e patrocínio das apostas.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/parlamentares-mp-proibicao-bets-pacto-legislativo-contra-apostas/"
+      "link": "https://futurodasaude.com.br/fleury-e-bradsaude-ampliam-atuacao-na-oncologia/"
     }
   ]
 }
