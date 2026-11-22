@@ -1,79 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-11-12",
-  "geradoEm": "2026-11-12T09:14:32-03:00",
+  "data": "2026-11-22",
+  "geradoEm": "2026-11-22T15:52:52-03:00",
   "itens": [
     {
-      "titulo": "Google lança o \"Gemini for healthcare\" em prévia nos EUA",
-      "resumo": "Google lança o Gemini for healthcare em prévia nos EUA, conectado a Epic e Oracle para preparar consultas e organizar autorizações.",
-      "veiculo": "Tech-ish / Google",
-      "link": "https://tech-ish.com/2026/11/11/gemini-for-healthcare-ai-agent-us-hospitals/"
+      "titulo": "Epic promete abrir prontuários para a IA de terceiros",
+      "resumo": "No HLTH, executivos da Epic prometem facilitar o acesso de IA aos dados e rebatem acusações de prática anticompetitiva.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/11/18/epic-defends-competitive-practices-promises-ai-access-to-records/"
     },
     {
-      "titulo": "Mayo Clinic Platform lança IA de apoio à decisão clínica",
-      "resumo": "Mayo Clinic Platform lança IA de apoio à decisão que cobre mais de 35 especialidades e traz 22 calculadoras clínicas por voz.",
+      "titulo": "Elsevier conecta o ClinicalKey AI ao prontuário completo do paciente",
+      "resumo": "ClinicalKey AI passa a ler o prontuário inteiro e avaliar o plano terapêutico contra a base de evidências da Elsevier.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/health-tech/hlth-2026-elsevier-upgrades-clinicalkey-ai-full-patient-ehr-context"
+    },
+    {
+      "titulo": "EUA atualizam a HIPAA para facilitar o envio de dados a apps",
+      "resumo": "Nova regra de privacidade da HIPAA acelera o acesso do paciente ao prontuário e define padrões para compartilhar dados com apps.",
       "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/mayo-clinic-platform-launches-ai-tool-to-streamline-clinical-decision-makin/873901/"
+      "link": "https://www.healthcaredive.com/news/updated-hipaa-privacy-law-sets-rules-for-sharing-health-data-with-apps/874845/"
     },
     {
-      "titulo": "Ohio State e Microsoft firmam parceria de hospital inteligente",
-      "resumo": "Ohio State e Microsoft firmam parceria de cinco anos para um hospital inteligente com IA, nuvem e previsão de centro cirúrgico.",
-      "veiculo": "DistilINFO",
-      "link": "https://distilinfo.com/2026/11/12/smart-hospital-technology/"
+      "titulo": "John Doerr lança a Tom Health, de IA para a atenção primária",
+      "resumo": "Tom Health nasce da Lumeris, empresa de cuidado baseado em valor, com a proposta de usar IA para consertar a atenção primária.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/11/16/ai-company-tom-health-fix-primary-care-new-tool/"
     },
     {
-      "titulo": "Google DeepMind leva IA de descoberta de fármacos ao Antigravity",
-      "resumo": "Google DeepMind leva IA de descoberta de fármacos ao Antigravity e faz em cerca de 1 hora o que levaria dias.",
-      "veiculo": "HLTH / DeepMind",
-      "link": "https://hlth.com/insights/news/google-deepmind-expands-antigravity-with-ai-drug-discovery-tools"
+      "titulo": "Permanente Medical Group cria incubadora de tecnologia liderada por médicos",
+      "resumo": "A Permanentech, do grupo ligado à Kaiser, estreia com a Wrapt Health, que prevê faltas a consultas.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/health-tech/permanente-medical-group-launches-tech-incubation-company"
     },
     {
-      "titulo": "Akara capta US$ 5,5 milhões para IA que preserva privacidade em hospitais",
-      "resumo": "Akara capta US$ 5,5 milhões para sensores térmicos que leem o uso das salas no hospital sem filmar pacientes.",
-      "veiculo": "GlobeNewswire",
-      "link": "https://www.manilatimes.net/2026/11/11/tmt-newswire/globenewswire/akara-raises-55m-to-bring-privacy-preserving-ai-to-hospitals/2467684"
+      "titulo": "IA não monitorada em hospitais vira porta para vazamentos",
+      "resumo": "Equipes de segurança sobrecarregadas não conseguem vigiar ferramentas de IA, e o uso paralelo sem aval já causa incidentes.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://www.healthcaredive.com/news/healthcare-ai-cybersecurity-monitoring/875171/"
     },
     {
-      "titulo": "Brasil institui a Política Nacional de Informação e Saúde Digital",
-      "resumo": "Brasil institui a Política Nacional de Saúde Digital, com a RNDS como base de interoperabilidade e o CPF como identificador do cidadão.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/?p=50393"
-    },
-    {
-      "titulo": "Einstein e Sírio-Libanês são alvos de ataques cibernéticos",
-      "resumo": "Einstein e Sírio-Libanês confirmam ataques cibernéticos com acesso a dados de pacientes; casos vão à ANPD e à Polícia Federal.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/?p=51633"
-    },
-    {
-      "titulo": "Anvisa bate recorde de análises de registro com apoio de IA",
-      "resumo": "Anvisa bate recorde de registros de medicamentos com apoio de IA que localiza análises anteriores e evita retrabalho.",
-      "veiculo": "Inovação em Saúde",
-      "link": "https://inovacaoemsaude.substack.com/p/as-cinco-principais-noticias-em-inovacao-8ae"
-    },
-    {
-      "titulo": "Startup brasileira Raras Health entra no Accelerate da Mayo Clinic Platform",
-      "resumo": "Startup brasileira Raras Health, de diagnóstico de doenças raras, entra no programa Accelerate da Mayo Clinic Platform.",
-      "veiculo": "Inovação em Saúde",
-      "link": "https://inovacaoemsaude.substack.com/p/as-cinco-principais-noticias-em-inovacao-8ae"
-    },
-    {
-      "titulo": "Ellipsis Health adquire a Kouper Health",
-      "resumo": "Ellipsis Health compra a Kouper para unir agente de voz com IA à navegação de cuidado no prontuário.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/ellipsis-health-acquires-kouper-health"
-    },
-    {
-      "titulo": "Heidi Health corta 18% da força de trabalho global",
-      "resumo": "Mesmo após captar cerca de US$ 47,5 milhões, a escriba de IA Heidi Health corta 18% do quadro e perde dois cofundadores.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/heidi-health-announces-18-reduction-global-workforce"
-    },
-    {
-      "titulo": "Aprovada pela FDA, a IA ainda precisa ser vigiada na vida real",
-      "resumo": "Com mais de 1.600 dispositivos de IA aprovados pela FDA, cresce o alerta: algoritmos perdem acurácia na vida real sem monitoramento.",
-      "veiculo": "DistilINFO",
-      "link": "https://distilinfo.com/2026/11/10/healthcare-ai-monitoring/"
+      "titulo": "Knit Health capta US$ 35 milhões para seu modelo de mundo da saúde",
+      "resumo": "Startup Knit Health levanta Série A de US$ 35 milhões para comercializar um modelo de IA que conecta dados hospitalares.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://www.healthcaredive.com/news/knit-health-ceo-ai-startup-building-healthcare-world-model/875031/"
     }
   ]
 }
