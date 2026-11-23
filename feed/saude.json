@@ -1,49 +1,49 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-11-22",
-  "geradoEm": "2026-11-22T15:44:41-03:00",
+  "data": "2026-11-23",
+  "geradoEm": "2026-11-23T10:15:37-03:00",
   "itens": [
     {
-      "titulo": "Fiocruz e INCA terão R$ 10 bilhões em novos complexos",
-      "resumo": "Ministério da Saúde abre consultas públicas para quadruplicar a produção de vacinas da Fiocruz e unificar o INCA em um campus.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/19/11/2026/novos-complexos-da-fiocruz-e-do-inca-preveem-r-10-bilhoes-para-ampliar-producao-de-vacinas-e-fortalecer-atendimento-oncologico/"
+      "titulo": "Meu SUS Digital facilita acesso a teleatendimento em saúde mental",
+      "resumo": "Ministério da Saúde simplifica no aplicativo o pedido de consultas por vídeo, em ciclos de até dez sessões de 50 minutos.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/ministerio-da-saude-facilita-acesso-a-teleatendimento-de-saude-mental-no-meu-sus-digital"
     },
     {
-      "titulo": "Teleconsultas crescem 20%, mas faltas são três vezes maiores",
-      "resumo": "Na BoaConsulta, teleconsultas sobem 20%, mas a taxa de faltas chega a 26%, contra 8% no atendimento presencial.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/18/11/2026/teleconsultas-crescem-20-mas-taxa-de-faltas-e-mais-de-tres-vezes-maior-que-no-atendimento-presencial/"
+      "titulo": "Marco regulatório de IA pode avançar ainda em 2026",
+      "resumo": "Projeto de IA na saúde aguarda votação no Senado, e o CFM promete manual de orientação sobre sua resolução até dezembro.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/marco-regulatorio-2026-enquanto-duvidas-regulatorias-persistem/"
     },
     {
-      "titulo": "IA ajuda Unimed Presidente Prudente a cortar até 88% de custos",
-      "resumo": "Com o Tasy e IA, a Unimed Presidente Prudente libera exames simples em horas e identifica internações evitáveis.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/18/11/2026/parceria-entre-bionexo-tasy-e-unimed-presidente-prudente-contribui-para-reducao-de-ate-88-em-custos-assistenciais/"
-    },
-    {
-      "titulo": "PUC-Campinas cria IA que detecta indícios de glaucoma",
-      "resumo": "Software da PUC-Campinas usa IA em imagens de fundo de olho para apontar glaucoma e está em pedido de patente.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/17/11/2026/pesquisa-da-puc-campinas-desenvolve-software-para-identificacao-de-indicios-de-glaucoma/"
-    },
-    {
-      "titulo": "SP inaugura centro de inovação da Famema voltado ao SUS",
-      "resumo": "Governo de SP abre na Famema um centro de inovação para criar soluções ao SUS, como apoio a pacientes com prótese.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/19/11/2026/governo-de-sp-por-meio-da-scti-inaugura-centro-de-inovacao-tecnologica-da-famema-focado-em-solucoes-para-o-sus/"
-    },
-    {
-      "titulo": "Pacientes em tratamento com cannabis passam de 1 milhão no Brasil",
-      "resumo": "Anuário da Kaya Mind mostra salto de 873 mil para 1,1 milhão de pacientes com cannabis medicinal entre 2025 e 2026.",
+      "titulo": "Anvisa registra duas novas canetas de semaglutida",
+      "resumo": "Com um genérico e o Loryvia, chega a 22 o total de canetas emagrecedoras registradas pela agência em 2026.",
       "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/total-de-pacientes-canabicos-passa-de-1-milhao-no-brasil"
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/anvisa-registra-duas-novas-canetas-emagrecedoras-de-semaglutida"
     },
     {
-      "titulo": "Merck, epHealth e SBD lançam maior mapeamento de diabetes do país",
-      "resumo": "Projeto ARISE vai mapear a saúde glicêmica da população a partir de estudo em Afogados da Ingazeira, em Pernambuco.",
+      "titulo": "Nevo Vision une IA e gestão de dados clínicos na dermatologia",
+      "resumo": "Plataforma integra inteligência artificial e gestão de dados clínicos para apoiar o trabalho de dermatologistas.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/11/11/2026/merck-em-parceria-com-ephealth-e-sbd-anuncia-o-maior-mapeamento-sobre-diabetes-e-pre-diabetes-conduzido-no-brasil/"
+      "link": "https://saudedigitalnews.com.br/17/11/2026/nevo-vision-integra-inteligencia-artificial-e-gestao-de-dados-clinicos-na-dermatologia/"
+    },
+    {
+      "titulo": "Samel investe R$ 220 milhões em hospital de alta tecnologia em Manaus",
+      "resumo": "Nova unidade no centro de Manaus terá 225 leitos e inauguração prevista para 27 de novembro.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/16/11/2026/samel-investe-r-220-milhoes-em-novo-hospital-de-alta-tecnologia-em-manaus/"
+    },
+    {
+      "titulo": "Anvisa vai certificar insumos farmacêuticos fabricados no país",
+      "resumo": "Agência selecionará até oito dossiês de insumos farmacêuticos ativos nacionais, com análises previstas para 2027.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/anvisa-vai-certificar-insumos-farmaceuticos-ativos-fabricados-no-pais"
+    },
+    {
+      "titulo": "Planos odontológicos crescem 76% em dez anos",
+      "resumo": "Dados da ANS mostram a expansão, mas a cobertura exclusivamente odontológica ainda alcança só 17,5% dos brasileiros.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/16/11/2026/planos-odontologicos-crescem-76-em-dez-anos-mas-ainda-alcancam-menos-de-20-da-populacao-brasileira/"
     }
   ]
 }
