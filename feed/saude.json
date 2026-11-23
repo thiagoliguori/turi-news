@@ -1,49 +1,79 @@
 {
   "fonte": "A saúde em News",
   "data": "2026-11-23",
-  "geradoEm": "2026-11-23T10:15:37-03:00",
+  "geradoEm": "2026-11-23T10:57:48-03:00",
   "itens": [
     {
-      "titulo": "Meu SUS Digital facilita acesso a teleatendimento em saúde mental",
-      "resumo": "Ministério da Saúde simplifica no aplicativo o pedido de consultas por vídeo, em ciclos de até dez sessões de 50 minutos.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/ministerio-da-saude-facilita-acesso-a-teleatendimento-de-saude-mental-no-meu-sus-digital"
-    },
-    {
-      "titulo": "Marco regulatório de IA pode avançar ainda em 2026",
-      "resumo": "Projeto de IA na saúde aguarda votação no Senado, e o CFM promete manual de orientação sobre sua resolução até dezembro.",
+      "titulo": "Anvisa reafirma vedação à venda de medicamentos de marcas próprias por farmácias",
+      "resumo": "Anvisa reforça que farmácias não podem vender medicamentos de marca própria, após a RD Saúde lançar a linha Bwell.",
       "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/marco-regulatorio-2026-enquanto-duvidas-regulatorias-persistem/"
+      "link": "https://futurodasaude.com.br/nota-tecnica-anvisa-medicamentos-marcas-proprias-farmacias/"
     },
     {
-      "titulo": "Anvisa registra duas novas canetas de semaglutida",
-      "resumo": "Com um genérico e o Loryvia, chega a 22 o total de canetas emagrecedoras registradas pela agência em 2026.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/anvisa-registra-duas-novas-canetas-emagrecedoras-de-semaglutida"
+      "titulo": "Comitê de negociação de preços inicia reuniões e deve começar com medicamentos oncológicos",
+      "resumo": "Ministério da Saúde inicia comitê para negociar medicamentos de alto custo do SUS com preços sigilosos, começando pelos oncológicos.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/comite-de-negociacao-de-precos-inicia-reunioes-medicamentos-oncologicos/"
     },
     {
-      "titulo": "Nevo Vision une IA e gestão de dados clínicos na dermatologia",
-      "resumo": "Plataforma integra inteligência artificial e gestão de dados clínicos para apoiar o trabalho de dermatologistas.",
+      "titulo": "Conitec discute novas estratégias para monitorar tecnologias incorporadas",
+      "resumo": "Conitec estuda novas formas de monitorar tecnologias já incorporadas ao SUS e antecipar análises de impacto orçamentário.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/conitec-novas-estrategias-monitorar-tecnologias-incorporadas-antecipar-analises/"
+    },
+    {
+      "titulo": "Lula confirma criação de ministério para cuidados da pessoa idosa",
+      "resumo": "Lula confirma criação de ministério para a pessoa idosa, em meio ao envelhecimento acelerado da população brasileira.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/lula-confirma-criacao-de-ministerio-para-cuidados-da-pessoa-idosa/"
+    },
+    {
+      "titulo": "Proposta de ajuste fiscal dribla piso da saúde e gera debate sobre o orçamento do SUS",
+      "resumo": "Proposta de ajuste fiscal pode tirar de R$ 6,8 bi a R$ 9 bi do orçamento da saúde e reacende debate sobre o piso do SUS.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/proposta-de-ajuste-fiscal-dribla-piso-da-saude-e-gera-debate-sobre-impacto-no-orcamento-do-sus/"
+    },
+    {
+      "titulo": "Governo deve priorizar saúde da mulher com estratégias para câncer e menopausa em 2027",
+      "resumo": "Governo prepara para 2027 prioridades em saúde da mulher, com foco em câncer, equipamentos, financiamento e menopausa.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/saude-da-mulher-governo-priorizar-cancer-menopausa-2027/"
+    },
+    {
+      "titulo": "Novas tecnologias impulsionam cirurgia robótica e ampliam debate sobre acesso",
+      "resumo": "Novas plataformas de cirurgia robótica avançam no Brasil e ampliam o debate sobre benefício clínico e custo de acesso.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/novas-tecnologias-impulsionam-cirurgia-robotica-e-ampliam-debate-sobre-acesso/"
+    },
+    {
+      "titulo": "Novos complexos da Fiocruz e do INCA preveem R$ 10 bilhões para vacinas e oncologia",
+      "resumo": "Ministério da Saúde abre consultas para complexos da Fiocruz e do INCA, de cerca de R$ 10 bilhões, para vacinas e oncologia.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/17/11/2026/nevo-vision-integra-inteligencia-artificial-e-gestao-de-dados-clinicos-na-dermatologia/"
+      "link": "https://saudedigitalnews.com.br/19/11/2026/novos-complexos-da-fiocruz-e-do-inca-preveem-r-10-bilhoes-para-ampliar-producao-de-vacinas-e-fortalecer-atendimento-oncologico/"
     },
     {
-      "titulo": "Samel investe R$ 220 milhões em hospital de alta tecnologia em Manaus",
-      "resumo": "Nova unidade no centro de Manaus terá 225 leitos e inauguração prevista para 27 de novembro.",
+      "titulo": "Parceria entre Bionexo Tasy e Unimed Presidente Prudente reduz até 88% em custos assistenciais",
+      "resumo": "Parceria entre Bionexo Tasy e Unimed Presidente Prudente reduz em até 88% custos assistenciais com integração de dados.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/16/11/2026/samel-investe-r-220-milhoes-em-novo-hospital-de-alta-tecnologia-em-manaus/"
+      "link": "https://saudedigitalnews.com.br/18/11/2026/parceria-entre-bionexo-tasy-e-unimed-presidente-prudente-contribui-para-reducao-de-ate-88-em-custos-assistenciais/"
     },
     {
-      "titulo": "Anvisa vai certificar insumos farmacêuticos fabricados no país",
-      "resumo": "Agência selecionará até oito dossiês de insumos farmacêuticos ativos nacionais, com análises previstas para 2027.",
-      "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/anvisa-vai-certificar-insumos-farmaceuticos-ativos-fabricados-no-pais"
+      "titulo": "Após processar R$ 130 milhões, healthtech Skedia abre primeira rodada de investimento",
+      "resumo": "Healthtech Skedia abre primeira rodada após processar R$ 130 milhões e crescer mais de 4.900% em seis meses.",
+      "veiculo": "Startupi",
+      "link": "https://startupi.com.br/apos-processar-r-130-milhoes-em-atendimentos-healthtech-skedia-abre-primeira-rodada-de-investimento/"
     },
     {
-      "titulo": "Planos odontológicos crescem 76% em dez anos",
-      "resumo": "Dados da ANS mostram a expansão, mas a cobertura exclusivamente odontológica ainda alcança só 17,5% dos brasileiros.",
+      "titulo": "O consumidor quer saúde. Mas quem está disposto a pagar por ela",
+      "resumo": "Coluna da Exame discute por que vender saúde direto ao consumidor é difícil, mesmo com wellness global de US$ 2,7 trilhões.",
+      "veiculo": "Exame",
+      "link": "https://exame.com/insight/o-consumidor-quer-saude-mas-quem-esta-disposto-a-pagar-por-ela/p"
+    },
+    {
+      "titulo": "Como ampliar a capacidade de atendimento hospitalar sem aumentar os custos na mesma proporção",
+      "resumo": "Rede de hospitais do SUS em SP atende 6,6% mais pacientes e reduz o custo por paciente-dia em cerca de 1,5%.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/16/11/2026/planos-odontologicos-crescem-76-em-dez-anos-mas-ainda-alcancam-menos-de-20-da-populacao-brasileira/"
+      "link": "https://saudedigitalnews.com.br/19/11/2026/como-ampliar-a-capacidade-de-atendimento-hospitalar-sem-aumentar-os-custos-na-mesma-proporcao/"
     }
   ]
 }
