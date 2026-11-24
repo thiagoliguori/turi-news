@@ -1,49 +1,79 @@
 {
   "fonte": "A saúde em News",
   "data": "2026-11-24",
-  "geradoEm": "2026-11-24T08:09:47-03:00",
+  "geradoEm": "2026-11-24T09:33:09-03:00",
   "itens": [
     {
       "titulo": "Salux e Telepatia levam IA clínica ao prontuário do INITIA",
-      "resumo": "Parceria integra IA à plataforma INITIA para orientar o médico na consulta com base no histórico e em protocolos; ele revisa e assina.",
+      "resumo": "Salux e Telepatia integram IA clínica à plataforma INITIA para orientar o médico na consulta com base em histórico e protocolos; ele revisa e assina.",
       "veiculo": "Saúde Digital News",
       "link": "https://saudedigitalnews.com.br/23/11/2026/salux-e-telepatia-levam-inteligencia-artificial-clinica-ao-prontuario-do-initia/"
     },
     {
-      "titulo": "AGHUse chega à saúde suplementar com projeto da Unimed que pode alcançar 30 hospitais",
-      "resumo": "Unimed do Brasil inicia piloto em Pelotas com o AGHUse, sistema hospitalar de código aberto usado em 147 unidades públicas.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/aghuse-iniciativa-open-source-alternativa-gestao-hospitalar/"
-    },
-    {
-      "titulo": "Marco de IA pode avançar ainda em 2026, enquanto dúvidas regulatórias persistem",
-      "resumo": "PL 2.338 aguarda parecer na Câmara e o PL 931, com regras de IA para a saúde, segue sem data de votação.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/marco-regulatorio-2026-enquanto-duvidas-regulatorias-persistem/"
-    },
-    {
-      "titulo": "Teleconsultas crescem 20%, mas faltas são mais de três vezes maiores que no presencial",
-      "resumo": "Levantamento aponta alta de 20% nas teleconsultas, com taxa de faltas mais de três vezes superior à do atendimento presencial.",
+      "titulo": "Além da caneta: o novo papel das healthtechs no mercado de emagrecimento",
+      "resumo": "A popularização das canetas emagrecedoras reorganiza o mercado da obesidade e abre espaço para as healthtechs irem além do medicamento.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/18/11/2026/teleconsultas-crescem-20-mas-taxa-de-faltas-e-mais-de-tres-vezes-maior-que-no-atendimento-presencial/"
+      "link": "https://saudedigitalnews.com.br/23/11/2026/alem-da-caneta-o-novo-papel-das-healthtechs-no-mercado-de-emagrecimento/"
+    },
+    {
+      "titulo": "Hospital de R$ 150 milhões começa a funcionar em BH com 100 leitos",
+      "resumo": "O Hospital Raja, da Rede Mário Penna, começa a operar em BH com investimento de cerca de R$ 150 milhões e 100 leitos iniciais.",
+      "veiculo": "NC News",
+      "link": "https://ncnews.com.br/2026/11/24/hospital-raja-belo-horizonte-inicia-funcionamento/"
+    },
+    {
+      "titulo": "Anvisa aprova remédio para câncer de mama e amplia tratamento contra câncer de bexiga",
+      "resumo": "A Anvisa aprova o Hertuzo (biossimilar) para câncer de mama HER2 positivo e amplia o uso do Imfinzi contra o câncer de bexiga.",
+      "veiculo": "Repórter PB",
+      "link": "https://www.reporterpb.com.br/noticia/saude/2026/11/23/anvisa-aprova-novo-medicamento-para-cancer-de-mama-e-amplia-tratamento-contra-cancer-de-bexiga/194881.html"
+    },
+    {
+      "titulo": "Ministério da Saúde destina R$ 1,67 bilhão à Opas para vacinas e insumos",
+      "resumo": "O Ministério da Saúde destina R$ 1,67 bilhão à Opas para comprar vacinas, seringas e insumos da imunização de 2026.",
+      "veiculo": "O Tempo",
+      "link": "https://www.otempo.com.br/politica/2026/11/23/ministerio-da-saude-destina-r-167-bilhao-a-opas-para-aquisicao-de-vacinas-e-insumos-em-2026"
+    },
+    {
+      "titulo": "Fleury: verticalizar não é a única saída, diz a CEO Jeane Tsutsui",
+      "resumo": "Para a CEO do Fleury, Jeane Tsutsui, integrar a operação faz sentido, mas verticalizar não é o único caminho; parcerias também servem.",
+      "veiculo": "Brazil Journal",
+      "link": "https://braziljournal.com/play/ceo-do-fleury-verticalizar-nao-e-a-unica-saida"
     },
     {
       "titulo": "Governo de SP inaugura centro de inovação tecnológica da Famema voltado ao SUS",
-      "resumo": "Secretaria de Ciência, Tecnologia e Inovação de SP abre na Famema um centro dedicado a desenvolver soluções tecnológicas para o SUS.",
+      "resumo": "O governo de SP inaugura na Famema um centro de inovação tecnológica dedicado a criar soluções para o SUS.",
       "veiculo": "Saúde Digital News",
       "link": "https://saudedigitalnews.com.br/19/11/2026/governo-de-sp-por-meio-da-scti-inaugura-centro-de-inovacao-tecnologica-da-famema-focado-em-solucoes-para-o-sus/"
     },
     {
-      "titulo": "Nevo Vision integra inteligência artificial e gestão de dados clínicos na dermatologia",
-      "resumo": "Plataforma Nevo Vision une inteligência artificial e gestão de dados clínicos para apoiar a prática dermatológica.",
+      "titulo": "Teleconsultas crescem 20%, mas faltas são mais de três vezes maiores que no presencial",
+      "resumo": "As teleconsultas crescem 20%, mas a taxa de faltas é mais de três vezes maior que a do atendimento presencial.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/17/11/2026/nevo-vision-integra-inteligencia-artificial-e-gestao-de-dados-clinicos-na-dermatologia/"
+      "link": "https://saudedigitalnews.com.br/18/11/2026/teleconsultas-crescem-20-mas-taxa-de-faltas-e-mais-de-tres-vezes-maior-que-no-atendimento-presencial/"
     },
     {
-      "titulo": "Além da caneta: o novo papel das healthtechs no mercado de emagrecimento",
-      "resumo": "Artigo discute como as healthtechs buscam espaço no mercado de emagrecimento para além dos medicamentos injetáveis.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/23/11/2026/alem-da-caneta-o-novo-papel-das-healthtechs-no-mercado-de-emagrecimento/"
+      "titulo": "Após processar R$ 130 milhões, healthtech Skedia abre primeira rodada de investimento",
+      "resumo": "A healthtech Skedia abre a primeira rodada de investimento após processar R$ 130 milhões em atendimentos.",
+      "veiculo": "Startupi",
+      "link": "https://startupi.com.br/apos-processar-r-130-milhoes-em-atendimentos-healthtech-skedia-abre-primeira-rodada-de-investimento/"
+    },
+    {
+      "titulo": "Samel investe R$ 220 milhões em novo hospital de alta tecnologia em Manaus",
+      "resumo": "O Grupo Samel investe R$ 220 milhões em um novo hospital de alta tecnologia em Manaus, com 225 leitos e abertura no dia 27.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/samel-investimento-hospital/"
+    },
+    {
+      "titulo": "Ozempic para crianças? Estudo testa semaglutida a partir dos 6 anos",
+      "resumo": "Um estudo testa semaglutida em crianças a partir dos 6 anos e, após 68 semanas, quase 40% deixaram de se enquadrar como obesas.",
+      "veiculo": "Exame",
+      "link": "https://exame.com/ciencia/ozempic-para-criancas-estudo-testa-semaglutida-a-partir-dos-6-anos/"
+    },
+    {
+      "titulo": "O que é brucelose? Doença passa a ter notificação obrigatória no Brasil",
+      "resumo": "O Ministério da Saúde torna a brucelose humana doença de notificação obrigatória, com registro semanal à vigilância.",
+      "veiculo": "Exame",
+      "link": "https://exame.com/ciencia/o-que-e-brucelose-doenca-passa-a-ter-notificacao-obrigatoria-no-brasil/"
     }
   ]
 }
