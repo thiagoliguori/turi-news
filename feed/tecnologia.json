@@ -1,49 +1,79 @@
 {
   "fonte": "A tecnologia em saúde",
   "data": "2026-11-24",
-  "geradoEm": "2026-11-24T08:09:51-03:00",
+  "geradoEm": "2026-11-24T09:32:32-03:00",
   "itens": [
     {
-      "titulo": "Hospitais rurais do Alasca apostam em IA para acelerar o cuidado do AVC",
-      "resumo": "Coalizão levou o software RapidAI a mais seis hospitais e recebeu US$ 3,2 milhões do estado; ainda não há estudo de desfechos publicado.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/11/24/alaskan-hospitals-artificial-intelligence-bet-improve-stroke-care/"
+      "titulo": "Apple lança estudo de uso de IA em saúde em parceria com a OpenEvidence",
+      "resumo": "Apple lança estudo nos EUA com a OpenEvidence para avaliar como as pessoas confiam e agem a partir de respostas de IA em saúde.",
+      "veiculo": "Apple Newsroom",
+      "link": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/"
     },
     {
-      "titulo": "Gasto com IA em saúde mais que dobra e chega a US$ 3,7 bilhões",
-      "resumo": "Investimento em IA no setor mais que dobrou em um ano, puxado por copilotos clínicos e automação do atendimento administrativo.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/health-ai-spend-doubles-as-providers-invest-in-clinical-copilots-front-off/874752/"
+      "titulo": "Google Cloud lança o Gemini for Healthcare em preview",
+      "resumo": "Google Cloud lança o Gemini for Healthcare em preview para automatizar tarefas clínicas e administrativas com supervisão humana.",
+      "veiculo": "Google Cloud",
+      "link": "https://www.googlecloudpresscorner.com/Gemini-for-healthcare"
     },
     {
-      "titulo": "Organizações de saúde não monitoram suas ferramentas de IA e shadow AI gera vazamentos",
-      "resumo": "Equipes de segurança sobrecarregadas não acompanham as ferramentas de IA adotadas, e o uso não autorizado já leva a vazamentos.",
+      "titulo": "A IA chega à atenção primária: Oura compra a Counsel Health por US$ 625 milhões",
+      "resumo": "No HLTH 2026, Oura compra a Counsel Health por US$ 625 milhões e a IA avança sobre a atenção primária.",
       "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/healthcare-ai-cybersecurity-monitoring/875171/"
+      "link": "https://www.healthcaredive.com/news/ai-is-coming-for-primary-care/874966/"
     },
     {
-      "titulo": "Suki lança sistema operacional de agentes de IA",
-      "resumo": "Conhecida pelo escriba de IA, a Suki apresenta plataforma de agentes voltada a fluxos administrativos.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/suki-debuts-agentic-operating-system/874848/"
+      "titulo": "RSNA 2026: IA e radiologistas juntos detectam melhor o câncer de pâncreas",
+      "resumo": "Estudo PANORAMA no RSNA 2026 mostra que IA e radiologistas juntos detectam melhor o câncer de pâncreas.",
+      "veiculo": "AuntMinnie",
+      "link": "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425168/rads-and-ai-better-together-for-detecting-pancreatic-cancer"
     },
     {
-      "titulo": "Knit Health capta US$ 35 milhões para seu modelo de mundo da saúde",
-      "resumo": "Startup de IA levanta Série A de US$ 35 milhões para comercializar seu modelo de mundo aplicado à saúde.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/knit-health-ceo-ai-startup-building-healthcare-world-model/875031/"
+      "titulo": "RSNA 2026: IA elevou a taxa de reconvocação na mamografia de rastreio",
+      "resumo": "No RSNA 2026, estudo do Memorial Sloan Kettering aponta que a IA elevou a reconvocação na mamografia sem ganho claro na detecção.",
+      "veiculo": "AuntMinnie",
+      "link": "https://www.auntminnie.com/resources/conference/rsna/2026/womens-imaging-preview/article/16425472/ai-linked-to-higher-recall-rates-in-screening-mammography"
     },
     {
-      "titulo": "Regra atualizada da HIPAA define como compartilhar dados de saúde com aplicativos",
-      "resumo": "Escritório de Direitos Civis do HHS atualiza as regras para o compartilhamento de dados de saúde com aplicativos.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/updated-hipaa-privacy-law-sets-rules-for-sharing-health-data-with-apps/874845/"
+      "titulo": "Ground Truths: Eric Topol conversa com Ethan Mollick sobre o estado da IA",
+      "resumo": "Eric Topol entrevista Ethan Mollick sobre onde a IA está, para onde vai e o seu impacto na medicina.",
+      "veiculo": "Ground Truths (Eric Topol)",
+      "link": "https://erictopol.substack.com/p/ethan-mollick-on-ai-where-are-we"
     },
     {
-      "titulo": "Mayo Clinic Platform lança chatbot de IA para apoiar decisões clínicas",
-      "resumo": "Ferramenta para médicos usa a base de conhecimento da Mayo, cobre mais de 35 especialidades e traz 22 calculadoras clínicas.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/mayo-clinic-platform-launches-ai-tool-to-streamline-clinical-decision-makin/873901/"
+      "titulo": "HLTH 2026: pesquisa aponta que o discurso powered by AI perde força",
+      "resumo": "Pesquisa no HLTH 2026 indica que o discurso genérico de powered by AI perde força com os compradores de saúde.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/health-tech/hlth26-daily-tracker-health-techs-ai-powered-pitch-falling-flat-survey-finds-vynca"
+    },
+    {
+      "titulo": "EmTech 2026: IA pode ampliar o suporte ao médico, afirma Pedro Batista",
+      "resumo": "No EmTech 2026, Pedro Batista defende a IA como copiloto do médico e alerta que 97% dos investimentos não geraram ROI.",
+      "veiculo": "Times Brasil (CNBC)",
+      "link": "https://timesbrasil.com.br/empresas-e-negocios/ciencias-e-saude/emtech-2026-inteligencia-artificial-pode-ampliar-suporte-a-medicos-afirma-pedro-batista/"
+    },
+    {
+      "titulo": "Doutora, já perguntei à inteligência artificial",
+      "resumo": "Médica relata o paciente que chega com o laudo interpretado pela IA; PwC aponta 69% recorrendo primeiro à IA em saúde.",
+      "veiculo": "O POVO",
+      "link": "https://mais.opovo.com.br/colunistas/paola-torres/2026/11/12/doutora-ja-perguntei-a-inteligencia-artificial.html"
+    },
+    {
+      "titulo": "Governo prepara contratação de soluções de IA para o SUS",
+      "resumo": "Ministério da Saúde prepara a contratação de soluções de IA para o SUS, com 273 propostas habilitadas no SUS Digital.",
+      "veiculo": "DPL News",
+      "link": "https://dplnews.com/brasil-prepara-contratacao-solucoes-ia-para-sus-2026/"
+    },
+    {
+      "titulo": "TIC Saúde: 18% dos estabelecimentos de saúde no Brasil já usam IA",
+      "resumo": "Pesquisa TIC Saúde aponta que 18% dos estabelecimentos de saúde no Brasil já usam IA, ainda em tarefas operacionais.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/edicao34/"
+    },
+    {
+      "titulo": "CFM e AMB definem regras para o uso de IA na medicina no Brasil",
+      "resumo": "Resolução CFM 2.454/2026 e cartilha da AMB definem regras para o uso responsável de IA na medicina brasileira.",
+      "veiculo": "AMB / CFM",
+      "link": "https://amb.org.br/wp-content/uploads/2026/04/cartilha-saude-digital_v1.pdf"
     }
   ]
 }
