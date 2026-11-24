@@ -1,49 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-11-23",
-  "geradoEm": "2026-11-23T10:15:43-03:00",
+  "data": "2026-11-24",
+  "geradoEm": "2026-11-24T08:09:51-03:00",
   "itens": [
     {
-      "titulo": "Oura vai comprar a Counsel Health por US$ 625 milhões",
-      "resumo": "Fabricante do anel inteligente adquire empresa de atenção primária com IA e chat médico; negócio deve fechar até o fim de 2026.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/oura-acquire-counsel-health-625m"
+      "titulo": "Hospitais rurais do Alasca apostam em IA para acelerar o cuidado do AVC",
+      "resumo": "Coalizão levou o software RapidAI a mais seis hospitais e recebeu US$ 3,2 milhões do estado; ainda não há estudo de desfechos publicado.",
+      "veiculo": "STAT News",
+      "link": "https://www.statnews.com/2026/11/24/alaskan-hospitals-artificial-intelligence-bet-improve-stroke-care/"
     },
     {
-      "titulo": "Apple e OpenEvidence lançam estudo sobre IA conversacional em saúde",
-      "resumo": "Pesquisa com aplicativo próprio aceitará até 200 mil participantes nos EUA para medir confiança, qualidade das respostas e mudança de comportamento.",
+      "titulo": "Gasto com IA em saúde mais que dobra e chega a US$ 3,7 bilhões",
+      "resumo": "Investimento em IA no setor mais que dobrou em um ano, puxado por copilotos clínicos e automação do atendimento administrativo.",
       "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/apple-openevidence-conversational-health-ai-study-app/874714/"
+      "link": "https://www.healthcaredive.com/news/health-ai-spend-doubles-as-providers-invest-in-clinical-copilots-front-off/874752/"
     },
     {
-      "titulo": "CVS Health e Cigna testam agentes de uso de computador com a OpenAI",
-      "resumo": "No HLTH 2026, a OpenAI anuncia parcerias para avaliar agentes em tarefas administrativas, como autorizações prévias e recursos.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/ai-and-machine-learning/hlth26-cvs-health-cigna-and-ambience-collaborating-openai-test-computer-use"
-    },
-    {
-      "titulo": "Só 30% das organizações de saúde escalam a IA além do piloto",
-      "resumo": "Relatório do Google Cloud aponta custo e integração como principais barreiras para levar IA avançada e agentes à operação.",
+      "titulo": "Organizações de saúde não monitoram suas ferramentas de IA e shadow AI gera vazamentos",
+      "resumo": "Equipes de segurança sobrecarregadas não acompanham as ferramentas de IA adotadas, e o uso não autorizado já leva a vazamentos.",
       "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/healthcare-struggles-to-scale-ai-past-pilot-stage-google-report/874609/"
+      "link": "https://www.healthcaredive.com/news/healthcare-ai-cybersecurity-monitoring/875171/"
     },
     {
-      "titulo": "IA vira rotina diária para mais da metade dos médicos",
-      "resumo": "Pesquisa da Doximity mostra que mais da metade dos médicos usa IA todo dia e outro terço, ao menos semanalmente.",
+      "titulo": "Suki lança sistema operacional de agentes de IA",
+      "resumo": "Conhecida pelo escriba de IA, a Suki apresenta plataforma de agentes voltada a fluxos administrativos.",
       "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/despite-concerns-ai-becomes-daily-fixture-in-physician-workflows/874541/"
+      "link": "https://www.healthcaredive.com/news/suki-debuts-agentic-operating-system/874848/"
     },
     {
-      "titulo": "Dyania Health e NVIDIA se unem para analisar prontuários com IA",
-      "resumo": "Plataforma Synapsis rodará dentro dos hospitais; estreia foi um estudo da Cleveland Clinic com 7.812 pacientes de troca valvar aórtica.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/dyania-health-nvidia-partner-ai-analysis-patient-records"
+      "titulo": "Knit Health capta US$ 35 milhões para seu modelo de mundo da saúde",
+      "resumo": "Startup de IA levanta Série A de US$ 35 milhões para comercializar seu modelo de mundo aplicado à saúde.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://www.healthcaredive.com/news/knit-health-ceo-ai-startup-building-healthcare-world-model/875031/"
     },
     {
-      "titulo": "Aevius estreia com US$ 22 milhões para IA clínica",
-      "resumo": "Startup vai criar modelos de fundação treinados em prontuários e imagens; fundadores vieram da Modella AI, comprada pela AstraZeneca.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/aevius-launches-22m-clinical-ai"
+      "titulo": "Regra atualizada da HIPAA define como compartilhar dados de saúde com aplicativos",
+      "resumo": "Escritório de Direitos Civis do HHS atualiza as regras para o compartilhamento de dados de saúde com aplicativos.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://www.healthcaredive.com/news/updated-hipaa-privacy-law-sets-rules-for-sharing-health-data-with-apps/874845/"
+    },
+    {
+      "titulo": "Mayo Clinic Platform lança chatbot de IA para apoiar decisões clínicas",
+      "resumo": "Ferramenta para médicos usa a base de conhecimento da Mayo, cobre mais de 35 especialidades e traz 22 calculadoras clínicas.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://www.healthcaredive.com/news/mayo-clinic-platform-launches-ai-tool-to-streamline-clinical-decision-makin/873901/"
     }
   ]
 }
