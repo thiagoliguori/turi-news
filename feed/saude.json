@@ -1,79 +1,49 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-11-23",
-  "geradoEm": "2026-11-23T10:57:48-03:00",
+  "data": "2026-11-24",
+  "geradoEm": "2026-11-24T08:09:47-03:00",
   "itens": [
     {
-      "titulo": "Anvisa reafirma vedação à venda de medicamentos de marcas próprias por farmácias",
-      "resumo": "Anvisa reforça que farmácias não podem vender medicamentos de marca própria, após a RD Saúde lançar a linha Bwell.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/nota-tecnica-anvisa-medicamentos-marcas-proprias-farmacias/"
-    },
-    {
-      "titulo": "Comitê de negociação de preços inicia reuniões e deve começar com medicamentos oncológicos",
-      "resumo": "Ministério da Saúde inicia comitê para negociar medicamentos de alto custo do SUS com preços sigilosos, começando pelos oncológicos.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/comite-de-negociacao-de-precos-inicia-reunioes-medicamentos-oncologicos/"
-    },
-    {
-      "titulo": "Conitec discute novas estratégias para monitorar tecnologias incorporadas",
-      "resumo": "Conitec estuda novas formas de monitorar tecnologias já incorporadas ao SUS e antecipar análises de impacto orçamentário.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/conitec-novas-estrategias-monitorar-tecnologias-incorporadas-antecipar-analises/"
-    },
-    {
-      "titulo": "Lula confirma criação de ministério para cuidados da pessoa idosa",
-      "resumo": "Lula confirma criação de ministério para a pessoa idosa, em meio ao envelhecimento acelerado da população brasileira.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/lula-confirma-criacao-de-ministerio-para-cuidados-da-pessoa-idosa/"
-    },
-    {
-      "titulo": "Proposta de ajuste fiscal dribla piso da saúde e gera debate sobre o orçamento do SUS",
-      "resumo": "Proposta de ajuste fiscal pode tirar de R$ 6,8 bi a R$ 9 bi do orçamento da saúde e reacende debate sobre o piso do SUS.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/proposta-de-ajuste-fiscal-dribla-piso-da-saude-e-gera-debate-sobre-impacto-no-orcamento-do-sus/"
-    },
-    {
-      "titulo": "Governo deve priorizar saúde da mulher com estratégias para câncer e menopausa em 2027",
-      "resumo": "Governo prepara para 2027 prioridades em saúde da mulher, com foco em câncer, equipamentos, financiamento e menopausa.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/saude-da-mulher-governo-priorizar-cancer-menopausa-2027/"
-    },
-    {
-      "titulo": "Novas tecnologias impulsionam cirurgia robótica e ampliam debate sobre acesso",
-      "resumo": "Novas plataformas de cirurgia robótica avançam no Brasil e ampliam o debate sobre benefício clínico e custo de acesso.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/novas-tecnologias-impulsionam-cirurgia-robotica-e-ampliam-debate-sobre-acesso/"
-    },
-    {
-      "titulo": "Novos complexos da Fiocruz e do INCA preveem R$ 10 bilhões para vacinas e oncologia",
-      "resumo": "Ministério da Saúde abre consultas para complexos da Fiocruz e do INCA, de cerca de R$ 10 bilhões, para vacinas e oncologia.",
+      "titulo": "Salux e Telepatia levam IA clínica ao prontuário do INITIA",
+      "resumo": "Parceria integra IA à plataforma INITIA para orientar o médico na consulta com base no histórico e em protocolos; ele revisa e assina.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/19/11/2026/novos-complexos-da-fiocruz-e-do-inca-preveem-r-10-bilhoes-para-ampliar-producao-de-vacinas-e-fortalecer-atendimento-oncologico/"
+      "link": "https://saudedigitalnews.com.br/23/11/2026/salux-e-telepatia-levam-inteligencia-artificial-clinica-ao-prontuario-do-initia/"
     },
     {
-      "titulo": "Parceria entre Bionexo Tasy e Unimed Presidente Prudente reduz até 88% em custos assistenciais",
-      "resumo": "Parceria entre Bionexo Tasy e Unimed Presidente Prudente reduz em até 88% custos assistenciais com integração de dados.",
+      "titulo": "AGHUse chega à saúde suplementar com projeto da Unimed que pode alcançar 30 hospitais",
+      "resumo": "Unimed do Brasil inicia piloto em Pelotas com o AGHUse, sistema hospitalar de código aberto usado em 147 unidades públicas.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/aghuse-iniciativa-open-source-alternativa-gestao-hospitalar/"
+    },
+    {
+      "titulo": "Marco de IA pode avançar ainda em 2026, enquanto dúvidas regulatórias persistem",
+      "resumo": "PL 2.338 aguarda parecer na Câmara e o PL 931, com regras de IA para a saúde, segue sem data de votação.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/marco-regulatorio-2026-enquanto-duvidas-regulatorias-persistem/"
+    },
+    {
+      "titulo": "Teleconsultas crescem 20%, mas faltas são mais de três vezes maiores que no presencial",
+      "resumo": "Levantamento aponta alta de 20% nas teleconsultas, com taxa de faltas mais de três vezes superior à do atendimento presencial.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/18/11/2026/parceria-entre-bionexo-tasy-e-unimed-presidente-prudente-contribui-para-reducao-de-ate-88-em-custos-assistenciais/"
+      "link": "https://saudedigitalnews.com.br/18/11/2026/teleconsultas-crescem-20-mas-taxa-de-faltas-e-mais-de-tres-vezes-maior-que-no-atendimento-presencial/"
     },
     {
-      "titulo": "Após processar R$ 130 milhões, healthtech Skedia abre primeira rodada de investimento",
-      "resumo": "Healthtech Skedia abre primeira rodada após processar R$ 130 milhões e crescer mais de 4.900% em seis meses.",
-      "veiculo": "Startupi",
-      "link": "https://startupi.com.br/apos-processar-r-130-milhoes-em-atendimentos-healthtech-skedia-abre-primeira-rodada-de-investimento/"
-    },
-    {
-      "titulo": "O consumidor quer saúde. Mas quem está disposto a pagar por ela",
-      "resumo": "Coluna da Exame discute por que vender saúde direto ao consumidor é difícil, mesmo com wellness global de US$ 2,7 trilhões.",
-      "veiculo": "Exame",
-      "link": "https://exame.com/insight/o-consumidor-quer-saude-mas-quem-esta-disposto-a-pagar-por-ela/p"
-    },
-    {
-      "titulo": "Como ampliar a capacidade de atendimento hospitalar sem aumentar os custos na mesma proporção",
-      "resumo": "Rede de hospitais do SUS em SP atende 6,6% mais pacientes e reduz o custo por paciente-dia em cerca de 1,5%.",
+      "titulo": "Governo de SP inaugura centro de inovação tecnológica da Famema voltado ao SUS",
+      "resumo": "Secretaria de Ciência, Tecnologia e Inovação de SP abre na Famema um centro dedicado a desenvolver soluções tecnológicas para o SUS.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/19/11/2026/como-ampliar-a-capacidade-de-atendimento-hospitalar-sem-aumentar-os-custos-na-mesma-proporcao/"
+      "link": "https://saudedigitalnews.com.br/19/11/2026/governo-de-sp-por-meio-da-scti-inaugura-centro-de-inovacao-tecnologica-da-famema-focado-em-solucoes-para-o-sus/"
+    },
+    {
+      "titulo": "Nevo Vision integra inteligência artificial e gestão de dados clínicos na dermatologia",
+      "resumo": "Plataforma Nevo Vision une inteligência artificial e gestão de dados clínicos para apoiar a prática dermatológica.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/17/11/2026/nevo-vision-integra-inteligencia-artificial-e-gestao-de-dados-clinicos-na-dermatologia/"
+    },
+    {
+      "titulo": "Além da caneta: o novo papel das healthtechs no mercado de emagrecimento",
+      "resumo": "Artigo discute como as healthtechs buscam espaço no mercado de emagrecimento para além dos medicamentos injetáveis.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/23/11/2026/alem-da-caneta-o-novo-papel-das-healthtechs-no-mercado-de-emagrecimento/"
     }
   ]
 }
