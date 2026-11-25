@@ -1,49 +1,79 @@
 {
   "fonte": "A tecnologia em saúde",
   "data": "2026-11-25",
-  "geradoEm": "2026-11-25T08:13:38-03:00",
+  "geradoEm": "2026-11-25T09:24:06-03:00",
   "itens": [
     {
-      "titulo": "Hospitais rurais do Alasca apostam em IA para acelerar o cuidado do AVC",
-      "resumo": "Rede de hospitais rurais do Alasca usa IA para sinalizar oclusões de grandes vasos e agilizar transferências; dados de desfecho ainda não saíram.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/11/24/alaskan-hospitals-artificial-intelligence-bet-improve-stroke-care/"
+      "titulo": "Oura compra a Counsel Health por US$ 625 milhões e leva atenção primária com IA ao anel",
+      "resumo": "Oura compra a Counsel Health por US$ 625 mi e leva triagem por IA, orientação médica e prescrições para dentro do app do anel.",
+      "veiculo": "HLTH / Reuters",
+      "link": "https://hlth.com/insights/news/oura-to-acquire-counsel-health-for-625m-integrating-ai-powered-primary-care-with-continuous-biometric-monitoring"
     },
     {
-      "titulo": "WebMD Ignite leva anúncios no ChatGPT a organizações de saúde",
-      "resumo": "A WebMD Ignite passa a oferecer anúncios no ChatGPT para sistemas de saúde testarem se o canal ajuda a alcançar pacientes.",
+      "titulo": "Ellipsis Health compra a Kouper Health e une agente de voz com navegação de cuidado",
+      "resumo": "Ellipsis Health compra a Kouper e une seu agente de voz Sage à navegação de cuidado no prontuário, de adesão a remédio a pós-alta.",
+      "veiculo": "HLTH",
+      "link": "https://hlth.com/insights/news/ellipsis-health-acquires-kouper-health-to-integrate-ai-voice-technology-with-care-navigation"
+    },
+    {
+      "titulo": "Ohio State Wexner e Microsoft firmam parceria de 5 anos para 'hospital inteligente'",
+      "resumo": "Ohio State Wexner e Microsoft fecham parceria de 5 anos para construir um 'hospital inteligente', com cargas clínicas na nuvem e IA apoiando equipes.",
       "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/health-tech/webmd-ignite-brings-openais-chatgpt-platform-healthcare-org-advertising"
+      "link": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-openevidence-launches-free-access-intelligence-tools-clinicians-r1"
     },
     {
-      "titulo": "Opinião: o mercado não deveria decidir quais tecnologias de IA médica sobrevivem",
-      "resumo": "Artigo de opinião discute a bolha de IA e defende que a sobrevivência das tecnologias médicas não fique só nas mãos do mercado.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/11/23/ai-bubble-medical-artificial-intelligence-health/"
-    },
-    {
-      "titulo": "Isomorphic Labs fecha parceria com a Merck dias após captar US$ 5 bilhões",
-      "resumo": "Merck e Isomorphic Labs vão usar IA para desenhar pequenas moléculas contra um alvo oncológico não revelado, ainda em fase inicial de descoberta.",
-      "veiculo": "Fierce Biotech",
-      "link": "https://www.fiercebiotech.com/biotech/isomorphic-labs-adds-merck-ai-drug-discovery-roster-days-after-5b-raise"
-    },
-    {
-      "titulo": "Gasto com IA em saúde dobra, puxado por copilotos clínicos e IA de front office",
-      "resumo": "Relatório aponta US$ 3,7 bilhões investidos em IA na saúde, mais que o dobro do ano anterior, com foco em copilotos clínicos.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/health-ai-spend-doubles-as-providers-invest-in-clinical-copilots-front-off/874752/"
-    },
-    {
-      "titulo": "IA e custo dominam o HLTH 2026: seis conclusões do evento",
-      "resumo": "Balanço do HLTH 2026 destaca IA, acessibilidade de custos, GLP-1 e longevidade como os temas centrais do evento em Las Vegas.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/ai-affordability-glp-1s-longevity-hlth-2026-takeaways/875048/"
-    },
-    {
-      "titulo": "Doximity lança DoseCheck; estudo mostra IA recomendando cuidado mais caro que médicos",
-      "resumo": "Doximity lança checagem de doses geradas por IA; estudo na NEJM AI aponta custo médio de US$ 314 por visita contra US$ 97 dos médicos.",
+      "titulo": "AMA aprova política: IA pode ajudar o médico, mas não pode ser licenciada para exercer medicina",
+      "resumo": "AMA aprova política: IA pode auxiliar o médico, mas não pode ser licenciada para exercer medicina, com supervisão humana nas decisões clínicas.",
       "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-doximity-launches-dosecheck-ai-recommends-costlier-care-doctors-study"
+      "link": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-openevidence-launches-free-access-intelligence-tools-clinicians-r1"
+    },
+    {
+      "titulo": "OpenEvidence lança ferramentas gratuitas de 'Access Intelligence' para clínicos",
+      "resumo": "OpenEvidence lança ferramentas gratuitas de acesso a mais de 2.500 programas de apoio ao paciente: copagamento, inscrição e autorização prévia.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-openevidence-launches-free-access-intelligence-tools-clinicians-r1"
+    },
+    {
+      "titulo": "'A IA está chegando à atenção primária': executivos preveem médicos autônomos no HLTH 2026",
+      "resumo": "No HLTH 2026, o CEO da Oura previu 'médicos autônomos' com IA, enquanto AMA e Anthropic defenderam o médico no circuito, com IA em tarefas e triagem.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://www.healthcaredive.com/news/ai-is-coming-for-primary-care/874966/"
+    },
+    {
+      "titulo": "Ensaio ALLIANCE: LLM acelera, mas não melhora a precisão em diagnósticos de reumatologia",
+      "resumo": "Ensaio ALLIANCE com 82 médicos: LLM quase dobrou a velocidade (94 vs 206s), mas a acurácia do diagnóstico não mudou (33,3% vs 35%).",
+      "veiculo": "Healio",
+      "link": "https://www.healio.com/news/rheumatology/20261111/large-language-model-improves-speed-but-not-accuracy-of-rheumatology-diagnoses"
+    },
+    {
+      "titulo": "Spectral AI leva o sistema DeepView AI de avaliação de queimaduras ao Congresso Mundial de Medicina Militar",
+      "resumo": "Spectral AI apresenta o DeepView AI (classificação De Novo do FDA) para avaliar queimaduras, com primeiras vendas comerciais previstas para o fim de 2026.",
+      "veiculo": "Spectral AI",
+      "link": "https://globenewswire.com/news-release/2026/11/24/3409892/0/en/spectral-ai-s-deepview-ai-system-featured-at-the-46th-icmm-world-congress-of-military-medicine.html"
+    },
+    {
+      "titulo": "EmTech 2026: IA será 'copiloto' do médico, mas 97% dos investimentos ainda não dão retorno, diz Pedro Batista",
+      "resumo": "No EmTech do MIT em SP, Pedro Batista diz que a IA será copiloto do médico, mas afirma que 97% dos investimentos em IA na saúde ainda não deram retorno.",
+      "veiculo": "Times Brasil (CNBC)",
+      "link": "https://timesbrasil.com.br/empresas-e-negocios/ciencias-e-saude/emtech-2026-inteligencia-artificial-pode-ampliar-suporte-a-medicos-afirma-pedro-batista/"
+    },
+    {
+      "titulo": "Rio Health Forum 2026: Ministério da Saúde aposta em integração público-privada e saúde digital no SUS",
+      "resumo": "No Rio Health Forum 2026, o Ministério da Saúde defende cooperação público-privada, interoperabilidade de dados e telemedicina para ampliar acesso no SUS.",
+      "veiculo": "Agência Gov / EBC",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/ministerio-da-saude-defende-integracao-entre-setores-publico-e-privado-para-fortalecer-o-sus-durante-o-rio-health-forum-2026"
+    },
+    {
+      "titulo": "'Doutora, já perguntei à inteligência artificial': o paciente que chega com a resposta do chatbot",
+      "resumo": "Cresce o paciente que chega ao consultório já com a resposta do chatbot de IA, e o médico passa a ser curador, não mais o dono da informação.",
+      "veiculo": "O Povo",
+      "link": "https://mais.opovo.com.br/colunistas/paola-torres/2026/11/12/doutora-ja-perguntei-a-inteligencia-artificial.html"
+    },
+    {
+      "titulo": "R1 amplia o Phare OS com seis soluções de IA para o ciclo de receita hospitalar",
+      "resumo": "R1 amplia o Phare OS com seis soluções de IA para o ciclo de receita: autorização, auditoria, gestão de utilização e negativas de convênio.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-openevidence-launches-free-access-intelligence-tools-clinicians-r1"
     }
   ]
 }
