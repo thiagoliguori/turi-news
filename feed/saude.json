@@ -1,79 +1,49 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-11-24",
-  "geradoEm": "2026-11-24T09:33:09-03:00",
+  "data": "2026-11-25",
+  "geradoEm": "2026-11-25T08:13:33-03:00",
   "itens": [
     {
-      "titulo": "Salux e Telepatia levam IA clínica ao prontuário do INITIA",
-      "resumo": "Salux e Telepatia integram IA clínica à plataforma INITIA para orientar o médico na consulta com base em histórico e protocolos; ele revisa e assina.",
+      "titulo": "Embrapii inaugura Unidade de Inovação Einstein em Saúde Digital",
+      "resumo": "O Einstein é credenciado como unidade Embrapii de saúde digital e receberá investimento por cinco anos para projetos de IA e dados clínicos.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/23/11/2026/salux-e-telepatia-levam-inteligencia-artificial-clinica-ao-prontuario-do-initia/"
+      "link": "https://saudedigitalnews.com.br/24/11/2026/embrapii-inaugura-unidade-inovacao-einstein-em-saude-digital/"
     },
     {
-      "titulo": "Além da caneta: o novo papel das healthtechs no mercado de emagrecimento",
-      "resumo": "A popularização das canetas emagrecedoras reorganiza o mercado da obesidade e abre espaço para as healthtechs irem além do medicamento.",
+      "titulo": "IA resume prontuários e apoia radiologistas do INRAD do HCFMUSP",
+      "resumo": "Ferramenta de IA generativa da dataRain resume o prontuário em uma página e já está em produção no INRAD do HCFMUSP.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/23/11/2026/alem-da-caneta-o-novo-papel-das-healthtechs-no-mercado-de-emagrecimento/"
+      "link": "https://saudedigitalnews.com.br/24/11/2026/ia-de-sumarizacao-de-prontuarios-reduz-tempo-de-consulta-ao-historico-clinico-e-apoia-radiologistas-do-inrad-hcfmusp/"
     },
     {
-      "titulo": "Hospital de R$ 150 milhões começa a funcionar em BH com 100 leitos",
-      "resumo": "O Hospital Raja, da Rede Mário Penna, começa a operar em BH com investimento de cerca de R$ 150 milhões e 100 leitos iniciais.",
-      "veiculo": "NC News",
-      "link": "https://ncnews.com.br/2026/11/24/hospital-raja-belo-horizonte-inicia-funcionamento/"
+      "titulo": "Saúde repassa R$ 200 milhões para maternidades filantrópicas",
+      "resumo": "O Ministério da Saúde repassa R$ 200 milhões a 893 maternidades filantrópicas que atendem o SUS, dentro do programa Agora Tem Especialistas.",
+      "veiculo": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/saude-repassa-r-200-milhoes-para-maternidades-filantropicas"
     },
     {
-      "titulo": "Anvisa aprova remédio para câncer de mama e amplia tratamento contra câncer de bexiga",
-      "resumo": "A Anvisa aprova o Hertuzo (biossimilar) para câncer de mama HER2 positivo e amplia o uso do Imfinzi contra o câncer de bexiga.",
-      "veiculo": "Repórter PB",
-      "link": "https://www.reporterpb.com.br/noticia/saude/2026/11/23/anvisa-aprova-novo-medicamento-para-cancer-de-mama-e-amplia-tratamento-contra-cancer-de-bexiga/194881.html"
+      "titulo": "Ministério da Saúde defende integração entre público e privado no Rio Health Forum 2026",
+      "resumo": "No Rio Health Forum, o Ministério da Saúde defende integrar setores público e privado, com foco em transformação digital, interoperabilidade e telessaúde.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/ministerio-da-saude-defende-integracao-entre-setores-publico-e-privado-para-fortalecer-o-sus-durante-o-rio-health-forum-2026"
     },
     {
-      "titulo": "Ministério da Saúde destina R$ 1,67 bilhão à Opas para vacinas e insumos",
-      "resumo": "O Ministério da Saúde destina R$ 1,67 bilhão à Opas para comprar vacinas, seringas e insumos da imunização de 2026.",
-      "veiculo": "O Tempo",
-      "link": "https://www.otempo.com.br/politica/2026/11/23/ministerio-da-saude-destina-r-167-bilhao-a-opas-para-aquisicao-de-vacinas-e-insumos-em-2026"
-    },
-    {
-      "titulo": "Fleury: verticalizar não é a única saída, diz a CEO Jeane Tsutsui",
-      "resumo": "Para a CEO do Fleury, Jeane Tsutsui, integrar a operação faz sentido, mas verticalizar não é o único caminho; parcerias também servem.",
-      "veiculo": "Brazil Journal",
-      "link": "https://braziljournal.com/play/ceo-do-fleury-verticalizar-nao-e-a-unica-saida"
-    },
-    {
-      "titulo": "Governo de SP inaugura centro de inovação tecnológica da Famema voltado ao SUS",
-      "resumo": "O governo de SP inaugura na Famema um centro de inovação tecnológica dedicado a criar soluções para o SUS.",
+      "titulo": "Flua chega ao mercado com plano de consolidação nacional e mais de R$ 100 milhões",
+      "resumo": "A holding Flua reúne Clínica SiM e SuperClínica e planeja investir mais de R$ 100 milhões em três anos para consolidar clínicas.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/19/11/2026/governo-de-sp-por-meio-da-scti-inaugura-centro-de-inovacao-tecnologica-da-famema-focado-em-solucoes-para-o-sus/"
+      "link": "https://saudedigitalnews.com.br/24/11/2026/flua-chega-ao-mercado-com-plano-de-consolidacao-nacional-e-mais-de-r-100-milhoes-em-investimentos/"
     },
     {
-      "titulo": "Teleconsultas crescem 20%, mas faltas são mais de três vezes maiores que no presencial",
-      "resumo": "As teleconsultas crescem 20%, mas a taxa de faltas é mais de três vezes maior que a do atendimento presencial.",
+      "titulo": "Seguros Unimed multiplica lucro por sete e mira faturamento acima de R$ 9 bilhões",
+      "resumo": "A Seguros Unimed registra lucro líquido de R$ 737,6 milhões, sete vezes maior, e projeta faturamento acima de R$ 9 bilhões em 2026.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/18/11/2026/teleconsultas-crescem-20-mas-taxa-de-faltas-e-mais-de-tres-vezes-maior-que-no-atendimento-presencial/"
+      "link": "https://saudedigitalnews.com.br/24/11/2026/seguros-unimed-multiplica-lucro-por-sete-e-mira-faturamento-recorde-acima-de-r9-bilhoes-em-2026/"
     },
     {
-      "titulo": "Após processar R$ 130 milhões, healthtech Skedia abre primeira rodada de investimento",
-      "resumo": "A healthtech Skedia abre a primeira rodada de investimento após processar R$ 130 milhões em atendimentos.",
-      "veiculo": "Startupi",
-      "link": "https://startupi.com.br/apos-processar-r-130-milhoes-em-atendimentos-healthtech-skedia-abre-primeira-rodada-de-investimento/"
-    },
-    {
-      "titulo": "Samel investe R$ 220 milhões em novo hospital de alta tecnologia em Manaus",
-      "resumo": "O Grupo Samel investe R$ 220 milhões em um novo hospital de alta tecnologia em Manaus, com 225 leitos e abertura no dia 27.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/samel-investimento-hospital/"
-    },
-    {
-      "titulo": "Ozempic para crianças? Estudo testa semaglutida a partir dos 6 anos",
-      "resumo": "Um estudo testa semaglutida em crianças a partir dos 6 anos e, após 68 semanas, quase 40% deixaram de se enquadrar como obesas.",
-      "veiculo": "Exame",
-      "link": "https://exame.com/ciencia/ozempic-para-criancas-estudo-testa-semaglutida-a-partir-dos-6-anos/"
-    },
-    {
-      "titulo": "O que é brucelose? Doença passa a ter notificação obrigatória no Brasil",
-      "resumo": "O Ministério da Saúde torna a brucelose humana doença de notificação obrigatória, com registro semanal à vigilância.",
-      "veiculo": "Exame",
-      "link": "https://exame.com/ciencia/o-que-e-brucelose-doenca-passa-a-ter-notificacao-obrigatoria-no-brasil/"
+      "titulo": "CEO do Hcor: avançar na remuneração de hospitais exige compartilhar riscos e ganhos",
+      "resumo": "Julio Vieira, CEO do Hcor, diz que a negociação ainda foca em preço e aponta a interoperabilidade como obstáculo para novos modelos.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/julio-vieira-ceo-hcor-futuro-talks/"
     }
   ]
 }
