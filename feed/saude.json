@@ -1,49 +1,79 @@
 {
   "fonte": "A saúde em News",
   "data": "2026-11-25",
-  "geradoEm": "2026-11-25T08:13:33-03:00",
+  "geradoEm": "2026-11-25T09:38:58-03:00",
   "itens": [
     {
+      "titulo": "Seguros Unimed multiplica lucro por sete e mira faturamento acima de R$ 9 bilhões",
+      "resumo": "Seguros Unimed multiplica o lucro por sete, para R$ 737,6 milhões, e projeta faturamento acima de R$ 9 bilhões em 2026.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/24/11/2026/seguros-unimed-multiplica-lucro-por-sete-e-mira-faturamento-recorde-acima-de-r9-bilhoes-em-2026/"
+    },
+    {
+      "titulo": "Flua chega ao mercado com plano de consolidação nacional e mais de R$ 100 milhões",
+      "resumo": "Holding Flua reúne Clínica SiM e SuperClínica e vai investir mais de R$ 100 milhões em três anos para consolidar clínicas.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/24/11/2026/flua-chega-ao-mercado-com-plano-de-consolidacao-nacional-e-mais-de-r-100-milhoes-em-investimentos/"
+    },
+    {
+      "titulo": "Novos complexos da Fiocruz e do INCA preveem R$ 10 bilhões para vacinas e oncologia",
+      "resumo": "Ministério da Saúde abre consultas para dois projetos de PPP que somam R$ 10 bilhões em vacinas (Fiocruz) e oncologia (INCA).",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/complexos-ampliacao-vacinas/"
+    },
+    {
+      "titulo": "Sabin entra na disputa das canetas emagrecedoras com nova unidade",
+      "resumo": "Grupo Sabin lança a Sabin Clinic, com planos de saúde metabólica baseados em canetas de GLP-1 e meta de R$ 100 milhões.",
+      "veiculo": "NeoFeed",
+      "link": "https://neofeed.com.br/negocios/sabin-entra-na-disputa-das-canetas-emagrecedoras-com-nova-unidade/"
+    },
+    {
+      "titulo": "Brasil avança na busca por uma vacina terapêutica contra o câncer",
+      "resumo": "Ministério da Saúde e Universidade de Oxford firmam parceria para vacina terapêutica contra o câncer, com estudo no Brasil em 2027.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/vacina-terapeutica-cancer/"
+    },
+    {
+      "titulo": "CEO do Hcor: avançar na remuneração de hospitais exige compartilhar riscos e ganhos",
+      "resumo": "CEO do Hcor diz que avançar na remuneração de hospitais exige compartilhar riscos e ganhos, e aponta a interoperabilidade como obstáculo.",
+      "veiculo": "Futuro da Saúde",
+      "link": "https://futurodasaude.com.br/julio-vieira-ceo-hcor-futuro-talks/"
+    },
+    {
+      "titulo": "Indústria de dispositivos médicos deve exportar US$ 1,11 bilhão em 2026",
+      "resumo": "ABIMO projeta exportações de dispositivos médicos em US$ 1,11 bilhão em 2026, queda de 3,85%, com déficit acima de US$ 8,7 bilhões.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/dispositivos-medicos-exportacao/"
+    },
+    {
       "titulo": "Embrapii inaugura Unidade de Inovação Einstein em Saúde Digital",
-      "resumo": "O Einstein é credenciado como unidade Embrapii de saúde digital e receberá investimento por cinco anos para projetos de IA e dados clínicos.",
+      "resumo": "Einstein é credenciado como Unidade Embrapii de Saúde Digital, com cinco anos de investimento em projetos de IA e dados clínicos.",
       "veiculo": "Saúde Digital News",
       "link": "https://saudedigitalnews.com.br/24/11/2026/embrapii-inaugura-unidade-inovacao-einstein-em-saude-digital/"
     },
     {
       "titulo": "IA resume prontuários e apoia radiologistas do INRAD do HCFMUSP",
-      "resumo": "Ferramenta de IA generativa da dataRain resume o prontuário em uma página e já está em produção no INRAD do HCFMUSP.",
+      "resumo": "IA generativa da dataRain resume o prontuário em uma página e já está em produção no INRAD do HCFMUSP.",
       "veiculo": "Saúde Digital News",
       "link": "https://saudedigitalnews.com.br/24/11/2026/ia-de-sumarizacao-de-prontuarios-reduz-tempo-de-consulta-ao-historico-clinico-e-apoia-radiologistas-do-inrad-hcfmusp/"
     },
     {
+      "titulo": "Salux e Telepatia levam inteligência artificial clínica ao prontuário do INITIA",
+      "resumo": "Salux integra a IA clínica da Telepatia à plataforma INITIA para reduzir documentação médica e gerar indicadores de qualidade.",
+      "veiculo": "Medicina S/A",
+      "link": "https://medicinasa.com.br/salux-e-telepatia/"
+    },
+    {
       "titulo": "Saúde repassa R$ 200 milhões para maternidades filantrópicas",
-      "resumo": "O Ministério da Saúde repassa R$ 200 milhões a 893 maternidades filantrópicas que atendem o SUS, dentro do programa Agora Tem Especialistas.",
+      "resumo": "Ministério da Saúde repassa R$ 200 milhões a 893 maternidades filantrópicas do SUS, no programa Agora Tem Especialistas.",
       "veiculo": "Agência Brasil",
       "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/saude-repassa-r-200-milhoes-para-maternidades-filantropicas"
     },
     {
-      "titulo": "Ministério da Saúde defende integração entre público e privado no Rio Health Forum 2026",
-      "resumo": "No Rio Health Forum, o Ministério da Saúde defende integrar setores público e privado, com foco em transformação digital, interoperabilidade e telessaúde.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/ministerio-da-saude-defende-integracao-entre-setores-publico-e-privado-para-fortalecer-o-sus-durante-o-rio-health-forum-2026"
-    },
-    {
-      "titulo": "Flua chega ao mercado com plano de consolidação nacional e mais de R$ 100 milhões",
-      "resumo": "A holding Flua reúne Clínica SiM e SuperClínica e planeja investir mais de R$ 100 milhões em três anos para consolidar clínicas.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/24/11/2026/flua-chega-ao-mercado-com-plano-de-consolidacao-nacional-e-mais-de-r-100-milhoes-em-investimentos/"
-    },
-    {
-      "titulo": "Seguros Unimed multiplica lucro por sete e mira faturamento acima de R$ 9 bilhões",
-      "resumo": "A Seguros Unimed registra lucro líquido de R$ 737,6 milhões, sete vezes maior, e projeta faturamento acima de R$ 9 bilhões em 2026.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/24/11/2026/seguros-unimed-multiplica-lucro-por-sete-e-mira-faturamento-recorde-acima-de-r9-bilhoes-em-2026/"
-    },
-    {
-      "titulo": "CEO do Hcor: avançar na remuneração de hospitais exige compartilhar riscos e ganhos",
-      "resumo": "Julio Vieira, CEO do Hcor, diz que a negociação ainda foca em preço e aponta a interoperabilidade como obstáculo para novos modelos.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/julio-vieira-ceo-hcor-futuro-talks/"
+      "titulo": "Relatório Menlo Ventures: gasto com IA em saúde atinge US$ 3,7 bilhões nos EUA",
+      "resumo": "Relatório da Menlo Ventures mostra gasto com IA em saúde de US$ 3,7 bilhões nos EUA em 2026, 2,5 vezes mais.",
+      "veiculo": "Tech & Health / Menlo Ventures",
+      "link": "https://rafaelkellermann.substack.com/p/tech-and-health-edicao-29-24-de-novembro"
     }
   ]
 }
