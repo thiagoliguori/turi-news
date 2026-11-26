@@ -1,79 +1,49 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-11-25",
-  "geradoEm": "2026-11-25T09:38:58-03:00",
+  "data": "2026-11-26",
+  "geradoEm": "2026-11-26T08:08:03-03:00",
   "itens": [
     {
-      "titulo": "Seguros Unimed multiplica lucro por sete e mira faturamento acima de R$ 9 bilhões",
-      "resumo": "Seguros Unimed multiplica o lucro por sete, para R$ 737,6 milhões, e projeta faturamento acima de R$ 9 bilhões em 2026.",
+      "titulo": "Governo anuncia R$ 120 milhões para ampliar pesquisas clínicas no SUS",
+      "resumo": "Edital gerido pela Finep destina R$ 120 milhões a ensaios clínicos, plataformas tecnológicas e soluções digitais para o SUS.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/governo-do-brasil-anuncia-r-120-milhoes-para-ampliar-pesquisas-clinicas-e-acelerar-o-desenvolvimento-de-novos-tratamentos-para-o-sus"
+    },
+    {
+      "titulo": "Ministério da Saúde firma acordo com a ImpulsoGov para usar dados e IA na comunicação com usuários do SUS",
+      "resumo": "Parceria de cinco anos, sem repasse de recursos, prevê mensagens, assistentes virtuais com IA e avaliação de políticas públicas.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/ministerio-da-saude-firma-acordo-com-a-impulsogov-para-ampliar-uso-de-dados-e-inteligencia-artificial-na-comunicacao-com-usuarios-do-sus"
+    },
+    {
+      "titulo": "Uso de inteligência artificial na decisão médica passa a constar do prontuário",
+      "resumo": "Artigo explica que a regra do CFM exige registrar no prontuário o uso de IA em decisões clínicas e auditar os sistemas.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/24/11/2026/seguros-unimed-multiplica-lucro-por-sete-e-mira-faturamento-recorde-acima-de-r9-bilhoes-em-2026/"
+      "link": "https://saudedigitalnews.com.br/25/11/2026/uso-de-inteligencia-artificial-na-decisao-medica-passa-a-constar-do-prontuario/"
     },
     {
-      "titulo": "Flua chega ao mercado com plano de consolidação nacional e mais de R$ 100 milhões",
-      "resumo": "Holding Flua reúne Clínica SiM e SuperClínica e vai investir mais de R$ 100 milhões em três anos para consolidar clínicas.",
+      "titulo": "IA do Hospital São Camilo acompanhou 2 mil atendimentos em seis meses",
+      "resumo": "Plataforma da IntelliDoctor.ai apoiou cerca de 2 mil atendimentos no pronto-socorro da unidade Pompeia, com 30 médicos e nota 4,3 de 5.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/24/11/2026/flua-chega-ao-mercado-com-plano-de-consolidacao-nacional-e-mais-de-r-100-milhoes-em-investimentos/"
+      "link": "https://saudedigitalnews.com.br/25/11/2026/em-seis-meses-ia-do-hospital-sao-camilo-acompanhou-2-mil-atendimentos-e-transformou-prontuarios-em-inteligencia-de-gestao/"
     },
     {
-      "titulo": "Novos complexos da Fiocruz e do INCA preveem R$ 10 bilhões para vacinas e oncologia",
-      "resumo": "Ministério da Saúde abre consultas para dois projetos de PPP que somam R$ 10 bilhões em vacinas (Fiocruz) e oncologia (INCA).",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/complexos-ampliacao-vacinas/"
-    },
-    {
-      "titulo": "Sabin entra na disputa das canetas emagrecedoras com nova unidade",
-      "resumo": "Grupo Sabin lança a Sabin Clinic, com planos de saúde metabólica baseados em canetas de GLP-1 e meta de R$ 100 milhões.",
-      "veiculo": "NeoFeed",
-      "link": "https://neofeed.com.br/negocios/sabin-entra-na-disputa-das-canetas-emagrecedoras-com-nova-unidade/"
-    },
-    {
-      "titulo": "Brasil avança na busca por uma vacina terapêutica contra o câncer",
-      "resumo": "Ministério da Saúde e Universidade de Oxford firmam parceria para vacina terapêutica contra o câncer, com estudo no Brasil em 2027.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/vacina-terapeutica-cancer/"
-    },
-    {
-      "titulo": "CEO do Hcor: avançar na remuneração de hospitais exige compartilhar riscos e ganhos",
-      "resumo": "CEO do Hcor diz que avançar na remuneração de hospitais exige compartilhar riscos e ganhos, e aponta a interoperabilidade como obstáculo.",
-      "veiculo": "Futuro da Saúde",
-      "link": "https://futurodasaude.com.br/julio-vieira-ceo-hcor-futuro-talks/"
-    },
-    {
-      "titulo": "Indústria de dispositivos médicos deve exportar US$ 1,11 bilhão em 2026",
-      "resumo": "ABIMO projeta exportações de dispositivos médicos em US$ 1,11 bilhão em 2026, queda de 3,85%, com déficit acima de US$ 8,7 bilhões.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/dispositivos-medicos-exportacao/"
-    },
-    {
-      "titulo": "Embrapii inaugura Unidade de Inovação Einstein em Saúde Digital",
-      "resumo": "Einstein é credenciado como Unidade Embrapii de Saúde Digital, com cinco anos de investimento em projetos de IA e dados clínicos.",
+      "titulo": "Hapvida amplia atendimento digital com agente de inteligência artificial",
+      "resumo": "Agente EugênIA, criado com a Khal.ai, elevou em dois pontos percentuais a conversão de vendas da Hapvida nos primeiros 45 dias.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/24/11/2026/embrapii-inaugura-unidade-inovacao-einstein-em-saude-digital/"
+      "link": "https://saudedigitalnews.com.br/25/11/2026/hapvida-amplia-atendimento-digital-com-agente-de-inteligencia-artificial/"
     },
     {
-      "titulo": "IA resume prontuários e apoia radiologistas do INRAD do HCFMUSP",
-      "resumo": "IA generativa da dataRain resume o prontuário em uma página e já está em produção no INRAD do HCFMUSP.",
+      "titulo": "Medcloud lança a Laraa Max, assistente de voz que conversa com o radiologista para escrever o laudo",
+      "resumo": "Medcloud lança a Laraa Max, assistente de voz com IA que dialoga com o radiologista durante a elaboração do laudo.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/24/11/2026/ia-de-sumarizacao-de-prontuarios-reduz-tempo-de-consulta-ao-historico-clinico-e-apoia-radiologistas-do-inrad-hcfmusp/"
+      "link": "https://saudedigitalnews.com.br/25/11/2026/medcloud-lanca-a-laraa-max-a-assistente-de-voz-que-conversa-com-o-radiologista-para-escrever-o-laudo-2/"
     },
     {
-      "titulo": "Salux e Telepatia levam inteligência artificial clínica ao prontuário do INITIA",
-      "resumo": "Salux integra a IA clínica da Telepatia à plataforma INITIA para reduzir documentação médica e gerar indicadores de qualidade.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/salux-e-telepatia/"
-    },
-    {
-      "titulo": "Saúde repassa R$ 200 milhões para maternidades filantrópicas",
-      "resumo": "Ministério da Saúde repassa R$ 200 milhões a 893 maternidades filantrópicas do SUS, no programa Agora Tem Especialistas.",
+      "titulo": "Anvisa aprova novo medicamento para tratar câncer de mama",
+      "resumo": "Anvisa registra o Hertuzo, biossimilar do pertuzumabe, para câncer de mama inicial e metastático, e amplia o uso do durvalumabe.",
       "veiculo": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/saude-repassa-r-200-milhoes-para-maternidades-filantropicas"
-    },
-    {
-      "titulo": "Relatório Menlo Ventures: gasto com IA em saúde atinge US$ 3,7 bilhões nos EUA",
-      "resumo": "Relatório da Menlo Ventures mostra gasto com IA em saúde de US$ 3,7 bilhões nos EUA em 2026, 2,5 vezes mais.",
-      "veiculo": "Tech & Health / Menlo Ventures",
-      "link": "https://rafaelkellermann.substack.com/p/tech-and-health-edicao-29-24-de-novembro"
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/anvisa-aprova-novo-medicamento-para-tratar-cancer-de-mama"
     }
   ]
 }
