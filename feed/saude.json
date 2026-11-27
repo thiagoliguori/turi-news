@@ -1,43 +1,79 @@
 {
   "fonte": "A saúde em News",
   "data": "2026-11-27",
-  "geradoEm": "2026-11-27T08:09:21-03:00",
+  "geradoEm": "2026-11-27T09:21:22-03:00",
   "itens": [
     {
-      "titulo": "Ministério da Saúde e INCA lançam Atlas Tumoral para ampliar a oncologia de precisão no SUS",
-      "resumo": "Plataforma com R$ 8,7 milhões reúne dados genéticos e clínicos de pacientes brasileiros com câncer para apoiar diagnóstico e tratamento de precisão.",
-      "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/ministerio-da-saude-e-inca-lancam-atlas-tumoral-para-ampliar-a-oncologia-de-precisao-no-sus"
+      "titulo": "Grupo Sabin lança o Sabin Clinic e entra nas jornadas de cuidado",
+      "resumo": "Grupo Sabin lança o Sabin Clinic, braço de jornadas assistenciais digitais, estreando em saúde metabólica com aporte inicial de R$ 5 milhões.",
+      "veiculo": "Deu Bom Brasília",
+      "link": "https://www.deubombrasilia.com.br/post/grupo-sabin-cria-novo-negocio-para-oferecer-jornadas-assistenciais/"
     },
     {
-      "titulo": "Embrapii inaugura Unidade Inovação Einstein em Saúde Digital",
-      "resumo": "Einstein é credenciado como unidade Embrapii em saúde digital, com cinco anos de financiamento para aplicações de IA e análise de dados clínicos.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/inovacao-einstein-saude-digital/"
+      "titulo": "ANS decreta direção fiscal em operadoras e acende alerta para healthtechs",
+      "resumo": "ANS decreta direção fiscal em operadoras e multa grandes grupos, acendendo alerta de risco para healthtechs que dependem do setor.",
+      "veiculo": "Startupi",
+      "link": "https://startupi.com.br/ans-direcao-fiscal-operadoras-healthtechs/"
     },
     {
-      "titulo": "Agente de IA da Starbem reduz análises de 7 dias para 3,5 minutos e é premiado",
-      "resumo": "Agente interno de dados da Starbem ficou entre os quatro melhores cases do Think Tank AI 2026, com acurácia relatada de 95,2%.",
+      "titulo": "ANS abre audiência pública sobre contratos entre operadoras e prestadores",
+      "resumo": "ANS abre audiência pública para 7 de dezembro sobre novas regras de contratualização entre operadoras e prestadores de saúde.",
+      "veiculo": "Atlas Público",
+      "link": "https://atlaspublico.com.br/noticias/ans-marca-audiencia-publica-para-7-de-dezembro-sobre-105639"
+    },
+    {
+      "titulo": "TotalPass, da Smart Fit, vai dobrar investimento para superar a Wellhub",
+      "resumo": "TotalPass, da Smart Fit, vai dobrar investimento em 2027 para superar a Wellhub e liderar os benefícios corporativos de bem-estar.",
+      "veiculo": "TV Sim Brasil",
+      "link": "https://tvsimbrasil.com.br/brasil/negocios/noticia/2026/11/26/totalpass-smart-fit-dobra-investimento-superar-wellhub"
+    },
+    {
+      "titulo": "Relatório do Orçamento de 2027 mantém aumento de recursos para a saúde",
+      "resumo": "Comissão Mista aprova relatório do Orçamento 2027 e mantém a saúde com cerca de R$ 272 bilhões, acima do piso constitucional.",
+      "veiculo": "Senado Notícias",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/26/relatorio-do-orcamento-de-2027-mantem-aumento-de-recursos-a-saude-e-educacao"
+    },
+    {
+      "titulo": "Brasil importa mais de 90% dos insumos farmacêuticos e fica exposto ao câmbio",
+      "resumo": "Brasil importa mais de 90% dos insumos farmacêuticos ativos e fica vulnerável ao câmbio na produção de medicamentos.",
+      "veiculo": "Sou Notícia",
+      "link": "https://www.sounoticia.com.br/noticia/141195/geral/brasil-importa-mais-de-90-dos-insumos-farmaceuticos-e-fica-vulneravel-a-alta-do-dolar-26112026"
+    },
+    {
+      "titulo": "Wellon aposta em IA preditiva para combater o no-show em consultas",
+      "resumo": "Healthtech Wellon usa IA preditiva e WhatsApp para antecipar e reduzir o no-show em consultas e exames.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/13/11/2026/de-7-dias-para-35-minutos-agente-de-ia-da-starbem-e-premiado-entre-os-melhores-cases-de-inteligencia-artificial-do-pais/"
+      "link": "https://saudedigitalnews.com.br/26/11/2026/inteligencia-artificial-substitui-confirmacoes-manuais-e-combate-no-show-na-saude/"
     },
     {
-      "titulo": "Salux e Telepatia levam IA clínica ao prontuário hospitalar INITIA",
-      "resumo": "Parceria integra a IA clínica da Telepatia ao prontuário da Salux para reduzir tempo de documentação e gerar indicadores de qualidade.",
+      "titulo": "MDS defende usar dados para decidir benefícios corporativos de saúde",
+      "resumo": "MDS defende uso de dados e BI para desenhar benefícios; internações são 0,49% dos procedimentos e quase 42% das despesas.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/26/11/2026/tecnologia-transforma-dados-de-saude-em-decisoes-mais-estrategicas-sobre-beneficios-corporativos/"
+    },
+    {
+      "titulo": "Ministério da Saúde firma acordo com a ImpulsoGov para usar dados e IA no SUS",
+      "resumo": "Ministério da Saúde firma acordo de cinco anos com a ImpulsoGov para usar dados e IA na comunicação com usuários do SUS.",
+      "veiculo": "Ministério da Saúde",
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/ministerio-da-saude-firma-acordo-com-a-impulsogov-para-ampliar-uso-de-dados-e-inteligencia-artificial-na-comunicacao-com-usuarios-do-sus"
+    },
+    {
+      "titulo": "Skedia usa IA para evitar glosas e abre sua primeira rodada de investimento",
+      "resumo": "Skedia usa IA para evitar glosas, processou R$ 130 milhões em atendimentos e abre sua primeira rodada de investimento.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/24/11/2026/healthtech-usa-ia-para-evitar-glosas-em-clinicas-medicas-e-abre-primeira-rodada-de-investimentos/"
+    },
+    {
+      "titulo": "Oncoclínicas avança no plano de recuperação extrajudicial, com adesão perto de 61%",
+      "resumo": "Oncoclínicas avança no plano de recuperação extrajudicial, com R$ 5,7 bilhões em créditos e adesão de credores perto de 61%.",
+      "veiculo": "Investir e Coçar",
+      "link": "https://investirecocaresocomecar.com.br/oncoclinicas-onco3-plano-recuperacao-extrajudicial/"
+    },
+    {
+      "titulo": "Salux e Telepatia levam IA clínica ao prontuário da plataforma INITIA",
+      "resumo": "Salux e Telepatia levam IA clínica ao prontuário da plataforma INITIA para sugerir condutas e reduzir a documentação médica.",
       "veiculo": "Saúde Digital News",
       "link": "https://saudedigitalnews.com.br/23/11/2026/salux-e-telepatia-levam-inteligencia-artificial-clinica-ao-prontuario-do-initia/"
-    },
-    {
-      "titulo": "Urgência e emergência somam 26% dos laudos de telediagnóstico em quatro estados",
-      "resumo": "Análise de 1,47 milhão de laudos de telerradiologia em 356 municípios do PI, AM, AL e AP mostra peso dos casos urgentes.",
-      "veiculo": "Medicina S/A",
-      "link": "https://medicinasa.com.br/laudos-telediagnostico/"
-    },
-    {
-      "titulo": "Regra dos 180 dias do CFM trava o avanço da saúde digital, diz pesquisador da USP",
-      "resumo": "Artigo defende que a exigência de consulta presencial semestral na telemedicina para doentes crônicos vire recomendação, não obrigação.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/26/11/2026/a-regra-dos-180-dias-como-o-prazo-semestral-do-cfm-trava-o-avanco-da-saude-digital/"
     }
   ]
 }
