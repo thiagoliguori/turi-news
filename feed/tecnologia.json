@@ -1,55 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-11-26",
-  "geradoEm": "2026-11-26T08:08:08-03:00",
+  "data": "2026-11-27",
+  "geradoEm": "2026-11-27T08:09:28-03:00",
   "itens": [
     {
-      "titulo": "Hospitais rurais do Alasca usam IA para montar uma rede de cuidado do AVC",
-      "resumo": "Alasca terá 21 hospitais e duas clínicas com o sistema de AVC da RapidAI, mas ainda sem estudos publicados de desfecho.",
+      "titulo": "Gallup: pacientes aceitam decisões clínicas da IA quando o médico pode revisar",
+      "resumo": "Mais da metade de 5 mil adultos americanos aceitaria diagnóstico ou tratamento por IA se um clínico puder revisar e anular.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://www.healthcaredive.com/news/patient-comfort-with-ais-clinical-decisions-tied-to-provider-oversight-ga/874623/"
+    },
+    {
+      "titulo": "Gasto com IA em saúde dobra e chega a US$ 3,7 bilhões",
+      "resumo": "Prestadores puxam o crescimento com copilotos clínicos e IA para recepção e atendimento administrativo.",
+      "veiculo": "Healthcare Dive",
+      "link": "https://www.healthcaredive.com/news/health-ai-spend-doubles-as-providers-invest-in-clinical-copilots-front-off/874752/"
+    },
+    {
+      "titulo": "Epic defende suas práticas e promete abrir os prontuários para ferramentas de IA",
+      "resumo": "Maior fornecedora de prontuário dos EUA diz que vai permitir acesso de ferramentas de IA aos registros, sob críticas de concorrência.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/11/24/alaskan-hospitals-artificial-intelligence-bet-improve-stroke-care/"
+      "link": "https://www.statnews.com/2026/11/18/epic-defends-competitive-practices-promises-ai-access-to-records/"
     },
     {
-      "titulo": "McKinsey: receita de serviços e tecnologia em saúde vai superar US$ 500 bilhões até 2030",
-      "resumo": "Entre 111 líderes que já adotaram IA generativa, 38% relatam retorno mensurável; integrar aos fluxos de trabalho é a maior barreira.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://mobihealthnews.com/news/healthcare-services-technology-revenue-will-top-500b-2030-mckinsey"
-    },
-    {
-      "titulo": "IA e custo acessível dominam o HLTH 2026: seis conclusões do evento",
-      "resumo": "Balanço do HLTH 2026 destaca IA, acessibilidade de custos, GLP-1 e longevidade como os temas centrais do evento.",
+      "titulo": "IA paralela sem monitoramento expõe instituições de saúde a vazamentos",
+      "resumo": "Só 40% das equipes de TI em saúde dizem aplicar políticas de IA de forma consistente, o pior índice entre os setores.",
       "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/ai-affordability-glp-1s-longevity-hlth-2026-takeaways/875048/"
+      "link": "https://www.healthcaredive.com/news/healthcare-ai-cybersecurity-monitoring/875171/"
     },
     {
-      "titulo": "Apple e OpenEvidence lançam estudo e aplicativo de IA conversacional em saúde",
-      "resumo": "Estudo anunciado no HLTH aceita até 200 mil participantes com 21 anos ou mais nos Estados Unidos.",
+      "titulo": "Knit Health capta US$ 35 milhões para modelo treinado em 140 milhões de prontuários",
+      "resumo": "Série A financia o modelo Med-BEAM, com primeiras implantações em clientes previstas para o início de 2027.",
       "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/apple-openevidence-conversational-health-ai-study-app/874714/"
+      "link": "https://www.healthcaredive.com/news/knit-health-ceo-ai-startup-building-healthcare-world-model/875031/"
     },
     {
-      "titulo": "Google Cloud apresenta o Gemini para saúde",
-      "resumo": "Plataforma está em prévia e tem HCA Healthcare, Highmark Health, Northwell Health e Optum entre os primeiros usuários.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/google-cloud-debuts-gemini-for-healthcare/874371/"
-    },
-    {
-      "titulo": "Waystar se integra ao Gemini para saúde e Oracle lança agentes de IA para ensaios clínicos",
-      "resumo": "Waystar leva seu ciclo de receita com IA ao Gemini do Google Cloud; Oracle estreia agentes para ensaios clínicos.",
-      "veiculo": "Fierce Healthcare",
-      "link": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-waystar-integrates-google-clouds-gemini-healthcare-oracle-debuts-ai"
-    },
-    {
-      "titulo": "Aevius estreia com US$ 22 milhões para IA clínica",
-      "resumo": "Empresa de inteligência clínica nascida no Mass General Brigham é lançada com US$ 22 milhões em rodada liderada pela Insight Partners.",
-      "veiculo": "MobiHealthNews",
-      "link": "https://www.mobihealthnews.com/news/aevius-launches-22m-clinical-ai"
-    },
-    {
-      "titulo": "Compra da Counsel Health pela Oura levanta dúvidas de conflito de interesse para a Eli Lilly",
-      "resumo": "Especialistas dizem que o negócio de US$ 625 milhões pode complicar a relação da Eli Lilly com empresa de telessaúde de GLP-1.",
+      "titulo": "Se a bolha da IA estourar, a saúde pode ter um problema sério",
+      "resumo": "Artigo de opinião defende que hospitais consigam manter e avaliar ferramentas de IA mesmo se os fornecedores falirem.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/11/13/oura-acquisition-counsel-health-eli-lilly/"
+      "link": "https://www.statnews.com/2026/11/23/ai-bubble-medical-artificial-intelligence-health/"
+    },
+    {
+      "titulo": "UChicago Medicine tem mais de 40 projetos de IA, incluindo agentes de agendamento",
+      "resumo": "Diretor médico explica como agentes de IA cuidam de agendamento e acompanhamento de encaminhamentos para alcançar mais pacientes.",
+      "veiculo": "Chief Healthcare Executive",
+      "link": "https://www.chiefhealthcareexecutive.com/view/uchicago-medicine-cmo-andrew-chang-on-ai-agents-referrals-and-reaching-more-patients"
     }
   ]
 }
