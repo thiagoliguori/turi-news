@@ -1,49 +1,49 @@
 {
   "fonte": "A tecnologia em saúde",
-  "data": "2026-11-27",
-  "geradoEm": "2026-11-27T08:09:28-03:00",
+  "data": "2026-11-28",
+  "geradoEm": "2026-11-28T08:58:49-03:00",
   "itens": [
     {
-      "titulo": "Gallup: pacientes aceitam decisões clínicas da IA quando o médico pode revisar",
-      "resumo": "Mais da metade de 5 mil adultos americanos aceitaria diagnóstico ou tratamento por IA se um clínico puder revisar e anular.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/patient-comfort-with-ais-clinical-decisions-tied-to-provider-oversight-ga/874623/"
-    },
-    {
-      "titulo": "Gasto com IA em saúde dobra e chega a US$ 3,7 bilhões",
-      "resumo": "Prestadores puxam o crescimento com copilotos clínicos e IA para recepção e atendimento administrativo.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/health-ai-spend-doubles-as-providers-invest-in-clinical-copilots-front-off/874752/"
-    },
-    {
-      "titulo": "Epic defende suas práticas e promete abrir os prontuários para ferramentas de IA",
-      "resumo": "Maior fornecedora de prontuário dos EUA diz que vai permitir acesso de ferramentas de IA aos registros, sob críticas de concorrência.",
+      "titulo": "Apple e OpenEvidence lançam estudo com app experimental de conversa sobre saúde",
+      "resumo": "As empresas iniciaram um estudo em torno de um aplicativo de chat de saúde movido a IA, ainda em caráter experimental.",
       "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/11/18/epic-defends-competitive-practices-promises-ai-access-to-records/"
+      "link": "https://www.statnews.com/2026/11/15/apple-openevidence-launch-health-chat-app-experiment-ai/"
     },
     {
-      "titulo": "IA paralela sem monitoramento expõe instituições de saúde a vazamentos",
-      "resumo": "Só 40% das equipes de TI em saúde dizem aplicar políticas de IA de forma consistente, o pior índice entre os setores.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/healthcare-ai-cybersecurity-monitoring/875171/"
+      "titulo": "Tennr e OpenAI testam agentes de IA na autorização prévia de procedimentos",
+      "resumo": "Piloto compara precisão e consistência dos agentes da OpenAI com as da equipe humana em pedidos de autorização prévia.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/tennr-openai-test-ai-agents-prior-authorization"
     },
     {
-      "titulo": "Knit Health capta US$ 35 milhões para modelo treinado em 140 milhões de prontuários",
-      "resumo": "Série A financia o modelo Med-BEAM, com primeiras implantações em clientes previstas para o início de 2027.",
-      "veiculo": "Healthcare Dive",
-      "link": "https://www.healthcaredive.com/news/knit-health-ceo-ai-startup-building-healthcare-world-model/875031/"
+      "titulo": "FDA aprova estudo pivotal do implante cerebral da Neuralink para ELA",
+      "resumo": "A aprovação libera o ensaio pivotal da interface cérebro-computador em pacientes com ELA, mas não a comercialização do dispositivo.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://mobihealthnews.com/news/neuralink-receives-fda-approval-launch-pivotal-brain-implant-trial-als"
     },
     {
-      "titulo": "Se a bolha da IA estourar, a saúde pode ter um problema sério",
-      "resumo": "Artigo de opinião defende que hospitais consigam manter e avaliar ferramentas de IA mesmo se os fornecedores falirem.",
-      "veiculo": "STAT News",
-      "link": "https://www.statnews.com/2026/11/23/ai-bubble-medical-artificial-intelligence-health/"
+      "titulo": "DiMe lança guia para decidir onde a IA vale a pena na navegação do paciente",
+      "resumo": "Framework aberto ajuda sistemas de saúde a mapear falhas em encaminhamentos antes de decidir se a IA resolve o problema.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/dime-releases-framework-guide-ai-investment-care-navigation"
     },
     {
-      "titulo": "UChicago Medicine tem mais de 40 projetos de IA, incluindo agentes de agendamento",
-      "resumo": "Diretor médico explica como agentes de IA cuidam de agendamento e acompanhamento de encaminhamentos para alcançar mais pacientes.",
-      "veiculo": "Chief Healthcare Executive",
-      "link": "https://www.chiefhealthcareexecutive.com/view/uchicago-medicine-cmo-andrew-chang-on-ai-agents-referrals-and-reaching-more-patients"
+      "titulo": "Doximity leva IA clínica a médicos do NewYork-Presbyterian dentro do Epic",
+      "resumo": "Clínicos do NYP, Columbia e Weill Cornell passam a usar IA para consultar evidências e rascunhar notas de consulta.",
+      "veiculo": "MobiHealthNews",
+      "link": "https://www.mobihealthnews.com/news/doximity-brings-clinical-ai-newyork-presbyterian"
+    },
+    {
+      "titulo": "Zus Health capta US$ 33 milhões para a camada de dados da IA em saúde",
+      "resumo": "Série B financia inteligência clínica com IA e mais conectividade com redes de dados de saúde.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/health-tech/zus-health-secures-33m-build-infrastructure-ai-powered-clinical-workflows"
+    },
+    {
+      "titulo": "Hone Health levanta US$ 228 milhões para plataforma de longevidade com IA",
+      "resumo": "Rodada mistura capital e financiamento de crescimento para ampliar um sistema de IA que integra dados e personaliza o cuidado.",
+      "veiculo": "Fierce Healthcare",
+      "link": "https://www.fiercehealthcare.com/digital-health/longevity-platform-hone-health-nabs-228m-build-out-offerings"
     }
   ]
 }
