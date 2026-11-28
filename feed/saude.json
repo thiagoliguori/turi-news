@@ -1,79 +1,49 @@
 {
   "fonte": "A saúde em News",
-  "data": "2026-11-27",
-  "geradoEm": "2026-11-27T09:21:22-03:00",
+  "data": "2026-11-28",
+  "geradoEm": "2026-11-28T08:58:44-03:00",
   "itens": [
     {
-      "titulo": "Grupo Sabin lança o Sabin Clinic e entra nas jornadas de cuidado",
-      "resumo": "Grupo Sabin lança o Sabin Clinic, braço de jornadas assistenciais digitais, estreando em saúde metabólica com aporte inicial de R$ 5 milhões.",
-      "veiculo": "Deu Bom Brasília",
-      "link": "https://www.deubombrasilia.com.br/post/grupo-sabin-cria-novo-negocio-para-oferecer-jornadas-assistenciais/"
-    },
-    {
-      "titulo": "ANS decreta direção fiscal em operadoras e acende alerta para healthtechs",
-      "resumo": "ANS decreta direção fiscal em operadoras e multa grandes grupos, acendendo alerta de risco para healthtechs que dependem do setor.",
-      "veiculo": "Startupi",
-      "link": "https://startupi.com.br/ans-direcao-fiscal-operadoras-healthtechs/"
-    },
-    {
-      "titulo": "ANS abre audiência pública sobre contratos entre operadoras e prestadores",
-      "resumo": "ANS abre audiência pública para 7 de dezembro sobre novas regras de contratualização entre operadoras e prestadores de saúde.",
-      "veiculo": "Atlas Público",
-      "link": "https://atlaspublico.com.br/noticias/ans-marca-audiencia-publica-para-7-de-dezembro-sobre-105639"
-    },
-    {
-      "titulo": "TotalPass, da Smart Fit, vai dobrar investimento para superar a Wellhub",
-      "resumo": "TotalPass, da Smart Fit, vai dobrar investimento em 2027 para superar a Wellhub e liderar os benefícios corporativos de bem-estar.",
-      "veiculo": "TV Sim Brasil",
-      "link": "https://tvsimbrasil.com.br/brasil/negocios/noticia/2026/11/26/totalpass-smart-fit-dobra-investimento-superar-wellhub"
-    },
-    {
-      "titulo": "Relatório do Orçamento de 2027 mantém aumento de recursos para a saúde",
-      "resumo": "Comissão Mista aprova relatório do Orçamento 2027 e mantém a saúde com cerca de R$ 272 bilhões, acima do piso constitucional.",
-      "veiculo": "Senado Notícias",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/26/relatorio-do-orcamento-de-2027-mantem-aumento-de-recursos-a-saude-e-educacao"
-    },
-    {
-      "titulo": "Brasil importa mais de 90% dos insumos farmacêuticos e fica exposto ao câmbio",
-      "resumo": "Brasil importa mais de 90% dos insumos farmacêuticos ativos e fica vulnerável ao câmbio na produção de medicamentos.",
-      "veiculo": "Sou Notícia",
-      "link": "https://www.sounoticia.com.br/noticia/141195/geral/brasil-importa-mais-de-90-dos-insumos-farmaceuticos-e-fica-vulneravel-a-alta-do-dolar-26112026"
-    },
-    {
-      "titulo": "Wellon aposta em IA preditiva para combater o no-show em consultas",
-      "resumo": "Healthtech Wellon usa IA preditiva e WhatsApp para antecipar e reduzir o no-show em consultas e exames.",
+      "titulo": "Só 18% dos estabelecimentos de saúde brasileiros usam IA",
+      "resumo": "Pesquisa TIC Saúde do Cetic.br mostra adoção de IA em 18% dos estabelecimentos, subindo para 31% nos com mais de 50 leitos.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/26/11/2026/inteligencia-artificial-substitui-confirmacoes-manuais-e-combate-no-show-na-saude/"
+      "link": "https://saudedigitalnews.com.br/27/11/2026/somente-18-dos-estabelecimentos-de-saude-brasileiros-utilizam-ia/"
     },
     {
-      "titulo": "MDS defende usar dados para decidir benefícios corporativos de saúde",
-      "resumo": "MDS defende uso de dados e BI para desenhar benefícios; internações são 0,49% dos procedimentos e quase 42% das despesas.",
-      "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/26/11/2026/tecnologia-transforma-dados-de-saude-em-decisoes-mais-estrategicas-sobre-beneficios-corporativos/"
-    },
-    {
-      "titulo": "Ministério da Saúde firma acordo com a ImpulsoGov para usar dados e IA no SUS",
-      "resumo": "Ministério da Saúde firma acordo de cinco anos com a ImpulsoGov para usar dados e IA na comunicação com usuários do SUS.",
+      "titulo": "Governo anuncia R$ 120 milhões para pesquisa clínica, com R$ 20 milhões para IA",
+      "resumo": "Investimento gerido pela Finep amplia pesquisas clínicas para o SUS e reserva R$ 20 milhões a soluções de IA e ferramentas digitais.",
       "veiculo": "Ministério da Saúde",
-      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/ministerio-da-saude-firma-acordo-com-a-impulsogov-para-ampliar-uso-de-dados-e-inteligencia-artificial-na-comunicacao-com-usuarios-do-sus"
+      "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/governo-do-brasil-anuncia-r-120-milhoes-para-ampliar-pesquisas-clinicas-e-acelerar-o-desenvolvimento-de-novos-tratamentos-para-o-sus"
     },
     {
-      "titulo": "Skedia usa IA para evitar glosas e abre sua primeira rodada de investimento",
-      "resumo": "Skedia usa IA para evitar glosas, processou R$ 130 milhões em atendimentos e abre sua primeira rodada de investimento.",
+      "titulo": "UTIs de hospitais públicos já contam com apoio de IA, mostra a Radis",
+      "resumo": "Seis hospitais públicos têm 60 leitos de UTI ligados a uma central no HC-USP; meta é chegar a 280 leitos em 14 instituições.",
+      "veiculo": "Radis (Fiocruz)",
+      "link": "https://radis.ensp.fiocruz.br/reportagem/saude-digital/inteligencia-artificial-a-servico-da-saude/"
+    },
+    {
+      "titulo": "IA do Hospital São Camilo acompanhou 2 mil atendimentos de pronto-socorro em seis meses",
+      "resumo": "Ferramenta usada por 30 médicos gera sugestões revisadas pelo médico e transforma dados do prontuário em informação de gestão.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/24/11/2026/healthtech-usa-ia-para-evitar-glosas-em-clinicas-medicas-e-abre-primeira-rodada-de-investimentos/"
+      "link": "https://saudedigitalnews.com.br/25/11/2026/em-seis-meses-ia-do-hospital-sao-camilo-acompanhou-2-mil-atendimentos-e-transformou-prontuarios-em-inteligencia-de-gestao/"
     },
     {
-      "titulo": "Oncoclínicas avança no plano de recuperação extrajudicial, com adesão perto de 61%",
-      "resumo": "Oncoclínicas avança no plano de recuperação extrajudicial, com R$ 5,7 bilhões em créditos e adesão de credores perto de 61%.",
-      "veiculo": "Investir e Coçar",
-      "link": "https://investirecocaresocomecar.com.br/oncoclinicas-onco3-plano-recuperacao-extrajudicial/"
-    },
-    {
-      "titulo": "Salux e Telepatia levam IA clínica ao prontuário da plataforma INITIA",
-      "resumo": "Salux e Telepatia levam IA clínica ao prontuário da plataforma INITIA para sugerir condutas e reduzir a documentação médica.",
+      "titulo": "Unimed Paranavaí amplia em 235% a captação de idosos para atenção primária",
+      "resumo": "Com a plataforma da Nilo, a cooperativa captou entre janeiro e julho de 2026 mais idosos do que em todo o ano de 2025.",
       "veiculo": "Saúde Digital News",
-      "link": "https://saudedigitalnews.com.br/23/11/2026/salux-e-telepatia-levam-inteligencia-artificial-clinica-ao-prontuario-do-initia/"
+      "link": "https://saudedigitalnews.com.br/27/11/2026/com-tecnologia-da-nilo-unimed-paranavai-amplia-em-235-o-numero-de-idosos-captados-para-atencao-primaria/"
+    },
+    {
+      "titulo": "UNA-SUS, Fiocruz e Ministério lançam livro sobre formação em saúde digital",
+      "resumo": "Obra lançada no 2º Encontro Internacional de Saúde Digital reúne resultados de pesquisa nacional sobre formação profissional feita entre 2023 e 2026.",
+      "veiculo": "UNA-SUS",
+      "link": "https://www.unasus.gov.br/noticia/una-sus-fiocruz-e-ministerio-da-saude-lancam-livro-sobre-formacao-em-saude-digital-no-brasil"
+    },
+    {
+      "titulo": "Medcloud lança assistente de voz que ajuda o radiologista a escrever o laudo",
+      "resumo": "A Laraa Max conversa com o radiologista durante a redação do laudo, sem substituir a decisão clínica do especialista.",
+      "veiculo": "Saúde Digital News",
+      "link": "https://saudedigitalnews.com.br/25/11/2026/medcloud-lanca-a-laraa-max-a-assistente-de-voz-que-conversa-com-o-radiologista-para-escrever-o-laudo-2/"
     }
   ]
 }
